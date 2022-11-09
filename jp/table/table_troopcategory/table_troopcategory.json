@@ -1,0 +1,692 @@
+{
+  "Squad_SteelLine_1": {
+    "Squad_Index": 1,
+    "Squad_Icon": "UI_TroopIcon_SteelLine",
+    "Squad_Name": "1002900001",
+    "Squad_Desc": "1002900035",
+    "Squad_Member": [
+      "Char_BR_Marie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Gnome_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Walhalla_1": {
+    "Squad_Index": 2,
+    "Squad_Icon": "UI_TroopIcon_TheSistersOfWalhalla",
+    "Squad_Name": "1002900002",
+    "Squad_Desc": "1002900036",
+    "Squad_Member": [
+      "Char_BR_Leona_N",
+      "Char_BR_Valkyrie_N",
+      "Char_BR_Nymph_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_DoomBringer_1": {
+    "Squad_Index": 3,
+    "Squad_Icon": "UI_TroopIcon_DoomBringer",
+    "Squad_Name": "1002900003",
+    "Squad_Desc": "1002900037",
+    "Squad_Member": [
+      "Char_BR_May_N",
+      "Char_BR_NightAngel_N",
+      "Char_BR_Sylphid_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_Daika_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_BattleMaid_1": {
+    "Squad_Index": 4,
+    "Squad_Icon": "UI_TroopIcon_BettleMaid",
+    "Squad_Name": "1002900004",
+    "Squad_Desc": "1002900038",
+    "Squad_Member": [
+      "Char_3P_Labiata_N",
+      "Char_3P_ConstantiaS2_N",
+      "Char_3P_Vanilla_N",
+      "Char_3P_Alice_N",
+      "Char_3P_Ran_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_GoldenWorkers_1": {
+    "Squad_Index": 5,
+    "Squad_Icon": "UI_TroopIcon_GoldenWorkers",
+    "Squad_Name": "1002900005",
+    "Squad_Desc": "1002900039",
+    "Squad_Member": [
+      "Char_PECS_TommyWalker_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_PECS_Drone_N",
+      "Char_PECS_Audrey_N",
+      "Char_PECS_Triaina_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_CityGuard_1": {
+    "Squad_Index": 6,
+    "Squad_Icon": "UI_TroopIcon_CityGuard",
+    "Squad_Name": "1002900006",
+    "Squad_Desc": "1002900040",
+    "Squad_Member": [
+      "Char_PECS_Serpent_N",
+      "Char_PECS_Cerberus_N",
+      "Char_PECS_MissSafety_N",
+      "Char_AGS_Rampart_N",
+      "Char_PECS_PuppHead_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_PublicServant_1": {
+    "Squad_Index": 7,
+    "Squad_Icon": "UI_TroopIcon_PublicServent",
+    "Squad_Name": "1002900007",
+    "Squad_Desc": "1002900041",
+    "Squad_Member": [
+      "Char_PECS_Express76_N",
+      "Char_PECS_Fortune_N",
+      "Char_PECS_MightyR_N",
+      "Char_PECS_LRL_N",
+      "Char_PECS_Tiequan_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_080_1": {
+    "Squad_Index": 8,
+    "Squad_Icon": "UI_TroopIcon_Team080",
+    "Squad_Name": "1002900008",
+    "Squad_Desc": "1002900042",
+    "Squad_Member": [
+      "Char_BR_Amy_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_DrM_N",
+      "Char_BR_Shirayuri_N",
+      "Char_BR_NickyTracy_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_TeamMongus_1": {
+    "Squad_Index": 9,
+    "Squad_Icon": "UI_TroopIcon_TeamMongus",
+    "Squad_Name": "1002900009",
+    "Squad_Desc": "1002900043",
+    "Squad_Member": [
+      "Char_BR_HongRyun_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Miho_N",
+      "Char_BR_Bulgasari_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_ArmoredMaiden_1": {
+    "Squad_Index": 10,
+    "Squad_Icon": "UI_TroopIcon_ArmoredMaiden",
+    "Squad_Name": "1002900010",
+    "Squad_Desc": "1002900044",
+    "Squad_Member": [
+      "Char_BR_BloodyPanther_N",
+      "Char_BR_Io_N",
+      "Char_BR_Calista_N",
+      "Char_BR_Spriggan_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_OrbitalWatcher_1": {
+    "Squad_Index": 11,
+    "Squad_Icon": "UI_TroopIcon_OrbitalWatcher",
+    "Squad_Name": "1002900011",
+    "Squad_Desc": "1002900045",
+    "Squad_Member": [
+      "Char_AGS_Aeda_N",
+      "Char_PECS_CoCoWhiteShell_N",
+      "Char_PECS_Stinger_N",
+      "Char_PECS_Spartoia_N",
+      "Char_PECS_Hussar_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AGSRoboTech_1": {
+    "Squad_Index": 12,
+    "Squad_Icon": "UI_TroopIcon_AutoGuardSystem",
+    "Squad_Name": "1002900012",
+    "Squad_Desc": "1002900046",
+    "Squad_Member": [
+      "Char_AGS_Albatross_N",
+      "Char_AGS_Fallen_N",
+      "Char_AGS_Seljuq_N",
+      "Char_AGS_Gigantes_N",
+      "Char_AGS_Roc_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_3PFairy_1": {
+    "Squad_Index": 13,
+    "Squad_Icon": "UI_TroopIcon_FairySeries",
+    "Squad_Name": "1002900013",
+    "Squad_Desc": "1002900047",
+    "Squad_Member": [
+      "Char_3P_Rhea_N",
+      "Char_3P_ScissorsLise_N",
+      "Char_3P_Daphne_N",
+      "Char_3P_Aqua_N",
+      "Char_3P_Dryad_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AACannonier_1": {
+    "Squad_Index": 14,
+    "Squad_Icon": "UI_TroopIcon_AACannonier",
+    "Squad_Name": "1002900014",
+    "Squad_Desc": "1002900048",
+    "Squad_Member": [
+      "Char_BR_RoyalArsenal_N",
+      "Char_BR_BeastHunter_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Emily_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_CompanionSeries_1": {
+    "Squad_Index": 15,
+    "Squad_Icon": "UI_TroopIcon_CompanionSeries",
+    "Squad_Name": "1002900015",
+    "Squad_Desc": "1002900049",
+    "Squad_Member": [
+      "Char_3P_BlackLilith_N",
+      "Char_3P_CSPerrault_N",
+      "Char_3P_Hachiko_N",
+      "Char_3P_Fenrir_N",
+      "Char_3P_SnowFeather_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AnywhereSeries_1": {
+    "Squad_Index": 16,
+    "Squad_Icon": "UI_TroopIcon_AnywhereSeries",
+    "Squad_Name": "1002900016",
+    "Squad_Desc": "1002900050",
+    "Squad_Member": [
+      "Char_3P_Alexandra_N",
+      "Char_3P_Fotia_N",
+      "Char_3P_Sowan_N",
+      "Char_3P_Maria_N",
+      "Char_3P_Annie_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_SkyKnight_1": {
+    "Squad_Index": 17,
+    "Squad_Icon": "UI_TroopIcon_SkyKnight",
+    "Squad_Name": "1002900017",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_BR_PA00EL_N",
+      "Char_BR_Blackhound_N",
+      "Char_BR_Sleipnir_N",
+      "Char_BR_Lindwurm_N",
+      "Char_BR_Harpy_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Dentertainment_1": {
+    "Squad_Index": 18,
+    "Squad_Icon": "UI_TroopIcon_Dentertainment",
+    "Squad_Name": "1002900018",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_DS_Johanna_N",
+      "Char_DS_MoMo_N",
+      "Char_DS_Atalanta_N",
+      "Char_DS_Charlotte_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Horizon_1": {
+    "Squad_Index": 19,
+    "Squad_Icon": "UI_TroopIcon_Horizon",
+    "Squad_Name": "1002900019",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_BR_InvDragon_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Undine_N",
+      "Char_BR_Thetis_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AngerOfTheHorde_1": {
+    "Squad_Index": 20,
+    "Squad_Icon": "UI_TroopIcon_AngerOfTheHorde",
+    "Squad_Name": "1002900020",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_BR_Khan_N",
+      "Char_BR_QuickCamel_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_TalonFeather_N",
+      "Char_BR_Salamander_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Bermuda_1": {
+    "Squad_Index": 21,
+    "Squad_Icon": "UI_TroopIcon_TeamBermuda",
+    "Squad_Name": "1002900021",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_BR_Neodym_N",
+      "Char_BR_Phantom_N",
+      "Char_BR_Scathy_N",
+      "Char_BR_Wraithy_N",
+      "Char_AGS_Shade_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_SteelLine_2": {
+    "Squad_Index": 22,
+    "Squad_Icon": "UI_TroopIcon_SteelLine",
+    "Squad_Name": "1002900022",
+    "Squad_Desc": "1002900035",
+    "Squad_Member": [
+      "Char_BR_PXSilky_N",
+      "Char_BR_Efreeti_N",
+      "Char_BR_Phoenix_N",
+      "Char_BR_RedHood_N",
+      "Char_BR_Habetrot_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Strikers": {
+    "Squad_Index": 23,
+    "Squad_Icon": "UI_TroopIcon_Strikers",
+    "Squad_Name": "1002900023",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_ST_Tiamat_N",
+      "Char_ST_Lancer_N",
+      "Char_ST_Ullr_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AmuseAttendant": {
+    "Squad_Index": 32,
+    "Squad_Icon": "UI_TroopIcon_AmuseAttendant",
+    "Squad_Name": "1002900032",
+    "Squad_Desc": "1002900051",
+    "Squad_Member": [
+      "Char_PECS_Carolina_N",
+      "Char_PECS_Circe_N",
+      "Char_PECS_Sunny_N",
+      "Char_PECS_Rena_N",
+      "Char_PECS_Muse_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AGSRoboTech_2": {
+    "Squad_Index": 24,
+    "Squad_Icon": "UI_TroopIcon_AutoGuardSystem",
+    "Squad_Name": "1002900024",
+    "Squad_Desc": "1002900046",
+    "Squad_Member": [
+      "Char_AGS_SpartanC_N",
+      "Char_AGS_SpartanA_N",
+      "Char_AGS_SpartanB_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_PublicServant_2": {
+    "Squad_Index": 25,
+    "Squad_Icon": "UI_TroopIcon_PublicServent",
+    "Squad_Name": "1002900025",
+    "Squad_Desc": "1002900040",
+    "Squad_Member": [
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_PECS_BS_N",
+      "Char_PECS_Ignis_N",
+      "Char_PECS_DarkElf_N",
+      "Char_PECS_HighElven_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Walhalla_2": {
+    "Squad_Index": 30,
+    "Squad_Icon": "UI_TroopIcon_TheSistersOfWalhalla",
+    "Squad_Name": "1002900030",
+    "Squad_Desc": "1002900036",
+    "Squad_Member": [
+      "Char_BR_Bheur_N",
+      "Char_BR_Alvis_N",
+      "Char_BR_Andvari_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Kouhei": {
+    "Squad_Index": 31,
+    "Squad_Icon": "UI_TroopIcon_Kouhei",
+    "Squad_Name": "1002900031",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_DS_Azazel_N",
+      "Char_PECS_Veronica_N",
+      "Char_DS_Saraqael_N",
+      "Char_DS_Angel_N",
+      "Char_DS_Ramiel_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_WatcherOfNature": {
+    "Squad_Index": 26,
+    "Squad_Icon": "UI_TroopIcon_WatcherOfNature",
+    "Squad_Name": "1002900026",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_PECS_Empress_N",
+      "Char_PECS_Saetti_N",
+      "Char_PECS_Ella_N",
+      "Char_PECS_QueenMane_N",
+      "Char_PECS_Mnemosyne_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AGSRoboTech_3": {
+    "Squad_Index": 27,
+    "Squad_Icon": "UI_TroopIcon_AutoGuardSystem",
+    "Squad_Name": "1002900027",
+    "Squad_Desc": "1002900046",
+    "Squad_Member": [
+      "Char_AGS_Tyrant_N",
+      "Char_AGS_Fortress_N",
+      "Char_AGS_RheinRitter_N",
+      "Char_AGS_MrAlfred2_N",
+      "Char_AGS_Watcher_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Dentertainment_3": {
+    "Squad_Index": 29,
+    "Squad_Icon": "UI_TroopIcon_Dentertainment",
+    "Squad_Name": "1002900029",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_DS_Faucre_N",
+      "Char_DS_Arman_N",
+      "Char_AGS_Goltarion_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Dentertainment_2": {
+    "Squad_Index": 28,
+    "Squad_Icon": "UI_TroopIcon_Dentertainment",
+    "Squad_Name": "1002900028",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_DS_Baekto_N",
+      "Char_DS_KunoichiZero_N",
+      "Char_DS_KunoichiKaen_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Bermuda_2": {
+    "Squad_Index": 33,
+    "Squad_Icon": "UI_TroopIcon_TeamBermuda",
+    "Squad_Name": "1002900033",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_BR_Echidna_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_CompanionSeries_2": {
+    "Squad_Index": 41,
+    "Squad_Icon": "UI_TroopIcon_CompanionSeries",
+    "Squad_Name": "1002900060",
+    "Squad_Desc": "1002900049",
+    "Squad_Member": [
+      "Char_3P_Poi_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Bismarck": {
+    "Squad_Index": 34,
+    "Squad_Icon": "UI_TroopIcon_Bismarck",
+    "Squad_Name": "1002900034",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_PECS_Babariana_N",
+      "Char_PECS_Draculina_N",
+      "Char_PECS_Mery_N",
+      "Char_PECS_Machina_N",
+      "Char_PECS_Glacias_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AnywhereSeries_2": {
+    "Squad_Index": 35,
+    "Squad_Icon": "UI_TroopIcon_AnywhereSeries",
+    "Squad_Name": "1002900052",
+    "Squad_Desc": "1002900050",
+    "Squad_Member": [
+      "Char_3P_Aurora_N",
+      "Char_3P_Eternity_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_DoomBringer_2": {
+    "Squad_Index": 36,
+    "Squad_Icon": "UI_TroopIcon_DoomBringer",
+    "Squad_Name": "1002900053",
+    "Squad_Desc": "1002900037",
+    "Squad_Member": [
+      "Char_BR_Banshee_N",
+      "Char_BR_ALWraith_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_BattleMaid_2": {
+    "Squad_Index": 38,
+    "Squad_Icon": "UI_TroopIcon_BettleMaid",
+    "Squad_Name": "1002900055",
+    "Squad_Desc": "1002900038",
+    "Squad_Member": [
+      "Char_3P_BlackWyrm_N",
+      "Char_3P_Hirume_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_GoldenWorkers_2": {
+    "Squad_Index": 37,
+    "Squad_Icon": "UI_TroopIcon_GoldenWorkers",
+    "Squad_Name": "1002900054",
+    "Squad_Desc": "1002900039",
+    "Squad_Member": [
+      "Char_PECS_Lumberjane_N",
+      "Char_PECS_Azaz_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_CityGuard_2": {
+    "Squad_Index": 39,
+    "Squad_Icon": "UI_TroopIcon_CityGuard",
+    "Squad_Name": "1002900056",
+    "Squad_Desc": "1002900057",
+    "Squad_Member": [
+      "Char_PECS_Sadius_N",
+      "Char_PECS_Leanne_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_SkyKnight_2": {
+    "Squad_Index": 40,
+    "Squad_Icon": "UI_TroopIcon_SkyKnight",
+    "Squad_Name": "1002900058",
+    "Squad_Desc": "1002900059",
+    "Squad_Member": [
+      "Char_BR_Hraesvelgr_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_PublicServant_3": {
+    "Squad_Index": 42,
+    "Squad_Icon": "UI_TroopIcon_PublicServent",
+    "Squad_Name": "1002900061",
+    "Squad_Desc": "1002900041",
+    "Squad_Member": [
+      "Char_PECS_LemonadeAlpha_N",
+      "Char_PECS_Sekhmet_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_SmartEnjoy": {
+    "Squad_Index": 46,
+    "Squad_Icon": "UI_TroopIcon_SmartEnjoy",
+    "Squad_Name": "1002900065",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_SJ_Tachi_N",
+      "Char_SJ_Orellia_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_3PFairy_2": {
+    "Squad_Index": 44,
+    "Squad_Icon": "UI_TroopIcon_FairySeries",
+    "Squad_Name": "1002900063",
+    "Squad_Desc": "1002900047",
+    "Squad_Member": [
+      "Char_3P_Titania_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AGSRoboTech_4": {
+    "Squad_Index": 45,
+    "Squad_Icon": "UI_TroopIcon_AutoGuardSystem",
+    "Squad_Name": "1002900064",
+    "Squad_Desc": "1002900046",
+    "Squad_Member": [
+      "Char_AGS_Stronghold_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AmuseAttendant_2": {
+    "Squad_Index": 47,
+    "Squad_Icon": "UI_TroopIcon_AmuseAttendant",
+    "Squad_Name": "1002900066",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_PECS_Boryeon_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_AngerOfTheHorde_2": {
+    "Squad_Index": 43,
+    "Squad_Icon": "UI_TroopIcon_AngerOfTheHorde",
+    "Squad_Name": "1002900062",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_BR_Hyena_N",
+      "Char_BR_Kheshig_N",
+      "Char_BR_Scarabya_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Bismarck_2": {
+    "Squad_Index": 48,
+    "Squad_Icon": "UI_TroopIcon_Bismarck",
+    "Squad_Name": "1002900067",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_AGS_Arachne_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_GuardianSeries": {
+    "Squad_Index": 53,
+    "Squad_Icon": "UI_TroopIcon_GuardianSeries",
+    "Squad_Name": "SquadName_Squad_GuardianSeries",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_3P_Frigga_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_EmpressHound": {
+    "Squad_Index": 49,
+    "Squad_Icon": "UI_TroopIcon_EmpressHound",
+    "Squad_Name": "SquadName_Squad_EmpressHound",
+    "Squad_Desc": "SquadDesc_Squad_EmpressHound",
+    "Squad_Member": [
+      "Char_BR_JangHwa_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_080_2": {
+    "Squad_Index": 50,
+    "Squad_Icon": "UI_TroopIcon_Team080",
+    "Squad_Name": "SquadName_Squad_080_2",
+    "Squad_Desc": "SquadDesc_Squad_080_2",
+    "Squad_Member": [
+      "Char_BR_Ellie_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  }
+}

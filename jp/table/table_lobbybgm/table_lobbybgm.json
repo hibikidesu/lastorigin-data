@@ -1,0 +1,183 @@
+{
+  "02_BGM_Lobby": {
+    "BGM_Name": "1001500025",
+    "BGM_Desc": "1001500031",
+    "BGM_Res": "02 BGM_Lobby",
+    "BGM_Type": 0,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500037",
+    "BGM_Icon": "UI_Icon_02_BGM_Lobby"
+  },
+  "14_BGM_Christmas_02": {
+    "BGM_Name": "1001500026",
+    "BGM_Desc": "1001500032",
+    "BGM_Res": "14 BGM_Christmas_02",
+    "BGM_Type": 1,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500038",
+    "BGM_Icon": "UI_Icon_02_BGM_Lobbysaintorca"
+  },
+  "41 BGM_Valentine_01": {
+    "BGM_Name": "1001500102",
+    "BGM_Desc": "1001500103",
+    "BGM_Res": "41 BGM_Valentine_01",
+    "BGM_Type": 1,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500038",
+    "BGM_Icon": "UI_Icon_41 BGM_Valentine_01"
+  },
+  "Track6_LoverLover_Griffon": {
+    "BGM_Name": "1001500027",
+    "BGM_Desc": "1001500033",
+    "BGM_Res": "Track6_LoverLover_Griffon",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_PA00EL_2"
+    ],
+    "Open_Desc": "1001500039",
+    "BGM_Icon": "UI_Icon_Track6_LoverLover_Griffon"
+  },
+  "Track7_LoverLover_Lindwurm": {
+    "BGM_Name": "1001500028",
+    "BGM_Desc": "1001500034",
+    "BGM_Res": "Track7_LoverLover_Lindwurm",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_Lindwurm_2"
+    ],
+    "Open_Desc": "1001500040",
+    "BGM_Icon": "UI_Icon_Track7_LoverLover_Lindwurm"
+  },
+  "Track8_LoverLover_Blackhound": {
+    "BGM_Name": "1001500029",
+    "BGM_Desc": "1001500035",
+    "BGM_Res": "Track8_LoverLover_Blackhound",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_Blackhound_2"
+    ],
+    "Open_Desc": "1001500041",
+    "BGM_Icon": "UI_Icon_Track8_LoverLover_Blackhound"
+  },
+  "Track2_HeartbeatOME_MintChocoShake": {
+    "BGM_Name": "1001500030",
+    "BGM_Desc": "1001500036",
+    "BGM_Res": "Track2_HeartbeatOME_MintChocoShake",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_PA00EL_2",
+      "Skin_BR_Lindwurm_2",
+      "Skin_BR_Blackhound_2"
+    ],
+    "Open_Desc": "1001500042",
+    "BGM_Icon": "UI_Icon_Track2_HeartbeatOME_MintChocoShake"
+  },
+  "Track10_LoverLover_Hraesvelgr": {
+    "BGM_Name": "1001500057",
+    "BGM_Desc": "1001500062",
+    "BGM_Res": "Track10_LoverLover_Hraesvelgr",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_Hraesvelgr_1"
+    ],
+    "Open_Desc": "1001500067",
+    "BGM_Icon": "UI_Icon_Track10_LoverLover_Hraesvelgr"
+  },
+  "Track11_LoverLover_Harpyia": {
+    "BGM_Name": "1001500058",
+    "BGM_Desc": "1001500063",
+    "BGM_Res": "Track11_LoverLover_Harpyia",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_Harpy_2"
+    ],
+    "Open_Desc": "1001500068",
+    "BGM_Icon": "UI_Icon_Track11_LoverLover_Harpyia"
+  },
+  "Track9_LoverLover_Sleipnir": {
+    "BGM_Name": "1001500059",
+    "BGM_Desc": "1001500064",
+    "BGM_Res": "Track9_LoverLover_Sleipnir",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_Sleipnir_3"
+    ],
+    "Open_Desc": "1001500069",
+    "BGM_Icon": "UI_Icon_Track9_LoverLover_Sleipnir"
+  },
+  "Track3_Starlight_BloomingHeart": {
+    "BGM_Name": "1001500060",
+    "BGM_Desc": "1001500065",
+    "BGM_Res": "Track3_Starlight_BloomingHeart",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_Hraesvelgr_1",
+      "Skin_BR_Harpy_2",
+      "Skin_BR_Sleipnir_3"
+    ],
+    "Open_Desc": "1001500070",
+    "BGM_Icon": "UI_Icon_Track3_Starlight_BloomingHeart"
+  },
+  "Track1_LoverLover_SkyKnights": {
+    "BGM_Name": "1001500061",
+    "BGM_Desc": "1001500066",
+    "BGM_Res": "Track1_LoverLover_SkyKnights",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_PA00EL_2",
+      "Skin_BR_Lindwurm_2",
+      "Skin_BR_Blackhound_2",
+      "Skin_BR_Hraesvelgr_1",
+      "Skin_BR_Harpy_2",
+      "Skin_BR_Sleipnir_3"
+    ],
+    "Open_Desc": "1001500071",
+    "BGM_Icon": "UI_Icon_Track1_LoverLover_SkyKnights"
+  },
+  "Track4_SongForYou_Muse": {
+    "BGM_Name": "1001500081",
+    "BGM_Desc": "1001500083",
+    "BGM_Res": "Track4_SongForYou_Muse",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_PECS_Muse_1"
+    ],
+    "Open_Desc": "1001500085",
+    "BGM_Icon": "UI_Icon_Track4_SongForYou_Muse"
+  },
+  "Track5_WithYou_SkyKnights": {
+    "BGM_Name": "1001500082",
+    "BGM_Desc": "1001500084",
+    "BGM_Res": "Track5_WithYou_SkyKnights",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_PA00EL_2",
+      "Skin_BR_Lindwurm_2",
+      "Skin_BR_Blackhound_2",
+      "Skin_BR_Hraesvelgr_1",
+      "Skin_BR_Harpy_2",
+      "Skin_BR_Sleipnir_3",
+      "Skin_PECS_Muse_1"
+    ],
+    "Open_Desc": "1001500086",
+    "BGM_Icon": "UI_Icon_Track5_WithYou_SkyKnights"
+  },
+  "Track12_Moment_Muse": {
+    "BGM_Name": "1001500087",
+    "BGM_Desc": "1001500089",
+    "BGM_Res": "Track12_Moment_Muse",
+    "BGM_Type": 1,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500038",
+    "BGM_Icon": "UI_Icon_Track12_Moment_Muse"
+  },
+  "Track13_MomentShort_Muse": {
+    "BGM_Name": "1001500088",
+    "BGM_Desc": "1001500090",
+    "BGM_Res": "Track13_MomentShort_Muse",
+    "BGM_Type": 1,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500038",
+    "BGM_Icon": "UI_Icon_Track13_MomentShort_Muse"
+  }
+}

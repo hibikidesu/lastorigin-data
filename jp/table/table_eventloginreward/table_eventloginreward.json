@@ -1,0 +1,51 @@
+{
+  "1": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 1,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_01",
+    "Event_Key": "Open_Event11"
+  },
+  "2": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 2,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_02",
+    "Event_Key": "Open_Event11"
+  },
+  "3": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 3,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_03",
+    "Event_Key": "Open_Event11"
+  },
+  "4": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 4,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_04",
+    "Event_Key": "Open_Event11"
+  },
+  "5": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 5,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_05",
+    "Event_Key": "Open_Event11"
+  },
+  "6": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 6,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_06",
+    "Event_Key": "Open_Event11"
+  },
+  "7": {
+    "AttendanceType": 1,
+    "EventInstantKey": 20210408,
+    "LoginRewardDay": 7,
+    "Login_Reward": "LOGIN_Event_Open_11_Att_07",
+    "Event_Key": "Open_Event11"
+  }
+}

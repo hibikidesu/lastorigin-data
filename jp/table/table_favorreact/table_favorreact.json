@@ -1,0 +1,26 @@
+{
+  "BATTLE_CLEAR": {
+    "FavorEvent": 0,
+    "FavorEventValue": "",
+    "FavorValue": "5",
+    "FavorEffect": ""
+  },
+  "DEATH": {
+    "FavorEvent": 1,
+    "FavorEventValue": "",
+    "FavorValue": "-200",
+    "FavorEffect": ""
+  },
+  "ASSISTANT_LOGIN": {
+    "FavorEvent": 2,
+    "FavorEventValue": "",
+    "FavorValue": "100",
+    "FavorEffect": ""
+  },
+  "ACCOM_TOUCH": {
+    "FavorEvent": 3,
+    "FavorEventValue": "",
+    "FavorValue": "50",
+    "FavorEffect": ""
+  }
+}

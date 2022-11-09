@@ -1,0 +1,1412 @@
+{
+  "PROP_BubblePang_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_BubblePang_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BubblePang",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HappyEmmo_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_HappyEmmo_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HappyEmmo",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MusicMark_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_MusicMark_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MusicMark",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Necoring_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_Necoring_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Necoring",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Star_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_Star_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Star",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_SwimGrass_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_SwimGrass_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_SwimGrass",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Thingking_N": {
+    "ItemName": "1001101550",
+    "LobbySticker2DModelID": "2DModel_PROP_Thingking_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Thingking",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BrokenHeart_N": {
+    "ItemName": "1001101687",
+    "LobbySticker2DModelID": "2DModel_PROP_BrokenHeart_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BrokenHeart",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Complex_N": {
+    "ItemName": "1001101688",
+    "LobbySticker2DModelID": "2DModel_PROP_Complex_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Complex",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Heart_N": {
+    "ItemName": "1001101689",
+    "LobbySticker2DModelID": "2DModel_PROP_Heart_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Heart",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_QuestionMark_N": {
+    "ItemName": "1001101690",
+    "LobbySticker2DModelID": "2DModel_PROP_QuestionMark_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_QuestionMark",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Sweat_N": {
+    "ItemName": "1001101691",
+    "LobbySticker2DModelID": "2DModel_PROP_Sweat_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Sweat",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_ATS_N": {
+    "ItemName": "1001101692",
+    "LobbySticker2DModelID": "2DModel_PROP_ATS_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_ATS",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Dynamite_N": {
+    "ItemName": "1001101693",
+    "LobbySticker2DModelID": "2DModel_PROP_Dynamite_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Dynamite",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_EmptyCartridge_N": {
+    "ItemName": "1001101694",
+    "LobbySticker2DModelID": "2DModel_PROP_EmptyCartridge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_EmptyCartridge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MachineGun_N": {
+    "ItemName": "1001101695",
+    "LobbySticker2DModelID": "2DModel_PROP_MachineGun_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MachineGun",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Pistol_N": {
+    "ItemName": "1001101696",
+    "LobbySticker2DModelID": "2DModel_PROP_Pistol_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Pistol",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Banana_N": {
+    "ItemName": "1001101697",
+    "LobbySticker2DModelID": "2DModel_PROP_Banana_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Banana",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_ChocolateBox_N": {
+    "ItemName": "1001101698",
+    "LobbySticker2DModelID": "2DModel_PROP_ChocolateBox_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_ChocolateBox",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Cup_N": {
+    "ItemName": "1001101699",
+    "LobbySticker2DModelID": "2DModel_PROP_Cup_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Cup",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_IceCream_N": {
+    "ItemName": "1001101700",
+    "LobbySticker2DModelID": "2DModel_PROP_IceCream_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_IceCream",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Juice_N": {
+    "ItemName": "1001101701",
+    "LobbySticker2DModelID": "2DModel_PROP_Juice_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Juice",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Breath_N": {
+    "ItemName": "1001101702",
+    "LobbySticker2DModelID": "2DModel_PROP_Breath_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Breath",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Shock_N": {
+    "ItemName": "1001101703",
+    "LobbySticker2DModelID": "2DModel_PROP_Shock_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Shock",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Shy_N": {
+    "ItemName": "1001101704",
+    "LobbySticker2DModelID": "2DModel_PROP_Shy_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Shy",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Snow_N": {
+    "ItemName": "1001101705",
+    "LobbySticker2DModelID": "2DModel_PROP_Snow_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Snow",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Surprise_N": {
+    "ItemName": "1001101706",
+    "LobbySticker2DModelID": "2DModel_PROP_Surprise_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Surprise",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AnimalEar_N": {
+    "ItemName": "1001101707",
+    "LobbySticker2DModelID": "2DModel_PROP_AnimalEar_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AnimalEar",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Bouquet_N": {
+    "ItemName": "1001101708",
+    "LobbySticker2DModelID": "2DModel_PROP_Bouquet_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Bouquet",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Necomimi_N": {
+    "ItemName": "1001101709",
+    "LobbySticker2DModelID": "2DModel_PROP_Necomimi_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Necomimi",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Ribbon_N": {
+    "ItemName": "1001101710",
+    "LobbySticker2DModelID": "2DModel_PROP_Ribbon_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Ribbon",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Toy_N": {
+    "ItemName": "1001101711",
+    "LobbySticker2DModelID": "2DModel_PROP_Toy_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Toy",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasAntler_N": {
+    "ItemName": "1001101712",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasAntler_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasAntler",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasBoom_N": {
+    "ItemName": "1001101713",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasBoom_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasBoom",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasGift_N": {
+    "ItemName": "1001101714",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasGift_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasGift",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasRibbon_N": {
+    "ItemName": "1001101715",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasRibbon_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasRibbon",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasStar_N": {
+    "ItemName": "1001101716",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasStar_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasStar",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BADKSticker_N": {
+    "ItemName": "1001101717",
+    "LobbySticker2DModelID": "2DModel_PROP_BADKSticker_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BADKSticker",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BTSticker_N": {
+    "ItemName": "1001101718",
+    "LobbySticker2DModelID": "2DModel_PROP_BTSticker_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BTSticker",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MMSticker_N": {
+    "ItemName": "1001101719",
+    "LobbySticker2DModelID": "2DModel_PROP_MMSticker_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MMSticker",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasSocks_N": {
+    "ItemName": "1001101720",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasSocks_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasSocks",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasSnowman_N": {
+    "ItemName": "1001101721",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasSnowman_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasSnowman",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_XmasCake_N": {
+    "ItemName": "1001101722",
+    "LobbySticker2DModelID": "2DModel_PROP_XmasCake_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_XmasCake",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Surprise02_N": {
+    "ItemName": "1001101854",
+    "LobbySticker2DModelID": "2DModel_PROP_Surprise02_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Surprise02",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Dizzy_N": {
+    "ItemName": "1001101855",
+    "LobbySticker2DModelID": "2DModel_PROP_Dizzy_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Dizzy",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Sweat02_N": {
+    "ItemName": "1001101856",
+    "LobbySticker2DModelID": "2DModel_PROP_Sweat02_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Sweat02",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_angry_N": {
+    "ItemName": "1001101857",
+    "LobbySticker2DModelID": "2DModel_PROP_angry_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_angry",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HugeShock_N": {
+    "ItemName": "1001101858",
+    "LobbySticker2DModelID": "2DModel_PROP_HugeShock_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HugeShock",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AnimalEar02_N": {
+    "ItemName": "1001101859",
+    "LobbySticker2DModelID": "2DModel_PROP_AnimalEar02_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AnimalEar02",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_FloralHairpin_N": {
+    "ItemName": "1001101860",
+    "LobbySticker2DModelID": "2DModel_PROP_FloralHairpin_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_FloralHairpin",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Ribbon02_N": {
+    "ItemName": "1001101861",
+    "LobbySticker2DModelID": "2DModel_PROP_Ribbon02_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Ribbon02",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Hachiko_N": {
+    "ItemName": "1001101862",
+    "LobbySticker2DModelID": "2DModel_PROP_Hachiko_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Hachiko",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Sunglass_N": {
+    "ItemName": "1001101863",
+    "LobbySticker2DModelID": "2DModel_PROP_Sunglass_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Sunglass",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RedRibbon_N": {
+    "ItemName": "1001102040",
+    "LobbySticker2DModelID": "2DModel_PROP_RedRibbon_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RedRibbon",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_PinkRibbon_N": {
+    "ItemName": "1001102041",
+    "LobbySticker2DModelID": "2DModel_PROP_PinkRibbon_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_PinkRibbon",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BlueRibbon_N": {
+    "ItemName": "1001102042",
+    "LobbySticker2DModelID": "2DModel_PROP_BlueRibbon_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BlueRibbon",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BlueRoseHairband_N": {
+    "ItemName": "1001102043",
+    "LobbySticker2DModelID": "2DModel_PROP_BlueRoseHairband_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BlueRoseHairband",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BeigeRibbon_N": {
+    "ItemName": "1001102044",
+    "LobbySticker2DModelID": "2DModel_PROP_BeigeRibbon_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BeigeRibbon",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BlueRoseHairpin_N": {
+    "ItemName": "1001102045",
+    "LobbySticker2DModelID": "2DModel_PROP_BlueRoseHairpin_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BlueRoseHairpin",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RedRoseHairpin_N": {
+    "ItemName": "1001102046",
+    "LobbySticker2DModelID": "2DModel_PROP_RedRoseHairpin_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RedRoseHairpin",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CamelliaHairpin_N": {
+    "ItemName": "1001102047",
+    "LobbySticker2DModelID": "2DModel_PROP_CamelliaHairpin_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CamelliaHairpin",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MugunghwaHairpin_N": {
+    "ItemName": "1001102048",
+    "LobbySticker2DModelID": "2DModel_PROP_MugunghwaHairpin_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MugunghwaHairpin",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Mugunghwa2Hairpin_N": {
+    "ItemName": "1001102049",
+    "LobbySticker2DModelID": "2DModel_PROP_Mugunghwa2Hairpin_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Mugunghwa2Hairpin",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_PA00ELBadge_N": {
+    "ItemName": "1001102156",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_PA00ELBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_PA00ELBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_LindwurmBadge_N": {
+    "ItemName": "1001102157",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_LindwurmBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_LindwurmBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_BlackhoundBadge_N": {
+    "ItemName": "1001102158",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_BlackhoundBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_BlackhoundBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_HraesvelgrBadge_N": {
+    "ItemName": "1001102159",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_HraesvelgrBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_HraesvelgrBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_HarpyBadge_N": {
+    "ItemName": "1001102160",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_HarpyBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_HarpyBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_SleipnirBadge_N": {
+    "ItemName": "1001102161",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_SleipnirBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_SleipnirBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_PECS_MuseBadge_N": {
+    "ItemName": "1001102162",
+    "LobbySticker2DModelID": "2DModel_PROP_PECS_MuseBadge_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_PECS_MuseBadge",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_PA00ELBadgeSD_N": {
+    "ItemName": "1001102163",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_PA00ELBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_PA00ELBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_LindwurmBadgeSD_N": {
+    "ItemName": "1001102164",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_LindwurmBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_LindwurmBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_BlackhoundBadgeSD_N": {
+    "ItemName": "1001102165",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_BlackhoundBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_BlackhoundBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_HraesvelgrBadgeSD_N": {
+    "ItemName": "1001102166",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_HraesvelgrBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_HraesvelgrBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_HarpyBadgeSD_N": {
+    "ItemName": "1001102167",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_HarpyBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_HarpyBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BR_SleipnirBadgeSD_N": {
+    "ItemName": "1001102168",
+    "LobbySticker2DModelID": "2DModel_PROP_BR_SleipnirBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BR_SleipnirBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_PECS_MuseBadgeSD_N": {
+    "ItemName": "1001102169",
+    "LobbySticker2DModelID": "2DModel_PROP_PECS_MuseBadgeSD_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_PECS_MuseBadgeSD",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_ORCAIdolStic_N": {
+    "ItemName": "1001102170",
+    "LobbySticker2DModelID": "2DModel_PROP_ORCAIdolStic_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_ORCAIdolStic",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_ORCAIdolTicket_N": {
+    "ItemName": "1001102171",
+    "LobbySticker2DModelID": "2DModel_PROP_ORCAIdolTicket_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_ORCAIdolTicket",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap01_1_N": {
+    "ItemName": "1001102318",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap01_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap01_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap01_2_N": {
+    "ItemName": "1001102319",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap01_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap01_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap01_3_N": {
+    "ItemName": "1001102320",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap01_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap01_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap01_4_N": {
+    "ItemName": "1001102321",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap01_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap01_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap01_5_N": {
+    "ItemName": "1001102322",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap01_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap01_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap02_1_N": {
+    "ItemName": "1001102323",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap02_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap02_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap02_2_N": {
+    "ItemName": "1001102324",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap02_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap02_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap02_3_N": {
+    "ItemName": "1001102325",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap02_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap02_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap02_4_N": {
+    "ItemName": "1001102326",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap02_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap02_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap02_5_N": {
+    "ItemName": "1001102327",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap02_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap02_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme01_1_N": {
+    "ItemName": "1001102330",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme01_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme01_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme01_2_N": {
+    "ItemName": "1001102331",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme01_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme01_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme01_3_N": {
+    "ItemName": "1001102332",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme01_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme01_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme01_4_N": {
+    "ItemName": "1001102333",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme01_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme01_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme01_5_N": {
+    "ItemName": "1001102334",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme01_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme01_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme02_1_N": {
+    "ItemName": "1001102335",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme02_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme02_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme02_2_N": {
+    "ItemName": "1001102336",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme02_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme02_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme02_3_N": {
+    "ItemName": "1001102337",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme02_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme02_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme02_4_N": {
+    "ItemName": "1001102338",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme02_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme02_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme02_5_N": {
+    "ItemName": "1001102339",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme02_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme02_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap03_1_N": {
+    "ItemName": "1001102368",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap03_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap03_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap03_2_N": {
+    "ItemName": "1001102369",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap03_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap03_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap03_3_N": {
+    "ItemName": "1001102370",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap03_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap03_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap03_4_N": {
+    "ItemName": "1001102371",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap03_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap03_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap03_5_N": {
+    "ItemName": "1001102372",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap03_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap03_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme03_1_N": {
+    "ItemName": "1001102374",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme03_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme03_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme03_2_N": {
+    "ItemName": "1001102375",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme03_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme03_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme03_3_N": {
+    "ItemName": "1001102376",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme03_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme03_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme03_4_N": {
+    "ItemName": "1001102377",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme03_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme03_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme03_5_N": {
+    "ItemName": "1001102378",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme03_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme03_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap04_1_N": {
+    "ItemName": "1001102404",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap04_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap04_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap04_2_N": {
+    "ItemName": "1001102405",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap04_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap04_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap04_3_N": {
+    "ItemName": "1001102406",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap04_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap04_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap04_4_N": {
+    "ItemName": "1001102407",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap04_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap04_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap04_5_N": {
+    "ItemName": "1001102408",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap04_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap04_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme04_1_N": {
+    "ItemName": "1001102410",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme04_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme04_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme04_2_N": {
+    "ItemName": "1001102411",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme04_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme04_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme04_3_N": {
+    "ItemName": "1001102412",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme04_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme04_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme04_4_N": {
+    "ItemName": "1001102413",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme04_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme04_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Manme04_5_N": {
+    "ItemName": "1001102414",
+    "LobbySticker2DModelID": "2DModel_PROP_Manme04_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Manme04_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap05_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap05_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap05_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap05_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap05_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap05_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap05_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap05_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap05_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap05_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap05_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap05_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap05_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap05_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap05_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap05_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap05_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap05_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap05_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap05_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap06_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap06_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap06_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap06_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap06_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap06_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap06_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap06_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap06_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap06_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap06_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap06_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap06_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap06_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap06_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap06_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap06_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap06_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap06_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap06_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap07_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap07_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap07_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap07_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap07_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap07_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap07_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap07_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap07_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap07_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap07_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap07_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap07_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap07_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap07_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap07_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap07_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap07_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap07_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap07_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap08_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap08_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap08_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap08_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap08_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap08_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap08_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap08_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap08_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap08_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap08_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap08_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap08_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap08_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap08_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap08_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap08_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap08_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap08_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap08_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap09_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap09_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap09_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap09_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap09_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap09_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap09_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap09_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap09_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap09_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap09_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap09_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap09_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap09_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap09_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap09_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap09_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap09_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap09_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap09_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap10_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap10_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap10_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap10_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap10_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap10_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap10_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap10_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap10_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap10_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap10_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap10_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap10_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap10_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap10_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap10_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap10_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap10_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap10_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap10_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap11_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap11_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap11_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap11_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap11_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap11_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap11_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap11_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap11_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap11_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap11_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap11_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap11_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap11_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap11_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap11_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap11_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap11_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap11_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap11_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap12_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap12_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap12_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap12_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap12_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap12_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap12_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap12_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap12_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap12_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap12_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap12_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap12_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap12_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap12_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap12_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap12_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap12_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap12_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap12_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap13_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap13_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap13_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap13_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap13_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap13_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap13_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap13_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap13_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap13_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap13_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap13_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap13_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap13_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap13_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap13_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap13_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap13_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap13_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap13_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap14_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap14_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap14_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap14_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap14_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap14_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap14_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap14_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap14_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap14_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap14_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap14_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap14_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap14_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap14_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap14_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap14_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap14_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap14_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap14_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_ObuiMP_N": {
+    "ItemName": "LobbyStickerName_PROP_ObuiMP_N",
+    "LobbySticker2DModelID": "2DModel_PROP_ObuiMP_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_ObuiMP",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_ObuiPoi_N": {
+    "ItemName": "LobbyStickerName_PROP_ObuiPoi_N",
+    "LobbySticker2DModelID": "2DModel_PROP_ObuiPoi_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_ObuiPoi",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap15_1_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap15_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap15_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap15_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap15_2_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap15_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap15_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap15_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap15_3_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap15_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap15_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap15_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap15_4_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap15_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap15_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap15_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_Diyap15_5_N": {
+    "ItemName": "LobbyStickerName_PROP_Diyap15_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_Diyap15_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_Diyap15_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_JinjoPrincess1_1_N": {
+    "ItemName": "LobbyStickerName_PROP_JinjoPrincess1_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_JinjoPrincess1_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_JinjoPrincess1_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_JinjoPrincess1_2_N": {
+    "ItemName": "LobbyStickerName_PROP_JinjoPrincess1_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_JinjoPrincess1_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_JinjoPrincess1_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_JinjoPrincess1_3_N": {
+    "ItemName": "LobbyStickerName_PROP_JinjoPrincess1_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_JinjoPrincess1_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_JinjoPrincess1_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_JinjoPrincess1_4_N": {
+    "ItemName": "LobbyStickerName_PROP_JinjoPrincess1_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_JinjoPrincess1_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_JinjoPrincess1_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_JinjoPrincess1_5_N": {
+    "ItemName": "LobbyStickerName_PROP_JinjoPrincess1_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_JinjoPrincess1_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_JinjoPrincess1_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AzazBunnySD3rd_1_N": {
+    "ItemName": "LobbyStickerName_PROP_AzazBunnySD3rd_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AzazBunnySD3rd_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AzazBunnySD3rd_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AzazBunnySD3rd_2_N": {
+    "ItemName": "LobbyStickerName_PROP_AzazBunnySD3rd_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AzazBunnySD3rd_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AzazBunnySD3rd_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AzazBunnySD3rd_3_N": {
+    "ItemName": "LobbyStickerName_PROP_AzazBunnySD3rd_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AzazBunnySD3rd_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AzazBunnySD3rd_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AzazBunnySD3rd_4_N": {
+    "ItemName": "LobbyStickerName_PROP_AzazBunnySD3rd_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AzazBunnySD3rd_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AzazBunnySD3rd_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AzazBunnySD3rd_5_N": {
+    "ItemName": "LobbyStickerName_PROP_AzazBunnySD3rd_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AzazBunnySD3rd_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AzazBunnySD3rd_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RoyalArsenalBunnySD3rd_1_N": {
+    "ItemName": "LobbyStickerName_PROP_RoyalArsenalBunnySD3rd_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_RoyalArsenalBunnySD3rd_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RoyalArsenalBunnySD3rd_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RoyalArsenalBunnySD3rd_2_N": {
+    "ItemName": "LobbyStickerName_PROP_RoyalArsenalBunnySD3rd_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_RoyalArsenalBunnySD3rd_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RoyalArsenalBunnySD3rd_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RoyalArsenalBunnySD3rd_3_N": {
+    "ItemName": "LobbyStickerName_PROP_RoyalArsenalBunnySD3rd_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_RoyalArsenalBunnySD3rd_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RoyalArsenalBunnySD3rd_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RoyalArsenalBunnySD3rd_4_N": {
+    "ItemName": "LobbyStickerName_PROP_RoyalArsenalBunnySD3rd_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_RoyalArsenalBunnySD3rd_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RoyalArsenalBunnySD3rd_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_RoyalArsenalBunnySD3rd_5_N": {
+    "ItemName": "LobbyStickerName_PROP_RoyalArsenalBunnySD3rd_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_RoyalArsenalBunnySD3rd_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_RoyalArsenalBunnySD3rd_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CSPerraultBunnySD3rd_1_N": {
+    "ItemName": "LobbyStickerName_PROP_CSPerraultBunnySD3rd_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CSPerraultBunnySD3rd_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CSPerraultBunnySD3rd_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CSPerraultBunnySD3rd_2_N": {
+    "ItemName": "LobbyStickerName_PROP_CSPerraultBunnySD3rd_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CSPerraultBunnySD3rd_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CSPerraultBunnySD3rd_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CSPerraultBunnySD3rd_3_N": {
+    "ItemName": "LobbyStickerName_PROP_CSPerraultBunnySD3rd_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CSPerraultBunnySD3rd_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CSPerraultBunnySD3rd_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CSPerraultBunnySD3rd_4_N": {
+    "ItemName": "LobbyStickerName_PROP_CSPerraultBunnySD3rd_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CSPerraultBunnySD3rd_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CSPerraultBunnySD3rd_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CSPerraultBunnySD3rd_5_N": {
+    "ItemName": "LobbyStickerName_PROP_CSPerraultBunnySD3rd_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CSPerraultBunnySD3rd_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CSPerraultBunnySD3rd_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BunnySlayerSD_1_N": {
+    "ItemName": "LobbyStickerName_PROP_BunnySlayerSD_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_BunnySlayerSD_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BunnySlayerSD_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BunnySlayerSD_2_N": {
+    "ItemName": "LobbyStickerName_PROP_BunnySlayerSD_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_BunnySlayerSD_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BunnySlayerSD_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BunnySlayerSD_3_N": {
+    "ItemName": "LobbyStickerName_PROP_BunnySlayerSD_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_BunnySlayerSD_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BunnySlayerSD_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BunnySlayerSD_4_N": {
+    "ItemName": "LobbyStickerName_PROP_BunnySlayerSD_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_BunnySlayerSD_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BunnySlayerSD_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_BunnySlayerSD_5_N": {
+    "ItemName": "LobbyStickerName_PROP_BunnySlayerSD_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_BunnySlayerSD_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_BunnySlayerSD_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CafeHorizonAndJangHwaSD_1_N": {
+    "ItemName": "LobbyStickerName_PROP_CafeHorizonAndJangHwaSD_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CafeHorizonAndJangHwaSD_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CafeHorizonAndJangHwaSD_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CafeHorizonAndJangHwaSD_2_N": {
+    "ItemName": "LobbyStickerName_PROP_CafeHorizonAndJangHwaSD_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CafeHorizonAndJangHwaSD_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CafeHorizonAndJangHwaSD_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CafeHorizonAndJangHwaSD_3_N": {
+    "ItemName": "LobbyStickerName_PROP_CafeHorizonAndJangHwaSD_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CafeHorizonAndJangHwaSD_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CafeHorizonAndJangHwaSD_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CafeHorizonAndJangHwaSD_4_N": {
+    "ItemName": "LobbyStickerName_PROP_CafeHorizonAndJangHwaSD_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CafeHorizonAndJangHwaSD_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CafeHorizonAndJangHwaSD_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CafeHorizonAndJangHwaSD_5_N": {
+    "ItemName": "LobbyStickerName_PROP_CafeHorizonAndJangHwaSD_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CafeHorizonAndJangHwaSD_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CafeHorizonAndJangHwaSD_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AngelSisterSD_1_N": {
+    "ItemName": "LobbyStickerName_PROP_AngelSisterSD_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AngelSisterSD_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AngelSisterSD_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AngelSisterSD_2_N": {
+    "ItemName": "LobbyStickerName_PROP_AngelSisterSD_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AngelSisterSD_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AngelSisterSD_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AngelSisterSD_3_N": {
+    "ItemName": "LobbyStickerName_PROP_AngelSisterSD_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AngelSisterSD_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AngelSisterSD_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AngelSisterSD_4_N": {
+    "ItemName": "LobbyStickerName_PROP_AngelSisterSD_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AngelSisterSD_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AngelSisterSD_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_AngelSisterSD_5_N": {
+    "ItemName": "LobbyStickerName_PROP_AngelSisterSD_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_AngelSisterSD_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_AngelSisterSD_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_GiftCake_N": {
+    "ItemName": "LobbyStickerName_PROP_GiftCake_N",
+    "LobbySticker2DModelID": "2DModel_PROP_GiftCake_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_GiftCake",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HachikoSD_1_N": {
+    "ItemName": "LobbyStickerName_PROP_HachikoSD_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HachikoSD_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HachikoSD_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HachikoSD_2_N": {
+    "ItemName": "LobbyStickerName_PROP_HachikoSD_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HachikoSD_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HachikoSD_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HachikoSD_3_N": {
+    "ItemName": "LobbyStickerName_PROP_HachikoSD_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HachikoSD_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HachikoSD_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HachikoSD_4_N": {
+    "ItemName": "LobbyStickerName_PROP_HachikoSD_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HachikoSD_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HachikoSD_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HachikoSD_5_N": {
+    "ItemName": "LobbyStickerName_PROP_HachikoSD_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HachikoSD_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HachikoSD_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CompanionshamanSD_1_N": {
+    "ItemName": "LobbyStickerName_PROP_CompanionshamanSD_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CompanionshamanSD_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CompanionshamanSD_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CompanionshamanSD_2_N": {
+    "ItemName": "LobbyStickerName_PROP_CompanionshamanSD_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CompanionshamanSD_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CompanionshamanSD_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CompanionshamanSD_3_N": {
+    "ItemName": "LobbyStickerName_PROP_CompanionshamanSD_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CompanionshamanSD_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CompanionshamanSD_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CompanionshamanSD_4_N": {
+    "ItemName": "LobbyStickerName_PROP_CompanionshamanSD_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CompanionshamanSD_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CompanionshamanSD_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_CompanionshamanSD_5_N": {
+    "ItemName": "LobbyStickerName_PROP_CompanionshamanSD_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_CompanionshamanSD_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_CompanionshamanSD_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MiniBlackwyrm_1_N": {
+    "ItemName": "LobbyStickerName_PROP_MiniBlackwyrm_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_MiniBlackwyrm_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MiniBlackwyrm_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MiniBlackwyrm_2_N": {
+    "ItemName": "LobbyStickerName_PROP_MiniBlackwyrm_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_MiniBlackwyrm_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MiniBlackwyrm_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MiniBlackwyrm_3_N": {
+    "ItemName": "LobbyStickerName_PROP_MiniBlackwyrm_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_MiniBlackwyrm_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MiniBlackwyrm_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MiniBlackwyrm_4_N": {
+    "ItemName": "LobbyStickerName_PROP_MiniBlackwyrm_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_MiniBlackwyrm_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MiniBlackwyrm_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_MiniBlackwyrm_5_N": {
+    "ItemName": "LobbyStickerName_PROP_MiniBlackwyrm_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_MiniBlackwyrm_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_MiniBlackwyrm_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_EratoAndMuseSD_1_N": {
+    "ItemName": "LobbyStickerName_PROP_EratoAndMuseSD_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_EratoAndMuseSD_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_EratoAndMuseSD_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_EratoAndMuseSD_2_N": {
+    "ItemName": "LobbyStickerName_PROP_EratoAndMuseSD_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_EratoAndMuseSD_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_EratoAndMuseSD_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_EratoAndMuseSD_3_N": {
+    "ItemName": "LobbyStickerName_PROP_EratoAndMuseSD_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_EratoAndMuseSD_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_EratoAndMuseSD_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_EratoAndMuseSD_4_N": {
+    "ItemName": "LobbyStickerName_PROP_EratoAndMuseSD_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_EratoAndMuseSD_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_EratoAndMuseSD_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_EratoAndMuseSD_5_N": {
+    "ItemName": "LobbyStickerName_PROP_EratoAndMuseSD_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_EratoAndMuseSD_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_EratoAndMuseSD_5",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HeartElection2022_1_N": {
+    "ItemName": "LobbyStickerName_PROP_HeartElection2022_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HeartElection2022_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HeartElection2022_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HeartElection2022_2_N": {
+    "ItemName": "LobbyStickerName_PROP_HeartElection2022_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HeartElection2022_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HeartElection2022_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_HeartElection2022_3_N": {
+    "ItemName": "LobbyStickerName_PROP_HeartElection2022_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_HeartElection2022_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_HeartElection2022_3",
+    "LobbyStickerGroup": 1
+  }
+}

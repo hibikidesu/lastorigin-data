@@ -1,0 +1,333 @@
+{
+  "ChCha-01Stage01": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_01",
+    "ChallengeStage_Level": 0,
+    "ChallengeStage_Name": "1003400001",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-01Stage01",
+    "ChallengeStage_UnlockType": 0,
+    "ChallengeStage_UnlockCondition": "",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_EmperorChickSpCH_Challenge1",
+      "MOB_MP_NightChickCMP_EV2"
+    ],
+    "Monster_Lv": [
+      50,
+      100,
+      0,
+      0
+    ]
+  },
+  "ChCha-01Stage02": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_01",
+    "ChallengeStage_Level": 1,
+    "ChallengeStage_Name": "1003400002",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-01Stage02",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-01Stage01",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_EmperorChickSpCH_Challenge1",
+      "MOB_MP_NightChickCMP_EV2"
+    ],
+    "Monster_Lv": [
+      50,
+      100,
+      0,
+      0
+    ]
+  },
+  "ChCha-01Stage03": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_01",
+    "ChallengeStage_Level": 2,
+    "ChallengeStage_Name": "1003400003",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-01Stage03",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-01Stage02",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_EmperorChickSpCH_Challenge1",
+      "MOB_MP_NightChickCMP_EV2",
+      "MOB_MP_NightChickEX_TU"
+    ],
+    "Monster_Lv": [
+      50,
+      100,
+      1,
+      0
+    ]
+  },
+  "ChCha-01Stage04": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_01",
+    "ChallengeStage_Level": 3,
+    "ChallengeStage_Name": "1003400004",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-01Stage04",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-01Stage03",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_EmperorChickSpCH_Challenge1",
+      "MOB_MP_NightChickCMP_EV2",
+      "MOB_MP_NightChickEX_TU"
+    ],
+    "Monster_Lv": [
+      50,
+      100,
+      1,
+      0
+    ]
+  },
+  "ChCha-02Stage01": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_02",
+    "ChallengeStage_Level": 0,
+    "ChallengeStage_Name": "1003400001",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-02Stage01",
+    "ChallengeStage_UnlockType": 0,
+    "ChallengeStage_UnlockCondition": "",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Tyrant_Challenge1"
+    ],
+    "Monster_Lv": [
+      60,
+      0,
+      0,
+      0
+    ]
+  },
+  "ChCha-02Stage02": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_02",
+    "ChallengeStage_Level": 1,
+    "ChallengeStage_Name": "1003400002",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-02Stage02",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-02Stage01",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Robert_Challenge1",
+      "MOB_MP_Tyrant_Challenge1"
+    ],
+    "Monster_Lv": [
+      70,
+      70,
+      0,
+      0
+    ]
+  },
+  "ChCha-02Stage03": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_02",
+    "ChallengeStage_Level": 2,
+    "ChallengeStage_Name": "1003400003",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-02Stage03",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-02Stage02",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Tyrant_Challenge1"
+    ],
+    "Monster_Lv": [
+      80,
+      0,
+      0,
+      0
+    ]
+  },
+  "ChCha-02Stage04": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_02",
+    "ChallengeStage_Level": 3,
+    "ChallengeStage_Name": "1003400004",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-02Stage04",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-02Stage03",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Robert_Challenge1",
+      "MOB_MP_Tyrant_Challenge1"
+    ],
+    "Monster_Lv": [
+      90,
+      90,
+      0,
+      0
+    ]
+  },
+  "ChCha-03Stage01": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_03",
+    "ChallengeStage_Level": 0,
+    "ChallengeStage_Name": "1003400001",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-03Stage01",
+    "ChallengeStage_UnlockType": 0,
+    "ChallengeStage_UnlockCondition": "",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Predator_Challenge3",
+      "MOB_MP_FABigChick_Challenge3",
+      "MOB_MP_FABigChick_Challenge1"
+    ],
+    "Monster_Lv": [
+      90,
+      90,
+      90,
+      0
+    ]
+  },
+  "ChCha-03Stage02": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_03",
+    "ChallengeStage_Level": 1,
+    "ChallengeStage_Name": "1003400002",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-03Stage02",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-03Stage01",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Predator_Challenge3",
+      "MOB_MP_FABigChick_Challenge3",
+      "MOB_MP_FABigChick_Challenge1"
+    ],
+    "Monster_Lv": [
+      85,
+      85,
+      85,
+      0
+    ]
+  },
+  "ChCha-03Stage03": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_03",
+    "ChallengeStage_Level": 2,
+    "ChallengeStage_Name": "1003400003",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-03Stage03",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-03Stage02",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Predator_Challenge3",
+      "MOB_MP_FABigChick_Challenge1"
+    ],
+    "Monster_Lv": [
+      80,
+      80,
+      0,
+      0
+    ]
+  },
+  "ChCha-03Stage04": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_03",
+    "ChallengeStage_Level": 3,
+    "ChallengeStage_Name": "1003400004",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-03Stage04",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-03Stage03",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Predator_Challenge3",
+      "MOB_MP_FABigChick_Challenge3",
+      "MOB_MP_FABigChick_Challenge1"
+    ],
+    "Monster_Lv": [
+      90,
+      90,
+      90,
+      0
+    ]
+  },
+  "ChCha-05Stage01": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_05",
+    "ChallengeStage_Level": 0,
+    "ChallengeStage_Name": "1003400001",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-05Stage01",
+    "ChallengeStage_UnlockType": 0,
+    "ChallengeStage_UnlockCondition": "",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Nereid_EV1",
+      "MOB_MP_AMG11AA_EV5",
+      "MOB_MP_Undine_EV1",
+      "MOB_MP_Undine_EV2",
+      "MOB_MP_Undine_EV3"
+    ],
+    "Monster_Lv": [
+      80,
+      80,
+      80,
+      75,
+      80,
+      0,
+      0,
+      0
+    ]
+  },
+  "ChCha-05Stage02": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_05",
+    "ChallengeStage_Level": 1,
+    "ChallengeStage_Name": "1003400002",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-05Stage02",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-05Stage01",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Nereid_EV1",
+      "MOB_MP_AMG11AA_EV5",
+      "MOB_MP_Undine_EV1",
+      "MOB_MP_Undine_EV3"
+    ],
+    "Monster_Lv": [
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  "ChCha-05Stage03": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_05",
+    "ChallengeStage_Level": 2,
+    "ChallengeStage_Name": "1003400003",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-05Stage03",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-05Stage02",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Sirene_EV1",
+      "MOB_MP_Sirene_EV2",
+      "MOB_MP_Nereid_EV2",
+      "MOB_MP_AMG11AA_EV5",
+      "MOB_MP_Undine_EV4",
+      "MOB_MP_GigantesDagon_N"
+    ],
+    "Monster_Lv": [
+      85,
+      85,
+      85,
+      85,
+      85,
+      80,
+      0,
+      0
+    ]
+  },
+  "ChCha-05Stage04": {
+    "ChallengeStage_ChapterKey": "Challenge_Chapter_05",
+    "ChallengeStage_Level": 3,
+    "ChallengeStage_Name": "1003400004",
+    "ChallengeStage_TokenCost": 1,
+    "ChallengeStage_MapStageKey": "ChCha-05Stage04",
+    "ChallengeStage_UnlockType": 3,
+    "ChallengeStage_UnlockCondition": "ChCha-05Stage03",
+    "ChallengeStage_Monster_Icon": [
+      "MOB_MP_Sirene_EV1",
+      "MOB_MP_Sirene_EV2",
+      "MOB_MP_Nereid_EV1",
+      "MOB_MP_AMG11AA_EV5",
+      "MOB_MP_Undine_EV4"
+    ],
+    "Monster_Lv": [
+      90,
+      90,
+      90,
+      90,
+      90,
+      0,
+      0,
+      0
+    ]
+  }
+}

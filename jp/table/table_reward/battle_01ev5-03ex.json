@@ -1,0 +1,686 @@
+{
+  "BATTLE_01Ev5-03Ex-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-01_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-01_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-02_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-02_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1",
+      "Equip_Sub_SpaceArmor_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.02"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-03_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1",
+      "Equip_Sub_SpaceArmor_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.02"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-03_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1",
+      "Equip_Sub_SpaceArmor_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.02"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-04": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1",
+      "Equip_Sub_SpaceArmor_T4",
+      "Equip_Sub_SpaceArmor_T3",
+      "Equip_Sub_SpaceArmor_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.005",
+      "0.02",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-04_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1",
+      "Equip_Sub_SpaceArmor_T4",
+      "Equip_Sub_SpaceArmor_T3",
+      "Equip_Sub_SpaceArmor_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.005",
+      "0.02",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-03Ex-04_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1500,
+    "ExpMax": 1500,
+    "ExpRate": "1",
+    "SkillExp": 150,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SpaceArmor_T1",
+      "Equip_Sub_SpaceArmor_T4",
+      "Equip_Sub_SpaceArmor_T3",
+      "Equip_Sub_SpaceArmor_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.005",
+      "0.02",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Emily_N",
+      "Char_BR_Undine_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

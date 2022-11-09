@@ -1,0 +1,263 @@
+{
+  "Story_Troop_Group_Squad_SteelLine": {
+    "Squad_Idx": 1,
+    "Story_Group": [
+      "PCStory_CH_BR_Brownie_1",
+      "PCStory_SQ_BR_Marie_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_SteelLine",
+    "Squad_Name": "1002900001",
+    "Squad_Desc": "1002900035"
+  },
+  "Story_Troop_Group_Squad_TheSistersOfWalhalla": {
+    "Squad_Idx": 2,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_TheSistersOfWalhalla",
+    "Squad_Name": "1002900002",
+    "Squad_Desc": "1002900036"
+  },
+  "Story_Troop_Group_Squad_DoomBringer": {
+    "Squad_Idx": 3,
+    "Story_Group": [
+      "PCStory_CH_BR_NightAngel_1",
+      "PCStory_CH_BR_May_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_DoomBringer",
+    "Squad_Name": "1002900003",
+    "Squad_Desc": "1002900037"
+  },
+  "Story_Troop_Group_Squad_BettleMaid": {
+    "Squad_Idx": 4,
+    "Story_Group": [
+      "PCStory_CH_3P_ConstantiaS2_1",
+      "PCStory_CH_3P_Hirume_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_BettleMaid",
+    "Squad_Name": "1002900004",
+    "Squad_Desc": "1002900038"
+  },
+  "Story_Troop_Group_Squad_GoldenWorkers": {
+    "Squad_Idx": 5,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_GoldenWorkers",
+    "Squad_Name": "1002900005",
+    "Squad_Desc": "1002900039"
+  },
+  "Story_Troop_Group_Squad_CityGuard": {
+    "Squad_Idx": 6,
+    "Story_Group": [
+      "PCStory_CH_AGS_Rampart_1",
+      "PCStory_CH_AGS_Rampart_2",
+      "PCStory_CH_PECS_Sonia_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_CityGuard",
+    "Squad_Name": "1002900006",
+    "Squad_Desc": "1002900040"
+  },
+  "Story_Troop_Group_Squad_PublicServent": {
+    "Squad_Idx": 7,
+    "Story_Group": [
+      "PCStory_CH_PECS_Sekhmet_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_PublicServent",
+    "Squad_Name": "1002900007",
+    "Squad_Desc": "1002900041"
+  },
+  "Story_Troop_Group_Squad_Team080": {
+    "Squad_Idx": 8,
+    "Story_Group": [
+      "PCStory_CH_BR_Tomoe_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_Team080",
+    "Squad_Name": "1002900008",
+    "Squad_Desc": "1002900042"
+  },
+  "Story_Troop_Group_Squad_TeamMongus": {
+    "Squad_Idx": 9,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_TeamMongus",
+    "Squad_Name": "1002900009",
+    "Squad_Desc": "1002900043"
+  },
+  "Story_Troop_Group_Squad_ArmoredMaiden": {
+    "Squad_Idx": 10,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_ArmoredMaiden",
+    "Squad_Name": "1002900010",
+    "Squad_Desc": "1002900044"
+  },
+  "Story_Troop_Group_Squad_OrbitalWatcher": {
+    "Squad_Idx": 11,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_OrbitalWatcher",
+    "Squad_Name": "1002900011",
+    "Squad_Desc": "1002900045"
+  },
+  "Story_Troop_Group_Squad_AutoGuardSystem": {
+    "Squad_Idx": 12,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_AutoGuardSystem",
+    "Squad_Name": "1002900012",
+    "Squad_Desc": "1002900046"
+  },
+  "Story_Troop_Group_Squad_FairySeries": {
+    "Squad_Idx": 13,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_FairySeries",
+    "Squad_Name": "1002900013",
+    "Squad_Desc": "1002900047"
+  },
+  "Story_Troop_Group_Squad_AACannonier": {
+    "Squad_Idx": 14,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_AACannonier",
+    "Squad_Name": "1002900014",
+    "Squad_Desc": "1002900048"
+  },
+  "Story_Troop_Group_Squad_CompanionSeries": {
+    "Squad_Idx": 15,
+    "Story_Group": [
+      "PCStory_CH_3P_Fenrir_1",
+      "PCStory_CH_3P_Hachiko_1",
+      "PCStory_CH_3P_CSPerrault_1",
+      "PCStory_CH_3P_BlackLilith_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_CompanionSeries",
+    "Squad_Name": "1002900015",
+    "Squad_Desc": "1002900049"
+  },
+  "Story_Troop_Group_Squad_AnywhereSeries": {
+    "Squad_Idx": 16,
+    "Story_Group": [
+      "PCStory_CH_3P_Sowan_1",
+      "PCStory_CH_3P_Aurora_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_AnywhereSeries",
+    "Squad_Name": "1002900016",
+    "Squad_Desc": "1002900050"
+  },
+  "Story_Troop_Group_Squad_SkyKnight": {
+    "Squad_Idx": 17,
+    "Story_Group": [
+      "PCStory_CH_BR_PA00EL_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_SkyKnight",
+    "Squad_Name": "1002900017",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_Dentertainment": {
+    "Squad_Idx": 18,
+    "Story_Group": [
+      "PCStory_CH_DS_Faucre_1",
+      "PCStory_CH_DS_Baekto_1",
+      "PCStory_CH_DS_KunoichiKaen_1",
+      "PCStory_CH_AGS_Goltarion_1",
+      "PCStory_CH_DS_Johanna_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_Dentertainment",
+    "Squad_Name": "1002900018",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_Horizon": {
+    "Squad_Idx": 19,
+    "Story_Group": [
+      "PCStory_CH_BR_InvDragon_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_Horizon",
+    "Squad_Name": "1002900019",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_AngerOfTheHorde": {
+    "Squad_Idx": 20,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_AngerOfTheHorde",
+    "Squad_Name": "1002900020",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_TeamBermuda": {
+    "Squad_Idx": 21,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_TeamBermuda",
+    "Squad_Name": "1002900021",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_Strikers": {
+    "Squad_Idx": 22,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_Strikers",
+    "Squad_Name": "1002900023",
+    "Squad_Desc": "1000621261"
+  },
+  "Story_Troop_Group_Squad_WatcherOfNature": {
+    "Squad_Idx": 23,
+    "Story_Group": [
+      "PCStory_CH_PECS_Mnemosyne_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_WatcherOfNature",
+    "Squad_Name": "1002900026",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_Kouhei": {
+    "Squad_Idx": 24,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_Kouhei",
+    "Squad_Name": "1002900031",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_AmuseAttendant": {
+    "Squad_Idx": 25,
+    "Story_Group": [
+      "PCStory_CH_PECS_Circe_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_AmuseAttendant",
+    "Squad_Name": "1002900032",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_Bismarck": {
+    "Squad_Idx": 26,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_Bismarck",
+    "Squad_Name": "1002900034",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_SmartEnjoy": {
+    "Squad_Idx": 27,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_SmartEnjoy",
+    "Squad_Name": "1002900065",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_EmpressHound": {
+    "Squad_Idx": 28,
+    "Story_Group": [
+      "PCStory_CH_BR_JangHwa_1",
+      "PCStory_CH_BR_Vargr_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_EmpressHound",
+    "Squad_Name": "SquadName_Squad_EmpressHound",
+    "Squad_Desc": "SquadDesc_Squad_EmpressHound"
+  },
+  "Story_Troop_Group_Squad_Mermaid": {
+    "Squad_Idx": 29,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_Mermaid",
+    "Squad_Name": "SquadName_Squad_Mermaid",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_Poseidon": {
+    "Squad_Idx": 30,
+    "Story_Group": [
+      "PCStory_CH_PECS_Triton_1"
+    ],
+    "Squad_Icon": "UI_TroopIcon_Poseidon",
+    "Squad_Name": "SquadName_Squad_Poseidon",
+    "Squad_Desc": "0"
+  },
+  "Story_Troop_Group_Squad_GuardianSeries": {
+    "Squad_Idx": 31,
+    "Story_Group": [],
+    "Squad_Icon": "UI_TroopIcon_GuardianSeries",
+    "Squad_Name": "SquadName_Squad_GuardianSeries",
+    "Squad_Desc": "0"
+  }
+}

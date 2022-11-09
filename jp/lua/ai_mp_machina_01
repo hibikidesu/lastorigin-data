@@ -1,0 +1,44 @@
+function Process() 
+
+pos = CreatureAI.MoveToFrontPos()	
+count = CreatureAI.GetTargetCount("skill_slot_1")
+count2 = CreatureAI.GetTargetCount("skill_slot_2")
+
+
+
+    -- 아군 3명 이상일 시, 50% 확률로 2스 사용
+    if  count2 > 2 and 50 <= CreatureAI.GetRandomValue(100) then
+					
+        CreatureAI.SetTarget("skill_slot_2", "self")
+				
+    else
+       
+		-- 1스 사용
+	   SubProcess()
+	   
+    end 
+end
+
+	
+-- 1스 사용
+function SubProcess()
+
+	if 	count > 0 then	
+					
+		CreatureAI.SetTarget("skill_slot_1", "AtkHighest")
+		
+	else
+		
+		if -1 == pos then 
+				
+		CreatureAI.Wait()
+				
+		else
+				
+		CreatureAI.Move(pos)
+				
+		end
+		
+    end
+	
+end

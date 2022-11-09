@@ -1,0 +1,610 @@
+{
+  "Char_AGS_Fallen_N": {
+    "PCKeyString": "Char_AGS_Fallen_N",
+    "PCMakingTime": 600,
+    "BluePrint_Idx": 1,
+    "MetalCost": 60,
+    "NutrientCost": 0,
+    "PowerCost": 20,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor"
+    ],
+    "NeedItemCount": [
+      10,
+      5,
+      10,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Robotics_Frame",
+      "Robot_FCS"
+    ]
+  },
+  "Char_PECS_Drone_N": {
+    "PCKeyString": "Char_PECS_Drone_N",
+    "PCMakingTime": 2400,
+    "BluePrint_Idx": 2,
+    "MetalCost": 20,
+    "NutrientCost": 0,
+    "PowerCost": 50,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Booster",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      15,
+      5,
+      3,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Robotics_Frame",
+      "Robot_Aero_Controlsystem",
+      "Robot_ExamSystem"
+    ]
+  },
+  "Char_PECS_PuppHead_N": {
+    "PCKeyString": "Char_PECS_PuppHead_N",
+    "PCMakingTime": 1800,
+    "BluePrint_Idx": 3,
+    "MetalCost": 40,
+    "NutrientCost": 0,
+    "PowerCost": 60,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_CalculationControl",
+      "RobotParts_AlloyArmor"
+    ],
+    "NeedItemCount": [
+      20,
+      5,
+      5,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Advanced_Frame",
+      "Robot_Communication"
+    ]
+  },
+  "Char_AGS_Rampart_N": {
+    "PCKeyString": "Char_AGS_Rampart_N",
+    "PCMakingTime": 3600,
+    "BluePrint_Idx": 4,
+    "MetalCost": 125,
+    "NutrientCost": 0,
+    "PowerCost": 40,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      30,
+      20,
+      10,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Advanced_Frame",
+      "Robot_Shock_Absorber",
+      "Robot_ProtectModule"
+    ]
+  },
+  "Char_AGS_SpartanA_N": {
+    "PCKeyString": "Char_AGS_SpartanA_N",
+    "PCMakingTime": 4200,
+    "BluePrint_Idx": 5,
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 100,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_CalculationControl",
+      "RobotParts_AlloyArmor"
+    ],
+    "NeedItemCount": [
+      50,
+      10,
+      15,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Advanced_Frame",
+      "Robot_Communication",
+      "Robot_Shock_Absorber"
+    ]
+  },
+  "Char_AGS_SpartanB_N": {
+    "PCKeyString": "Char_AGS_SpartanB_N",
+    "PCMakingTime": 4800,
+    "BluePrint_Idx": 6,
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 100,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor"
+    ],
+    "NeedItemCount": [
+      50,
+      15,
+      15,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Advanced_Frame",
+      "Robot_Communication",
+      "Robot_Shock_Absorber",
+      "Robot_FCS"
+    ]
+  },
+  "Char_AGS_SpartanC_N": {
+    "PCKeyString": "Char_AGS_SpartanC_N",
+    "PCMakingTime": 7200,
+    "BluePrint_Idx": 7,
+    "MetalCost": 150,
+    "NutrientCost": 0,
+    "PowerCost": 250,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      200,
+      75,
+      10,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Advanced_Frame",
+      "Robot_TacticControl",
+      "Robot_Shock_Absorber",
+      "Robot_FCS"
+    ]
+  },
+  "Char_PECS_Stinger_N": {
+    "PCKeyString": "Char_PECS_Stinger_N",
+    "PCMakingTime": 11100,
+    "BluePrint_Idx": 8,
+    "MetalCost": 250,
+    "NutrientCost": 0,
+    "PowerCost": 650,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Booster",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      180,
+      30,
+      35,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_Advanced_Frame",
+      "Robot_Booster",
+      "Robot_EnergyCharger"
+    ]
+  },
+  "Char_PECS_TommyWalker_N": {
+    "PCKeyString": "Char_PECS_TommyWalker_N",
+    "PCMakingTime": 15600,
+    "BluePrint_Idx": 9,
+    "MetalCost": 1000,
+    "NutrientCost": 0,
+    "PowerCost": 450,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      200,
+      100,
+      10,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_LargeFrame",
+      "Robot_Communication"
+    ]
+  },
+  "Char_AGS_Seljuq_N": {
+    "PCKeyString": "Char_AGS_Seljuq_N",
+    "PCMakingTime": 17280,
+    "BluePrint_Idx": 10,
+    "MetalCost": 950,
+    "NutrientCost": 0,
+    "PowerCost": 600,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon"
+    ],
+    "NeedItemCount": [
+      250,
+      100,
+      25,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_LargeFrame",
+      "Robot_HeavyFCS",
+      "Robot_Communication"
+    ]
+  },
+  "Char_AGS_Fortress_N": {
+    "PCKeyString": "Char_AGS_Fortress_N",
+    "PCMakingTime": 18000,
+    "BluePrint_Idx": 11,
+    "MetalCost": 1250,
+    "NutrientCost": 0,
+    "PowerCost": 500,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      325,
+      250,
+      35,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_LargeFrame",
+      "Robot_TacticControl",
+      "Robot_ProtectModule",
+      "Robot_Shock_Absorber"
+    ]
+  },
+  "Char_AGS_Shade_N": {
+    "PCKeyString": "Char_AGS_Shade_N",
+    "PCMakingTime": 15600,
+    "BluePrint_Idx": 12,
+    "MetalCost": 500,
+    "NutrientCost": 0,
+    "PowerCost": 750,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      1250,
+      25,
+      500,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_FlexibleFrame",
+      "Robot_TacticControl",
+      "Robot_Advanced_Simulator",
+      "Robot_HeavyFCS"
+    ]
+  },
+  "Char_AGS_Gigantes_N": {
+    "PCKeyString": "Char_AGS_Gigantes_N",
+    "PCMakingTime": 30600,
+    "BluePrint_Idx": 13,
+    "MetalCost": 1500,
+    "NutrientCost": 0,
+    "PowerCost": 800,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      40,
+      300,
+      50,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_HeavyArmor",
+      "Robot_ProtectModule",
+      "Robot_TacticControl"
+    ]
+  },
+  "Char_AGS_Albatross_N": {
+    "PCKeyString": "Char_AGS_Albatross_N",
+    "PCMakingTime": 36000,
+    "BluePrint_Idx": 14,
+    "MetalCost": 1250,
+    "NutrientCost": 0,
+    "PowerCost": 1600,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      95,
+      20,
+      85,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_LargeFrame",
+      "Robot_MultiBooster",
+      "Robot_MassiveGenerator",
+      "Robot_TacticControl"
+    ]
+  },
+  "Char_AGS_Roc_N": {
+    "PCKeyString": "Char_AGS_Roc_N",
+    "PCMakingTime": 37800,
+    "BluePrint_Idx": 15,
+    "MetalCost": 750,
+    "NutrientCost": 0,
+    "PowerCost": 2500,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      85,
+      20,
+      125,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_LargeFrame",
+      "Robot_HPBooster",
+      "Robot_EnergyConverter "
+    ]
+  },
+  "Char_AGS_Aeda_N": {
+    "PCKeyString": "Char_AGS_Aeda_N",
+    "PCMakingTime": 43200,
+    "BluePrint_Idx": 16,
+    "MetalCost": 500,
+    "NutrientCost": 800,
+    "PowerCost": 1200,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      100,
+      20,
+      80,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_FlexibleFrame",
+      "Robot_AGS_Command",
+      "Robot_ParticleAccelerator",
+      "Robot_Advanced_Simulator"
+    ]
+  },
+  "Char_AGS_Tyrant_N": {
+    "PCKeyString": "Char_AGS_Tyrant_N",
+    "PCMakingTime": 57600,
+    "BluePrint_Idx": 17,
+    "MetalCost": 6000,
+    "NutrientCost": 0,
+    "PowerCost": 2000,
+    "NeedItemKeyString": [
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon"
+    ],
+    "NeedItemCount": [
+      50,
+      125,
+      200,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_HeavyArmor",
+      "Robot_HybridGenerator",
+      "Robot_Shock_Absorber",
+      "Robot_TacticControl"
+    ]
+  },
+  "Char_AGS_RheinRitter_N": {
+    "PCKeyString": "Char_AGS_RheinRitter_N",
+    "PCMakingTime": 16200,
+    "BluePrint_Idx": 18,
+    "MetalCost": 750,
+    "NutrientCost": 0,
+    "PowerCost": 750,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      1250,
+      25,
+      500,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_FlexibleFrame",
+      "Robot_TacticControl",
+      "Robot_Advanced_Simulator",
+      "Robot_HeavyFCS"
+    ]
+  },
+  "Char_AGS_MrAlfred2_N": {
+    "PCKeyString": "Char_AGS_MrAlfred2_N",
+    "PCMakingTime": 57600,
+    "BluePrint_Idx": 19,
+    "MetalCost": 2000,
+    "NutrientCost": 0,
+    "PowerCost": 2000,
+    "NeedItemKeyString": [
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon"
+    ],
+    "NeedItemCount": [
+      50,
+      125,
+      200,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_LargeFrame",
+      "Robot_HPBooster",
+      "Robot_EnergyConverter ",
+      "Robot_GeneArchitectAI"
+    ]
+  },
+  "Char_AGS_Watcher_N": {
+    "PCKeyString": "Char_AGS_Watcher_N",
+    "PCMakingTime": 17280,
+    "BluePrint_Idx": 20,
+    "MetalCost": 950,
+    "NutrientCost": 0,
+    "PowerCost": 850,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      100,
+      100,
+      500,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_FlexibleFrame",
+      "Robot_TacticControl",
+      "Robot_Shock_Absorber",
+      "Robot_HeavyFCS"
+    ]
+  },
+  "Char_AGS_Goltarion_N": {
+    "PCKeyString": "Char_AGS_Goltarion_N",
+    "PCMakingTime": 18000,
+    "BluePrint_Idx": 21,
+    "MetalCost": 300,
+    "NutrientCost": 0,
+    "PowerCost": 1200,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      500,
+      100,
+      525,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_FlexibleFrame",
+      "Robot_Communication",
+      "Robot_Advanced_Simulator",
+      "Robot_MassiveGenerator"
+    ]
+  },
+  "Char_AGS_Stronghold_N": {
+    "PCKeyString": "Char_AGS_Stronghold_N",
+    "PCMakingTime": 43200,
+    "BluePrint_Idx": 22,
+    "MetalCost": 4000,
+    "NutrientCost": 0,
+    "PowerCost": 3000,
+    "NeedItemKeyString": [
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      50,
+      100,
+      350,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_HeavyArmor",
+      "Robot_HPBooster",
+      "Robot_OverTechPowerPack"
+    ]
+  },
+  "Char_PECS_Glacias_N": {
+    "PCKeyString": "Char_PECS_Glacias_N",
+    "PCMakingTime": 43200,
+    "BluePrint_Idx": 23,
+    "MetalCost": 2000,
+    "NutrientCost": 0,
+    "PowerCost": 5500,
+    "NeedItemKeyString": [
+      "Special_Module",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      50,
+      100,
+      350,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_MassiveGenerator",
+      "Robot_OverTechPowerPack",
+      "Robot_CooledReactor"
+    ]
+  },
+  "Char_AGS_Arachne_N": {
+    "PCKeyString": "Char_AGS_Arachne_N",
+    "PCMakingTime": 29700,
+    "BluePrint_Idx": 24,
+    "MetalCost": 900,
+    "NutrientCost": 0,
+    "PowerCost": 1500,
+    "NeedItemKeyString": [
+      "RobotParts_HDCalculationControl",
+      "RobotParts_CalculationControl",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      40,
+      300,
+      50,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_ExamSystem",
+      "Robot_LargeFrame",
+      "Robot_MassiveGenerator"
+    ]
+  }
+}

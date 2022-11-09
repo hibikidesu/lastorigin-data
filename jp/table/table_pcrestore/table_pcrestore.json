@@ -1,0 +1,74 @@
+{
+  "1": {
+    "RoleType": 0,
+    "ActorClassType": 0,
+    "MetalCost": 1,
+    "NutrientCost": 2,
+    "PowerCost": 1,
+    "TimeCost": 22
+  },
+  "2": {
+    "RoleType": 0,
+    "ActorClassType": 1,
+    "MetalCost": 2,
+    "NutrientCost": 2,
+    "PowerCost": 1,
+    "TimeCost": 25
+  },
+  "3": {
+    "RoleType": 0,
+    "ActorClassType": 2,
+    "MetalCost": 1,
+    "NutrientCost": 2,
+    "PowerCost": 2,
+    "TimeCost": 21
+  },
+  "4": {
+    "RoleType": 1,
+    "ActorClassType": 0,
+    "MetalCost": 1,
+    "NutrientCost": 1,
+    "PowerCost": 2,
+    "TimeCost": 22
+  },
+  "5": {
+    "RoleType": 1,
+    "ActorClassType": 1,
+    "MetalCost": 2,
+    "NutrientCost": 2,
+    "PowerCost": 2,
+    "TimeCost": 28
+  },
+  "6": {
+    "RoleType": 1,
+    "ActorClassType": 2,
+    "MetalCost": 1,
+    "NutrientCost": 1,
+    "PowerCost": 3,
+    "TimeCost": 31
+  },
+  "7": {
+    "RoleType": 2,
+    "ActorClassType": 0,
+    "MetalCost": 1,
+    "NutrientCost": 1,
+    "PowerCost": 1,
+    "TimeCost": 18
+  },
+  "8": {
+    "RoleType": 2,
+    "ActorClassType": 1,
+    "MetalCost": 2,
+    "NutrientCost": 2,
+    "PowerCost": 2,
+    "TimeCost": 25
+  },
+  "9": {
+    "RoleType": 2,
+    "ActorClassType": 2,
+    "MetalCost": 1,
+    "NutrientCost": 1,
+    "PowerCost": 2,
+    "TimeCost": 25
+  }
+}

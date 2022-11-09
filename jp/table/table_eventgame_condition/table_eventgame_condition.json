@@ -1,0 +1,12 @@
+{
+  "Event_EventDice_04": {
+    "EventGame_Type": 0,
+    "EventGame_Name": "\ud2b9\uc218 \uc784\ubb34",
+    "EventGame_CategoryPos": 1,
+    "EventGame_StartDay": "2021-07-12 00:15:00",
+    "EventGame_EndDay": "2021-12-30 09:00:00",
+    "EventGame_DayDesc": "2021.10.12 ~ 2021.11.15",
+    "EventGame_UnlockType": 0,
+    "EventGame_UnlockCondition": ""
+  }
+}

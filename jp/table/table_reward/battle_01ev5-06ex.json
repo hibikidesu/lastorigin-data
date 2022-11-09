@@ -1,0 +1,686 @@
+{
+  "BATTLE_01Ev5-06Ex-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.004",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-01_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.004",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-01_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.004",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.004",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-02_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.004",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-02_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.004",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1",
+      "Equip_Sub_ExamKit_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.02"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.006",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-03_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1",
+      "Equip_Sub_ExamKit_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.02"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.006",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-03_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1",
+      "Equip_Sub_ExamKit_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.02"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.006",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-04": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1",
+      "Equip_Sub_ExamKit_T4",
+      "Equip_Sub_ExamKit_T3",
+      "Equip_Sub_ExamKit_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.005",
+      "0.02",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.012",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-04_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1",
+      "Equip_Sub_ExamKit_T4",
+      "Equip_Sub_ExamKit_T3",
+      "Equip_Sub_ExamKit_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.005",
+      "0.02",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.012",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-06Ex-04_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2250,
+    "ExpMax": 2250,
+    "ExpRate": "1",
+    "SkillExp": 225,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_ExamKit_T1",
+      "Equip_Sub_ExamKit_T4",
+      "Equip_Sub_ExamKit_T3",
+      "Equip_Sub_ExamKit_T2"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.005",
+      "0.02",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Sirene_N",
+      "Char_BR_Nereid_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.012",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

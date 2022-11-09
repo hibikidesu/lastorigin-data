@@ -1,0 +1,726 @@
+{
+  "CHAR_DIS_GRADE1": {
+    "DisassembleType": 0,
+    "Grade": 1,
+    "MetalObtain": 1,
+    "NutrientObtain": 1,
+    "PowerObtain": 1,
+    "GiveItemKeyString": [],
+    "GiveItemCount": [],
+    "ItemRate": []
+  },
+  "CHAR_DIS_GRADE2": {
+    "DisassembleType": 0,
+    "Grade": 2,
+    "MetalObtain": 5,
+    "NutrientObtain": 5,
+    "PowerObtain": 5,
+    "GiveItemKeyString": [
+      "Normal_Module"
+    ],
+    "GiveItemCount": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1"
+    ]
+  },
+  "CHAR_DIS_GRADE3": {
+    "DisassembleType": 0,
+    "Grade": 3,
+    "MetalObtain": 25,
+    "NutrientObtain": 25,
+    "PowerObtain": 25,
+    "GiveItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      25,
+      3,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ]
+  },
+  "CHAR_DIS_GRADE4": {
+    "DisassembleType": 0,
+    "Grade": 4,
+    "MetalObtain": 50,
+    "NutrientObtain": 50,
+    "PowerObtain": 50,
+    "GiveItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      50,
+      10,
+      1,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "CHAR_DIS_GRADE5": {
+    "DisassembleType": 0,
+    "Grade": 5,
+    "MetalObtain": 100,
+    "NutrientObtain": 100,
+    "PowerObtain": 100,
+    "GiveItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      100,
+      20,
+      5,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_GRADE1": {
+    "DisassembleType": 1,
+    "Grade": 1,
+    "MetalObtain": 1,
+    "NutrientObtain": 1,
+    "PowerObtain": 1,
+    "GiveItemKeyString": [],
+    "GiveItemCount": [],
+    "ItemRate": []
+  },
+  "ITEM_DIS_GRADE2": {
+    "DisassembleType": 1,
+    "Grade": 2,
+    "MetalObtain": 3,
+    "NutrientObtain": 0,
+    "PowerObtain": 3,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Normal_Module"
+    ],
+    "GiveItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_GRADE3": {
+    "DisassembleType": 1,
+    "Grade": 3,
+    "MetalObtain": 5,
+    "NutrientObtain": 0,
+    "PowerObtain": 5,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      3,
+      1,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_GRADE4": {
+    "DisassembleType": 1,
+    "Grade": 4,
+    "MetalObtain": 10,
+    "NutrientObtain": 0,
+    "PowerObtain": 10,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T2",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      5,
+      2,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_GRADE5": {
+    "DisassembleType": 1,
+    "Grade": 5,
+    "MetalObtain": 40,
+    "NutrientObtain": 0,
+    "PowerObtain": 40,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T3",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      20,
+      6,
+      2
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEa2": {
+    "DisassembleType": 1,
+    "Grade": 2,
+    "MetalObtain": 3,
+    "NutrientObtain": 0,
+    "PowerObtain": 3,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralChip_T1",
+      "Consumable_EquipProSourceChip_T1",
+      "Consumable_EssenceCrystal_T1",
+      "Normal_Module"
+    ],
+    "GiveItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEa3": {
+    "DisassembleType": 1,
+    "Grade": 3,
+    "MetalObtain": 5,
+    "NutrientObtain": 0,
+    "PowerObtain": 5,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralChip_T1",
+      "Consumable_EquipProSourceChip_T1",
+      "Consumable_EssenceCrystal_T1",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      1,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEa4": {
+    "DisassembleType": 1,
+    "Grade": 4,
+    "MetalObtain": 10,
+    "NutrientObtain": 0,
+    "PowerObtain": 10,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralChip_T2",
+      "Consumable_EquipProSourceChip_T2",
+      "Consumable_EssenceCrystal_T2",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      5,
+      2,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEa5": {
+    "DisassembleType": 1,
+    "Grade": 5,
+    "MetalObtain": 40,
+    "NutrientObtain": 0,
+    "PowerObtain": 40,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralChip_T3",
+      "Consumable_EquipProSourceChip_T3",
+      "Consumable_EssenceCrystal_T3",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      20,
+      6,
+      2,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEa6": {
+    "DisassembleType": 1,
+    "Grade": 6,
+    "MetalObtain": 60,
+    "NutrientObtain": 0,
+    "PowerObtain": 60,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralChip_T4",
+      "Consumable_EquipProSourceChip_T4",
+      "Consumable_EssenceCrystal_T4",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      30,
+      8,
+      3,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEb2": {
+    "DisassembleType": 1,
+    "Grade": 2,
+    "MetalObtain": 3,
+    "NutrientObtain": 0,
+    "PowerObtain": 3,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralOS_T1",
+      "Consumable_EquipProSourceOS_T1",
+      "Consumable_EssenceCrystal_T1",
+      "Normal_Module"
+    ],
+    "GiveItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEb3": {
+    "DisassembleType": 1,
+    "Grade": 3,
+    "MetalObtain": 5,
+    "NutrientObtain": 0,
+    "PowerObtain": 5,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralOS_T1",
+      "Consumable_EquipProSourceOS_T1",
+      "Consumable_EssenceCrystal_T1",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      1,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEb4": {
+    "DisassembleType": 1,
+    "Grade": 4,
+    "MetalObtain": 10,
+    "NutrientObtain": 0,
+    "PowerObtain": 10,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralOS_T2",
+      "Consumable_EquipProSourceOS_T2",
+      "Consumable_EssenceCrystal_T2",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      5,
+      2,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEb5": {
+    "DisassembleType": 1,
+    "Grade": 5,
+    "MetalObtain": 40,
+    "NutrientObtain": 0,
+    "PowerObtain": 40,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralOS_T3",
+      "Consumable_EquipProSourceOS_T3",
+      "Consumable_EssenceCrystal_T3",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      20,
+      6,
+      2,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEb6": {
+    "DisassembleType": 1,
+    "Grade": 6,
+    "MetalObtain": 60,
+    "NutrientObtain": 0,
+    "PowerObtain": 60,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralOS_T4",
+      "Consumable_EquipProSourceOS_T4",
+      "Consumable_EssenceCrystal_T4",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      30,
+      8,
+      3,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEc2": {
+    "DisassembleType": 1,
+    "Grade": 2,
+    "MetalObtain": 3,
+    "NutrientObtain": 0,
+    "PowerObtain": 3,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralSub_T1",
+      "Consumable_EquipProSourceSub_T1",
+      "Consumable_EssenceCrystal_T1",
+      "Normal_Module"
+    ],
+    "GiveItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEc3": {
+    "DisassembleType": 1,
+    "Grade": 3,
+    "MetalObtain": 5,
+    "NutrientObtain": 0,
+    "PowerObtain": 5,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralSub_T1",
+      "Consumable_EquipProSourceSub_T1",
+      "Consumable_EssenceCrystal_T1",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      1,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEc4": {
+    "DisassembleType": 1,
+    "Grade": 4,
+    "MetalObtain": 10,
+    "NutrientObtain": 0,
+    "PowerObtain": 10,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralSub_T2",
+      "Consumable_EquipProSourceSub_T2",
+      "Consumable_EssenceCrystal_T2",
+      "Normal_Module",
+      "Advanced_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      5,
+      2,
+      0,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEc5": {
+    "DisassembleType": 1,
+    "Grade": 5,
+    "MetalObtain": 40,
+    "NutrientObtain": 0,
+    "PowerObtain": 40,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralSub_T3",
+      "Consumable_EquipProSourceSub_T3",
+      "Consumable_EssenceCrystal_T3",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      20,
+      6,
+      2,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEc6": {
+    "DisassembleType": 1,
+    "Grade": 6,
+    "MetalObtain": 60,
+    "NutrientObtain": 0,
+    "PowerObtain": 60,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralSub_T4",
+      "Consumable_EquipProSourceSub_T4",
+      "Consumable_EssenceCrystal_T4",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      2,
+      2,
+      2,
+      30,
+      8,
+      3,
+      0
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ITEM_DIS_ROGGRADEd6": {
+    "DisassembleType": 1,
+    "Grade": 6,
+    "MetalObtain": 60,
+    "NutrientObtain": 0,
+    "PowerObtain": 60,
+    "GiveItemKeyString": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EWMPMetal",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "GiveItemCount": [
+      2,
+      500,
+      8,
+      3
+    ],
+    "ItemRate": [
+      "1",
+      "1",
+      "1",
+      "1"
+    ]
+  }
+}

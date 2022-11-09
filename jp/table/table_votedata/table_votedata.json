@@ -1,0 +1,20 @@
+{
+  "TestVote_17_1": {
+    "Vote_Group": "TestVote_17",
+    "Vote_Sortindex": 1,
+    "Vote_RunoffStat": 0,
+    "Vote_RunoffCount": 3,
+    "Vote_StartDay": "2022/05/06 15:00:00",
+    "Vote_EndDay": "2022/05/07 03:00:00",
+    "Vote_CandidateChar": [
+      "Char_PECS_CyclopsePrincess_N",
+      "Char_DS_BunnySlayer_N",
+      "Char_BR_Habetrot_N",
+      "Char_ST_Mercury_N",
+      "Char_BR_Scarabya_N",
+      "Char_3P_Melite_N",
+      "Char_PECS_Sonia_N",
+      "Char_3P_Ajax_N"
+    ]
+  }
+}

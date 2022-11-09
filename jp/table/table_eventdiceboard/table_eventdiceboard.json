@@ -1,0 +1,1082 @@
+{
+  "Event_EventDice_01_Board_Reward_0_1": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_1",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_2": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_2",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_3": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_3",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_4": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_4",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_5": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_5",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_6": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 6,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_6",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_7": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 7,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_7",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_8": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 8,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_8",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_9": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 9,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_9",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_10": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_10",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_11": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 11,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_11",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_12": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 12,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_12",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_13": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 13,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_13",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_14": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 14,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_14",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_15": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 15,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_15",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_16": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 16,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_16",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_17": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 17,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_17",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_18": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 18,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_18",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_19": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 19,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_19",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_0_20": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 0,
+    "BoardNum": 20,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_0_20",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_1": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_1",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_2": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_2",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_3": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_3",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_4": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_4",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_5": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_5",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_6": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 6,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_6",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_7": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 7,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_7",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_8": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 8,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_8",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_9": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 9,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_9",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_10": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_10",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_11": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 11,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_11",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_12": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 12,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_12",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_13": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 13,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_13",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_14": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 14,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_14",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_15": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 15,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_15",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_16": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 16,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_16",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_17": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 17,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_17",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_18": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 18,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_18",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_19": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 19,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_19",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_1_20": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 1,
+    "BoardNum": 20,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_1_20",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_1": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_1",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_2": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_2",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_3": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_3",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_4": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_4",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_5": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_5",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_6": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 6,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_6",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_7": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 7,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_7",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_8": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 8,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_8",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_9": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 9,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_9",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_10": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_10",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_11": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 11,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_11",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_12": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 12,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_12",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_13": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 13,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_13",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_14": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 14,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_14",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_15": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 15,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_15",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_16": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 16,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_16",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_17": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 17,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_17",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_18": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 18,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_18",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_19": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 19,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_19",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_2_20": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 2,
+    "BoardNum": 20,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_2_20",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_1": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_1",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_2": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_2",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_3": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_3",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_4": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_4",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_5": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_5",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_6": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 6,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_6",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_7": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 7,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_7",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_8": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 8,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_8",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_9": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 9,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_9",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_10": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_10",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_11": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 11,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_11",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_12": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 12,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_12",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_13": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 13,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_13",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_14": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 14,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_14",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_15": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 15,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_15",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_16": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 16,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_16",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_17": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 17,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_17",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_18": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 18,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_18",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_19": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 19,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_19",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_3_20": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 3,
+    "BoardNum": 20,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_3_20",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_1": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_1",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_2": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_2",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_3": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_3",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_4": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_4",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_5": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_5",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_6": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 6,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_6",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_7": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 7,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_7",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_8": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 8,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_8",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_9": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 9,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_9",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_10": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_10",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_11": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 11,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_11",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_12": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 12,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_12",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_13": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 13,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_13",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_14": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 14,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_14",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_15": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 15,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_15",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_16": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 16,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_16",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_17": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 17,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_17",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_18": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 18,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_18",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_19": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 19,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_19",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_4_20": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 4,
+    "BoardNum": 20,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_4_20",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_1": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_1",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_2": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_2",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_3": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_3",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_4": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_4",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_5": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_5",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_6": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 6,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_6",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_7": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 7,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_7",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_8": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 8,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_8",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_9": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 9,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_9",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_10": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_10",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_11": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 11,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_11",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_12": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 12,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_12",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_13": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 13,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_13",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_14": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 14,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_14",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_15": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 15,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_15",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_16": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 16,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_16",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_17": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 17,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_17",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_18": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 18,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_18",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_19": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 19,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_19",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  },
+  "Event_EventDice_01_Board_Reward_5_20": {
+    "EventDice_Category": "Event_EventDice_06",
+    "Repeat": 1,
+    "Round": 5,
+    "BoardNum": 20,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Board_Reward_5_20",
+    "EventDice_NeedItemKey": "Consumable_EventDiceIDChip",
+    "EventDice_NeedItemCount": 6
+  }
+}

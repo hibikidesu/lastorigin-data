@@ -1,0 +1,23 @@
+{
+  "FixMember_Ch01Stage01": {
+    "Squad_Fixed_Char1": "Char_BR_PA00EL_N",
+    "Squad_Fixed_Char2": "Char_3P_ConstantiaS2_N",
+    "Squad_Fixed_Char3": "",
+    "Squad_Fixed_Char4": "",
+    "Squad_Fixed_Char5": ""
+  },
+  "FixMember_Ch01Stage02": {
+    "Squad_Fixed_Char1": "Char_BR_PA00EL_N",
+    "Squad_Fixed_Char2": "Char_3P_ConstantiaS2_N",
+    "Squad_Fixed_Char3": "",
+    "Squad_Fixed_Char4": "",
+    "Squad_Fixed_Char5": ""
+  },
+  "FixMember_Ch01Stage03": {
+    "Squad_Fixed_Char1": "Char_BR_PA00EL_N",
+    "Squad_Fixed_Char2": "Char_3P_ConstantiaS2_N",
+    "Squad_Fixed_Char3": "Char_DS_Johanna_N",
+    "Squad_Fixed_Char4": "",
+    "Squad_Fixed_Char5": ""
+  }
+}

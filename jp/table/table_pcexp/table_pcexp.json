@@ -1,0 +1,2882 @@
+{
+  "2\uc131 1\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 1,
+    "Exp": 0,
+    "NeedExp": 120
+  },
+  "2\uc131 2\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 2,
+    "Exp": 0,
+    "NeedExp": 129
+  },
+  "2\uc131 3\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 3,
+    "Exp": 0,
+    "NeedExp": 140
+  },
+  "2\uc131 4\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 4,
+    "Exp": 0,
+    "NeedExp": 152
+  },
+  "2\uc131 5\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 5,
+    "Exp": 0,
+    "NeedExp": 165
+  },
+  "2\uc131 6\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 6,
+    "Exp": 0,
+    "NeedExp": 182
+  },
+  "2\uc131 7\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 7,
+    "Exp": 0,
+    "NeedExp": 200
+  },
+  "2\uc131 8\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 8,
+    "Exp": 0,
+    "NeedExp": 218
+  },
+  "2\uc131 9\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 9,
+    "Exp": 0,
+    "NeedExp": 241
+  },
+  "2\uc131 10\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 10,
+    "Exp": 0,
+    "NeedExp": 264
+  },
+  "2\uc131 11\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 11,
+    "Exp": 0,
+    "NeedExp": 291
+  },
+  "2\uc131 12\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 12,
+    "Exp": 0,
+    "NeedExp": 321
+  },
+  "2\uc131 13\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 13,
+    "Exp": 0,
+    "NeedExp": 355
+  },
+  "2\uc131 14\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 14,
+    "Exp": 0,
+    "NeedExp": 392
+  },
+  "2\uc131 15\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 15,
+    "Exp": 0,
+    "NeedExp": 434
+  },
+  "2\uc131 16\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 16,
+    "Exp": 0,
+    "NeedExp": 476
+  },
+  "2\uc131 17\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 17,
+    "Exp": 0,
+    "NeedExp": 523
+  },
+  "2\uc131 18\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 18,
+    "Exp": 0,
+    "NeedExp": 577
+  },
+  "2\uc131 19\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 19,
+    "Exp": 0,
+    "NeedExp": 638
+  },
+  "2\uc131 20\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 20,
+    "Exp": 0,
+    "NeedExp": 703
+  },
+  "2\uc131 21\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 21,
+    "Exp": 0,
+    "NeedExp": 773
+  },
+  "2\uc131 22\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 22,
+    "Exp": 0,
+    "NeedExp": 852
+  },
+  "2\uc131 23\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 23,
+    "Exp": 0,
+    "NeedExp": 937
+  },
+  "2\uc131 24\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 24,
+    "Exp": 0,
+    "NeedExp": 1035
+  },
+  "2\uc131 25\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 25,
+    "Exp": 0,
+    "NeedExp": 1141
+  },
+  "2\uc131 26\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 26,
+    "Exp": 0,
+    "NeedExp": 1260
+  },
+  "2\uc131 27\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 27,
+    "Exp": 0,
+    "NeedExp": 1386
+  },
+  "2\uc131 28\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 28,
+    "Exp": 0,
+    "NeedExp": 1528
+  },
+  "2\uc131 29\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 29,
+    "Exp": 0,
+    "NeedExp": 1682
+  },
+  "2\uc131 30\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 30,
+    "Exp": 0,
+    "NeedExp": 1852
+  },
+  "2\uc131 31\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 31,
+    "Exp": 0,
+    "NeedExp": 2043
+  },
+  "2\uc131 32\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 32,
+    "Exp": 0,
+    "NeedExp": 2251
+  },
+  "2\uc131 33\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 33,
+    "Exp": 0,
+    "NeedExp": 2481
+  },
+  "2\uc131 34\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 34,
+    "Exp": 0,
+    "NeedExp": 2734
+  },
+  "2\uc131 35\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 35,
+    "Exp": 0,
+    "NeedExp": 2982
+  },
+  "2\uc131 36\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 36,
+    "Exp": 0,
+    "NeedExp": 3256
+  },
+  "2\uc131 37\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 37,
+    "Exp": 0,
+    "NeedExp": 3556
+  },
+  "2\uc131 38\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 38,
+    "Exp": 0,
+    "NeedExp": 3890
+  },
+  "2\uc131 39\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 39,
+    "Exp": 0,
+    "NeedExp": 4254
+  },
+  "2\uc131 40\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 40,
+    "Exp": 0,
+    "NeedExp": 4634
+  },
+  "2\uc131 41\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 41,
+    "Exp": 0,
+    "NeedExp": 5052
+  },
+  "2\uc131 42\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 42,
+    "Exp": 0,
+    "NeedExp": 5511
+  },
+  "2\uc131 43\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 43,
+    "Exp": 0,
+    "NeedExp": 6019
+  },
+  "2\uc131 44\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 44,
+    "Exp": 0,
+    "NeedExp": 6574
+  },
+  "2\uc131 45\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 45,
+    "Exp": 0,
+    "NeedExp": 7227
+  },
+  "2\uc131 46\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 46,
+    "Exp": 0,
+    "NeedExp": 7973
+  },
+  "2\uc131 47\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 47,
+    "Exp": 0,
+    "NeedExp": 8787
+  },
+  "2\uc131 48\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 48,
+    "Exp": 0,
+    "NeedExp": 9614
+  },
+  "2\uc131 49\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 49,
+    "Exp": 0,
+    "NeedExp": 10506
+  },
+  "2\uc131 50\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 50,
+    "Exp": 0,
+    "NeedExp": 11486
+  },
+  "2\uc131 51\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 51,
+    "Exp": 0,
+    "NeedExp": 12509
+  },
+  "2\uc131 52\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 52,
+    "Exp": 0,
+    "NeedExp": 13584
+  },
+  "2\uc131 53\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 53,
+    "Exp": 0,
+    "NeedExp": 14712
+  },
+  "2\uc131 54\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 54,
+    "Exp": 0,
+    "NeedExp": 15895
+  },
+  "2\uc131 55\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 55,
+    "Exp": 0,
+    "NeedExp": 17132
+  },
+  "2\uc131 56\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 56,
+    "Exp": 0,
+    "NeedExp": 18426
+  },
+  "2\uc131 57\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 57,
+    "Exp": 0,
+    "NeedExp": 19776
+  },
+  "2\uc131 58\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 58,
+    "Exp": 0,
+    "NeedExp": 21185
+  },
+  "2\uc131 59\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 59,
+    "Exp": 0,
+    "NeedExp": 22653
+  },
+  "2\uc131 60\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 60,
+    "Exp": 0,
+    "NeedExp": 24181
+  },
+  "2\uc131 61\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 61,
+    "Exp": 0,
+    "NeedExp": 25770
+  },
+  "2\uc131 62\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 62,
+    "Exp": 0,
+    "NeedExp": 27421
+  },
+  "2\uc131 63\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 63,
+    "Exp": 0,
+    "NeedExp": 29136
+  },
+  "2\uc131 64\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 64,
+    "Exp": 0,
+    "NeedExp": 30914
+  },
+  "2\uc131 65\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 65,
+    "Exp": 0,
+    "NeedExp": 32757
+  },
+  "2\uc131 66\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 66,
+    "Exp": 0,
+    "NeedExp": 34667
+  },
+  "2\uc131 67\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 67,
+    "Exp": 0,
+    "NeedExp": 36644
+  },
+  "2\uc131 68\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 68,
+    "Exp": 0,
+    "NeedExp": 38688
+  },
+  "2\uc131 69\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 69,
+    "Exp": 0,
+    "NeedExp": 40802
+  },
+  "2\uc131 70\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 70,
+    "Exp": 0,
+    "NeedExp": 42986
+  },
+  "2\uc131 71\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 71,
+    "Exp": 0,
+    "NeedExp": 45241
+  },
+  "2\uc131 72\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 72,
+    "Exp": 0,
+    "NeedExp": 47568
+  },
+  "2\uc131 73\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 73,
+    "Exp": 0,
+    "NeedExp": 49968
+  },
+  "2\uc131 74\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 74,
+    "Exp": 0,
+    "NeedExp": 52443
+  },
+  "2\uc131 75\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 75,
+    "Exp": 0,
+    "NeedExp": 54992
+  },
+  "2\uc131 76\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 76,
+    "Exp": 0,
+    "NeedExp": 57618
+  },
+  "2\uc131 77\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 77,
+    "Exp": 0,
+    "NeedExp": 60320
+  },
+  "2\uc131 78\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 78,
+    "Exp": 0,
+    "NeedExp": 63101
+  },
+  "2\uc131 79\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 79,
+    "Exp": 0,
+    "NeedExp": 65961
+  },
+  "2\uc131 80\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 80,
+    "Exp": 0,
+    "NeedExp": 68901
+  },
+  "2\uc131 81\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 81,
+    "Exp": 0,
+    "NeedExp": 71922
+  },
+  "2\uc131 82\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 82,
+    "Exp": 0,
+    "NeedExp": 75025
+  },
+  "2\uc131 83\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 83,
+    "Exp": 0,
+    "NeedExp": 78212
+  },
+  "2\uc131 84\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 84,
+    "Exp": 0,
+    "NeedExp": 81482
+  },
+  "2\uc131 85\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 85,
+    "Exp": 0,
+    "NeedExp": 84837
+  },
+  "2\uc131 86\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 86,
+    "Exp": 0,
+    "NeedExp": 88279
+  },
+  "2\uc131 87\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 87,
+    "Exp": 0,
+    "NeedExp": 91808
+  },
+  "2\uc131 88\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 88,
+    "Exp": 0,
+    "NeedExp": 95424
+  },
+  "2\uc131 89\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 89,
+    "Exp": 0,
+    "NeedExp": 99130
+  },
+  "2\uc131 90\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 90,
+    "Exp": 0,
+    "NeedExp": 123219
+  },
+  "2\uc131 91\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 91,
+    "Exp": 0,
+    "NeedExp": 153161
+  },
+  "2\uc131 92\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 92,
+    "Exp": 0,
+    "NeedExp": 190380
+  },
+  "2\uc131 93\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 93,
+    "Exp": 0,
+    "NeedExp": 236642
+  },
+  "2\uc131 94\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 94,
+    "Exp": 0,
+    "NeedExp": 294146
+  },
+  "2\uc131 95\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 95,
+    "Exp": 0,
+    "NeedExp": 365624
+  },
+  "2\uc131 96\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 96,
+    "Exp": 0,
+    "NeedExp": 454470
+  },
+  "2\uc131 97\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 97,
+    "Exp": 0,
+    "NeedExp": 564906
+  },
+  "2\uc131 98\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 98,
+    "Exp": 0,
+    "NeedExp": 702178
+  },
+  "2\uc131 99\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 99,
+    "Exp": 0,
+    "NeedExp": 872807
+  },
+  "2\uc131 100\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 100,
+    "Exp": 0,
+    "NeedExp": 1003728
+  },
+  "3\uc131 1\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 1,
+    "Exp": 0,
+    "NeedExp": 150
+  },
+  "3\uc131 2\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 2,
+    "Exp": 0,
+    "NeedExp": 161
+  },
+  "3\uc131 3\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 3,
+    "Exp": 0,
+    "NeedExp": 175
+  },
+  "3\uc131 4\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 4,
+    "Exp": 0,
+    "NeedExp": 190
+  },
+  "3\uc131 5\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 5,
+    "Exp": 0,
+    "NeedExp": 206
+  },
+  "3\uc131 6\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 6,
+    "Exp": 0,
+    "NeedExp": 227
+  },
+  "3\uc131 7\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 7,
+    "Exp": 0,
+    "NeedExp": 250
+  },
+  "3\uc131 8\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 8,
+    "Exp": 0,
+    "NeedExp": 272
+  },
+  "3\uc131 9\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 9,
+    "Exp": 0,
+    "NeedExp": 301
+  },
+  "3\uc131 10\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 10,
+    "Exp": 0,
+    "NeedExp": 329
+  },
+  "3\uc131 11\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 11,
+    "Exp": 0,
+    "NeedExp": 363
+  },
+  "3\uc131 12\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 12,
+    "Exp": 0,
+    "NeedExp": 401
+  },
+  "3\uc131 13\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 13,
+    "Exp": 0,
+    "NeedExp": 443
+  },
+  "3\uc131 14\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 14,
+    "Exp": 0,
+    "NeedExp": 490
+  },
+  "3\uc131 15\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 15,
+    "Exp": 0,
+    "NeedExp": 542
+  },
+  "3\uc131 16\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 16,
+    "Exp": 0,
+    "NeedExp": 594
+  },
+  "3\uc131 17\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 17,
+    "Exp": 0,
+    "NeedExp": 653
+  },
+  "3\uc131 18\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 18,
+    "Exp": 0,
+    "NeedExp": 721
+  },
+  "3\uc131 19\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 19,
+    "Exp": 0,
+    "NeedExp": 797
+  },
+  "3\uc131 20\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 20,
+    "Exp": 0,
+    "NeedExp": 878
+  },
+  "3\uc131 21\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 21,
+    "Exp": 0,
+    "NeedExp": 966
+  },
+  "3\uc131 22\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 22,
+    "Exp": 0,
+    "NeedExp": 1064
+  },
+  "3\uc131 23\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 23,
+    "Exp": 0,
+    "NeedExp": 1171
+  },
+  "3\uc131 24\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 24,
+    "Exp": 0,
+    "NeedExp": 1293
+  },
+  "3\uc131 25\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 25,
+    "Exp": 0,
+    "NeedExp": 1426
+  },
+  "3\uc131 26\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 26,
+    "Exp": 0,
+    "NeedExp": 1574
+  },
+  "3\uc131 27\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 27,
+    "Exp": 0,
+    "NeedExp": 1732
+  },
+  "3\uc131 28\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 28,
+    "Exp": 0,
+    "NeedExp": 1909
+  },
+  "3\uc131 29\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 29,
+    "Exp": 0,
+    "NeedExp": 2102
+  },
+  "3\uc131 30\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 30,
+    "Exp": 0,
+    "NeedExp": 2315
+  },
+  "3\uc131 31\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 31,
+    "Exp": 0,
+    "NeedExp": 2553
+  },
+  "3\uc131 32\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 32,
+    "Exp": 0,
+    "NeedExp": 2813
+  },
+  "3\uc131 33\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 33,
+    "Exp": 0,
+    "NeedExp": 3101
+  },
+  "3\uc131 34\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 34,
+    "Exp": 0,
+    "NeedExp": 3417
+  },
+  "3\uc131 35\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 35,
+    "Exp": 0,
+    "NeedExp": 3727
+  },
+  "3\uc131 36\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 36,
+    "Exp": 0,
+    "NeedExp": 4069
+  },
+  "3\uc131 37\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 37,
+    "Exp": 0,
+    "NeedExp": 4444
+  },
+  "3\uc131 38\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 38,
+    "Exp": 0,
+    "NeedExp": 4862
+  },
+  "3\uc131 39\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 39,
+    "Exp": 0,
+    "NeedExp": 5317
+  },
+  "3\uc131 40\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 40,
+    "Exp": 0,
+    "NeedExp": 5792
+  },
+  "3\uc131 41\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 41,
+    "Exp": 0,
+    "NeedExp": 6315
+  },
+  "3\uc131 42\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 42,
+    "Exp": 0,
+    "NeedExp": 6888
+  },
+  "3\uc131 43\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 43,
+    "Exp": 0,
+    "NeedExp": 7523
+  },
+  "3\uc131 44\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 44,
+    "Exp": 0,
+    "NeedExp": 8217
+  },
+  "3\uc131 45\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 45,
+    "Exp": 0,
+    "NeedExp": 9033
+  },
+  "3\uc131 46\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 46,
+    "Exp": 0,
+    "NeedExp": 9966
+  },
+  "3\uc131 47\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 47,
+    "Exp": 0,
+    "NeedExp": 10983
+  },
+  "3\uc131 48\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 48,
+    "Exp": 0,
+    "NeedExp": 12017
+  },
+  "3\uc131 49\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 49,
+    "Exp": 0,
+    "NeedExp": 13132
+  },
+  "3\uc131 50\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 50,
+    "Exp": 0,
+    "NeedExp": 14357
+  },
+  "3\uc131 51\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 51,
+    "Exp": 0,
+    "NeedExp": 15636
+  },
+  "3\uc131 52\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 52,
+    "Exp": 0,
+    "NeedExp": 16980
+  },
+  "3\uc131 53\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 53,
+    "Exp": 0,
+    "NeedExp": 18390
+  },
+  "3\uc131 54\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 54,
+    "Exp": 0,
+    "NeedExp": 19868
+  },
+  "3\uc131 55\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 55,
+    "Exp": 0,
+    "NeedExp": 21415
+  },
+  "3\uc131 56\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 56,
+    "Exp": 0,
+    "NeedExp": 23032
+  },
+  "3\uc131 57\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 57,
+    "Exp": 0,
+    "NeedExp": 24720
+  },
+  "3\uc131 58\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 58,
+    "Exp": 0,
+    "NeedExp": 26481
+  },
+  "3\uc131 59\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 59,
+    "Exp": 0,
+    "NeedExp": 28316
+  },
+  "3\uc131 60\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 60,
+    "Exp": 0,
+    "NeedExp": 30226
+  },
+  "3\uc131 61\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 61,
+    "Exp": 0,
+    "NeedExp": 32212
+  },
+  "3\uc131 62\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 62,
+    "Exp": 0,
+    "NeedExp": 34276
+  },
+  "3\uc131 63\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 63,
+    "Exp": 0,
+    "NeedExp": 36419
+  },
+  "3\uc131 64\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 64,
+    "Exp": 0,
+    "NeedExp": 38642
+  },
+  "3\uc131 65\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 65,
+    "Exp": 0,
+    "NeedExp": 40946
+  },
+  "3\uc131 66\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 66,
+    "Exp": 0,
+    "NeedExp": 43333
+  },
+  "3\uc131 67\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 67,
+    "Exp": 0,
+    "NeedExp": 45804
+  },
+  "3\uc131 68\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 68,
+    "Exp": 0,
+    "NeedExp": 48360
+  },
+  "3\uc131 69\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 69,
+    "Exp": 0,
+    "NeedExp": 51002
+  },
+  "3\uc131 70\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 70,
+    "Exp": 0,
+    "NeedExp": 53732
+  },
+  "3\uc131 71\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 71,
+    "Exp": 0,
+    "NeedExp": 56551
+  },
+  "3\uc131 72\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 72,
+    "Exp": 0,
+    "NeedExp": 59460
+  },
+  "3\uc131 73\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 73,
+    "Exp": 0,
+    "NeedExp": 62460
+  },
+  "3\uc131 74\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 74,
+    "Exp": 0,
+    "NeedExp": 65553
+  },
+  "3\uc131 75\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 75,
+    "Exp": 0,
+    "NeedExp": 68740
+  },
+  "3\uc131 76\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 76,
+    "Exp": 0,
+    "NeedExp": 72022
+  },
+  "3\uc131 77\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 77,
+    "Exp": 0,
+    "NeedExp": 75400
+  },
+  "3\uc131 78\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 78,
+    "Exp": 0,
+    "NeedExp": 78876
+  },
+  "3\uc131 79\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 79,
+    "Exp": 0,
+    "NeedExp": 82451
+  },
+  "3\uc131 80\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 80,
+    "Exp": 0,
+    "NeedExp": 86126
+  },
+  "3\uc131 81\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 81,
+    "Exp": 0,
+    "NeedExp": 89902
+  },
+  "3\uc131 82\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 82,
+    "Exp": 0,
+    "NeedExp": 93781
+  },
+  "3\uc131 83\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 83,
+    "Exp": 0,
+    "NeedExp": 97764
+  },
+  "3\uc131 84\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 84,
+    "Exp": 0,
+    "NeedExp": 101852
+  },
+  "3\uc131 85\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 85,
+    "Exp": 0,
+    "NeedExp": 106046
+  },
+  "3\uc131 86\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 86,
+    "Exp": 0,
+    "NeedExp": 110348
+  },
+  "3\uc131 87\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 87,
+    "Exp": 0,
+    "NeedExp": 114759
+  },
+  "3\uc131 88\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 88,
+    "Exp": 0,
+    "NeedExp": 119280
+  },
+  "3\uc131 89\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 89,
+    "Exp": 0,
+    "NeedExp": 123912
+  },
+  "3\uc131 90\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 90,
+    "Exp": 0,
+    "NeedExp": 154023
+  },
+  "3\uc131 91\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 91,
+    "Exp": 0,
+    "NeedExp": 191451
+  },
+  "3\uc131 92\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 92,
+    "Exp": 0,
+    "NeedExp": 237974
+  },
+  "3\uc131 93\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 93,
+    "Exp": 0,
+    "NeedExp": 295802
+  },
+  "3\uc131 94\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 94,
+    "Exp": 0,
+    "NeedExp": 367682
+  },
+  "3\uc131 95\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 95,
+    "Exp": 0,
+    "NeedExp": 457029
+  },
+  "3\uc131 96\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 96,
+    "Exp": 0,
+    "NeedExp": 568087
+  },
+  "3\uc131 97\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 97,
+    "Exp": 0,
+    "NeedExp": 706132
+  },
+  "3\uc131 98\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 98,
+    "Exp": 0,
+    "NeedExp": 877722
+  },
+  "3\uc131 99\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 99,
+    "Exp": 0,
+    "NeedExp": 1091008
+  },
+  "3\uc131 100\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 100,
+    "Exp": 0,
+    "NeedExp": 1254659
+  },
+  "4\uc131 1\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 1,
+    "Exp": 0,
+    "NeedExp": 180
+  },
+  "4\uc131 2\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 2,
+    "Exp": 0,
+    "NeedExp": 194
+  },
+  "4\uc131 3\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 3,
+    "Exp": 0,
+    "NeedExp": 210
+  },
+  "4\uc131 4\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 4,
+    "Exp": 0,
+    "NeedExp": 228
+  },
+  "4\uc131 5\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 5,
+    "Exp": 0,
+    "NeedExp": 248
+  },
+  "4\uc131 6\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 6,
+    "Exp": 0,
+    "NeedExp": 273
+  },
+  "4\uc131 7\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 7,
+    "Exp": 0,
+    "NeedExp": 300
+  },
+  "4\uc131 8\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 8,
+    "Exp": 0,
+    "NeedExp": 327
+  },
+  "4\uc131 9\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 9,
+    "Exp": 0,
+    "NeedExp": 362
+  },
+  "4\uc131 10\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 10,
+    "Exp": 0,
+    "NeedExp": 395
+  },
+  "4\uc131 11\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 11,
+    "Exp": 0,
+    "NeedExp": 436
+  },
+  "4\uc131 12\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 12,
+    "Exp": 0,
+    "NeedExp": 482
+  },
+  "4\uc131 13\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 13,
+    "Exp": 0,
+    "NeedExp": 532
+  },
+  "4\uc131 14\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 14,
+    "Exp": 0,
+    "NeedExp": 588
+  },
+  "4\uc131 15\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 15,
+    "Exp": 0,
+    "NeedExp": 651
+  },
+  "4\uc131 16\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 16,
+    "Exp": 0,
+    "NeedExp": 713
+  },
+  "4\uc131 17\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 17,
+    "Exp": 0,
+    "NeedExp": 784
+  },
+  "4\uc131 18\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 18,
+    "Exp": 0,
+    "NeedExp": 866
+  },
+  "4\uc131 19\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 19,
+    "Exp": 0,
+    "NeedExp": 957
+  },
+  "4\uc131 20\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 20,
+    "Exp": 0,
+    "NeedExp": 1054
+  },
+  "4\uc131 21\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 21,
+    "Exp": 0,
+    "NeedExp": 1160
+  },
+  "4\uc131 22\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 22,
+    "Exp": 0,
+    "NeedExp": 1277
+  },
+  "4\uc131 23\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 23,
+    "Exp": 0,
+    "NeedExp": 1406
+  },
+  "4\uc131 24\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 24,
+    "Exp": 0,
+    "NeedExp": 1552
+  },
+  "4\uc131 25\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 25,
+    "Exp": 0,
+    "NeedExp": 1712
+  },
+  "4\uc131 26\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 26,
+    "Exp": 0,
+    "NeedExp": 1889
+  },
+  "4\uc131 27\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 27,
+    "Exp": 0,
+    "NeedExp": 2079
+  },
+  "4\uc131 28\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 28,
+    "Exp": 0,
+    "NeedExp": 2291
+  },
+  "4\uc131 29\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 29,
+    "Exp": 0,
+    "NeedExp": 2523
+  },
+  "4\uc131 30\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 30,
+    "Exp": 0,
+    "NeedExp": 2778
+  },
+  "4\uc131 31\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 31,
+    "Exp": 0,
+    "NeedExp": 3064
+  },
+  "4\uc131 32\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 32,
+    "Exp": 0,
+    "NeedExp": 3376
+  },
+  "4\uc131 33\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 33,
+    "Exp": 0,
+    "NeedExp": 3722
+  },
+  "4\uc131 34\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 34,
+    "Exp": 0,
+    "NeedExp": 4101
+  },
+  "4\uc131 35\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 35,
+    "Exp": 0,
+    "NeedExp": 4473
+  },
+  "4\uc131 36\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 36,
+    "Exp": 0,
+    "NeedExp": 4883
+  },
+  "4\uc131 37\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 37,
+    "Exp": 0,
+    "NeedExp": 5333
+  },
+  "4\uc131 38\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 38,
+    "Exp": 0,
+    "NeedExp": 5835
+  },
+  "4\uc131 39\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 39,
+    "Exp": 0,
+    "NeedExp": 6381
+  },
+  "4\uc131 40\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 40,
+    "Exp": 0,
+    "NeedExp": 6951
+  },
+  "4\uc131 41\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 41,
+    "Exp": 0,
+    "NeedExp": 7578
+  },
+  "4\uc131 42\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 42,
+    "Exp": 0,
+    "NeedExp": 8266
+  },
+  "4\uc131 43\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 43,
+    "Exp": 0,
+    "NeedExp": 9028
+  },
+  "4\uc131 44\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 44,
+    "Exp": 0,
+    "NeedExp": 9861
+  },
+  "4\uc131 45\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 45,
+    "Exp": 0,
+    "NeedExp": 10840
+  },
+  "4\uc131 46\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 46,
+    "Exp": 0,
+    "NeedExp": 11960
+  },
+  "4\uc131 47\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 47,
+    "Exp": 0,
+    "NeedExp": 13180
+  },
+  "4\uc131 48\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 48,
+    "Exp": 0,
+    "NeedExp": 14421
+  },
+  "4\uc131 49\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 49,
+    "Exp": 0,
+    "NeedExp": 15759
+  },
+  "4\uc131 50\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 50,
+    "Exp": 0,
+    "NeedExp": 17229
+  },
+  "4\uc131 51\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 51,
+    "Exp": 0,
+    "NeedExp": 18764
+  },
+  "4\uc131 52\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 52,
+    "Exp": 0,
+    "NeedExp": 20376
+  },
+  "4\uc131 53\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 53,
+    "Exp": 0,
+    "NeedExp": 22068
+  },
+  "4\uc131 54\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 54,
+    "Exp": 0,
+    "NeedExp": 23842
+  },
+  "4\uc131 55\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 55,
+    "Exp": 0,
+    "NeedExp": 25698
+  },
+  "4\uc131 56\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 56,
+    "Exp": 0,
+    "NeedExp": 27639
+  },
+  "4\uc131 57\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 57,
+    "Exp": 0,
+    "NeedExp": 29664
+  },
+  "4\uc131 58\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 58,
+    "Exp": 0,
+    "NeedExp": 31778
+  },
+  "4\uc131 59\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 59,
+    "Exp": 0,
+    "NeedExp": 33980
+  },
+  "4\uc131 60\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 60,
+    "Exp": 0,
+    "NeedExp": 36272
+  },
+  "4\uc131 61\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 61,
+    "Exp": 0,
+    "NeedExp": 38655
+  },
+  "4\uc131 62\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 62,
+    "Exp": 0,
+    "NeedExp": 41132
+  },
+  "4\uc131 63\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 63,
+    "Exp": 0,
+    "NeedExp": 43703
+  },
+  "4\uc131 64\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 64,
+    "Exp": 0,
+    "NeedExp": 46371
+  },
+  "4\uc131 65\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 65,
+    "Exp": 0,
+    "NeedExp": 49136
+  },
+  "4\uc131 66\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 66,
+    "Exp": 0,
+    "NeedExp": 52000
+  },
+  "4\uc131 67\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 67,
+    "Exp": 0,
+    "NeedExp": 54965
+  },
+  "4\uc131 68\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 68,
+    "Exp": 0,
+    "NeedExp": 58032
+  },
+  "4\uc131 69\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 69,
+    "Exp": 0,
+    "NeedExp": 61203
+  },
+  "4\uc131 70\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 70,
+    "Exp": 0,
+    "NeedExp": 64479
+  },
+  "4\uc131 71\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 71,
+    "Exp": 0,
+    "NeedExp": 67862
+  },
+  "4\uc131 72\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 72,
+    "Exp": 0,
+    "NeedExp": 71352
+  },
+  "4\uc131 73\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 73,
+    "Exp": 0,
+    "NeedExp": 74952
+  },
+  "4\uc131 74\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 74,
+    "Exp": 0,
+    "NeedExp": 78664
+  },
+  "4\uc131 75\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 75,
+    "Exp": 0,
+    "NeedExp": 82488
+  },
+  "4\uc131 76\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 76,
+    "Exp": 0,
+    "NeedExp": 86427
+  },
+  "4\uc131 77\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 77,
+    "Exp": 0,
+    "NeedExp": 90480
+  },
+  "4\uc131 78\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 78,
+    "Exp": 0,
+    "NeedExp": 94652
+  },
+  "4\uc131 79\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 79,
+    "Exp": 0,
+    "NeedExp": 98942
+  },
+  "4\uc131 80\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 80,
+    "Exp": 0,
+    "NeedExp": 103352
+  },
+  "4\uc131 81\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 81,
+    "Exp": 0,
+    "NeedExp": 107883
+  },
+  "4\uc131 82\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 82,
+    "Exp": 0,
+    "NeedExp": 112538
+  },
+  "4\uc131 83\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 83,
+    "Exp": 0,
+    "NeedExp": 117317
+  },
+  "4\uc131 84\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 84,
+    "Exp": 0,
+    "NeedExp": 122223
+  },
+  "4\uc131 85\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 85,
+    "Exp": 0,
+    "NeedExp": 127256
+  },
+  "4\uc131 86\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 86,
+    "Exp": 0,
+    "NeedExp": 132418
+  },
+  "4\uc131 87\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 87,
+    "Exp": 0,
+    "NeedExp": 137711
+  },
+  "4\uc131 88\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 88,
+    "Exp": 0,
+    "NeedExp": 143136
+  },
+  "4\uc131 89\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 89,
+    "Exp": 0,
+    "NeedExp": 148695
+  },
+  "4\uc131 90\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 90,
+    "Exp": 0,
+    "NeedExp": 184828
+  },
+  "4\uc131 91\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 91,
+    "Exp": 0,
+    "NeedExp": 229742
+  },
+  "4\uc131 92\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 92,
+    "Exp": 0,
+    "NeedExp": 285569
+  },
+  "4\uc131 93\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 93,
+    "Exp": 0,
+    "NeedExp": 354963
+  },
+  "4\uc131 94\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 94,
+    "Exp": 0,
+    "NeedExp": 441219
+  },
+  "4\uc131 95\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 95,
+    "Exp": 0,
+    "NeedExp": 548435
+  },
+  "4\uc131 96\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 96,
+    "Exp": 0,
+    "NeedExp": 681705
+  },
+  "4\uc131 97\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 97,
+    "Exp": 0,
+    "NeedExp": 847359
+  },
+  "4\uc131 98\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 98,
+    "Exp": 0,
+    "NeedExp": 1053267
+  },
+  "4\uc131 99\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 99,
+    "Exp": 0,
+    "NeedExp": 1309210
+  },
+  "4\uc131 100\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 100,
+    "Exp": 0,
+    "NeedExp": 1505591
+  },
+  "5\uc131 1\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 1,
+    "Exp": 0,
+    "NeedExp": 225
+  },
+  "5\uc131 2\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 2,
+    "Exp": 0,
+    "NeedExp": 242
+  },
+  "5\uc131 3\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 3,
+    "Exp": 0,
+    "NeedExp": 263
+  },
+  "5\uc131 4\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 4,
+    "Exp": 0,
+    "NeedExp": 285
+  },
+  "5\uc131 5\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 5,
+    "Exp": 0,
+    "NeedExp": 309
+  },
+  "5\uc131 6\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 6,
+    "Exp": 0,
+    "NeedExp": 341
+  },
+  "5\uc131 7\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 7,
+    "Exp": 0,
+    "NeedExp": 375
+  },
+  "5\uc131 8\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 8,
+    "Exp": 0,
+    "NeedExp": 408
+  },
+  "5\uc131 9\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 9,
+    "Exp": 0,
+    "NeedExp": 452
+  },
+  "5\uc131 10\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 10,
+    "Exp": 0,
+    "NeedExp": 494
+  },
+  "5\uc131 11\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 11,
+    "Exp": 0,
+    "NeedExp": 545
+  },
+  "5\uc131 12\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 12,
+    "Exp": 0,
+    "NeedExp": 602
+  },
+  "5\uc131 13\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 13,
+    "Exp": 0,
+    "NeedExp": 665
+  },
+  "5\uc131 14\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 14,
+    "Exp": 0,
+    "NeedExp": 735
+  },
+  "5\uc131 15\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 15,
+    "Exp": 0,
+    "NeedExp": 813
+  },
+  "5\uc131 16\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 16,
+    "Exp": 0,
+    "NeedExp": 891
+  },
+  "5\uc131 17\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 17,
+    "Exp": 0,
+    "NeedExp": 980
+  },
+  "5\uc131 18\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 18,
+    "Exp": 0,
+    "NeedExp": 1082
+  },
+  "5\uc131 19\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 19,
+    "Exp": 0,
+    "NeedExp": 1196
+  },
+  "5\uc131 20\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 20,
+    "Exp": 0,
+    "NeedExp": 1317
+  },
+  "5\uc131 21\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 21,
+    "Exp": 0,
+    "NeedExp": 1449
+  },
+  "5\uc131 22\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 22,
+    "Exp": 0,
+    "NeedExp": 1596
+  },
+  "5\uc131 23\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 23,
+    "Exp": 0,
+    "NeedExp": 1757
+  },
+  "5\uc131 24\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 24,
+    "Exp": 0,
+    "NeedExp": 1940
+  },
+  "5\uc131 25\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 25,
+    "Exp": 0,
+    "NeedExp": 2139
+  },
+  "5\uc131 26\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 26,
+    "Exp": 0,
+    "NeedExp": 2361
+  },
+  "5\uc131 27\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 27,
+    "Exp": 0,
+    "NeedExp": 2598
+  },
+  "5\uc131 28\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 28,
+    "Exp": 0,
+    "NeedExp": 2864
+  },
+  "5\uc131 29\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 29,
+    "Exp": 0,
+    "NeedExp": 3153
+  },
+  "5\uc131 30\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 30,
+    "Exp": 0,
+    "NeedExp": 3473
+  },
+  "5\uc131 31\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 31,
+    "Exp": 0,
+    "NeedExp": 3830
+  },
+  "5\uc131 32\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 32,
+    "Exp": 0,
+    "NeedExp": 4220
+  },
+  "5\uc131 33\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 33,
+    "Exp": 0,
+    "NeedExp": 4652
+  },
+  "5\uc131 34\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 34,
+    "Exp": 0,
+    "NeedExp": 5126
+  },
+  "5\uc131 35\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 35,
+    "Exp": 0,
+    "NeedExp": 5591
+  },
+  "5\uc131 36\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 36,
+    "Exp": 0,
+    "NeedExp": 6104
+  },
+  "5\uc131 37\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 37,
+    "Exp": 0,
+    "NeedExp": 6666
+  },
+  "5\uc131 38\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 38,
+    "Exp": 0,
+    "NeedExp": 7293
+  },
+  "5\uc131 39\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 39,
+    "Exp": 0,
+    "NeedExp": 7976
+  },
+  "5\uc131 40\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 40,
+    "Exp": 0,
+    "NeedExp": 8688
+  },
+  "5\uc131 41\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 41,
+    "Exp": 0,
+    "NeedExp": 9473
+  },
+  "5\uc131 42\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 42,
+    "Exp": 0,
+    "NeedExp": 10332
+  },
+  "5\uc131 43\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 43,
+    "Exp": 0,
+    "NeedExp": 11285
+  },
+  "5\uc131 44\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 44,
+    "Exp": 0,
+    "NeedExp": 12326
+  },
+  "5\uc131 45\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 45,
+    "Exp": 0,
+    "NeedExp": 13550
+  },
+  "5\uc131 46\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 46,
+    "Exp": 0,
+    "NeedExp": 14949
+  },
+  "5\uc131 47\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 47,
+    "Exp": 0,
+    "NeedExp": 16475
+  },
+  "5\uc131 48\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 48,
+    "Exp": 0,
+    "NeedExp": 18026
+  },
+  "5\uc131 49\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 49,
+    "Exp": 0,
+    "NeedExp": 19698
+  },
+  "5\uc131 50\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 50,
+    "Exp": 0,
+    "NeedExp": 21536
+  },
+  "5\uc131 51\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 51,
+    "Exp": 0,
+    "NeedExp": 23454
+  },
+  "5\uc131 52\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 52,
+    "Exp": 0,
+    "NeedExp": 25470
+  },
+  "5\uc131 53\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 53,
+    "Exp": 0,
+    "NeedExp": 27585
+  },
+  "5\uc131 54\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 54,
+    "Exp": 0,
+    "NeedExp": 29802
+  },
+  "5\uc131 55\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 55,
+    "Exp": 0,
+    "NeedExp": 32123
+  },
+  "5\uc131 56\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 56,
+    "Exp": 0,
+    "NeedExp": 34548
+  },
+  "5\uc131 57\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 57,
+    "Exp": 0,
+    "NeedExp": 37080
+  },
+  "5\uc131 58\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 58,
+    "Exp": 0,
+    "NeedExp": 39722
+  },
+  "5\uc131 59\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 59,
+    "Exp": 0,
+    "NeedExp": 42474
+  },
+  "5\uc131 60\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 60,
+    "Exp": 0,
+    "NeedExp": 45339
+  },
+  "5\uc131 61\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 61,
+    "Exp": 0,
+    "NeedExp": 48318
+  },
+  "5\uc131 62\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 62,
+    "Exp": 0,
+    "NeedExp": 51414
+  },
+  "5\uc131 63\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 63,
+    "Exp": 0,
+    "NeedExp": 54629
+  },
+  "5\uc131 64\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 64,
+    "Exp": 0,
+    "NeedExp": 57963
+  },
+  "5\uc131 65\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 65,
+    "Exp": 0,
+    "NeedExp": 61419
+  },
+  "5\uc131 66\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 66,
+    "Exp": 0,
+    "NeedExp": 65000
+  },
+  "5\uc131 67\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 67,
+    "Exp": 0,
+    "NeedExp": 68706
+  },
+  "5\uc131 68\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 68,
+    "Exp": 0,
+    "NeedExp": 72540
+  },
+  "5\uc131 69\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 69,
+    "Exp": 0,
+    "NeedExp": 76503
+  },
+  "5\uc131 70\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 70,
+    "Exp": 0,
+    "NeedExp": 80598
+  },
+  "5\uc131 71\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 71,
+    "Exp": 0,
+    "NeedExp": 84827
+  },
+  "5\uc131 72\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 72,
+    "Exp": 0,
+    "NeedExp": 89190
+  },
+  "5\uc131 73\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 73,
+    "Exp": 0,
+    "NeedExp": 93690
+  },
+  "5\uc131 74\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 74,
+    "Exp": 0,
+    "NeedExp": 98330
+  },
+  "5\uc131 75\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 75,
+    "Exp": 0,
+    "NeedExp": 103110
+  },
+  "5\uc131 76\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 76,
+    "Exp": 0,
+    "NeedExp": 108033
+  },
+  "5\uc131 77\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 77,
+    "Exp": 0,
+    "NeedExp": 113100
+  },
+  "5\uc131 78\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 78,
+    "Exp": 0,
+    "NeedExp": 118314
+  },
+  "5\uc131 79\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 79,
+    "Exp": 0,
+    "NeedExp": 123677
+  },
+  "5\uc131 80\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 80,
+    "Exp": 0,
+    "NeedExp": 129189
+  },
+  "5\uc131 81\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 81,
+    "Exp": 0,
+    "NeedExp": 134853
+  },
+  "5\uc131 82\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 82,
+    "Exp": 0,
+    "NeedExp": 140672
+  },
+  "5\uc131 83\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 83,
+    "Exp": 0,
+    "NeedExp": 146646
+  },
+  "5\uc131 84\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 84,
+    "Exp": 0,
+    "NeedExp": 152778
+  },
+  "5\uc131 85\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 85,
+    "Exp": 0,
+    "NeedExp": 159069
+  },
+  "5\uc131 86\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 86,
+    "Exp": 0,
+    "NeedExp": 165522
+  },
+  "5\uc131 87\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 87,
+    "Exp": 0,
+    "NeedExp": 172139
+  },
+  "5\uc131 88\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 88,
+    "Exp": 0,
+    "NeedExp": 178920
+  },
+  "5\uc131 89\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 89,
+    "Exp": 0,
+    "NeedExp": 185868
+  },
+  "5\uc131 90\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 90,
+    "Exp": 0,
+    "NeedExp": 231035
+  },
+  "5\uc131 91\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 91,
+    "Exp": 0,
+    "NeedExp": 287177
+  },
+  "5\uc131 92\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 92,
+    "Exp": 0,
+    "NeedExp": 356961
+  },
+  "5\uc131 93\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 93,
+    "Exp": 0,
+    "NeedExp": 443703
+  },
+  "5\uc131 94\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 94,
+    "Exp": 0,
+    "NeedExp": 551523
+  },
+  "5\uc131 95\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 95,
+    "Exp": 0,
+    "NeedExp": 685544
+  },
+  "5\uc131 96\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 96,
+    "Exp": 0,
+    "NeedExp": 852131
+  },
+  "5\uc131 97\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 97,
+    "Exp": 0,
+    "NeedExp": 1059198
+  },
+  "5\uc131 98\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 98,
+    "Exp": 0,
+    "NeedExp": 1316583
+  },
+  "5\uc131 99\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 99,
+    "Exp": 0,
+    "NeedExp": 1636512
+  },
+  "5\uc131 100\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 100,
+    "Exp": 0,
+    "NeedExp": 1881989
+  },
+  "2\uc131 101\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 101,
+    "Exp": 0,
+    "NeedExp": 189219
+  },
+  "2\uc131 102\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 102,
+    "Exp": 0,
+    "NeedExp": 201834
+  },
+  "2\uc131 103\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 103,
+    "Exp": 0,
+    "NeedExp": 214449
+  },
+  "2\uc131 104\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 104,
+    "Exp": 0,
+    "NeedExp": 227063
+  },
+  "2\uc131 105\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 105,
+    "Exp": 0,
+    "NeedExp": 239678
+  },
+  "2\uc131 106\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 106,
+    "Exp": 0,
+    "NeedExp": 252292
+  },
+  "2\uc131 107\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 107,
+    "Exp": 0,
+    "NeedExp": 264907
+  },
+  "2\uc131 108\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 108,
+    "Exp": 0,
+    "NeedExp": 277522
+  },
+  "2\uc131 109\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 109,
+    "Exp": 0,
+    "NeedExp": 290136
+  },
+  "2\uc131 110\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 110,
+    "Exp": 0,
+    "NeedExp": 302751
+  },
+  "2\uc131 111\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 111,
+    "Exp": 0,
+    "NeedExp": 315366
+  },
+  "2\uc131 112\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 112,
+    "Exp": 0,
+    "NeedExp": 331134
+  },
+  "2\uc131 113\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 113,
+    "Exp": 0,
+    "NeedExp": 343749
+  },
+  "2\uc131 114\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 114,
+    "Exp": 0,
+    "NeedExp": 362670
+  },
+  "2\uc131 115\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 115,
+    "Exp": 0,
+    "NeedExp": 372131
+  },
+  "2\uc131 116\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 116,
+    "Exp": 0,
+    "NeedExp": 387900
+  },
+  "2\uc131 117\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 117,
+    "Exp": 0,
+    "NeedExp": 409975
+  },
+  "2\uc131 118\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 118,
+    "Exp": 0,
+    "NeedExp": 425744
+  },
+  "2\uc131 119\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 119,
+    "Exp": 0,
+    "NeedExp": 441512
+  },
+  "2\uc131 120\ub808\ubca8": {
+    "Grade": 2,
+    "Level": 120,
+    "Exp": 0,
+    "NeedExp": 457280
+  },
+  "3\uc131 101\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 101,
+    "Exp": 0,
+    "NeedExp": 189219
+  },
+  "3\uc131 102\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 102,
+    "Exp": 0,
+    "NeedExp": 201834
+  },
+  "3\uc131 103\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 103,
+    "Exp": 0,
+    "NeedExp": 214449
+  },
+  "3\uc131 104\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 104,
+    "Exp": 0,
+    "NeedExp": 227063
+  },
+  "3\uc131 105\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 105,
+    "Exp": 0,
+    "NeedExp": 239678
+  },
+  "3\uc131 106\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 106,
+    "Exp": 0,
+    "NeedExp": 252292
+  },
+  "3\uc131 107\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 107,
+    "Exp": 0,
+    "NeedExp": 264907
+  },
+  "3\uc131 108\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 108,
+    "Exp": 0,
+    "NeedExp": 277522
+  },
+  "3\uc131 109\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 109,
+    "Exp": 0,
+    "NeedExp": 290136
+  },
+  "3\uc131 110\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 110,
+    "Exp": 0,
+    "NeedExp": 302751
+  },
+  "3\uc131 111\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 111,
+    "Exp": 0,
+    "NeedExp": 315366
+  },
+  "3\uc131 112\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 112,
+    "Exp": 0,
+    "NeedExp": 331134
+  },
+  "3\uc131 113\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 113,
+    "Exp": 0,
+    "NeedExp": 343749
+  },
+  "3\uc131 114\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 114,
+    "Exp": 0,
+    "NeedExp": 362670
+  },
+  "3\uc131 115\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 115,
+    "Exp": 0,
+    "NeedExp": 372131
+  },
+  "3\uc131 116\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 116,
+    "Exp": 0,
+    "NeedExp": 387900
+  },
+  "3\uc131 117\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 117,
+    "Exp": 0,
+    "NeedExp": 409975
+  },
+  "3\uc131 118\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 118,
+    "Exp": 0,
+    "NeedExp": 425744
+  },
+  "3\uc131 119\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 119,
+    "Exp": 0,
+    "NeedExp": 441512
+  },
+  "3\uc131 120\ub808\ubca8": {
+    "Grade": 3,
+    "Level": 120,
+    "Exp": 0,
+    "NeedExp": 457280
+  },
+  "4\uc131 101\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 101,
+    "Exp": 0,
+    "NeedExp": 189219
+  },
+  "4\uc131 102\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 102,
+    "Exp": 0,
+    "NeedExp": 201834
+  },
+  "4\uc131 103\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 103,
+    "Exp": 0,
+    "NeedExp": 214449
+  },
+  "4\uc131 104\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 104,
+    "Exp": 0,
+    "NeedExp": 227063
+  },
+  "4\uc131 105\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 105,
+    "Exp": 0,
+    "NeedExp": 239678
+  },
+  "4\uc131 106\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 106,
+    "Exp": 0,
+    "NeedExp": 252292
+  },
+  "4\uc131 107\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 107,
+    "Exp": 0,
+    "NeedExp": 264907
+  },
+  "4\uc131 108\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 108,
+    "Exp": 0,
+    "NeedExp": 277522
+  },
+  "4\uc131 109\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 109,
+    "Exp": 0,
+    "NeedExp": 290136
+  },
+  "4\uc131 110\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 110,
+    "Exp": 0,
+    "NeedExp": 302751
+  },
+  "4\uc131 111\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 111,
+    "Exp": 0,
+    "NeedExp": 315366
+  },
+  "4\uc131 112\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 112,
+    "Exp": 0,
+    "NeedExp": 331134
+  },
+  "4\uc131 113\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 113,
+    "Exp": 0,
+    "NeedExp": 343749
+  },
+  "4\uc131 114\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 114,
+    "Exp": 0,
+    "NeedExp": 362670
+  },
+  "4\uc131 115\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 115,
+    "Exp": 0,
+    "NeedExp": 372131
+  },
+  "4\uc131 116\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 116,
+    "Exp": 0,
+    "NeedExp": 387900
+  },
+  "4\uc131 117\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 117,
+    "Exp": 0,
+    "NeedExp": 409975
+  },
+  "4\uc131 118\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 118,
+    "Exp": 0,
+    "NeedExp": 425744
+  },
+  "4\uc131 119\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 119,
+    "Exp": 0,
+    "NeedExp": 441512
+  },
+  "4\uc131 120\ub808\ubca8": {
+    "Grade": 4,
+    "Level": 120,
+    "Exp": 0,
+    "NeedExp": 457280
+  },
+  "5\uc131 101\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 101,
+    "Exp": 0,
+    "NeedExp": 189219
+  },
+  "5\uc131 102\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 102,
+    "Exp": 0,
+    "NeedExp": 201834
+  },
+  "5\uc131 103\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 103,
+    "Exp": 0,
+    "NeedExp": 214449
+  },
+  "5\uc131 104\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 104,
+    "Exp": 0,
+    "NeedExp": 227063
+  },
+  "5\uc131 105\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 105,
+    "Exp": 0,
+    "NeedExp": 239678
+  },
+  "5\uc131 106\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 106,
+    "Exp": 0,
+    "NeedExp": 252292
+  },
+  "5\uc131 107\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 107,
+    "Exp": 0,
+    "NeedExp": 264907
+  },
+  "5\uc131 108\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 108,
+    "Exp": 0,
+    "NeedExp": 277522
+  },
+  "5\uc131 109\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 109,
+    "Exp": 0,
+    "NeedExp": 290136
+  },
+  "5\uc131 110\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 110,
+    "Exp": 0,
+    "NeedExp": 302751
+  },
+  "5\uc131 111\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 111,
+    "Exp": 0,
+    "NeedExp": 315366
+  },
+  "5\uc131 112\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 112,
+    "Exp": 0,
+    "NeedExp": 331134
+  },
+  "5\uc131 113\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 113,
+    "Exp": 0,
+    "NeedExp": 343749
+  },
+  "5\uc131 114\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 114,
+    "Exp": 0,
+    "NeedExp": 362670
+  },
+  "5\uc131 115\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 115,
+    "Exp": 0,
+    "NeedExp": 372131
+  },
+  "5\uc131 116\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 116,
+    "Exp": 0,
+    "NeedExp": 387900
+  },
+  "5\uc131 117\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 117,
+    "Exp": 0,
+    "NeedExp": 409975
+  },
+  "5\uc131 118\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 118,
+    "Exp": 0,
+    "NeedExp": 425744
+  },
+  "5\uc131 119\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 119,
+    "Exp": 0,
+    "NeedExp": 441512
+  },
+  "5\uc131 120\ub808\ubca8": {
+    "Grade": 5,
+    "Level": 120,
+    "Exp": 0,
+    "NeedExp": 457280
+  }
+}

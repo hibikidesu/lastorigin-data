@@ -1,0 +1,4322 @@
+{
+  "Android_Trooper_Tanker_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 12,
+    "ReqNutrient": 12,
+    "ReqPower": 2
+  },
+  "Android_Trooper_Tanker_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 14,
+    "ReqNutrient": 14,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Tanker_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 15,
+    "ReqNutrient": 15,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Tanker_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 17,
+    "ReqNutrient": 17,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Tanker_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 19,
+    "ReqNutrient": 19,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Tanker_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 22,
+    "ReqNutrient": 22,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Tanker_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 16,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Tanker_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 18,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Tanker_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 20,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Tanker_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 23,
+    "ReqNutrient": 23,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Tanker_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 25,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Tanker_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 29,
+    "ReqNutrient": 29,
+    "ReqPower": 6
+  },
+  "Android_Trooper_Tanker_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 22,
+    "ReqNutrient": 22,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Tanker_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 24,
+    "ReqNutrient": 24,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Tanker_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 27,
+    "ReqNutrient": 27,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Tanker_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 30,
+    "ReqNutrient": 30,
+    "ReqPower": 6
+  },
+  "Android_Trooper_Tanker_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 34,
+    "ReqNutrient": 34,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Tanker_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 39,
+    "ReqNutrient": 39,
+    "ReqPower": 8
+  },
+  "Android_Trooper_Tanker_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 27,
+    "ReqNutrient": 27,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Tanker_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 30,
+    "ReqNutrient": 30,
+    "ReqPower": 6
+  },
+  "Android_Trooper_Tanker_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 33,
+    "ReqNutrient": 33,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Tanker_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 37,
+    "ReqNutrient": 37,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Tanker_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 41,
+    "ReqPower": 8
+  },
+  "Android_Trooper_Tanker_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 47,
+    "ReqPower": 9
+  },
+  "Android_Trooper_Nuker_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 7,
+    "ReqNutrient": 12,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Nuker_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 8,
+    "ReqNutrient": 14,
+    "ReqPower": 8
+  },
+  "Android_Trooper_Nuker_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 9,
+    "ReqNutrient": 15,
+    "ReqPower": 9
+  },
+  "Android_Trooper_Nuker_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 10,
+    "ReqNutrient": 17,
+    "ReqPower": 10
+  },
+  "Android_Trooper_Nuker_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 11,
+    "ReqNutrient": 19,
+    "ReqPower": 11
+  },
+  "Android_Trooper_Nuker_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 13,
+    "ReqNutrient": 22,
+    "ReqPower": 13
+  },
+  "Android_Trooper_Nuker_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 10,
+    "ReqNutrient": 16,
+    "ReqPower": 10
+  },
+  "Android_Trooper_Nuker_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 11,
+    "ReqNutrient": 18,
+    "ReqPower": 11
+  },
+  "Android_Trooper_Nuker_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 12,
+    "ReqNutrient": 20,
+    "ReqPower": 12
+  },
+  "Android_Trooper_Nuker_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 14,
+    "ReqNutrient": 23,
+    "ReqPower": 14
+  },
+  "Android_Trooper_Nuker_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 15,
+    "ReqNutrient": 25,
+    "ReqPower": 15
+  },
+  "Android_Trooper_Nuker_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 17,
+    "ReqNutrient": 29,
+    "ReqPower": 17
+  },
+  "Android_Trooper_Nuker_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 13,
+    "ReqNutrient": 22,
+    "ReqPower": 13
+  },
+  "Android_Trooper_Nuker_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 15,
+    "ReqNutrient": 24,
+    "ReqPower": 15
+  },
+  "Android_Trooper_Nuker_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 16,
+    "ReqNutrient": 27,
+    "ReqPower": 16
+  },
+  "Android_Trooper_Nuker_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 18,
+    "ReqNutrient": 30,
+    "ReqPower": 18
+  },
+  "Android_Trooper_Nuker_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 20,
+    "ReqNutrient": 34,
+    "ReqPower": 20
+  },
+  "Android_Trooper_Nuker_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 23,
+    "ReqNutrient": 39,
+    "ReqPower": 23
+  },
+  "Android_Trooper_Nuker_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 27,
+    "ReqPower": 16
+  },
+  "Android_Trooper_Nuker_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 30,
+    "ReqPower": 18
+  },
+  "Android_Trooper_Nuker_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 33,
+    "ReqPower": 20
+  },
+  "Android_Trooper_Nuker_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 22,
+    "ReqNutrient": 37,
+    "ReqPower": 22
+  },
+  "Android_Trooper_Nuker_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 41,
+    "ReqPower": 25
+  },
+  "Android_Trooper_Nuker_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 28,
+    "ReqNutrient": 47,
+    "ReqPower": 28
+  },
+  "Android_Trooper_Supporter_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 7,
+    "ReqNutrient": 12,
+    "ReqPower": 2
+  },
+  "Android_Trooper_Supporter_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 8,
+    "ReqNutrient": 14,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Supporter_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 9,
+    "ReqNutrient": 15,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Supporter_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 10,
+    "ReqNutrient": 17,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Supporter_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 11,
+    "ReqNutrient": 19,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Supporter_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 13,
+    "ReqNutrient": 22,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Supporter_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 10,
+    "ReqNutrient": 16,
+    "ReqPower": 3
+  },
+  "Android_Trooper_Supporter_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 11,
+    "ReqNutrient": 18,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Supporter_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 12,
+    "ReqNutrient": 20,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Supporter_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 14,
+    "ReqNutrient": 23,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Supporter_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 15,
+    "ReqNutrient": 25,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Supporter_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 17,
+    "ReqNutrient": 29,
+    "ReqPower": 6
+  },
+  "Android_Trooper_Supporter_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 13,
+    "ReqNutrient": 22,
+    "ReqPower": 4
+  },
+  "Android_Trooper_Supporter_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 15,
+    "ReqNutrient": 24,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Supporter_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 16,
+    "ReqNutrient": 27,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Supporter_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 18,
+    "ReqNutrient": 30,
+    "ReqPower": 6
+  },
+  "Android_Trooper_Supporter_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 20,
+    "ReqNutrient": 34,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Supporter_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 23,
+    "ReqNutrient": 39,
+    "ReqPower": 8
+  },
+  "Android_Trooper_Supporter_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 27,
+    "ReqPower": 5
+  },
+  "Android_Trooper_Supporter_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 30,
+    "ReqPower": 6
+  },
+  "Android_Trooper_Supporter_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 33,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Supporter_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 22,
+    "ReqNutrient": 37,
+    "ReqPower": 7
+  },
+  "Android_Trooper_Supporter_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 41,
+    "ReqPower": 8
+  },
+  "Android_Trooper_Supporter_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 28,
+    "ReqNutrient": 47,
+    "ReqPower": 9
+  },
+  "Android_Armored_Tanker_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 17,
+    "ReqNutrient": 12,
+    "ReqPower": 7
+  },
+  "Android_Armored_Tanker_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 19,
+    "ReqNutrient": 14,
+    "ReqPower": 8
+  },
+  "Android_Armored_Tanker_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 21,
+    "ReqNutrient": 15,
+    "ReqPower": 9
+  },
+  "Android_Armored_Tanker_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 24,
+    "ReqNutrient": 17,
+    "ReqPower": 10
+  },
+  "Android_Armored_Tanker_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 26,
+    "ReqNutrient": 19,
+    "ReqPower": 11
+  },
+  "Android_Armored_Tanker_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 30,
+    "ReqNutrient": 22,
+    "ReqPower": 13
+  },
+  "Android_Armored_Tanker_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 23,
+    "ReqNutrient": 16,
+    "ReqPower": 10
+  },
+  "Android_Armored_Tanker_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 25,
+    "ReqNutrient": 18,
+    "ReqPower": 11
+  },
+  "Android_Armored_Tanker_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 28,
+    "ReqNutrient": 20,
+    "ReqPower": 12
+  },
+  "Android_Armored_Tanker_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 32,
+    "ReqNutrient": 23,
+    "ReqPower": 14
+  },
+  "Android_Armored_Tanker_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 35,
+    "ReqNutrient": 25,
+    "ReqPower": 15
+  },
+  "Android_Armored_Tanker_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 40,
+    "ReqNutrient": 29,
+    "ReqPower": 17
+  },
+  "Android_Armored_Tanker_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 31,
+    "ReqNutrient": 22,
+    "ReqPower": 13
+  },
+  "Android_Armored_Tanker_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 34,
+    "ReqNutrient": 24,
+    "ReqPower": 15
+  },
+  "Android_Armored_Tanker_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 38,
+    "ReqNutrient": 27,
+    "ReqPower": 16
+  },
+  "Android_Armored_Tanker_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 43,
+    "ReqNutrient": 30,
+    "ReqPower": 18
+  },
+  "Android_Armored_Tanker_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 47,
+    "ReqNutrient": 34,
+    "ReqPower": 20
+  },
+  "Android_Armored_Tanker_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 54,
+    "ReqNutrient": 39,
+    "ReqPower": 23
+  },
+  "Android_Armored_Tanker_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 38,
+    "ReqNutrient": 27,
+    "ReqPower": 16
+  },
+  "Android_Armored_Tanker_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 42,
+    "ReqNutrient": 30,
+    "ReqPower": 18
+  },
+  "Android_Armored_Tanker_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 46,
+    "ReqNutrient": 33,
+    "ReqPower": 20
+  },
+  "Android_Armored_Tanker_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 52,
+    "ReqNutrient": 37,
+    "ReqPower": 22
+  },
+  "Android_Armored_Tanker_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 58,
+    "ReqNutrient": 41,
+    "ReqPower": 25
+  },
+  "Android_Armored_Tanker_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 66,
+    "ReqNutrient": 47,
+    "ReqPower": 28
+  },
+  "Android_Armored_Nuker_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 12,
+    "ReqNutrient": 12,
+    "ReqPower": 12
+  },
+  "Android_Armored_Nuker_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 14,
+    "ReqNutrient": 14,
+    "ReqPower": 14
+  },
+  "Android_Armored_Nuker_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 15,
+    "ReqNutrient": 15,
+    "ReqPower": 15
+  },
+  "Android_Armored_Nuker_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 17,
+    "ReqNutrient": 17,
+    "ReqPower": 17
+  },
+  "Android_Armored_Nuker_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 19,
+    "ReqNutrient": 19,
+    "ReqPower": 19
+  },
+  "Android_Armored_Nuker_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 22,
+    "ReqNutrient": 22,
+    "ReqPower": 22
+  },
+  "Android_Armored_Nuker_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 16,
+    "ReqPower": 16
+  },
+  "Android_Armored_Nuker_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 18,
+    "ReqPower": 18
+  },
+  "Android_Armored_Nuker_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 20,
+    "ReqPower": 20
+  },
+  "Android_Armored_Nuker_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 23,
+    "ReqNutrient": 23,
+    "ReqPower": 23
+  },
+  "Android_Armored_Nuker_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 25,
+    "ReqPower": 25
+  },
+  "Android_Armored_Nuker_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 29,
+    "ReqNutrient": 29,
+    "ReqPower": 29
+  },
+  "Android_Armored_Nuker_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 22,
+    "ReqNutrient": 22,
+    "ReqPower": 22
+  },
+  "Android_Armored_Nuker_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 24,
+    "ReqNutrient": 24,
+    "ReqPower": 24
+  },
+  "Android_Armored_Nuker_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 27,
+    "ReqNutrient": 27,
+    "ReqPower": 27
+  },
+  "Android_Armored_Nuker_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 30,
+    "ReqNutrient": 30,
+    "ReqPower": 30
+  },
+  "Android_Armored_Nuker_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 34,
+    "ReqNutrient": 34,
+    "ReqPower": 34
+  },
+  "Android_Armored_Nuker_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 39,
+    "ReqNutrient": 39,
+    "ReqPower": 39
+  },
+  "Android_Armored_Nuker_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 27,
+    "ReqNutrient": 27,
+    "ReqPower": 27
+  },
+  "Android_Armored_Nuker_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 30,
+    "ReqNutrient": 30,
+    "ReqPower": 30
+  },
+  "Android_Armored_Nuker_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 33,
+    "ReqNutrient": 33,
+    "ReqPower": 33
+  },
+  "Android_Armored_Nuker_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 37,
+    "ReqNutrient": 37,
+    "ReqPower": 37
+  },
+  "Android_Armored_Nuker_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 41,
+    "ReqPower": 41
+  },
+  "Android_Armored_Nuker_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 47,
+    "ReqPower": 47
+  },
+  "Android_Armored_Supporter_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 12,
+    "ReqNutrient": 12,
+    "ReqPower": 7
+  },
+  "Android_Armored_Supporter_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 14,
+    "ReqNutrient": 14,
+    "ReqPower": 8
+  },
+  "Android_Armored_Supporter_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 15,
+    "ReqNutrient": 15,
+    "ReqPower": 9
+  },
+  "Android_Armored_Supporter_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 17,
+    "ReqNutrient": 17,
+    "ReqPower": 10
+  },
+  "Android_Armored_Supporter_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 19,
+    "ReqNutrient": 19,
+    "ReqPower": 11
+  },
+  "Android_Armored_Supporter_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 22,
+    "ReqNutrient": 22,
+    "ReqPower": 13
+  },
+  "Android_Armored_Supporter_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 16,
+    "ReqPower": 10
+  },
+  "Android_Armored_Supporter_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 18,
+    "ReqPower": 11
+  },
+  "Android_Armored_Supporter_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 20,
+    "ReqPower": 12
+  },
+  "Android_Armored_Supporter_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 23,
+    "ReqNutrient": 23,
+    "ReqPower": 14
+  },
+  "Android_Armored_Supporter_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 25,
+    "ReqPower": 15
+  },
+  "Android_Armored_Supporter_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 29,
+    "ReqNutrient": 29,
+    "ReqPower": 17
+  },
+  "Android_Armored_Supporter_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 22,
+    "ReqNutrient": 22,
+    "ReqPower": 13
+  },
+  "Android_Armored_Supporter_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 24,
+    "ReqNutrient": 24,
+    "ReqPower": 15
+  },
+  "Android_Armored_Supporter_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 27,
+    "ReqNutrient": 27,
+    "ReqPower": 16
+  },
+  "Android_Armored_Supporter_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 30,
+    "ReqNutrient": 30,
+    "ReqPower": 18
+  },
+  "Android_Armored_Supporter_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 34,
+    "ReqNutrient": 34,
+    "ReqPower": 20
+  },
+  "Android_Armored_Supporter_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 39,
+    "ReqNutrient": 39,
+    "ReqPower": 23
+  },
+  "Android_Armored_Supporter_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 27,
+    "ReqNutrient": 27,
+    "ReqPower": 16
+  },
+  "Android_Armored_Supporter_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 30,
+    "ReqNutrient": 30,
+    "ReqPower": 18
+  },
+  "Android_Armored_Supporter_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 33,
+    "ReqNutrient": 33,
+    "ReqPower": 20
+  },
+  "Android_Armored_Supporter_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 37,
+    "ReqNutrient": 37,
+    "ReqPower": 22
+  },
+  "Android_Armored_Supporter_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 41,
+    "ReqPower": 25
+  },
+  "Android_Armored_Supporter_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 47,
+    "ReqPower": 28
+  },
+  "Android_Mobility_Tanker_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 10,
+    "ReqNutrient": 12,
+    "ReqPower": 10
+  },
+  "Android_Mobility_Tanker_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 11,
+    "ReqNutrient": 14,
+    "ReqPower": 11
+  },
+  "Android_Mobility_Tanker_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 12,
+    "ReqNutrient": 15,
+    "ReqPower": 12
+  },
+  "Android_Mobility_Tanker_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 14,
+    "ReqNutrient": 17,
+    "ReqPower": 14
+  },
+  "Android_Mobility_Tanker_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 15,
+    "ReqNutrient": 19,
+    "ReqPower": 15
+  },
+  "Android_Mobility_Tanker_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 17,
+    "ReqNutrient": 22,
+    "ReqPower": 17
+  },
+  "Android_Mobility_Tanker_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 13,
+    "ReqNutrient": 16,
+    "ReqPower": 13
+  },
+  "Android_Mobility_Tanker_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 15,
+    "ReqNutrient": 18,
+    "ReqPower": 15
+  },
+  "Android_Mobility_Tanker_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 16,
+    "ReqNutrient": 20,
+    "ReqPower": 16
+  },
+  "Android_Mobility_Tanker_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 18,
+    "ReqNutrient": 23,
+    "ReqPower": 18
+  },
+  "Android_Mobility_Tanker_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 20,
+    "ReqNutrient": 25,
+    "ReqPower": 20
+  },
+  "Android_Mobility_Tanker_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 23,
+    "ReqNutrient": 29,
+    "ReqPower": 23
+  },
+  "Android_Mobility_Tanker_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 18,
+    "ReqNutrient": 22,
+    "ReqPower": 18
+  },
+  "Android_Mobility_Tanker_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 20,
+    "ReqNutrient": 24,
+    "ReqPower": 20
+  },
+  "Android_Mobility_Tanker_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 22,
+    "ReqNutrient": 27,
+    "ReqPower": 22
+  },
+  "Android_Mobility_Tanker_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 24,
+    "ReqNutrient": 30,
+    "ReqPower": 24
+  },
+  "Android_Mobility_Tanker_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 27,
+    "ReqNutrient": 34,
+    "ReqPower": 27
+  },
+  "Android_Mobility_Tanker_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 31,
+    "ReqNutrient": 39,
+    "ReqPower": 31
+  },
+  "Android_Mobility_Tanker_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 21,
+    "ReqNutrient": 27,
+    "ReqPower": 21
+  },
+  "Android_Mobility_Tanker_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 24,
+    "ReqNutrient": 30,
+    "ReqPower": 24
+  },
+  "Android_Mobility_Tanker_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 26,
+    "ReqNutrient": 33,
+    "ReqPower": 26
+  },
+  "Android_Mobility_Tanker_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 30,
+    "ReqNutrient": 37,
+    "ReqPower": 30
+  },
+  "Android_Mobility_Tanker_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 33,
+    "ReqNutrient": 41,
+    "ReqPower": 33
+  },
+  "Android_Mobility_Tanker_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 38,
+    "ReqNutrient": 47,
+    "ReqPower": 38
+  },
+  "Android_Mobility_Nuker_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 5,
+    "ReqNutrient": 12,
+    "ReqPower": 15
+  },
+  "Android_Mobility_Nuker_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 5,
+    "ReqNutrient": 14,
+    "ReqPower": 16
+  },
+  "Android_Mobility_Nuker_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 6,
+    "ReqNutrient": 15,
+    "ReqPower": 18
+  },
+  "Android_Mobility_Nuker_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 7,
+    "ReqNutrient": 17,
+    "ReqPower": 20
+  },
+  "Android_Mobility_Nuker_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 8,
+    "ReqNutrient": 19,
+    "ReqPower": 23
+  },
+  "Android_Mobility_Nuker_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 9,
+    "ReqNutrient": 22,
+    "ReqPower": 26
+  },
+  "Android_Mobility_Nuker_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 7,
+    "ReqNutrient": 16,
+    "ReqPower": 20
+  },
+  "Android_Mobility_Nuker_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 7,
+    "ReqNutrient": 18,
+    "ReqPower": 22
+  },
+  "Android_Mobility_Nuker_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 8,
+    "ReqNutrient": 20,
+    "ReqPower": 24
+  },
+  "Android_Mobility_Nuker_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 9,
+    "ReqNutrient": 23,
+    "ReqPower": 27
+  },
+  "Android_Mobility_Nuker_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 10,
+    "ReqNutrient": 25,
+    "ReqPower": 30
+  },
+  "Android_Mobility_Nuker_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 12,
+    "ReqNutrient": 29,
+    "ReqPower": 35
+  },
+  "Android_Mobility_Nuker_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 9,
+    "ReqNutrient": 22,
+    "ReqPower": 26
+  },
+  "Android_Mobility_Nuker_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 10,
+    "ReqNutrient": 24,
+    "ReqPower": 29
+  },
+  "Android_Mobility_Nuker_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 11,
+    "ReqNutrient": 27,
+    "ReqPower": 32
+  },
+  "Android_Mobility_Nuker_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 12,
+    "ReqNutrient": 30,
+    "ReqPower": 36
+  },
+  "Android_Mobility_Nuker_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 14,
+    "ReqNutrient": 34,
+    "ReqPower": 41
+  },
+  "Android_Mobility_Nuker_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 16,
+    "ReqNutrient": 39,
+    "ReqPower": 47
+  },
+  "Android_Mobility_Nuker_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 11,
+    "ReqNutrient": 27,
+    "ReqPower": 32
+  },
+  "Android_Mobility_Nuker_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 12,
+    "ReqNutrient": 30,
+    "ReqPower": 36
+  },
+  "Android_Mobility_Nuker_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 13,
+    "ReqNutrient": 33,
+    "ReqPower": 40
+  },
+  "Android_Mobility_Nuker_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 15,
+    "ReqNutrient": 37,
+    "ReqPower": 45
+  },
+  "Android_Mobility_Nuker_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 17,
+    "ReqNutrient": 41,
+    "ReqPower": 50
+  },
+  "Android_Mobility_Nuker_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 19,
+    "ReqNutrient": 47,
+    "ReqPower": 57
+  },
+  "Android_Mobility_Supporter_G2_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 5,
+    "ReqNutrient": 12,
+    "ReqPower": 10
+  },
+  "Android_Mobility_Supporter_G2_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 5,
+    "ReqNutrient": 14,
+    "ReqPower": 11
+  },
+  "Android_Mobility_Supporter_G2_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 6,
+    "ReqNutrient": 15,
+    "ReqPower": 12
+  },
+  "Android_Mobility_Supporter_G2_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 7,
+    "ReqNutrient": 17,
+    "ReqPower": 14
+  },
+  "Android_Mobility_Supporter_G2_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 8,
+    "ReqNutrient": 19,
+    "ReqPower": 15
+  },
+  "Android_Mobility_Supporter_G2_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 9,
+    "ReqNutrient": 22,
+    "ReqPower": 17
+  },
+  "Android_Mobility_Supporter_G3_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 7,
+    "ReqNutrient": 16,
+    "ReqPower": 13
+  },
+  "Android_Mobility_Supporter_G3_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 7,
+    "ReqNutrient": 18,
+    "ReqPower": 15
+  },
+  "Android_Mobility_Supporter_G3_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 8,
+    "ReqNutrient": 20,
+    "ReqPower": 16
+  },
+  "Android_Mobility_Supporter_G3_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 9,
+    "ReqNutrient": 23,
+    "ReqPower": 18
+  },
+  "Android_Mobility_Supporter_G3_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 10,
+    "ReqNutrient": 25,
+    "ReqPower": 20
+  },
+  "Android_Mobility_Supporter_G3_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 12,
+    "ReqNutrient": 29,
+    "ReqPower": 23
+  },
+  "Android_Mobility_Supporter_G4_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 9,
+    "ReqNutrient": 22,
+    "ReqPower": 18
+  },
+  "Android_Mobility_Supporter_G4_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 10,
+    "ReqNutrient": 24,
+    "ReqPower": 20
+  },
+  "Android_Mobility_Supporter_G4_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 11,
+    "ReqNutrient": 27,
+    "ReqPower": 22
+  },
+  "Android_Mobility_Supporter_G4_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 12,
+    "ReqNutrient": 30,
+    "ReqPower": 24
+  },
+  "Android_Mobility_Supporter_G4_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 14,
+    "ReqNutrient": 34,
+    "ReqPower": 27
+  },
+  "Android_Mobility_Supporter_G4_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 16,
+    "ReqNutrient": 39,
+    "ReqPower": 31
+  },
+  "Android_Mobility_Supporter_G5_C0": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 11,
+    "ReqNutrient": 27,
+    "ReqPower": 21
+  },
+  "Android_Mobility_Supporter_G5_C1": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 12,
+    "ReqNutrient": 30,
+    "ReqPower": 24
+  },
+  "Android_Mobility_Supporter_G5_C2": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 13,
+    "ReqNutrient": 33,
+    "ReqPower": 26
+  },
+  "Android_Mobility_Supporter_G5_C3": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 15,
+    "ReqNutrient": 37,
+    "ReqPower": 30
+  },
+  "Android_Mobility_Supporter_G5_C4": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 17,
+    "ReqNutrient": 41,
+    "ReqPower": 33
+  },
+  "Android_Mobility_Supporter_G5_C5": {
+    "ActorBodyType": 0,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 19,
+    "ReqNutrient": 47,
+    "ReqPower": 38
+  },
+  "Robot_Trooper_Tanker_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 7
+  },
+  "Robot_Trooper_Tanker_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 8
+  },
+  "Robot_Trooper_Tanker_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 9
+  },
+  "Robot_Trooper_Tanker_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 10
+  },
+  "Robot_Trooper_Tanker_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 11
+  },
+  "Robot_Trooper_Tanker_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 13
+  },
+  "Robot_Trooper_Tanker_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 10
+  },
+  "Robot_Trooper_Tanker_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 11
+  },
+  "Robot_Trooper_Tanker_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 12
+  },
+  "Robot_Trooper_Tanker_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 14
+  },
+  "Robot_Trooper_Tanker_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Trooper_Tanker_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 46,
+    "ReqNutrient": 0,
+    "ReqPower": 17
+  },
+  "Robot_Trooper_Tanker_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 13
+  },
+  "Robot_Trooper_Tanker_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 39,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Trooper_Tanker_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Trooper_Tanker_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 49,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Trooper_Tanker_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 54,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Trooper_Tanker_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 62,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Trooper_Tanker_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Trooper_Tanker_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 48,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Trooper_Tanker_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 53,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Trooper_Tanker_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 59,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Trooper_Tanker_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 66,
+    "ReqNutrient": 0,
+    "ReqPower": 25
+  },
+  "Robot_Trooper_Tanker_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 76,
+    "ReqNutrient": 0,
+    "ReqPower": 28
+  },
+  "Robot_Trooper_Nuker_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 15,
+    "ReqNutrient": 0,
+    "ReqPower": 12
+  },
+  "Robot_Trooper_Nuker_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 16,
+    "ReqNutrient": 0,
+    "ReqPower": 14
+  },
+  "Robot_Trooper_Nuker_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 18,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Trooper_Nuker_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 17
+  },
+  "Robot_Trooper_Nuker_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 23,
+    "ReqNutrient": 0,
+    "ReqPower": 19
+  },
+  "Robot_Trooper_Nuker_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Trooper_Nuker_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Trooper_Nuker_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Trooper_Nuker_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Trooper_Nuker_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Trooper_Nuker_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 25
+  },
+  "Robot_Trooper_Nuker_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 29
+  },
+  "Robot_Trooper_Nuker_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Trooper_Nuker_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Trooper_Nuker_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Trooper_Nuker_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Trooper_Nuker_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 0,
+    "ReqPower": 34
+  },
+  "Robot_Trooper_Nuker_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 0,
+    "ReqPower": 39
+  },
+  "Robot_Trooper_Nuker_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Trooper_Nuker_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Trooper_Nuker_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 33
+  },
+  "Robot_Trooper_Nuker_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 45,
+    "ReqNutrient": 0,
+    "ReqPower": 37
+  },
+  "Robot_Trooper_Nuker_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 50,
+    "ReqNutrient": 0,
+    "ReqPower": 41
+  },
+  "Robot_Trooper_Nuker_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 57,
+    "ReqNutrient": 0,
+    "ReqPower": 47
+  },
+  "Robot_Trooper_Supporter_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 15,
+    "ReqNutrient": 0,
+    "ReqPower": 7
+  },
+  "Robot_Trooper_Supporter_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 16,
+    "ReqNutrient": 0,
+    "ReqPower": 8
+  },
+  "Robot_Trooper_Supporter_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 18,
+    "ReqNutrient": 0,
+    "ReqPower": 9
+  },
+  "Robot_Trooper_Supporter_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 10
+  },
+  "Robot_Trooper_Supporter_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 23,
+    "ReqNutrient": 0,
+    "ReqPower": 11
+  },
+  "Robot_Trooper_Supporter_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 13
+  },
+  "Robot_Trooper_Supporter_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 10
+  },
+  "Robot_Trooper_Supporter_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 11
+  },
+  "Robot_Trooper_Supporter_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 12
+  },
+  "Robot_Trooper_Supporter_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 14
+  },
+  "Robot_Trooper_Supporter_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Trooper_Supporter_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 17
+  },
+  "Robot_Trooper_Supporter_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 13
+  },
+  "Robot_Trooper_Supporter_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Trooper_Supporter_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Trooper_Supporter_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Trooper_Supporter_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Trooper_Supporter_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Trooper_Supporter_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Trooper_Supporter_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Trooper_Supporter_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Trooper_Supporter_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 45,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Trooper_Supporter_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 50,
+    "ReqNutrient": 0,
+    "ReqPower": 25
+  },
+  "Robot_Trooper_Supporter_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 57,
+    "ReqNutrient": 0,
+    "ReqPower": 28
+  },
+  "Robot_Armored_Tanker_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 12
+  },
+  "Robot_Armored_Tanker_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 14
+  },
+  "Robot_Armored_Tanker_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Armored_Tanker_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 34,
+    "ReqNutrient": 0,
+    "ReqPower": 17
+  },
+  "Robot_Armored_Tanker_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 38,
+    "ReqNutrient": 0,
+    "ReqPower": 19
+  },
+  "Robot_Armored_Tanker_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Armored_Tanker_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 33,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Armored_Tanker_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Armored_Tanker_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Armored_Tanker_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 45,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Armored_Tanker_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 50,
+    "ReqNutrient": 0,
+    "ReqPower": 25
+  },
+  "Robot_Armored_Tanker_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 58,
+    "ReqNutrient": 0,
+    "ReqPower": 29
+  },
+  "Robot_Armored_Tanker_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 44,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Armored_Tanker_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 49,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Armored_Tanker_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 54,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Armored_Tanker_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 61,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Armored_Tanker_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 68,
+    "ReqNutrient": 0,
+    "ReqPower": 34
+  },
+  "Robot_Armored_Tanker_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 78,
+    "ReqNutrient": 0,
+    "ReqPower": 39
+  },
+  "Robot_Armored_Tanker_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 54,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Armored_Tanker_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 60,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Armored_Tanker_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 66,
+    "ReqNutrient": 0,
+    "ReqPower": 33
+  },
+  "Robot_Armored_Tanker_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 74,
+    "ReqNutrient": 0,
+    "ReqPower": 37
+  },
+  "Robot_Armored_Tanker_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 83,
+    "ReqNutrient": 0,
+    "ReqPower": 41
+  },
+  "Robot_Armored_Tanker_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 95,
+    "ReqNutrient": 0,
+    "ReqPower": 47
+  },
+  "Robot_Armored_Nuker_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 17
+  },
+  "Robot_Armored_Nuker_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 19
+  },
+  "Robot_Armored_Nuker_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 21
+  },
+  "Robot_Armored_Nuker_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Armored_Nuker_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 26
+  },
+  "Robot_Armored_Nuker_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Armored_Nuker_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Armored_Nuker_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 25
+  },
+  "Robot_Armored_Nuker_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 28
+  },
+  "Robot_Armored_Nuker_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 32
+  },
+  "Robot_Armored_Nuker_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 35
+  },
+  "Robot_Armored_Nuker_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 46,
+    "ReqNutrient": 0,
+    "ReqPower": 40
+  },
+  "Robot_Armored_Nuker_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 31
+  },
+  "Robot_Armored_Nuker_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 39,
+    "ReqNutrient": 0,
+    "ReqPower": 34
+  },
+  "Robot_Armored_Nuker_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 38
+  },
+  "Robot_Armored_Nuker_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 49,
+    "ReqNutrient": 0,
+    "ReqPower": 43
+  },
+  "Robot_Armored_Nuker_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 54,
+    "ReqNutrient": 0,
+    "ReqPower": 47
+  },
+  "Robot_Armored_Nuker_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 62,
+    "ReqNutrient": 0,
+    "ReqPower": 54
+  },
+  "Robot_Armored_Nuker_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 38
+  },
+  "Robot_Armored_Nuker_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 48,
+    "ReqNutrient": 0,
+    "ReqPower": 42
+  },
+  "Robot_Armored_Nuker_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 53,
+    "ReqNutrient": 0,
+    "ReqPower": 46
+  },
+  "Robot_Armored_Nuker_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 59,
+    "ReqNutrient": 0,
+    "ReqPower": 52
+  },
+  "Robot_Armored_Nuker_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 66,
+    "ReqNutrient": 0,
+    "ReqPower": 58
+  },
+  "Robot_Armored_Nuker_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 76,
+    "ReqNutrient": 0,
+    "ReqPower": 66
+  },
+  "Robot_Armored_Supporter_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 12
+  },
+  "Robot_Armored_Supporter_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 14
+  },
+  "Robot_Armored_Supporter_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Armored_Supporter_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 17
+  },
+  "Robot_Armored_Supporter_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 19
+  },
+  "Robot_Armored_Supporter_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Armored_Supporter_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Armored_Supporter_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Armored_Supporter_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Armored_Supporter_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 36,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Armored_Supporter_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 25
+  },
+  "Robot_Armored_Supporter_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 46,
+    "ReqNutrient": 0,
+    "ReqPower": 29
+  },
+  "Robot_Armored_Supporter_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Armored_Supporter_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 39,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Armored_Supporter_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Armored_Supporter_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 49,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Armored_Supporter_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 54,
+    "ReqNutrient": 0,
+    "ReqPower": 34
+  },
+  "Robot_Armored_Supporter_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 62,
+    "ReqNutrient": 0,
+    "ReqPower": 39
+  },
+  "Robot_Armored_Supporter_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Armored_Supporter_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 48,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Armored_Supporter_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 53,
+    "ReqNutrient": 0,
+    "ReqPower": 33
+  },
+  "Robot_Armored_Supporter_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 59,
+    "ReqNutrient": 0,
+    "ReqPower": 37
+  },
+  "Robot_Armored_Supporter_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 66,
+    "ReqNutrient": 0,
+    "ReqPower": 41
+  },
+  "Robot_Armored_Supporter_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 1,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 76,
+    "ReqNutrient": 0,
+    "ReqPower": 47
+  },
+  "Robot_Mobility_Tanker_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 17,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Mobility_Tanker_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 19,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Mobility_Tanker_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 21,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Mobility_Tanker_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Mobility_Tanker_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 26,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Mobility_Tanker_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 26
+  },
+  "Robot_Mobility_Tanker_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 23,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Mobility_Tanker_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 25,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Mobility_Tanker_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 28,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Mobility_Tanker_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 32,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Mobility_Tanker_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 35,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Mobility_Tanker_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 40,
+    "ReqNutrient": 0,
+    "ReqPower": 35
+  },
+  "Robot_Mobility_Tanker_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 31,
+    "ReqNutrient": 0,
+    "ReqPower": 26
+  },
+  "Robot_Mobility_Tanker_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 34,
+    "ReqNutrient": 0,
+    "ReqPower": 29
+  },
+  "Robot_Mobility_Tanker_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 38,
+    "ReqNutrient": 0,
+    "ReqPower": 32
+  },
+  "Robot_Mobility_Tanker_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 43,
+    "ReqNutrient": 0,
+    "ReqPower": 36
+  },
+  "Robot_Mobility_Tanker_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 47,
+    "ReqNutrient": 0,
+    "ReqPower": 41
+  },
+  "Robot_Mobility_Tanker_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 54,
+    "ReqNutrient": 0,
+    "ReqPower": 47
+  },
+  "Robot_Mobility_Tanker_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 38,
+    "ReqNutrient": 0,
+    "ReqPower": 32
+  },
+  "Robot_Mobility_Tanker_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 42,
+    "ReqNutrient": 0,
+    "ReqPower": 36
+  },
+  "Robot_Mobility_Tanker_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 46,
+    "ReqNutrient": 0,
+    "ReqPower": 40
+  },
+  "Robot_Mobility_Tanker_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 52,
+    "ReqNutrient": 0,
+    "ReqPower": 45
+  },
+  "Robot_Mobility_Tanker_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 58,
+    "ReqNutrient": 0,
+    "ReqPower": 50
+  },
+  "Robot_Mobility_Tanker_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 0,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 66,
+    "ReqNutrient": 0,
+    "ReqPower": 57
+  },
+  "Robot_Mobility_Nuker_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 12,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Mobility_Nuker_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 14,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Mobility_Nuker_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 15,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Mobility_Nuker_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 17,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Mobility_Nuker_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 19,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Mobility_Nuker_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 35
+  },
+  "Robot_Mobility_Nuker_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 0,
+    "ReqPower": 26
+  },
+  "Robot_Mobility_Nuker_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 0,
+    "ReqPower": 29
+  },
+  "Robot_Mobility_Nuker_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 32
+  },
+  "Robot_Mobility_Nuker_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 23,
+    "ReqNutrient": 0,
+    "ReqPower": 36
+  },
+  "Robot_Mobility_Nuker_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 0,
+    "ReqPower": 40
+  },
+  "Robot_Mobility_Nuker_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 46
+  },
+  "Robot_Mobility_Nuker_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 35
+  },
+  "Robot_Mobility_Nuker_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 39
+  },
+  "Robot_Mobility_Nuker_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 43
+  },
+  "Robot_Mobility_Nuker_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 49
+  },
+  "Robot_Mobility_Nuker_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 34,
+    "ReqNutrient": 0,
+    "ReqPower": 54
+  },
+  "Robot_Mobility_Nuker_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 39,
+    "ReqNutrient": 0,
+    "ReqPower": 62
+  },
+  "Robot_Mobility_Nuker_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 43
+  },
+  "Robot_Mobility_Nuker_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 48
+  },
+  "Robot_Mobility_Nuker_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 33,
+    "ReqNutrient": 0,
+    "ReqPower": 53
+  },
+  "Robot_Mobility_Nuker_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 37,
+    "ReqNutrient": 0,
+    "ReqPower": 59
+  },
+  "Robot_Mobility_Nuker_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 0,
+    "ReqPower": 66
+  },
+  "Robot_Mobility_Nuker_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 1,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 0,
+    "ReqPower": 76
+  },
+  "Robot_Mobility_Supporter_G2_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 0,
+    "ReqMetal": 12,
+    "ReqNutrient": 0,
+    "ReqPower": 15
+  },
+  "Robot_Mobility_Supporter_G2_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 1,
+    "ReqMetal": 14,
+    "ReqNutrient": 0,
+    "ReqPower": 16
+  },
+  "Robot_Mobility_Supporter_G2_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 2,
+    "ReqMetal": 15,
+    "ReqNutrient": 0,
+    "ReqPower": 18
+  },
+  "Robot_Mobility_Supporter_G2_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 3,
+    "ReqMetal": 17,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Mobility_Supporter_G2_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 4,
+    "ReqMetal": 19,
+    "ReqNutrient": 0,
+    "ReqPower": 23
+  },
+  "Robot_Mobility_Supporter_G2_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 2,
+    "CoreLink": 5,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 26
+  },
+  "Robot_Mobility_Supporter_G3_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 0,
+    "ReqMetal": 16,
+    "ReqNutrient": 0,
+    "ReqPower": 20
+  },
+  "Robot_Mobility_Supporter_G3_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 1,
+    "ReqMetal": 18,
+    "ReqNutrient": 0,
+    "ReqPower": 22
+  },
+  "Robot_Mobility_Supporter_G3_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 2,
+    "ReqMetal": 20,
+    "ReqNutrient": 0,
+    "ReqPower": 24
+  },
+  "Robot_Mobility_Supporter_G3_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 3,
+    "ReqMetal": 23,
+    "ReqNutrient": 0,
+    "ReqPower": 27
+  },
+  "Robot_Mobility_Supporter_G3_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 4,
+    "ReqMetal": 25,
+    "ReqNutrient": 0,
+    "ReqPower": 30
+  },
+  "Robot_Mobility_Supporter_G3_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 3,
+    "CoreLink": 5,
+    "ReqMetal": 29,
+    "ReqNutrient": 0,
+    "ReqPower": 35
+  },
+  "Robot_Mobility_Supporter_G4_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 0,
+    "ReqMetal": 22,
+    "ReqNutrient": 0,
+    "ReqPower": 26
+  },
+  "Robot_Mobility_Supporter_G4_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 1,
+    "ReqMetal": 24,
+    "ReqNutrient": 0,
+    "ReqPower": 29
+  },
+  "Robot_Mobility_Supporter_G4_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 2,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 32
+  },
+  "Robot_Mobility_Supporter_G4_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 3,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 36
+  },
+  "Robot_Mobility_Supporter_G4_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 4,
+    "ReqMetal": 34,
+    "ReqNutrient": 0,
+    "ReqPower": 41
+  },
+  "Robot_Mobility_Supporter_G4_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 4,
+    "CoreLink": 5,
+    "ReqMetal": 39,
+    "ReqNutrient": 0,
+    "ReqPower": 47
+  },
+  "Robot_Mobility_Supporter_G5_C0": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 0,
+    "ReqMetal": 27,
+    "ReqNutrient": 0,
+    "ReqPower": 32
+  },
+  "Robot_Mobility_Supporter_G5_C1": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 1,
+    "ReqMetal": 30,
+    "ReqNutrient": 0,
+    "ReqPower": 36
+  },
+  "Robot_Mobility_Supporter_G5_C2": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 2,
+    "ReqMetal": 33,
+    "ReqNutrient": 0,
+    "ReqPower": 40
+  },
+  "Robot_Mobility_Supporter_G5_C3": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 3,
+    "ReqMetal": 37,
+    "ReqNutrient": 0,
+    "ReqPower": 45
+  },
+  "Robot_Mobility_Supporter_G5_C4": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 4,
+    "ReqMetal": 41,
+    "ReqNutrient": 0,
+    "ReqPower": 50
+  },
+  "Robot_Mobility_Supporter_G5_C5": {
+    "ActorBodyType": 1,
+    "ActorClassType": 2,
+    "RoleType": 2,
+    "Grade": 5,
+    "CoreLink": 5,
+    "ReqMetal": 47,
+    "ReqNutrient": 0,
+    "ReqPower": 57
+  }
+}

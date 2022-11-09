@@ -1,0 +1,14 @@
+{
+  "Ch_EW01": {
+    "ChapterName": "ChapterEWName_Ch_EW01",
+    "ChapterDec": "ChapterEWDesc_Ch_EW01",
+    "ChapterImg": "EW_Chapter_01",
+    "ChapterOrder": 0
+  },
+  "Ch_EW02": {
+    "ChapterName": "ChapterEWName_Ch_EW02",
+    "ChapterDec": "ChapterEWDesc_Ch_EW02",
+    "ChapterImg": "EW_Chapter_02",
+    "ChapterOrder": 1
+  }
+}

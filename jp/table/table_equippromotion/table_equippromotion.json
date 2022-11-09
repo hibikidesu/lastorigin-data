@@ -1,0 +1,2774 @@
+{
+  "Equip_Chip_Atk_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Atk_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Atk_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Atk_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Atk_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Atk_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Acc_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Acc_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Acc_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Acc_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Acc_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Acc_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Def_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Def_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Def_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Def_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Def_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Def_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Ev_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Ev_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Ev_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Ev_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Ev_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Ev_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Cri_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Cri_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Cri_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Cri_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Cri_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Cri_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Hp_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Hp_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Hp_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Hp_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Hp_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Hp_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Debuff_Res_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Debuff_Res_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Debuff_Res_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Debuff_Res_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Debuff_Res_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Debuff_Res_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Spd_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_Spd_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Spd_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_Spd_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_Spd_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_Spd_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Normal_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Normal_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Normal_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Normal_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Normal_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Normal_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Assault_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Assault_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Assault_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Assault_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Assault_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Assault_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Defense_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Defense_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Defense_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Defense_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Defense_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Defense_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Sniper_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Sniper_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Sniper_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Sniper_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Sniper_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Sniper_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Highspd_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Highspd_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Highspd_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Highspd_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Highspd_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Highspd_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Maneuver_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Maneuver_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Maneuver_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Maneuver_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Maneuver_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Maneuver_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAir_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAir_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAir_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAir_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAir_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAir_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooper_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooper_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooper_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooper_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooper_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooper_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmor_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmor_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmor_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmor_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmor_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmor_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Exp_T1": {
+    "Promotioned_EquipIdx": "Equip_System_Exp_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Exp_T2": {
+    "Promotioned_EquipIdx": "Equip_System_Exp_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_Exp_T3": {
+    "Promotioned_EquipIdx": "Equip_System_Exp_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_EnergyPack_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_EnergyPack_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_EnergyPack_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_EnergyPack_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_EnergyPack_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_EnergyPack_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Observer_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Observer_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Observer_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Observer_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Observer_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Observer_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpaceArmor_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpaceArmor_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpaceArmor_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpaceArmor_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpaceArmor_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpaceArmor_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SubBooster_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_SubBooster_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SubBooster_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_SubBooster_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SubBooster_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_SubBooster_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpSight_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpSight_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpSight_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpSight_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpSight_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpSight_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ArmorPierce_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_ArmorPierce_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ArmorPierce_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_ArmorPierce_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ArmorPierce_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_ArmorPierce_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiBarrier_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiBarrier_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiBarrier_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiBarrier_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiBarrier_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiBarrier_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Barrier_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Barrier_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Barrier_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Barrier_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Barrier_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Barrier_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpyDrone_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpyDrone_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpyDrone_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpyDrone_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_SpyDrone_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_SpyDrone_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ExamKit_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_ExamKit_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ExamKit_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_ExamKit_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ExamKit_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_ExamKit_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AdvRadar_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AdvRadar_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AdvRadar_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AdvRadar_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AdvRadar_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AdvRadar_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Stimulant_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Stimulant_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Stimulant_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Stimulant_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Stimulant_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Stimulant_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Hologram_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Hologram_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Hologram_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Hologram_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Hologram_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Hologram_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiFire_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiFire_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiFire_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiFire_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiFire_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiFire_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiCold_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiCold_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiCold_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiCold_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiCold_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiCold_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiLightning_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiLightning_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiLightning_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiLightning_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AntiLightning_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AntiLightning_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_SpAtk_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_SpAtk_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_SpAtk_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_SpAtk_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_SpAtk_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_SpAtk_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkCri_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkCri_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkCri_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkCri_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkCri_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkCri_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_KillExp_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_KillExp_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_KillExp_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_KillExp_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_KillExp_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_KillExp_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AquaModule_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AquaModule_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AquaModule_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AquaModule_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AquaModule_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AquaModule_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Overclock_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Overclock_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Overclock_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Overclock_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Overclock_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Overclock_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_HManeuver_T1": {
+    "Promotioned_EquipIdx": "Equip_System_HManeuver_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_HManeuver_T2": {
+    "Promotioned_EquipIdx": "Equip_System_HManeuver_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_HManeuver_T3": {
+    "Promotioned_EquipIdx": "Equip_System_HManeuver_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_EXAM_T1": {
+    "Promotioned_EquipIdx": "Equip_System_EXAM_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_EXAM_T2": {
+    "Promotioned_EquipIdx": "Equip_System_EXAM_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_EXAM_T3": {
+    "Promotioned_EquipIdx": "Equip_System_EXAM_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ElectroGenerator_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_ElectroGenerator_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ElectroGenerator_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_ElectroGenerator_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ElectroGenerator_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_ElectroGenerator_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Recycler_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Recycler_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Recycler_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Recycler_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Recycler_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Recycler_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_LTWT_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_LTWT_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_LTWT_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_LTWT_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_LTWT_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_LTWT_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkControl_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkControl_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkControl_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkControl_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkControl_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkControl_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ExoSkeleton_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_ExoSkeleton_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ExoSkeleton_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_ExoSkeleton_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_ExoSkeleton_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_ExoSkeleton_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Odamplifier_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_Odamplifier_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Odamplifier_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_Odamplifier_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_Odamplifier_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_Odamplifier_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AtkTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_AtkTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AccTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_AccTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AccTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_AccTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_AccTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_AccTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_DefTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_DefTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_DefTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_DefTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_DefTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_DefTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_EvTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_EvTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_EvTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_EvTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_EvTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_EvTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_CriTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_CriTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_CriTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_CriTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_CriTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_CriTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_HpTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_HpTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_HpTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_HpTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_HpTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_HpTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_SpdTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_Chip_SpdTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_SpdTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_Chip_SpdTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Chip_SpdTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_Chip_SpdTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAirTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAirTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAirTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAirTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAirTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAirTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooperTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooperTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooperTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooperTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooperTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooperTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmorTypeB_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmorTypeB_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmorTypeB_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmorTypeB_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmorTypeB_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmorTypeB_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooperAir_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooperAir_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooperAir_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooperAir_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiTrooperAir_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiTrooperAir_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAirArmor_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAirArmor_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAirArmor_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAirArmor_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiAirArmor_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiAirArmor_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmorTrooper_T1": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmorTrooper_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmorTrooper_T2": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmorTrooper_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_AntiArmorTrooper_T3": {
+    "Promotioned_EquipIdx": "Equip_System_AntiArmorTrooper_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_System_RogTrooperNukerATK_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperNukerATK_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralChip_T1",
+      "Consumable_EquipProSourceChip_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperNukerATK_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperNukerATK_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralChip_T2",
+      "Consumable_EquipProSourceChip_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperNukerATK_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperNukerATK_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralChip_T3",
+      "Consumable_EquipProSourceChip_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperNukerATK_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperNukerATK_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralChip_T4",
+      "Consumable_EquipProSourceChip_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityNukerATK_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityNukerATK_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralChip_T1",
+      "Consumable_EquipProSourceChip_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityNukerATK_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityNukerATK_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralChip_T2",
+      "Consumable_EquipProSourceChip_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityNukerATK_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityNukerATK_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralChip_T3",
+      "Consumable_EquipProSourceChip_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityNukerATK_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityNukerATK_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralChip_T4",
+      "Consumable_EquipProSourceChip_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredNukerATK_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredNukerATK_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralChip_T1",
+      "Consumable_EquipProSourceChip_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredNukerATK_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredNukerATK_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralChip_T2",
+      "Consumable_EquipProSourceChip_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredNukerATK_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredNukerATK_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralChip_T3",
+      "Consumable_EquipProSourceChip_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredNukerATK_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredNukerATK_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralChip_T4",
+      "Consumable_EquipProSourceChip_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperTankerDEF_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperTankerDEF_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralOS_T1",
+      "Consumable_EquipProSourceOS_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperTankerDEF_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperTankerDEF_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralOS_T2",
+      "Consumable_EquipProSourceOS_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperTankerDEF_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperTankerDEF_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralOS_T3",
+      "Consumable_EquipProSourceOS_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperTankerDEF_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperTankerDEF_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralOS_T4",
+      "Consumable_EquipProSourceOS_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityTankerEVA_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityTankerEVA_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralOS_T1",
+      "Consumable_EquipProSourceOS_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityTankerEVA_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityTankerEVA_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralOS_T2",
+      "Consumable_EquipProSourceOS_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityTankerEVA_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityTankerEVA_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralOS_T3",
+      "Consumable_EquipProSourceOS_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilityTankerEVA_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilityTankerEVA_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralOS_T4",
+      "Consumable_EquipProSourceOS_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredTankerDEF_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredTankerDEF_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralOS_T1",
+      "Consumable_EquipProSourceOS_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredTankerDEF_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredTankerDEF_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralOS_T2",
+      "Consumable_EquipProSourceOS_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredTankerDEF_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredTankerDEF_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralOS_T3",
+      "Consumable_EquipProSourceOS_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredTankerDEF_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredTankerDEF_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralOS_T4",
+      "Consumable_EquipProSourceOS_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperSupporterSPd_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperSupporterSPd_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralSub_T1",
+      "Consumable_EquipProSourceSub_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperSupporterSPd_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperSupporterSPd_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralSub_T2",
+      "Consumable_EquipProSourceSub_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperSupporterSPd_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperSupporterSPd_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralSub_T3",
+      "Consumable_EquipProSourceSub_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogTrooperSupporterSPd_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogTrooperSupporterSPd_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralSub_T4",
+      "Consumable_EquipProSourceSub_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilitySupporterSPd_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilitySupporterSPd_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralSub_T1",
+      "Consumable_EquipProSourceSub_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilitySupporterSPd_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilitySupporterSPd_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralSub_T2",
+      "Consumable_EquipProSourceSub_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilitySupporterSPd_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilitySupporterSPd_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralSub_T3",
+      "Consumable_EquipProSourceSub_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogMobilitySupporterSPd_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogMobilitySupporterSPd_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralSub_T4",
+      "Consumable_EquipProSourceSub_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredSupporterSPd_T1": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredSupporterSPd_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1",
+      "Consumable_EquipProMineralSub_T1",
+      "Consumable_EquipProSourceSub_T1",
+      "Consumable_EssenceCrystal_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredSupporterSPd_T2": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredSupporterSPd_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2",
+      "Consumable_EquipProMineralSub_T2",
+      "Consumable_EquipProSourceSub_T2",
+      "Consumable_EssenceCrystal_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredSupporterSPd_T3": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredSupporterSPd_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3",
+      "Consumable_EquipProMineralSub_T3",
+      "Consumable_EquipProSourceSub_T3",
+      "Consumable_EssenceCrystal_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_System_RogArmoredSupporterSPd_T4": {
+    "Promotioned_EquipIdx": "Equip_System_RogArmoredSupporterSPd_T5",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T4",
+      "Consumable_EquipProMineralSub_T4",
+      "Consumable_EquipProSourceSub_T4",
+      "Consumable_EssenceCrystal_T4"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      4,
+      4,
+      4
+    ]
+  },
+  "Equip_Sub_LWLoader_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_LWLoader_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_LWLoader_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_LWLoader_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_LWLoader_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_LWLoader_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AWThruster_T1": {
+    "Promotioned_EquipIdx": "Equip_Sub_AWThruster_T2",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T1"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AWThruster_T2": {
+    "Promotioned_EquipIdx": "Equip_Sub_AWThruster_T3",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T2"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  "Equip_Sub_AWThruster_T3": {
+    "Promotioned_EquipIdx": "Equip_Sub_AWThruster_T4",
+    "Req_ConsumableItem": [
+      "Consumable_EquipProPart_T3"
+    ],
+    "Req_ConsumableItemQty": [
+      4,
+      0,
+      0,
+      0
+    ]
+  }
+}

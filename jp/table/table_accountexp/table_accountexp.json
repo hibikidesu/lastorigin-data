@@ -1,0 +1,1252 @@
+{
+  "Account_Lv1": {
+    "Level": 1,
+    "Exp": 0,
+    "NeedExp": 100
+  },
+  "Account_Lv2": {
+    "Level": 2,
+    "Exp": 0,
+    "NeedExp": 108
+  },
+  "Account_Lv3": {
+    "Level": 3,
+    "Exp": 0,
+    "NeedExp": 116
+  },
+  "Account_Lv4": {
+    "Level": 4,
+    "Exp": 0,
+    "NeedExp": 125
+  },
+  "Account_Lv5": {
+    "Level": 5,
+    "Exp": 0,
+    "NeedExp": 134
+  },
+  "Account_Lv6": {
+    "Level": 6,
+    "Exp": 0,
+    "NeedExp": 144
+  },
+  "Account_Lv7": {
+    "Level": 7,
+    "Exp": 0,
+    "NeedExp": 155
+  },
+  "Account_Lv8": {
+    "Level": 8,
+    "Exp": 0,
+    "NeedExp": 167
+  },
+  "Account_Lv9": {
+    "Level": 9,
+    "Exp": 0,
+    "NeedExp": 180
+  },
+  "Account_Lv10": {
+    "Level": 10,
+    "Exp": 0,
+    "NeedExp": 194
+  },
+  "Account_Lv11": {
+    "Level": 11,
+    "Exp": 0,
+    "NeedExp": 209
+  },
+  "Account_Lv12": {
+    "Level": 12,
+    "Exp": 0,
+    "NeedExp": 225
+  },
+  "Account_Lv13": {
+    "Level": 13,
+    "Exp": 0,
+    "NeedExp": 242
+  },
+  "Account_Lv14": {
+    "Level": 14,
+    "Exp": 0,
+    "NeedExp": 260
+  },
+  "Account_Lv15": {
+    "Level": 15,
+    "Exp": 0,
+    "NeedExp": 280
+  },
+  "Account_Lv16": {
+    "Level": 16,
+    "Exp": 0,
+    "NeedExp": 301
+  },
+  "Account_Lv17": {
+    "Level": 17,
+    "Exp": 0,
+    "NeedExp": 324
+  },
+  "Account_Lv18": {
+    "Level": 18,
+    "Exp": 0,
+    "NeedExp": 348
+  },
+  "Account_Lv19": {
+    "Level": 19,
+    "Exp": 0,
+    "NeedExp": 374
+  },
+  "Account_Lv20": {
+    "Level": 20,
+    "Exp": 0,
+    "NeedExp": 402
+  },
+  "Account_Lv21": {
+    "Level": 21,
+    "Exp": 0,
+    "NeedExp": 432
+  },
+  "Account_Lv22": {
+    "Level": 22,
+    "Exp": 0,
+    "NeedExp": 464
+  },
+  "Account_Lv23": {
+    "Level": 23,
+    "Exp": 0,
+    "NeedExp": 499
+  },
+  "Account_Lv24": {
+    "Level": 24,
+    "Exp": 0,
+    "NeedExp": 536
+  },
+  "Account_Lv25": {
+    "Level": 25,
+    "Exp": 0,
+    "NeedExp": 576
+  },
+  "Account_Lv26": {
+    "Level": 26,
+    "Exp": 0,
+    "NeedExp": 619
+  },
+  "Account_Lv27": {
+    "Level": 27,
+    "Exp": 0,
+    "NeedExp": 665
+  },
+  "Account_Lv28": {
+    "Level": 28,
+    "Exp": 0,
+    "NeedExp": 715
+  },
+  "Account_Lv29": {
+    "Level": 29,
+    "Exp": 0,
+    "NeedExp": 769
+  },
+  "Account_Lv30": {
+    "Level": 30,
+    "Exp": 0,
+    "NeedExp": 827
+  },
+  "Account_Lv31": {
+    "Level": 31,
+    "Exp": 0,
+    "NeedExp": 889
+  },
+  "Account_Lv32": {
+    "Level": 32,
+    "Exp": 0,
+    "NeedExp": 956
+  },
+  "Account_Lv33": {
+    "Level": 33,
+    "Exp": 0,
+    "NeedExp": 1028
+  },
+  "Account_Lv34": {
+    "Level": 34,
+    "Exp": 0,
+    "NeedExp": 1105
+  },
+  "Account_Lv35": {
+    "Level": 35,
+    "Exp": 0,
+    "NeedExp": 1188
+  },
+  "Account_Lv36": {
+    "Level": 36,
+    "Exp": 0,
+    "NeedExp": 1277
+  },
+  "Account_Lv37": {
+    "Level": 37,
+    "Exp": 0,
+    "NeedExp": 1373
+  },
+  "Account_Lv38": {
+    "Level": 38,
+    "Exp": 0,
+    "NeedExp": 1476
+  },
+  "Account_Lv39": {
+    "Level": 39,
+    "Exp": 0,
+    "NeedExp": 1587
+  },
+  "Account_Lv40": {
+    "Level": 40,
+    "Exp": 0,
+    "NeedExp": 1706
+  },
+  "Account_Lv41": {
+    "Level": 41,
+    "Exp": 0,
+    "NeedExp": 1834
+  },
+  "Account_Lv42": {
+    "Level": 42,
+    "Exp": 0,
+    "NeedExp": 1972
+  },
+  "Account_Lv43": {
+    "Level": 43,
+    "Exp": 0,
+    "NeedExp": 2120
+  },
+  "Account_Lv44": {
+    "Level": 44,
+    "Exp": 0,
+    "NeedExp": 2279
+  },
+  "Account_Lv45": {
+    "Level": 45,
+    "Exp": 0,
+    "NeedExp": 2450
+  },
+  "Account_Lv46": {
+    "Level": 46,
+    "Exp": 0,
+    "NeedExp": 2634
+  },
+  "Account_Lv47": {
+    "Level": 47,
+    "Exp": 0,
+    "NeedExp": 2832
+  },
+  "Account_Lv48": {
+    "Level": 48,
+    "Exp": 0,
+    "NeedExp": 3044
+  },
+  "Account_Lv49": {
+    "Level": 49,
+    "Exp": 0,
+    "NeedExp": 3272
+  },
+  "Account_Lv50": {
+    "Level": 50,
+    "Exp": 0,
+    "NeedExp": 3517
+  },
+  "Account_Lv51": {
+    "Level": 51,
+    "Exp": 0,
+    "NeedExp": 3781
+  },
+  "Account_Lv52": {
+    "Level": 52,
+    "Exp": 0,
+    "NeedExp": 4065
+  },
+  "Account_Lv53": {
+    "Level": 53,
+    "Exp": 0,
+    "NeedExp": 4370
+  },
+  "Account_Lv54": {
+    "Level": 54,
+    "Exp": 0,
+    "NeedExp": 4698
+  },
+  "Account_Lv55": {
+    "Level": 55,
+    "Exp": 0,
+    "NeedExp": 5050
+  },
+  "Account_Lv56": {
+    "Level": 56,
+    "Exp": 0,
+    "NeedExp": 5429
+  },
+  "Account_Lv57": {
+    "Level": 57,
+    "Exp": 0,
+    "NeedExp": 5836
+  },
+  "Account_Lv58": {
+    "Level": 58,
+    "Exp": 0,
+    "NeedExp": 6274
+  },
+  "Account_Lv59": {
+    "Level": 59,
+    "Exp": 0,
+    "NeedExp": 6745
+  },
+  "Account_Lv60": {
+    "Level": 60,
+    "Exp": 0,
+    "NeedExp": 7251
+  },
+  "Account_Lv61": {
+    "Level": 61,
+    "Exp": 0,
+    "NeedExp": 7795
+  },
+  "Account_Lv62": {
+    "Level": 62,
+    "Exp": 0,
+    "NeedExp": 8380
+  },
+  "Account_Lv63": {
+    "Level": 63,
+    "Exp": 0,
+    "NeedExp": 9009
+  },
+  "Account_Lv64": {
+    "Level": 64,
+    "Exp": 0,
+    "NeedExp": 9685
+  },
+  "Account_Lv65": {
+    "Level": 65,
+    "Exp": 0,
+    "NeedExp": 10411
+  },
+  "Account_Lv66": {
+    "Level": 66,
+    "Exp": 0,
+    "NeedExp": 11192
+  },
+  "Account_Lv67": {
+    "Level": 67,
+    "Exp": 0,
+    "NeedExp": 12031
+  },
+  "Account_Lv68": {
+    "Level": 68,
+    "Exp": 0,
+    "NeedExp": 12933
+  },
+  "Account_Lv69": {
+    "Level": 69,
+    "Exp": 0,
+    "NeedExp": 13903
+  },
+  "Account_Lv70": {
+    "Level": 70,
+    "Exp": 0,
+    "NeedExp": 14946
+  },
+  "Account_Lv71": {
+    "Level": 71,
+    "Exp": 0,
+    "NeedExp": 16067
+  },
+  "Account_Lv72": {
+    "Level": 72,
+    "Exp": 0,
+    "NeedExp": 17272
+  },
+  "Account_Lv73": {
+    "Level": 73,
+    "Exp": 0,
+    "NeedExp": 18567
+  },
+  "Account_Lv74": {
+    "Level": 74,
+    "Exp": 0,
+    "NeedExp": 19960
+  },
+  "Account_Lv75": {
+    "Level": 75,
+    "Exp": 0,
+    "NeedExp": 21457
+  },
+  "Account_Lv76": {
+    "Level": 76,
+    "Exp": 0,
+    "NeedExp": 23066
+  },
+  "Account_Lv77": {
+    "Level": 77,
+    "Exp": 0,
+    "NeedExp": 24796
+  },
+  "Account_Lv78": {
+    "Level": 78,
+    "Exp": 0,
+    "NeedExp": 26656
+  },
+  "Account_Lv79": {
+    "Level": 79,
+    "Exp": 0,
+    "NeedExp": 28655
+  },
+  "Account_Lv80": {
+    "Level": 80,
+    "Exp": 0,
+    "NeedExp": 30804
+  },
+  "Account_Lv81": {
+    "Level": 81,
+    "Exp": 0,
+    "NeedExp": 33114
+  },
+  "Account_Lv82": {
+    "Level": 82,
+    "Exp": 0,
+    "NeedExp": 35598
+  },
+  "Account_Lv83": {
+    "Level": 83,
+    "Exp": 0,
+    "NeedExp": 38268
+  },
+  "Account_Lv84": {
+    "Level": 84,
+    "Exp": 0,
+    "NeedExp": 41138
+  },
+  "Account_Lv85": {
+    "Level": 85,
+    "Exp": 0,
+    "NeedExp": 44223
+  },
+  "Account_Lv86": {
+    "Level": 86,
+    "Exp": 0,
+    "NeedExp": 47540
+  },
+  "Account_Lv87": {
+    "Level": 87,
+    "Exp": 0,
+    "NeedExp": 51106
+  },
+  "Account_Lv88": {
+    "Level": 88,
+    "Exp": 0,
+    "NeedExp": 54939
+  },
+  "Account_Lv89": {
+    "Level": 89,
+    "Exp": 0,
+    "NeedExp": 59059
+  },
+  "Account_Lv90": {
+    "Level": 90,
+    "Exp": 0,
+    "NeedExp": 63488
+  },
+  "Account_Lv91": {
+    "Level": 91,
+    "Exp": 0,
+    "NeedExp": 68250
+  },
+  "Account_Lv92": {
+    "Level": 92,
+    "Exp": 0,
+    "NeedExp": 73369
+  },
+  "Account_Lv93": {
+    "Level": 93,
+    "Exp": 0,
+    "NeedExp": 78872
+  },
+  "Account_Lv94": {
+    "Level": 94,
+    "Exp": 0,
+    "NeedExp": 84787
+  },
+  "Account_Lv95": {
+    "Level": 95,
+    "Exp": 0,
+    "NeedExp": 91146
+  },
+  "Account_Lv96": {
+    "Level": 96,
+    "Exp": 0,
+    "NeedExp": 97982
+  },
+  "Account_Lv97": {
+    "Level": 97,
+    "Exp": 0,
+    "NeedExp": 105331
+  },
+  "Account_Lv98": {
+    "Level": 98,
+    "Exp": 0,
+    "NeedExp": 113231
+  },
+  "Account_Lv99": {
+    "Level": 99,
+    "Exp": 0,
+    "NeedExp": 121723
+  },
+  "Account_Lv100": {
+    "Level": 100,
+    "Exp": 0,
+    "NeedExp": 129026
+  },
+  "Account_Lv101": {
+    "Level": 101,
+    "Exp": 0,
+    "NeedExp": 136768
+  },
+  "Account_Lv102": {
+    "Level": 102,
+    "Exp": 0,
+    "NeedExp": 144974
+  },
+  "Account_Lv103": {
+    "Level": 103,
+    "Exp": 0,
+    "NeedExp": 153672
+  },
+  "Account_Lv104": {
+    "Level": 104,
+    "Exp": 0,
+    "NeedExp": 162892
+  },
+  "Account_Lv105": {
+    "Level": 105,
+    "Exp": 0,
+    "NeedExp": 172666
+  },
+  "Account_Lv106": {
+    "Level": 106,
+    "Exp": 0,
+    "NeedExp": 183026
+  },
+  "Account_Lv107": {
+    "Level": 107,
+    "Exp": 0,
+    "NeedExp": 194008
+  },
+  "Account_Lv108": {
+    "Level": 108,
+    "Exp": 0,
+    "NeedExp": 205648
+  },
+  "Account_Lv109": {
+    "Level": 109,
+    "Exp": 0,
+    "NeedExp": 217987
+  },
+  "Account_Lv110": {
+    "Level": 110,
+    "Exp": 0,
+    "NeedExp": 231066
+  },
+  "Account_Lv111": {
+    "Level": 111,
+    "Exp": 0,
+    "NeedExp": 244930
+  },
+  "Account_Lv112": {
+    "Level": 112,
+    "Exp": 0,
+    "NeedExp": 259626
+  },
+  "Account_Lv113": {
+    "Level": 113,
+    "Exp": 0,
+    "NeedExp": 275204
+  },
+  "Account_Lv114": {
+    "Level": 114,
+    "Exp": 0,
+    "NeedExp": 291716
+  },
+  "Account_Lv115": {
+    "Level": 115,
+    "Exp": 0,
+    "NeedExp": 309219
+  },
+  "Account_Lv116": {
+    "Level": 116,
+    "Exp": 0,
+    "NeedExp": 327772
+  },
+  "Account_Lv117": {
+    "Level": 117,
+    "Exp": 0,
+    "NeedExp": 347438
+  },
+  "Account_Lv118": {
+    "Level": 118,
+    "Exp": 0,
+    "NeedExp": 368284
+  },
+  "Account_Lv119": {
+    "Level": 119,
+    "Exp": 0,
+    "NeedExp": 390381
+  },
+  "Account_Lv120": {
+    "Level": 120,
+    "Exp": 0,
+    "NeedExp": 413804
+  },
+  "Account_Lv121": {
+    "Level": 121,
+    "Exp": 0,
+    "NeedExp": 438632
+  },
+  "Account_Lv122": {
+    "Level": 122,
+    "Exp": 0,
+    "NeedExp": 464950
+  },
+  "Account_Lv123": {
+    "Level": 123,
+    "Exp": 0,
+    "NeedExp": 492847
+  },
+  "Account_Lv124": {
+    "Level": 124,
+    "Exp": 0,
+    "NeedExp": 522418
+  },
+  "Account_Lv125": {
+    "Level": 125,
+    "Exp": 0,
+    "NeedExp": 553763
+  },
+  "Account_Lv126": {
+    "Level": 126,
+    "Exp": 0,
+    "NeedExp": 586989
+  },
+  "Account_Lv127": {
+    "Level": 127,
+    "Exp": 0,
+    "NeedExp": 622208
+  },
+  "Account_Lv128": {
+    "Level": 128,
+    "Exp": 0,
+    "NeedExp": 659540
+  },
+  "Account_Lv129": {
+    "Level": 129,
+    "Exp": 0,
+    "NeedExp": 699112
+  },
+  "Account_Lv130": {
+    "Level": 130,
+    "Exp": 0,
+    "NeedExp": 741059
+  },
+  "Account_Lv131": {
+    "Level": 131,
+    "Exp": 0,
+    "NeedExp": 785523
+  },
+  "Account_Lv132": {
+    "Level": 132,
+    "Exp": 0,
+    "NeedExp": 832654
+  },
+  "Account_Lv133": {
+    "Level": 133,
+    "Exp": 0,
+    "NeedExp": 882613
+  },
+  "Account_Lv134": {
+    "Level": 134,
+    "Exp": 0,
+    "NeedExp": 935570
+  },
+  "Account_Lv135": {
+    "Level": 135,
+    "Exp": 0,
+    "NeedExp": 991704
+  },
+  "Account_Lv136": {
+    "Level": 136,
+    "Exp": 0,
+    "NeedExp": 1051206
+  },
+  "Account_Lv137": {
+    "Level": 137,
+    "Exp": 0,
+    "NeedExp": 1114278
+  },
+  "Account_Lv138": {
+    "Level": 138,
+    "Exp": 0,
+    "NeedExp": 1181135
+  },
+  "Account_Lv139": {
+    "Level": 139,
+    "Exp": 0,
+    "NeedExp": 1252003
+  },
+  "Account_Lv140": {
+    "Level": 140,
+    "Exp": 0,
+    "NeedExp": 1327123
+  },
+  "Account_Lv141": {
+    "Level": 141,
+    "Exp": 0,
+    "NeedExp": 1406750
+  },
+  "Account_Lv142": {
+    "Level": 142,
+    "Exp": 0,
+    "NeedExp": 1491155
+  },
+  "Account_Lv143": {
+    "Level": 143,
+    "Exp": 0,
+    "NeedExp": 1580624
+  },
+  "Account_Lv144": {
+    "Level": 144,
+    "Exp": 0,
+    "NeedExp": 1675461
+  },
+  "Account_Lv145": {
+    "Level": 145,
+    "Exp": 0,
+    "NeedExp": 1775989
+  },
+  "Account_Lv146": {
+    "Level": 146,
+    "Exp": 0,
+    "NeedExp": 1882548
+  },
+  "Account_Lv147": {
+    "Level": 147,
+    "Exp": 0,
+    "NeedExp": 1995501
+  },
+  "Account_Lv148": {
+    "Level": 148,
+    "Exp": 0,
+    "NeedExp": 2115231
+  },
+  "Account_Lv149": {
+    "Level": 149,
+    "Exp": 0,
+    "NeedExp": 2242145
+  },
+  "Account_Lv150": {
+    "Level": 150,
+    "Exp": 0,
+    "NeedExp": 2275777
+  },
+  "Account_Lv151": {
+    "Level": 151,
+    "Exp": 0,
+    "NeedExp": 2309914
+  },
+  "Account_Lv152": {
+    "Level": 152,
+    "Exp": 0,
+    "NeedExp": 2344563
+  },
+  "Account_Lv153": {
+    "Level": 153,
+    "Exp": 0,
+    "NeedExp": 2379731
+  },
+  "Account_Lv154": {
+    "Level": 154,
+    "Exp": 0,
+    "NeedExp": 2415427
+  },
+  "Account_Lv155": {
+    "Level": 155,
+    "Exp": 0,
+    "NeedExp": 2451658
+  },
+  "Account_Lv156": {
+    "Level": 156,
+    "Exp": 0,
+    "NeedExp": 2488433
+  },
+  "Account_Lv157": {
+    "Level": 157,
+    "Exp": 0,
+    "NeedExp": 2525759
+  },
+  "Account_Lv158": {
+    "Level": 158,
+    "Exp": 0,
+    "NeedExp": 2563645
+  },
+  "Account_Lv159": {
+    "Level": 159,
+    "Exp": 0,
+    "NeedExp": 2602100
+  },
+  "Account_Lv160": {
+    "Level": 160,
+    "Exp": 0,
+    "NeedExp": 2641132
+  },
+  "Account_Lv161": {
+    "Level": 161,
+    "Exp": 0,
+    "NeedExp": 2680749
+  },
+  "Account_Lv162": {
+    "Level": 162,
+    "Exp": 0,
+    "NeedExp": 2720960
+  },
+  "Account_Lv163": {
+    "Level": 163,
+    "Exp": 0,
+    "NeedExp": 2761774
+  },
+  "Account_Lv164": {
+    "Level": 164,
+    "Exp": 0,
+    "NeedExp": 2803201
+  },
+  "Account_Lv165": {
+    "Level": 165,
+    "Exp": 0,
+    "NeedExp": 2845249
+  },
+  "Account_Lv166": {
+    "Level": 166,
+    "Exp": 0,
+    "NeedExp": 2887928
+  },
+  "Account_Lv167": {
+    "Level": 167,
+    "Exp": 0,
+    "NeedExp": 2931247
+  },
+  "Account_Lv168": {
+    "Level": 168,
+    "Exp": 0,
+    "NeedExp": 2975216
+  },
+  "Account_Lv169": {
+    "Level": 169,
+    "Exp": 0,
+    "NeedExp": 3019844
+  },
+  "Account_Lv170": {
+    "Level": 170,
+    "Exp": 0,
+    "NeedExp": 3065142
+  },
+  "Account_Lv171": {
+    "Level": 171,
+    "Exp": 0,
+    "NeedExp": 3111119
+  },
+  "Account_Lv172": {
+    "Level": 172,
+    "Exp": 0,
+    "NeedExp": 3157786
+  },
+  "Account_Lv173": {
+    "Level": 173,
+    "Exp": 0,
+    "NeedExp": 3205153
+  },
+  "Account_Lv174": {
+    "Level": 174,
+    "Exp": 0,
+    "NeedExp": 3253230
+  },
+  "Account_Lv175": {
+    "Level": 175,
+    "Exp": 0,
+    "NeedExp": 3302028
+  },
+  "Account_Lv176": {
+    "Level": 176,
+    "Exp": 0,
+    "NeedExp": 3351558
+  },
+  "Account_Lv177": {
+    "Level": 177,
+    "Exp": 0,
+    "NeedExp": 3401831
+  },
+  "Account_Lv178": {
+    "Level": 178,
+    "Exp": 0,
+    "NeedExp": 3452858
+  },
+  "Account_Lv179": {
+    "Level": 179,
+    "Exp": 0,
+    "NeedExp": 3504651
+  },
+  "Account_Lv180": {
+    "Level": 180,
+    "Exp": 0,
+    "NeedExp": 3557221
+  },
+  "Account_Lv181": {
+    "Level": 181,
+    "Exp": 0,
+    "NeedExp": 3610579
+  },
+  "Account_Lv182": {
+    "Level": 182,
+    "Exp": 0,
+    "NeedExp": 3664738
+  },
+  "Account_Lv183": {
+    "Level": 183,
+    "Exp": 0,
+    "NeedExp": 3719709
+  },
+  "Account_Lv184": {
+    "Level": 184,
+    "Exp": 0,
+    "NeedExp": 3775505
+  },
+  "Account_Lv185": {
+    "Level": 185,
+    "Exp": 0,
+    "NeedExp": 3832138
+  },
+  "Account_Lv186": {
+    "Level": 186,
+    "Exp": 0,
+    "NeedExp": 3889620
+  },
+  "Account_Lv187": {
+    "Level": 187,
+    "Exp": 0,
+    "NeedExp": 3947964
+  },
+  "Account_Lv188": {
+    "Level": 188,
+    "Exp": 0,
+    "NeedExp": 4007183
+  },
+  "Account_Lv189": {
+    "Level": 189,
+    "Exp": 0,
+    "NeedExp": 4067291
+  },
+  "Account_Lv190": {
+    "Level": 190,
+    "Exp": 0,
+    "NeedExp": 4128300
+  },
+  "Account_Lv191": {
+    "Level": 191,
+    "Exp": 0,
+    "NeedExp": 4190225
+  },
+  "Account_Lv192": {
+    "Level": 192,
+    "Exp": 0,
+    "NeedExp": 4253078
+  },
+  "Account_Lv193": {
+    "Level": 193,
+    "Exp": 0,
+    "NeedExp": 4316874
+  },
+  "Account_Lv194": {
+    "Level": 194,
+    "Exp": 0,
+    "NeedExp": 4381627
+  },
+  "Account_Lv195": {
+    "Level": 195,
+    "Exp": 0,
+    "NeedExp": 4447351
+  },
+  "Account_Lv196": {
+    "Level": 196,
+    "Exp": 0,
+    "NeedExp": 4514061
+  },
+  "Account_Lv197": {
+    "Level": 197,
+    "Exp": 0,
+    "NeedExp": 4581772
+  },
+  "Account_Lv198": {
+    "Level": 198,
+    "Exp": 0,
+    "NeedExp": 4650499
+  },
+  "Account_Lv199": {
+    "Level": 199,
+    "Exp": 0,
+    "NeedExp": 4720256
+  },
+  "Account_Lv200": {
+    "Level": 200,
+    "Exp": 0,
+    "NeedExp": 4791060
+  },
+  "Account_Lv201": {
+    "Level": 201,
+    "Exp": 0,
+    "NeedExp": 4859770
+  },
+  "Account_Lv202": {
+    "Level": 202,
+    "Exp": 0,
+    "NeedExp": 4929527
+  },
+  "Account_Lv203": {
+    "Level": 203,
+    "Exp": 0,
+    "NeedExp": 4999284
+  },
+  "Account_Lv204": {
+    "Level": 204,
+    "Exp": 0,
+    "NeedExp": 5069041
+  },
+  "Account_Lv205": {
+    "Level": 205,
+    "Exp": 0,
+    "NeedExp": 5138798
+  },
+  "Account_Lv206": {
+    "Level": 206,
+    "Exp": 0,
+    "NeedExp": 5208555
+  },
+  "Account_Lv207": {
+    "Level": 207,
+    "Exp": 0,
+    "NeedExp": 5278312
+  },
+  "Account_Lv208": {
+    "Level": 208,
+    "Exp": 0,
+    "NeedExp": 5348069
+  },
+  "Account_Lv209": {
+    "Level": 209,
+    "Exp": 0,
+    "NeedExp": 5417826
+  },
+  "Account_Lv210": {
+    "Level": 210,
+    "Exp": 0,
+    "NeedExp": 5487583
+  },
+  "Account_Lv211": {
+    "Level": 211,
+    "Exp": 0,
+    "NeedExp": 5557340
+  },
+  "Account_Lv212": {
+    "Level": 212,
+    "Exp": 0,
+    "NeedExp": 5627097
+  },
+  "Account_Lv213": {
+    "Level": 213,
+    "Exp": 0,
+    "NeedExp": 5696854
+  },
+  "Account_Lv214": {
+    "Level": 214,
+    "Exp": 0,
+    "NeedExp": 5766611
+  },
+  "Account_Lv215": {
+    "Level": 215,
+    "Exp": 0,
+    "NeedExp": 5836368
+  },
+  "Account_Lv216": {
+    "Level": 216,
+    "Exp": 0,
+    "NeedExp": 5906125
+  },
+  "Account_Lv217": {
+    "Level": 217,
+    "Exp": 0,
+    "NeedExp": 5975882
+  },
+  "Account_Lv218": {
+    "Level": 218,
+    "Exp": 0,
+    "NeedExp": 6045639
+  },
+  "Account_Lv219": {
+    "Level": 219,
+    "Exp": 0,
+    "NeedExp": 6115396
+  },
+  "Account_Lv220": {
+    "Level": 220,
+    "Exp": 0,
+    "NeedExp": 6185153
+  },
+  "Account_Lv221": {
+    "Level": 221,
+    "Exp": 0,
+    "NeedExp": 6254910
+  },
+  "Account_Lv222": {
+    "Level": 222,
+    "Exp": 0,
+    "NeedExp": 6324667
+  },
+  "Account_Lv223": {
+    "Level": 223,
+    "Exp": 0,
+    "NeedExp": 6394424
+  },
+  "Account_Lv224": {
+    "Level": 224,
+    "Exp": 0,
+    "NeedExp": 6464181
+  },
+  "Account_Lv225": {
+    "Level": 225,
+    "Exp": 0,
+    "NeedExp": 6533938
+  },
+  "Account_Lv226": {
+    "Level": 226,
+    "Exp": 0,
+    "NeedExp": 6603695
+  },
+  "Account_Lv227": {
+    "Level": 227,
+    "Exp": 0,
+    "NeedExp": 6673452
+  },
+  "Account_Lv228": {
+    "Level": 228,
+    "Exp": 0,
+    "NeedExp": 6743209
+  },
+  "Account_Lv229": {
+    "Level": 229,
+    "Exp": 0,
+    "NeedExp": 6812966
+  },
+  "Account_Lv230": {
+    "Level": 230,
+    "Exp": 0,
+    "NeedExp": 6882723
+  },
+  "Account_Lv231": {
+    "Level": 231,
+    "Exp": 0,
+    "NeedExp": 6952480
+  },
+  "Account_Lv232": {
+    "Level": 232,
+    "Exp": 0,
+    "NeedExp": 7022237
+  },
+  "Account_Lv233": {
+    "Level": 233,
+    "Exp": 0,
+    "NeedExp": 7091994
+  },
+  "Account_Lv234": {
+    "Level": 234,
+    "Exp": 0,
+    "NeedExp": 7161751
+  },
+  "Account_Lv235": {
+    "Level": 235,
+    "Exp": 0,
+    "NeedExp": 7231508
+  },
+  "Account_Lv236": {
+    "Level": 236,
+    "Exp": 0,
+    "NeedExp": 7301265
+  },
+  "Account_Lv237": {
+    "Level": 237,
+    "Exp": 0,
+    "NeedExp": 7371022
+  },
+  "Account_Lv238": {
+    "Level": 238,
+    "Exp": 0,
+    "NeedExp": 7440779
+  },
+  "Account_Lv239": {
+    "Level": 239,
+    "Exp": 0,
+    "NeedExp": 7510536
+  },
+  "Account_Lv240": {
+    "Level": 240,
+    "Exp": 0,
+    "NeedExp": 7580293
+  },
+  "Account_Lv241": {
+    "Level": 241,
+    "Exp": 0,
+    "NeedExp": 7650050
+  },
+  "Account_Lv242": {
+    "Level": 242,
+    "Exp": 0,
+    "NeedExp": 7719807
+  },
+  "Account_Lv243": {
+    "Level": 243,
+    "Exp": 0,
+    "NeedExp": 7789564
+  },
+  "Account_Lv244": {
+    "Level": 244,
+    "Exp": 0,
+    "NeedExp": 7859321
+  },
+  "Account_Lv245": {
+    "Level": 245,
+    "Exp": 0,
+    "NeedExp": 7929078
+  },
+  "Account_Lv246": {
+    "Level": 246,
+    "Exp": 0,
+    "NeedExp": 7998835
+  },
+  "Account_Lv247": {
+    "Level": 247,
+    "Exp": 0,
+    "NeedExp": 8068592
+  },
+  "Account_Lv248": {
+    "Level": 248,
+    "Exp": 0,
+    "NeedExp": 8138349
+  },
+  "Account_Lv249": {
+    "Level": 249,
+    "Exp": 0,
+    "NeedExp": 8208106
+  },
+  "Account_Lv250": {
+    "Level": 250,
+    "Exp": 0,
+    "NeedExp": 8277863
+  }
+}

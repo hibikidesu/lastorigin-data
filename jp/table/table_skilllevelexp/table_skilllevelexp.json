@@ -1,0 +1,32 @@
+{
+  "1": {
+    "RequireSkillExp": 100
+  },
+  "2": {
+    "RequireSkillExp": 600
+  },
+  "3": {
+    "RequireSkillExp": 1800
+  },
+  "4": {
+    "RequireSkillExp": 6000
+  },
+  "5": {
+    "RequireSkillExp": 15000
+  },
+  "6": {
+    "RequireSkillExp": 30000
+  },
+  "7": {
+    "RequireSkillExp": 50000
+  },
+  "8": {
+    "RequireSkillExp": 75000
+  },
+  "9": {
+    "RequireSkillExp": 105000
+  },
+  "10": {
+    "RequireSkillExp": 140000
+  }
+}

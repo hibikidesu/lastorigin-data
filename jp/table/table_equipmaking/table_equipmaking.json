@@ -1,0 +1,772 @@
+{
+  "Equip_Chip_Atk_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 600,
+    "EquipDescription": "1000700001"
+  },
+  "Equip_Chip_Atk_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1200,
+    "EquipDescription": "1000700001"
+  },
+  "Equip_Chip_Atk_T3": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 1800,
+    "EquipDescription": "1000700001"
+  },
+  "Equip_Chip_Atk_T4": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 2400,
+    "EquipDescription": "1000700001"
+  },
+  "Equip_Chip_Acc_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 300,
+    "EquipDescription": "1000700002"
+  },
+  "Equip_Chip_Acc_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 600,
+    "EquipDescription": "1000700002"
+  },
+  "Equip_Chip_Acc_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 900,
+    "EquipDescription": "1000700002"
+  },
+  "Equip_Chip_Acc_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1200,
+    "EquipDescription": "1000700002"
+  },
+  "Equip_Chip_Def_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 480,
+    "EquipDescription": "1000102710"
+  },
+  "Equip_Chip_Def_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 960,
+    "EquipDescription": "1000102710"
+  },
+  "Equip_Chip_Def_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1440,
+    "EquipDescription": "1000102710"
+  },
+  "Equip_Chip_Def_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1920,
+    "EquipDescription": "1000102710"
+  },
+  "Equip_Chip_Ev_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 360,
+    "EquipDescription": "1000700003"
+  },
+  "Equip_Chip_Ev_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 720,
+    "EquipDescription": "1000700003"
+  },
+  "Equip_Chip_Ev_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1080,
+    "EquipDescription": "1000700003"
+  },
+  "Equip_Chip_Ev_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1440,
+    "EquipDescription": "1000700003"
+  },
+  "Equip_Chip_Cri_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 720,
+    "EquipDescription": "1000700004"
+  },
+  "Equip_Chip_Cri_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1440,
+    "EquipDescription": "1000700004"
+  },
+  "Equip_Chip_Cri_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 2160,
+    "EquipDescription": "1000700004"
+  },
+  "Equip_Chip_Cri_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 2880,
+    "EquipDescription": "1000700004"
+  },
+  "Equip_Chip_Hp_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 420,
+    "EquipDescription": "1000700005"
+  },
+  "Equip_Chip_Hp_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 840,
+    "EquipDescription": "1000700005"
+  },
+  "Equip_Chip_Hp_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1260,
+    "EquipDescription": "1000700005"
+  },
+  "Equip_Chip_Hp_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1680,
+    "EquipDescription": "1000700005"
+  },
+  "Equip_Chip_Debuff_Res_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 900,
+    "EquipDescription": "1000700006"
+  },
+  "Equip_Chip_Debuff_Res_T2": {
+    "EquipMakingPercentage": 70,
+    "EquipMakingTime": 1800,
+    "EquipDescription": "1000700007"
+  },
+  "Equip_Chip_Debuff_Res_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1000700008"
+  },
+  "Equip_Chip_Debuff_Res_T4": {
+    "EquipMakingPercentage": 50,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700009"
+  },
+  "Equip_System_Normal_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1200,
+    "EquipDescription": "1000700010"
+  },
+  "Equip_System_Normal_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2400,
+    "EquipDescription": "1000700010"
+  },
+  "Equip_System_Normal_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700010"
+  },
+  "Equip_System_Normal_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4800,
+    "EquipDescription": "1000700010"
+  },
+  "Equip_System_Assault_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1500,
+    "EquipDescription": "1000700011"
+  },
+  "Equip_System_Assault_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3000,
+    "EquipDescription": "1000700011"
+  },
+  "Equip_System_Assault_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4500,
+    "EquipDescription": "1000700011"
+  },
+  "Equip_System_Assault_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 6000,
+    "EquipDescription": "1000700011"
+  },
+  "Equip_System_Defense_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1380,
+    "EquipDescription": "1000700012"
+  },
+  "Equip_System_Defense_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2760,
+    "EquipDescription": "1000700012"
+  },
+  "Equip_System_Defense_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4140,
+    "EquipDescription": "1000700012"
+  },
+  "Equip_System_Defense_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 5520,
+    "EquipDescription": "1000700012"
+  },
+  "Equip_System_Sniper_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1440,
+    "EquipDescription": "1000700013"
+  },
+  "Equip_System_Sniper_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2880,
+    "EquipDescription": "1000700013"
+  },
+  "Equip_System_Sniper_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4320,
+    "EquipDescription": "1000700013"
+  },
+  "Equip_System_Sniper_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 5760,
+    "EquipDescription": "1000700013"
+  },
+  "Equip_System_Highspd_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1620,
+    "EquipDescription": "1000700014"
+  },
+  "Equip_System_Highspd_T2": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 3240,
+    "EquipDescription": "1000700014"
+  },
+  "Equip_System_Highspd_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 4860,
+    "EquipDescription": "1000700014"
+  },
+  "Equip_System_Highspd_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 6480,
+    "EquipDescription": "1000700014"
+  },
+  "Equip_System_Maneuver_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2400,
+    "EquipDescription": "1000700015"
+  },
+  "Equip_System_Maneuver_T2": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700015"
+  },
+  "Equip_System_Maneuver_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 4800,
+    "EquipDescription": "1000700015"
+  },
+  "Equip_System_Maneuver_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 7200,
+    "EquipDescription": "1000700015"
+  },
+  "Equip_Sub_EnergyPack_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 1920,
+    "EquipDescription": "1000700016"
+  },
+  "Equip_Sub_EnergyPack_T2": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 2880,
+    "EquipDescription": "1000700016"
+  },
+  "Equip_Sub_EnergyPack_T3": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 3840,
+    "EquipDescription": "1000700016"
+  },
+  "Equip_Sub_EnergyPack_T4": {
+    "EquipMakingPercentage": 30,
+    "EquipMakingTime": 7680,
+    "EquipDescription": "1000700016"
+  },
+  "Equip_Sub_SpaceArmor_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2100,
+    "EquipDescription": "1000700017"
+  },
+  "Equip_Sub_SpaceArmor_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4200,
+    "EquipDescription": "1000700017"
+  },
+  "Equip_Sub_SpaceArmor_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 6300,
+    "EquipDescription": "1000700017"
+  },
+  "Equip_Sub_SpaceArmor_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 8400,
+    "EquipDescription": "1000700017"
+  },
+  "Equip_Sub_SubBooster_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1920,
+    "EquipDescription": "1000700018"
+  },
+  "Equip_Sub_SubBooster_T2": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 3840,
+    "EquipDescription": "1000700018"
+  },
+  "Equip_Sub_SubBooster_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 5760,
+    "EquipDescription": "1000700018"
+  },
+  "Equip_Sub_SubBooster_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 7680,
+    "EquipDescription": "1000700018"
+  },
+  "Equip_Sub_SpSight_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1500,
+    "EquipDescription": "1000700019"
+  },
+  "Equip_Sub_SpSight_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3000,
+    "EquipDescription": "1000700019"
+  },
+  "Equip_Sub_SpSight_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4500,
+    "EquipDescription": "1000700019"
+  },
+  "Equip_Sub_SpSight_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 6000,
+    "EquipDescription": "1000700019"
+  },
+  "Equip_Sub_ArmorPierce_T1": {
+    "EquipMakingPercentage": 30,
+    "EquipMakingTime": 2520,
+    "EquipDescription": "1000700020"
+  },
+  "Equip_Sub_ArmorPierce_T2": {
+    "EquipMakingPercentage": 20,
+    "EquipMakingTime": 5040,
+    "EquipDescription": "1000700020"
+  },
+  "Equip_Sub_ArmorPierce_T3": {
+    "EquipMakingPercentage": 10,
+    "EquipMakingTime": 7560,
+    "EquipDescription": "1000700020"
+  },
+  "Equip_Sub_ArmorPierce_T4": {
+    "EquipMakingPercentage": 5,
+    "EquipMakingTime": 10080,
+    "EquipDescription": "1000700020"
+  },
+  "Equip_Sub_Barrier_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1000700021"
+  },
+  "Equip_Sub_Barrier_T2": {
+    "EquipMakingPercentage": 70,
+    "EquipMakingTime": 5400,
+    "EquipDescription": "1000700021"
+  },
+  "Equip_Sub_Barrier_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 8100,
+    "EquipDescription": "1000700021"
+  },
+  "Equip_Sub_Barrier_T4": {
+    "EquipMakingPercentage": 50,
+    "EquipMakingTime": 10800,
+    "EquipDescription": "1000700021"
+  },
+  "Equip_Sub_SpyDrone_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700022"
+  },
+  "Equip_Sub_ExamKit_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 3000,
+    "EquipDescription": "1001200578"
+  },
+  "Equip_Sub_ExamKit_T2": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 6000,
+    "EquipDescription": "1001200578"
+  },
+  "Equip_Sub_ExamKit_T3": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 9000,
+    "EquipDescription": "1001200578"
+  },
+  "Equip_Sub_ExamKit_T4": {
+    "EquipMakingPercentage": 30,
+    "EquipMakingTime": 12000,
+    "EquipDescription": "1001200578"
+  },
+  "Equip_Sub_Stimulant_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1001200582"
+  },
+  "Equip_Sub_Stimulant_T2": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1001200582"
+  },
+  "Equip_Sub_Stimulant_T3": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 4500,
+    "EquipDescription": "1001200582"
+  },
+  "Equip_Sub_Stimulant_T4": {
+    "EquipMakingPercentage": 30,
+    "EquipMakingTime": 5400,
+    "EquipDescription": "1001200582"
+  },
+  "Equip_Sub_Hologram_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2820,
+    "EquipDescription": "1000700042"
+  },
+  "Equip_Sub_Hologram_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 5640,
+    "EquipDescription": "1000700042"
+  },
+  "Equip_Sub_Hologram_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 8460,
+    "EquipDescription": "1000700042"
+  },
+  "Equip_Sub_Hologram_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 11280,
+    "EquipDescription": "1000700042"
+  },
+  "Equip_Sub_AntiFire_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1800,
+    "EquipDescription": "1000700026"
+  },
+  "Equip_Sub_AntiFire_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1000700026"
+  },
+  "Equip_Sub_AntiFire_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700026"
+  },
+  "Equip_Sub_AntiFire_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4500,
+    "EquipDescription": "1000700026"
+  },
+  "Equip_Sub_AntiCold_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1800,
+    "EquipDescription": "1000700027"
+  },
+  "Equip_Sub_AntiCold_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1000700027"
+  },
+  "Equip_Sub_AntiCold_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700027"
+  },
+  "Equip_Sub_AntiCold_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4500,
+    "EquipDescription": "1000700027"
+  },
+  "Equip_Sub_AntiLightning_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1800,
+    "EquipDescription": "1000700028"
+  },
+  "Equip_Sub_AntiLightning_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1000700028"
+  },
+  "Equip_Sub_AntiLightning_T3": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700028"
+  },
+  "Equip_Sub_AntiLightning_T4": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4500,
+    "EquipDescription": "1000700028"
+  },
+  "Equip_Chip_SpAtk_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 900,
+    "EquipDescription": "1000700029"
+  },
+  "Equip_Chip_SpAtk_T2": {
+    "EquipMakingPercentage": 70,
+    "EquipMakingTime": 1800,
+    "EquipDescription": "1000700029"
+  },
+  "Equip_Chip_SpAtk_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 2700,
+    "EquipDescription": "1000700029"
+  },
+  "Equip_Chip_SpAtk_T4": {
+    "EquipMakingPercentage": 50,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700029"
+  },
+  "Equip_Sub_Bombard_T4": {
+    "EquipMakingPercentage": 30,
+    "EquipMakingTime": 14400,
+    "EquipDescription": "1000700030"
+  },
+  "Equip_Chip_AtkCri_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 960,
+    "EquipDescription": "1000700031"
+  },
+  "Equip_Chip_AtkCri_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1920,
+    "EquipDescription": "1000700031"
+  },
+  "Equip_Chip_AtkCri_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 2880,
+    "EquipDescription": "1000700031"
+  },
+  "Equip_Chip_AtkCri_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 3840,
+    "EquipDescription": "1000700031"
+  },
+  "Equip_Chip_KillExp_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 1200,
+    "EquipDescription": "1000700032"
+  },
+  "Equip_Chip_KillExp_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2400,
+    "EquipDescription": "1000700032"
+  },
+  "Equip_Chip_KillExp_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700032"
+  },
+  "Equip_Chip_KillExp_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 4800,
+    "EquipDescription": "1000700032"
+  },
+  "Equip_Sub_AquaModule_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3600,
+    "EquipDescription": "1000700033"
+  },
+  "Equip_Sub_AquaModule_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 7200,
+    "EquipDescription": "1000700033"
+  },
+  "Equip_Sub_AquaModule_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 10800,
+    "EquipDescription": "1000700033"
+  },
+  "Equip_Sub_AquaModule_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 14400,
+    "EquipDescription": "1000700033"
+  },
+  "Equip_Sub_Overclock_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4200,
+    "EquipDescription": "1000700034"
+  },
+  "Equip_Sub_Overclock_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 8400,
+    "EquipDescription": "1000700034"
+  },
+  "Equip_Sub_Overclock_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 12600,
+    "EquipDescription": "1000700034"
+  },
+  "Equip_Sub_Overclock_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 16800,
+    "EquipDescription": "1000700034"
+  },
+  "Equip_System_HManeuver_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2880,
+    "EquipDescription": "1000700035"
+  },
+  "Equip_System_HManeuver_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 5760,
+    "EquipDescription": "1000700035"
+  },
+  "Equip_System_HManeuver_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 8640,
+    "EquipDescription": "1000700035"
+  },
+  "Equip_System_HManeuver_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 11520,
+    "EquipDescription": "1000700035"
+  },
+  "Equip_System_EXAM_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 3480,
+    "EquipDescription": "1000700036"
+  },
+  "Equip_System_EXAM_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 6960,
+    "EquipDescription": "1000700036"
+  },
+  "Equip_System_EXAM_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 10440,
+    "EquipDescription": "1000700036"
+  },
+  "Equip_System_EXAM_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 13920,
+    "EquipDescription": "1000700036"
+  },
+  "Equip_Sub_AdvRadar_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2100,
+    "EquipDescription": "1000700037"
+  },
+  "Equip_Sub_AdvRadar_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 4200,
+    "EquipDescription": "1000700037"
+  },
+  "Equip_Sub_AdvRadar_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 6300,
+    "EquipDescription": "1000700037"
+  },
+  "Equip_Sub_AdvRadar_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 8400,
+    "EquipDescription": "1000700037"
+  },
+  "Equip_Sub_AntiBarrier_T1": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 2640,
+    "EquipDescription": "1000700038"
+  },
+  "Equip_Sub_AntiBarrier_T2": {
+    "EquipMakingPercentage": 100,
+    "EquipMakingTime": 5280,
+    "EquipDescription": "1000700038"
+  },
+  "Equip_Sub_AntiBarrier_T3": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 7920,
+    "EquipDescription": "1000700038"
+  },
+  "Equip_Sub_AntiBarrier_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 10560,
+    "EquipDescription": "1000700038"
+  },
+  "Equip_Sub_IcePack_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12600,
+    "EquipDescription": "1000700039"
+  },
+  "Equip_Sub_SunCream_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 9000,
+    "EquipDescription": "1000700040"
+  },
+  "Equip_Sub_NitroEx3000_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 13500,
+    "EquipDescription": "1000700041"
+  },
+  "Equip_Sub_MiniPerrault_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12300,
+    "EquipDescription": "1001200397"
+  },
+  "Equip_Sub_MiniHachiko_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12600,
+    "EquipDescription": "1001200398"
+  },
+  "Equip_Sub_MiniLilith_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12900,
+    "EquipDescription": "1001200399"
+  },
+  "Equip_Sub_Recycler_T1": {
+    "EquipMakingPercentage": 80,
+    "EquipMakingTime": 3480,
+    "EquipDescription": "1001200586"
+  },
+  "Equip_Sub_Recycler_T2": {
+    "EquipMakingPercentage": 60,
+    "EquipMakingTime": 6960,
+    "EquipDescription": "1001200586"
+  },
+  "Equip_Sub_Recycler_T3": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 10440,
+    "EquipDescription": "1001200586"
+  },
+  "Equip_Sub_Recycler_T4": {
+    "EquipMakingPercentage": 30,
+    "EquipMakingTime": 13920,
+    "EquipDescription": "1001200586"
+  },
+  "Equip_Sub_FlameStone_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12720,
+    "EquipDescription": "1001200770"
+  },
+  "Equip_Sub_FrostStone_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12720,
+    "EquipDescription": "1001200771"
+  },
+  "Equip_Sub_ThunderStone_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12720,
+    "EquipDescription": "1001200772"
+  },
+  "Equip_Sub_TuinOrellia_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12780,
+    "EquipDescription": "1001200798"
+  },
+  "Equip_Sub_SumaOrellia_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12780,
+    "EquipDescription": "1001200801"
+  },
+  "Equip_Sub_ZoweOrellia_T4": {
+    "EquipMakingPercentage": 40,
+    "EquipMakingTime": 12780,
+    "EquipDescription": "1001200804"
+  }
+}

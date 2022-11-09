@@ -1,0 +1,54 @@
+{
+  "Normal_Attend_Group1": {
+    "Attend_Type": 0,
+    "Reward": [
+      "LOGIN_Normal_Attend_Group1_01",
+      "LOGIN_Normal_Attend_Group1_02",
+      "LOGIN_Normal_Attend_Group1_03",
+      "LOGIN_Normal_Attend_Group1_04",
+      "LOGIN_Normal_Attend_Group1_05",
+      "LOGIN_Normal_Attend_Group1_06",
+      "LOGIN_Normal_Attend_Group1_07"
+    ],
+    "Bg_Image": ""
+  },
+  "Normal_Attend_Group2": {
+    "Attend_Type": 0,
+    "Reward": [
+      "LOGIN_Normal_Attend_Group2_01",
+      "LOGIN_Normal_Attend_Group2_02",
+      "LOGIN_Normal_Attend_Group2_03",
+      "LOGIN_Normal_Attend_Group2_04",
+      "LOGIN_Normal_Attend_Group2_05",
+      "LOGIN_Normal_Attend_Group2_06",
+      "LOGIN_Normal_Attend_Group2_07"
+    ],
+    "Bg_Image": ""
+  },
+  "New_User_Attend": {
+    "Attend_Type": 2,
+    "Reward": [
+      "LOGIN_New_User_01",
+      "LOGIN_New_User_02",
+      "LOGIN_New_User_03",
+      "LOGIN_New_User_04",
+      "LOGIN_New_User_05",
+      "LOGIN_New_User_06",
+      "LOGIN_New_User_07"
+    ],
+    "Bg_Image": "New_User_Attend"
+  },
+  "Return_User_Attend": {
+    "Attend_Type": 3,
+    "Reward": [
+      "LOGIN_Return_User_01",
+      "LOGIN_Return_User_02",
+      "LOGIN_Return_User_03",
+      "LOGIN_Return_User_04",
+      "LOGIN_Return_User_05",
+      "LOGIN_Return_User_06",
+      "LOGIN_Return_User_07"
+    ],
+    "Bg_Image": "Return_User_Attend"
+  }
+}

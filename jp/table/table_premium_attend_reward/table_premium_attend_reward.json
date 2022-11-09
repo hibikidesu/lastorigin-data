@@ -1,0 +1,201 @@
+{
+  "Premium_Attend_1": {
+    "Day_Group": 1,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group1_01",
+      "LOGIN_Premium_Attend_Group1_02",
+      "LOGIN_Premium_Attend_Group1_03",
+      "LOGIN_Premium_Attend_Group1_04",
+      "LOGIN_Premium_Attend_Group1_05",
+      "LOGIN_Premium_Attend_Group1_06",
+      "LOGIN_Premium_Attend_Group1_07",
+      "LOGIN_Premium_Attend_Group1_08",
+      "LOGIN_Premium_Attend_Group1_09",
+      "LOGIN_Premium_Attend_Group1_10",
+      "LOGIN_Premium_Attend_Group1_11"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.03",
+      "0.04",
+      "0.05",
+      "0.1",
+      "0.1",
+      "0.12",
+      "0.12",
+      "0.14",
+      "0.14",
+      "0.14"
+    ]
+  },
+  "Premium_Attend_2": {
+    "Day_Group": 2,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group2_01",
+      "LOGIN_Premium_Attend_Group2_02",
+      "LOGIN_Premium_Attend_Group2_03",
+      "LOGIN_Premium_Attend_Group2_04",
+      "LOGIN_Premium_Attend_Group2_05",
+      "LOGIN_Premium_Attend_Group2_06",
+      "LOGIN_Premium_Attend_Group2_07",
+      "LOGIN_Premium_Attend_Group2_08",
+      "LOGIN_Premium_Attend_Group2_09",
+      "LOGIN_Premium_Attend_Group2_10",
+      "LOGIN_Premium_Attend_Group2_11"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.03",
+      "0.04",
+      "0.05",
+      "0.1",
+      "0.1",
+      "0.12",
+      "0.12",
+      "0.12",
+      "0.15",
+      "0.15"
+    ]
+  },
+  "Premium_Attend_3": {
+    "Day_Group": 3,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group3_01",
+      "LOGIN_Premium_Attend_Group3_02",
+      "LOGIN_Premium_Attend_Group3_03",
+      "LOGIN_Premium_Attend_Group3_04",
+      "LOGIN_Premium_Attend_Group3_05",
+      "LOGIN_Premium_Attend_Group3_06",
+      "LOGIN_Premium_Attend_Group3_07",
+      "LOGIN_Premium_Attend_Group3_08",
+      "LOGIN_Premium_Attend_Group3_09",
+      "LOGIN_Premium_Attend_Group3_10",
+      "LOGIN_Premium_Attend_Group3_11"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.03",
+      "0.05",
+      "0.05",
+      "0.06",
+      "0.1",
+      "0.13",
+      "0.13",
+      "0.13",
+      "0.15",
+      "0.15"
+    ]
+  },
+  "Premium_Attend_4": {
+    "Day_Group": 4,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group4_01",
+      "LOGIN_Premium_Attend_Group4_02",
+      "LOGIN_Premium_Attend_Group4_03",
+      "LOGIN_Premium_Attend_Group4_04",
+      "LOGIN_Premium_Attend_Group4_05",
+      "LOGIN_Premium_Attend_Group4_06",
+      "LOGIN_Premium_Attend_Group4_07",
+      "LOGIN_Premium_Attend_Group4_08",
+      "LOGIN_Premium_Attend_Group4_09"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.03",
+      "0.05",
+      "0.12",
+      "0.13",
+      "0.13",
+      "0.16",
+      "0.16",
+      "0.2"
+    ]
+  },
+  "Premium_Attend_5": {
+    "Day_Group": 5,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group5_01",
+      "LOGIN_Premium_Attend_Group5_02",
+      "LOGIN_Premium_Attend_Group5_03",
+      "LOGIN_Premium_Attend_Group5_04",
+      "LOGIN_Premium_Attend_Group5_05",
+      "LOGIN_Premium_Attend_Group5_06",
+      "LOGIN_Premium_Attend_Group5_07",
+      "LOGIN_Premium_Attend_Group5_08",
+      "LOGIN_Premium_Attend_Group5_09",
+      "LOGIN_Premium_Attend_Group5_10",
+      "LOGIN_Premium_Attend_Group5_11"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.025",
+      "0.025",
+      "0.03",
+      "0.09",
+      "0.1",
+      "0.11",
+      "0.11",
+      "0.15",
+      "0.15",
+      "0.19"
+    ]
+  },
+  "Premium_Attend_6": {
+    "Day_Group": 6,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group6_01",
+      "LOGIN_Premium_Attend_Group6_02",
+      "LOGIN_Premium_Attend_Group6_03",
+      "LOGIN_Premium_Attend_Group6_04",
+      "LOGIN_Premium_Attend_Group6_05",
+      "LOGIN_Premium_Attend_Group6_06",
+      "LOGIN_Premium_Attend_Group6_07",
+      "LOGIN_Premium_Attend_Group6_08",
+      "LOGIN_Premium_Attend_Group6_09",
+      "LOGIN_Premium_Attend_Group6_10",
+      "LOGIN_Premium_Attend_Group6_11",
+      "LOGIN_Premium_Attend_Group6_12"
+    ],
+    "ItemRate": [
+      "0.01",
+      "0.015",
+      "0.05",
+      "0.035",
+      "0.03",
+      "0.06",
+      "0.11",
+      "0.11",
+      "0.13",
+      "0.13",
+      "0.16",
+      "0.16"
+    ]
+  },
+  "Premium_Attend_7": {
+    "Day_Group": 7,
+    "Reward": [
+      "LOGIN_Premium_Attend_Group7_01",
+      "LOGIN_Premium_Attend_Group7_02",
+      "LOGIN_Premium_Attend_Group7_03",
+      "LOGIN_Premium_Attend_Group7_04",
+      "LOGIN_Premium_Attend_Group7_05",
+      "LOGIN_Premium_Attend_Group7_06",
+      "LOGIN_Premium_Attend_Group7_07",
+      "LOGIN_Premium_Attend_Group7_08",
+      "LOGIN_Premium_Attend_Group7_09",
+      "LOGIN_Premium_Attend_Group7_10"
+    ],
+    "ItemRate": [
+      "0.01",
+      "0.03",
+      "0.05",
+      "0.09",
+      "0.15",
+      "0.15",
+      "0.13",
+      "0.13",
+      "0.16",
+      "0.1"
+    ]
+  }
+}

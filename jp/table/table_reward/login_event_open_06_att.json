@@ -1,0 +1,303 @@
+{
+  "LOGIN_Event_Open_06_Att_01": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      150,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_OriginDust",
+      "ResourcePack_3000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "LOGIN_Event_Open_06_Att_02": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      50,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_OriginDustAdv",
+      "ResourcePack_3000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "LOGIN_Event_Open_06_Att_03": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      20,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_OriginDustSp",
+      "ResourcePack_3000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "LOGIN_Event_Open_06_Att_04": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_MiniPerrault_T4",
+      "ResourcePack_3000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "LOGIN_Event_Open_06_Att_05": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_MiniHachiko_T4",
+      "ResourcePack_3000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "LOGIN_Event_Open_06_Att_06": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_MiniLilith_T4",
+      "ResourcePack_5000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "LOGIN_Event_Open_06_Att_07": {
+    "RewardPosType": 5,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Ev_Consumable_CommanderDiary",
+      "ResourcePack_5000"
+    ],
+    "ItemRate": [
+      "1",
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

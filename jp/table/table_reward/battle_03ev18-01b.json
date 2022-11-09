@@ -1,0 +1,187 @@
+{
+  "BATTLE_03Ev18-01B-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1600,
+    "ExpMax": 1600,
+    "ExpRate": "1",
+    "SkillExp": 160,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_System_Normal_T1",
+      "Ev_Consumable_WpBracelet"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.25"
+    ],
+    "CharIndexString": [
+      "Char_PECS_CoCoWhiteShell_N",
+      "Char_BR_Miho_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Djinnia_N",
+      "Char_DS_Johanna_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.02",
+      "0.02",
+      "0.2",
+      "0.2",
+      "0.2"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_03Ev18-01B-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1600,
+    "ExpMax": 1600,
+    "ExpRate": "1",
+    "SkillExp": 160,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_System_Normal_T2",
+      "Ev_Consumable_WpBracelet"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.25"
+    ],
+    "CharIndexString": [
+      "Char_PECS_CoCoWhiteShell_N",
+      "Char_BR_Miho_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Djinnia_N",
+      "Char_DS_Johanna_N"
+    ],
+    "CharRate": [
+      "0.005",
+      "0.02",
+      "0.02",
+      "0.3",
+      "0.3",
+      "0.3"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_03Ev18-01B-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 1600,
+    "ExpMax": 1600,
+    "ExpRate": "1",
+    "SkillExp": 160,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_System_Normal_T3",
+      "Ev_Consumable_WpBracelet",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.5",
+      "1",
+      "0.35",
+      "0.35",
+      "0.35",
+      "0.35"
+    ],
+    "CharIndexString": [
+      "Char_PECS_CoCoWhiteShell_N",
+      "Char_BR_Miho_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Djinnia_N",
+      "Char_DS_Johanna_N"
+    ],
+    "CharRate": [
+      "0.013",
+      "0.03",
+      "0.03",
+      "0.3",
+      "0.3",
+      "0.3"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

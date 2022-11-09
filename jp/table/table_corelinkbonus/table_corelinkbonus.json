@@ -1,0 +1,506 @@
+{
+  "Core_Bonus_HP_15": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.15",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_20": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_25": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_30": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_35": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.35",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_40": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.4",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_45": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.45",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_HP_50": {
+    "CoreLink_Bonus": 0,
+    "CoreLink_Bonus_Value": "0.5",
+    "CoreLink_Bonus_String": "1000400001",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_10": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_15": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.15",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_20": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_25": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_30": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_35": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.35",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_40": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.4",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_45": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.45",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ATK_50": {
+    "CoreLink_Bonus": 1,
+    "CoreLink_Bonus_Value": "0.5",
+    "CoreLink_Bonus_String": "1000400002",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_DEF_3": {
+    "CoreLink_Bonus": 2,
+    "CoreLink_Bonus_Value": "0.03",
+    "CoreLink_Bonus_String": "1000400008",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_DEF_5": {
+    "CoreLink_Bonus": 2,
+    "CoreLink_Bonus_Value": "0.05",
+    "CoreLink_Bonus_String": "1000400008",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_DEF_10": {
+    "CoreLink_Bonus": 2,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400008",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_DEF_20": {
+    "CoreLink_Bonus": 2,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400008",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_DEF_30": {
+    "CoreLink_Bonus": 2,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400008",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ACC_5": {
+    "CoreLink_Bonus": 3,
+    "CoreLink_Bonus_Value": "7.0000000000000007E-2",
+    "CoreLink_Bonus_String": "1000400009",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ACC_10": {
+    "CoreLink_Bonus": 3,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400009",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ACC_25": {
+    "CoreLink_Bonus": 3,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400009",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ACC_50": {
+    "CoreLink_Bonus": 3,
+    "CoreLink_Bonus_Value": "0.5",
+    "CoreLink_Bonus_String": "1000400009",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_ACC_75": {
+    "CoreLink_Bonus": 3,
+    "CoreLink_Bonus_Value": "0.75",
+    "CoreLink_Bonus_String": "1000400009",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_3": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.02",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_10": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_15": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.15",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_20": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_25": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_30": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_40": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.4",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_EV_50": {
+    "CoreLink_Bonus": 4,
+    "CoreLink_Bonus_Value": "0.5",
+    "CoreLink_Bonus_String": "1000400010",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_2": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.02",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_3": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.03",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_4": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.04",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_10": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_15": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.15",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_20": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_25": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_SPD_30": {
+    "CoreLink_Bonus": 5,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400003",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_2": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.02",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_3": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.03",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_5": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.05",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_10": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_15": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.15",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_20": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_25": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cri_30": {
+    "CoreLink_Bonus": 6,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400011",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Range_1": {
+    "CoreLink_Bonus": 7,
+    "CoreLink_Bonus_Value": "1",
+    "CoreLink_Bonus_String": "1000400012",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 0
+  },
+  "Core_Bonus_Range_2": {
+    "CoreLink_Bonus": 7,
+    "CoreLink_Bonus_Value": "2",
+    "CoreLink_Bonus_String": "1000400012",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 0
+  },
+  "Core_Bonus_Buff_1": {
+    "CoreLink_Bonus": 8,
+    "CoreLink_Bonus_Value": "1",
+    "CoreLink_Bonus_String": "1000400004",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 0
+  },
+  "Core_Bonus_Buff_2": {
+    "CoreLink_Bonus": 8,
+    "CoreLink_Bonus_Value": "2",
+    "CoreLink_Bonus_String": "1000400004",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 0
+  },
+  "Core_Bonus_Buff_3": {
+    "CoreLink_Bonus": 8,
+    "CoreLink_Bonus_Value": "3",
+    "CoreLink_Bonus_String": "1000400004",
+    "CoreLink_Bonus_DescOutput": 0,
+    "CoreLink_Percentage_Output": 0
+  },
+  "Core_Bonus_Exp_5": {
+    "CoreLink_Bonus": 9,
+    "CoreLink_Bonus_Value": "0.04",
+    "CoreLink_Bonus_String": "1000400005",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Exp_10": {
+    "CoreLink_Bonus": 9,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400005",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_2": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.02",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_10": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.1",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_15": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.15",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_20": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_25": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_30": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_35": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.35",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_40": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.4",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_45": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.45",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Skill_50": {
+    "CoreLink_Bonus": 10,
+    "CoreLink_Bonus_Value": "0.5",
+    "CoreLink_Bonus_String": "1000400006",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cost_20": {
+    "CoreLink_Bonus": 11,
+    "CoreLink_Bonus_Value": "0.2",
+    "CoreLink_Bonus_String": "1000400007",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cost_25": {
+    "CoreLink_Bonus": 11,
+    "CoreLink_Bonus_Value": "0.25",
+    "CoreLink_Bonus_String": "1000400007",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cost_30": {
+    "CoreLink_Bonus": 11,
+    "CoreLink_Bonus_Value": "0.3",
+    "CoreLink_Bonus_String": "1000400007",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  },
+  "Core_Bonus_Cost_35": {
+    "CoreLink_Bonus": 11,
+    "CoreLink_Bonus_Value": "0.35",
+    "CoreLink_Bonus_String": "1000400007",
+    "CoreLink_Bonus_DescOutput": 1,
+    "CoreLink_Percentage_Output": 1
+  }
+}

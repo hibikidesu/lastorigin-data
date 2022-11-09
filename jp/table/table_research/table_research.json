@@ -1,0 +1,2242 @@
+{
+  "Research_SubmarineFacility": {
+    "Research_Category": 0,
+    "Research_Name": "1002400001",
+    "Research_Desc": "1002400067",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400104",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_001"
+    ],
+    "Unlock_Condition": [
+      "0"
+    ],
+    "Research_Pos_Line": 1,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_TacticResearch_Lv1",
+    "MetalCost": 0,
+    "NutrientCost": 0,
+    "PowerCost": 100,
+    "NeedItemKeyString": [],
+    "NeedItemCount": [],
+    "Research_Time": 60
+  },
+  "Research_Recycle_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400002",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "0.2",
+    "Research_ResultDesc": "1002400105",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_002",
+      "Research_Fac_Quest_003",
+      "Research_Fac_Quest_004"
+    ],
+    "Unlock_Condition": [
+      "Research_SubmarineFacility"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv1",
+    "MetalCost": 50,
+    "NutrientCost": 0,
+    "PowerCost": 150,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      10,
+      20,
+      0,
+      0
+    ],
+    "Research_Time": 900
+  },
+  "Research_Recycle_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400003",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "0.4",
+    "Research_ResultDesc": "1002400106",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_005",
+      "Research_Fac_Quest_006",
+      "Research_Fac_Quest_007"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv1"
+    ],
+    "Research_Pos_Line": 3,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv2",
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 250,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      50,
+      50,
+      0,
+      0
+    ],
+    "Research_Time": 3600
+  },
+  "Research_Recycle_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400004",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "0.6",
+    "Research_ResultDesc": "1002400107",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_008",
+      "Research_Fac_Quest_009",
+      "Research_Fac_Quest_010"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv2"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv3",
+    "MetalCost": 150,
+    "NutrientCost": 0,
+    "PowerCost": 350,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      100,
+      100,
+      0,
+      0
+    ],
+    "Research_Time": 7200
+  },
+  "Research_Recycle_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400005",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "0.8",
+    "Research_ResultDesc": "1002400108",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_011",
+      "Research_Fac_Quest_012",
+      "Research_Fac_Quest_013"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv3"
+    ],
+    "Research_Pos_Line": 5,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv4",
+    "MetalCost": 200,
+    "NutrientCost": 0,
+    "PowerCost": 450,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      200,
+      150,
+      25,
+      0
+    ],
+    "Research_Time": 10800
+  },
+  "Research_Recycle_Lv5": {
+    "Research_Category": 0,
+    "Research_Name": "1002400006",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "1",
+    "Research_ResultDesc": "1002400109",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_014",
+      "Research_Fac_Quest_015",
+      "Research_Fac_Quest_016"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv4"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv5",
+    "MetalCost": 250,
+    "NutrientCost": 0,
+    "PowerCost": 550,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      300,
+      250,
+      50,
+      0
+    ],
+    "Research_Time": 21600
+  },
+  "Research_Recycle_Lv6": {
+    "Research_Category": 0,
+    "Research_Name": "1002400007",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "1.2",
+    "Research_ResultDesc": "1002400110",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_017",
+      "Research_Fac_Quest_018",
+      "Research_Fac_Quest_019"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv5"
+    ],
+    "Research_Pos_Line": 7,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv6",
+    "MetalCost": 400,
+    "NutrientCost": 0,
+    "PowerCost": 800,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      500,
+      30,
+      10,
+      0
+    ],
+    "Research_Time": 43200
+  },
+  "Research_Recycle_Lv7": {
+    "Research_Category": 0,
+    "Research_Name": "1002400008",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "1.4",
+    "Research_ResultDesc": "1002400111",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_020",
+      "Research_Fac_Quest_021",
+      "Research_Fac_Quest_022"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv6"
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv7",
+    "MetalCost": 550,
+    "NutrientCost": 0,
+    "PowerCost": 1050,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      750,
+      50,
+      20,
+      0
+    ],
+    "Research_Time": 86400
+  },
+  "Research_Recycle_Lv8": {
+    "Research_Category": 0,
+    "Research_Name": "1002400009",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "1.6",
+    "Research_ResultDesc": "1002400112",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_023",
+      "Research_Fac_Quest_024",
+      "Research_Fac_Quest_025"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv7"
+    ],
+    "Research_Pos_Line": 9,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv8",
+    "MetalCost": 700,
+    "NutrientCost": 0,
+    "PowerCost": 1300,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      1500,
+      100,
+      30,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Research_Recycle_Lv9": {
+    "Research_Category": 0,
+    "Research_Name": "1002400010",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "1.8",
+    "Research_ResultDesc": "1002400113",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_026",
+      "Research_Fac_Quest_027",
+      "Research_Fac_Quest_028"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv8"
+    ],
+    "Research_Pos_Line": 10,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv9",
+    "MetalCost": 850,
+    "NutrientCost": 0,
+    "PowerCost": 1550,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      2500,
+      150,
+      40,
+      0
+    ],
+    "Research_Time": 259200
+  },
+  "Research_Recycle_Lv10": {
+    "Research_Category": 0,
+    "Research_Name": "1002400011",
+    "Research_Desc": "1002400068",
+    "Research_Result": 4,
+    "Research_ResultTypeValue": "2",
+    "Research_ResultDesc": "1002400114",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_029",
+      "Research_Fac_Quest_030",
+      "Research_Fac_Quest_031"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv9"
+    ],
+    "Research_Pos_Line": 11,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Recycle_Lv10",
+    "MetalCost": 1000,
+    "NutrientCost": 0,
+    "PowerCost": 1800,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      300,
+      30,
+      80,
+      0
+    ],
+    "Research_Time": 345600
+  },
+  "Research_AIControl": {
+    "Research_Category": 0,
+    "Research_Name": "1002400012",
+    "Research_Desc": "1002400069",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400115",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_033"
+    ],
+    "Unlock_Condition": [
+      "Research_SubmarineFacility"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_ExamSystem",
+    "MetalCost": 50,
+    "NutrientCost": 0,
+    "PowerCost": 175,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      30,
+      5,
+      0,
+      0
+    ],
+    "Research_Time": 1800
+  },
+  "Research_Robot_Making": {
+    "Research_Category": 0,
+    "Research_Name": "1002400013",
+    "Research_Desc": "1002400070",
+    "Research_Result": 1,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400116",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_032"
+    ],
+    "Unlock_Condition": [
+      "Research_SubmarineFacility"
+    ],
+    "Research_Pos_Line": 3,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_Making",
+    "MetalCost": 175,
+    "NutrientCost": 0,
+    "PowerCost": 150,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      30,
+      30,
+      0,
+      0
+    ],
+    "Research_Time": 1800
+  },
+  "Research_Special_Making": {
+    "Research_Category": 0,
+    "Research_Name": "1002400014",
+    "Research_Desc": "1002400071",
+    "Research_Result": 0,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400117",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_034",
+      "Research_Fac_Quest_035"
+    ],
+    "Unlock_Condition": [
+      "Research_Robot_Making"
+    ],
+    "Research_Pos_Line": 5,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Special_Making",
+    "MetalCost": 200,
+    "NutrientCost": 150,
+    "PowerCost": 400,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_AlloyArmor",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      100,
+      10,
+      1,
+      0
+    ],
+    "Research_Time": 7200
+  },
+  "Research_RepairRoom_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400015",
+    "Research_Desc": "1002400072",
+    "Research_Result": 10,
+    "Research_ResultTypeValue": "0.06",
+    "Research_ResultDesc": "1002400118",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_037"
+    ],
+    "Unlock_Condition": [
+      "Research_Special_Making"
+    ],
+    "Research_Pos_Line": 7,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_RepairRoom_Lv1",
+    "MetalCost": 250,
+    "NutrientCost": 500,
+    "PowerCost": 450,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      50,
+      15,
+      0,
+      0
+    ],
+    "Research_Time": 86400
+  },
+  "Research_RepairRoom_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400016",
+    "Research_Desc": "1002400072",
+    "Research_Result": 10,
+    "Research_ResultTypeValue": "0.12",
+    "Research_ResultDesc": "1002400119",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_038"
+    ],
+    "Unlock_Condition": [
+      "Research_RepairRoom_Lv1"
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_RepairRoom_Lv2",
+    "MetalCost": 375,
+    "NutrientCost": 750,
+    "PowerCost": 600,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      100,
+      30,
+      0,
+      0
+    ],
+    "Research_Time": 129600
+  },
+  "Research_RepairRoom_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400017",
+    "Research_Desc": "1002400072",
+    "Research_Result": 10,
+    "Research_ResultTypeValue": "0.18",
+    "Research_ResultDesc": "1002400120",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_039"
+    ],
+    "Unlock_Condition": [
+      "Research_RepairRoom_Lv2"
+    ],
+    "Research_Pos_Line": 9,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_RepairRoom_Lv3",
+    "MetalCost": 500,
+    "NutrientCost": 1000,
+    "PowerCost": 750,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      200,
+      50,
+      0,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Research_RepairRoom_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400018",
+    "Research_Desc": "1002400072",
+    "Research_Result": 10,
+    "Research_ResultTypeValue": "0.24",
+    "Research_ResultDesc": "1002400121",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_040"
+    ],
+    "Unlock_Condition": [
+      "Research_RepairRoom_Lv3"
+    ],
+    "Research_Pos_Line": 10,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_RepairRoom_Lv4",
+    "MetalCost": 625,
+    "NutrientCost": 1250,
+    "PowerCost": 900,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      325,
+      25,
+      75,
+      0
+    ],
+    "Research_Time": 259200
+  },
+  "Research_RepairRoom_Lv5": {
+    "Research_Category": 0,
+    "Research_Name": "1002400019",
+    "Research_Desc": "1002400072",
+    "Research_Result": 10,
+    "Research_ResultTypeValue": "0.35",
+    "Research_ResultDesc": "1002400122",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_041"
+    ],
+    "Unlock_Condition": [
+      "Research_RepairRoom_Lv4"
+    ],
+    "Research_Pos_Line": 11,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_RepairRoom_Lv5",
+    "MetalCost": 750,
+    "NutrientCost": 1500,
+    "PowerCost": 1050,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      500,
+      50,
+      125,
+      0
+    ],
+    "Research_Time": 518400
+  },
+  "Research_Disassemble_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400020",
+    "Research_Desc": "1002400073",
+    "Research_Result": 8,
+    "Research_ResultTypeValue": "0.3",
+    "Research_ResultDesc": "1002400123",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_042",
+      "Research_Fac_Quest_043"
+    ],
+    "Unlock_Condition": [
+      "Research_Recycle_Lv10"
+    ],
+    "Research_Pos_Line": 12,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Disassemble_Lv1",
+    "MetalCost": 500,
+    "NutrientCost": 0,
+    "PowerCost": 1000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      500,
+      25,
+      250,
+      0
+    ],
+    "Research_Time": 43200
+  },
+  "Research_Disassemble_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400021",
+    "Research_Desc": "1002400073",
+    "Research_Result": 8,
+    "Research_ResultTypeValue": "0.6",
+    "Research_ResultDesc": "1002400124",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_044",
+      "Research_Fac_Quest_045"
+    ],
+    "Unlock_Condition": [
+      "Research_Disassemble_Lv1"
+    ],
+    "Research_Pos_Line": 13,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Disassemble_Lv2",
+    "MetalCost": 650,
+    "NutrientCost": 0,
+    "PowerCost": 1250,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      750,
+      50,
+      500,
+      0
+    ],
+    "Research_Time": 86400
+  },
+  "Research_Disassemble_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400022",
+    "Research_Desc": "1002400073",
+    "Research_Result": 8,
+    "Research_ResultTypeValue": "0.9",
+    "Research_ResultDesc": "1002400125",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_046",
+      "Research_Fac_Quest_047"
+    ],
+    "Unlock_Condition": [
+      "Research_Disassemble_Lv2"
+    ],
+    "Research_Pos_Line": 14,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Disassemble_Lv3",
+    "MetalCost": 800,
+    "NutrientCost": 0,
+    "PowerCost": 1500,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      1000,
+      100,
+      750,
+      0
+    ],
+    "Research_Time": 129600
+  },
+  "Research_Disassemble_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400023",
+    "Research_Desc": "1002400073",
+    "Research_Result": 8,
+    "Research_ResultTypeValue": "1.2",
+    "Research_ResultDesc": "1002400126",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_048",
+      "Research_Fac_Quest_049"
+    ],
+    "Unlock_Condition": [
+      "Research_Disassemble_Lv3"
+    ],
+    "Research_Pos_Line": 15,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Disassemble_Lv4",
+    "MetalCost": 1000,
+    "NutrientCost": 0,
+    "PowerCost": 2000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      1500,
+      150,
+      20,
+      0
+    ],
+    "Research_Time": 216000
+  },
+  "Research_Disassemble_Lv5": {
+    "Research_Category": 0,
+    "Research_Name": "1002400024",
+    "Research_Desc": "1002400073",
+    "Research_Result": 8,
+    "Research_ResultTypeValue": "1.5",
+    "Research_ResultDesc": "1002400127",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_050",
+      "Research_Fac_Quest_051"
+    ],
+    "Unlock_Condition": [
+      "Research_Disassemble_Lv4"
+    ],
+    "Research_Pos_Line": 16,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Disassemble_Lv5",
+    "MetalCost": 1200,
+    "NutrientCost": 0,
+    "PowerCost": 2500,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      2000,
+      200,
+      30,
+      0
+    ],
+    "Research_Time": 345600
+  },
+  "Research_AI_Simulator_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400025",
+    "Research_Desc": "1002400074",
+    "Research_Result": 12,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400128",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_052",
+      "Research_Fac_Quest_053"
+    ],
+    "Unlock_Condition": [
+      "Research_CommandModule"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_AI_Simulator_Lv1",
+    "MetalCost": 300,
+    "NutrientCost": 0,
+    "PowerCost": 450,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      100,
+      10,
+      0,
+      0
+    ],
+    "Research_Time": 7200
+  },
+  "Research_AI_Simulator_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400026",
+    "Research_Desc": "1002400075",
+    "Research_Result": 13,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400129",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_054",
+      "Research_Fac_Quest_055",
+      "Research_Fac_Quest_056"
+    ],
+    "Unlock_Condition": [
+      "Research_AI_Simulator_Lv1"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_AI_Simulator_Lv2",
+    "MetalCost": 450,
+    "NutrientCost": 0,
+    "PowerCost": 1350,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      500,
+      50,
+      30,
+      0
+    ],
+    "Research_Time": 36000
+  },
+  "Research_AI_Simulator_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400027",
+    "Research_Desc": "1002400075",
+    "Research_Result": 14,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400130",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_057",
+      "Research_Fac_Quest_058"
+    ],
+    "Unlock_Condition": [
+      "Research_AI_Simulator_Lv2",
+      "Research_Special_Making"
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_AI_Simulator_Lv3",
+    "MetalCost": 600,
+    "NutrientCost": 0,
+    "PowerCost": 2000,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      100,
+      100,
+      10,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Research_AI_Simulator_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400028",
+    "Research_Desc": "1002400075",
+    "Research_Result": 15,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400131",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_059",
+      "Research_Fac_Quest_060"
+    ],
+    "Unlock_Condition": [
+      "Research_AI_Simulator_Lv3"
+    ],
+    "Research_Pos_Line": 10,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_AI_Simulator_Lv4",
+    "MetalCost": 1000,
+    "NutrientCost": 0,
+    "PowerCost": 3750,
+    "NeedItemKeyString": [
+      "Advanced_Module",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      150,
+      20,
+      30,
+      0
+    ],
+    "Research_Time": 345600
+  },
+  "Research_CommandModule": {
+    "Research_Category": 0,
+    "Research_Name": "1002400029",
+    "Research_Desc": "1002400076",
+    "Research_Result": 16,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400132",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_061",
+      "Research_Fac_Quest_062"
+    ],
+    "Unlock_Condition": [
+      "Research_SubmarineFacility"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_BattleAnalysis_Lv1",
+    "MetalCost": 125,
+    "NutrientCost": 0,
+    "PowerCost": 175,
+    "NeedItemKeyString": [],
+    "NeedItemCount": [],
+    "Research_Time": 600
+  },
+  "Research_Carriage_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400030",
+    "Research_Desc": "1002400077",
+    "Research_Result": 3,
+    "Research_ResultTypeValue": "0.05",
+    "Research_ResultDesc": "1002400133",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_063"
+    ],
+    "Unlock_Condition": [
+      "Research_AIControl"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Carriage_Lv1",
+    "MetalCost": 250,
+    "NutrientCost": 0,
+    "PowerCost": 300,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      50,
+      50,
+      0,
+      0
+    ],
+    "Research_Time": 3600
+  },
+  "Research_Carriage_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400031",
+    "Research_Desc": "1002400078",
+    "Research_Result": 3,
+    "Research_ResultTypeValue": "0.1",
+    "Research_ResultDesc": "1002400134",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_065"
+    ],
+    "Unlock_Condition": [
+      "Research_Carriage_Lv1"
+    ],
+    "Research_Pos_Line": 3,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Carriage_Lv2",
+    "MetalCost": 375,
+    "NutrientCost": 0,
+    "PowerCost": 475,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts",
+      "RobotParts_Booster"
+    ],
+    "NeedItemCount": [
+      250,
+      100,
+      50,
+      0
+    ],
+    "Research_Time": 9000
+  },
+  "Research_Carriage_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400032",
+    "Research_Desc": "1002400078",
+    "Research_Result": 3,
+    "Research_ResultTypeValue": "0.15",
+    "Research_ResultDesc": "1002400135",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_067"
+    ],
+    "Unlock_Condition": [
+      "Research_Carriage_Lv2"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Carriage_Lv3",
+    "MetalCost": 500,
+    "NutrientCost": 0,
+    "PowerCost": 650,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts",
+      "RobotParts_Booster"
+    ],
+    "NeedItemCount": [
+      500,
+      200,
+      100,
+      0
+    ],
+    "Research_Time": 21600
+  },
+  "Research_Carriage_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400033",
+    "Research_Desc": "1002400078",
+    "Research_Result": 3,
+    "Research_ResultTypeValue": "0.2",
+    "Research_ResultDesc": "1002400136",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_069"
+    ],
+    "Unlock_Condition": [
+      "Research_Carriage_Lv3"
+    ],
+    "Research_Pos_Line": 5,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Carriage_Lv4",
+    "MetalCost": 625,
+    "NutrientCost": 0,
+    "PowerCost": 825,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      1000,
+      500,
+      30,
+      0
+    ],
+    "Research_Time": 86400
+  },
+  "Research_Carriage_Lv5": {
+    "Research_Category": 0,
+    "Research_Name": "1002400034",
+    "Research_Desc": "1002400078",
+    "Research_Result": 3,
+    "Research_ResultTypeValue": "0.25",
+    "Research_ResultDesc": "1002400137",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_071"
+    ],
+    "Unlock_Condition": [
+      "Research_Carriage_Lv4",
+      "Research_Precised_Exploration_Lv3"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Carriage_Lv5",
+    "MetalCost": 750,
+    "NutrientCost": 0,
+    "PowerCost": 1000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_MPParts",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      2000,
+      750,
+      75,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Research_Precised_Exploration_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400035",
+    "Research_Desc": "1002400079",
+    "Research_Result": 11,
+    "Research_ResultTypeValue": "0.04",
+    "Research_ResultDesc": "1002400138",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_064"
+    ],
+    "Unlock_Condition": [
+      "Research_AIControl"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Supply_Lv1",
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 300,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      100,
+      20,
+      0,
+      0
+    ],
+    "Research_Time": 7200
+  },
+  "Research_Precised_Exploration_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400036",
+    "Research_Desc": "1002400080",
+    "Research_Result": 11,
+    "Research_ResultTypeValue": "0.08",
+    "Research_ResultDesc": "1002400139",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_066"
+    ],
+    "Unlock_Condition": [
+      "Research_Precised_Exploration_Lv1"
+    ],
+    "Research_Pos_Line": 5,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Supply_Lv2",
+    "MetalCost": 180,
+    "NutrientCost": 0,
+    "PowerCost": 475,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      250,
+      50,
+      0,
+      0
+    ],
+    "Research_Time": 21600
+  },
+  "Research_Precised_Exploration_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400037",
+    "Research_Desc": "1002400080",
+    "Research_Result": 11,
+    "Research_ResultTypeValue": "0.12",
+    "Research_ResultDesc": "1002400140",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_068"
+    ],
+    "Unlock_Condition": [
+      "Research_Precised_Exploration_Lv2"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Supply_Lv3",
+    "MetalCost": 260,
+    "NutrientCost": 0,
+    "PowerCost": 650,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      500,
+      100,
+      0,
+      0
+    ],
+    "Research_Time": 43200
+  },
+  "Research_Precised_Exploration_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400038",
+    "Research_Desc": "1002400080",
+    "Research_Result": 11,
+    "Research_ResultTypeValue": "0.16",
+    "Research_ResultDesc": "1002400141",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_070"
+    ],
+    "Unlock_Condition": [
+      "Research_Precised_Exploration_Lv3"
+    ],
+    "Research_Pos_Line": 7,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Supply_Lv4",
+    "MetalCost": 340,
+    "NutrientCost": 0,
+    "PowerCost": 825,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      1000,
+      150,
+      25,
+      0
+    ],
+    "Research_Time": 129600
+  },
+  "Research_Precised_Exploration_Lv5": {
+    "Research_Category": 0,
+    "Research_Name": "1002400039",
+    "Research_Desc": "1002400080",
+    "Research_Result": 11,
+    "Research_ResultTypeValue": "0.2",
+    "Research_ResultDesc": "1002400142",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_072"
+    ],
+    "Unlock_Condition": [
+      "Research_Precised_Exploration_Lv4"
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Supply_Lv5",
+    "MetalCost": 420,
+    "NutrientCost": 0,
+    "PowerCost": 1000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      2000,
+      300,
+      50,
+      0
+    ],
+    "Research_Time": 259200
+  },
+  "Robot_Robotics_Frame": {
+    "Research_Category": 1,
+    "Research_Name": "1002400040",
+    "Research_Desc": "1002400081",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400143",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "0"
+    ],
+    "Research_Pos_Line": 1,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_Robot_RoboticsFrame",
+    "MetalCost": 100,
+    "NutrientCost": 25,
+    "PowerCost": 50,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      10,
+      0,
+      0,
+      0
+    ],
+    "Research_Time": 900
+  },
+  "Robot_Shock_Absorber": {
+    "Research_Category": 1,
+    "Research_Name": "1002400041",
+    "Research_Desc": "1002400082",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400144",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Robotics_Frame"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_ShockAbsorber",
+    "MetalCost": 200,
+    "NutrientCost": 0,
+    "PowerCost": 75,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts"
+    ],
+    "NeedItemCount": [
+      25,
+      0,
+      0,
+      0
+    ],
+    "Research_Time": 2700
+  },
+  "Robot_FlexibleFrame": {
+    "Research_Category": 1,
+    "Research_Name": "1002400042",
+    "Research_Desc": "1002400083",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400145",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Advanced_Frame",
+      "Robot_Shock_Absorber"
+    ],
+    "Research_Pos_Line": 3,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_Robot_FlexibleFrame",
+    "MetalCost": 250,
+    "NutrientCost": 500,
+    "PowerCost": 300,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "Normal_Module"
+    ],
+    "NeedItemCount": [
+      100,
+      100,
+      0,
+      0
+    ],
+    "Research_Time": 10800
+  },
+  "Robot_Advanced_Frame": {
+    "Research_Category": 1,
+    "Research_Name": "1002400043",
+    "Research_Desc": "1002400084",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400146",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Robotics_Frame"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_Robot_AdvancedFrame",
+    "MetalCost": 300,
+    "NutrientCost": 0,
+    "PowerCost": 180,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor"
+    ],
+    "NeedItemCount": [
+      25,
+      5,
+      0,
+      0
+    ],
+    "Research_Time": 3600
+  },
+  "Robot_HeavyArmor": {
+    "Research_Category": 1,
+    "Research_Name": "1002400044",
+    "Research_Desc": "1002400085",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400147",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_LargeFrame",
+      "Robot_MassiveGenerator"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_Robot_HeavyArmor",
+    "MetalCost": 1250,
+    "NutrientCost": 0,
+    "PowerCost": 500,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      50,
+      150,
+      40,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Robot_LargeFrame": {
+    "Research_Category": 1,
+    "Research_Name": "1002400045",
+    "Research_Desc": "1002400086",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400148",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_FlexibleFrame"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_Robot_LargeFrame",
+    "MetalCost": 750,
+    "NutrientCost": 0,
+    "PowerCost": 375,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      30,
+      100,
+      20,
+      0
+    ],
+    "Research_Time": 28800
+  },
+  "Robot_EnergyCharger": {
+    "Research_Category": 1,
+    "Research_Name": "1002400046",
+    "Research_Desc": "1002400087",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400149",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_HeavyFCS"
+    ],
+    "Research_Pos_Line": 5,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_EnergyCharger",
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 1000,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "Normal_Module",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      300,
+      250,
+      100,
+      0
+    ],
+    "Research_Time": 43200
+  },
+  "Robot_ParticleAccelerator": {
+    "Research_Category": 1,
+    "Research_Name": "1002400047",
+    "Research_Desc": "1002400088",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400150",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_MassiveGenerator"
+    ],
+    "Research_Pos_Line": 7,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_ParticleAccelerator",
+    "MetalCost": 500,
+    "NutrientCost": 0,
+    "PowerCost": 2000,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_HDCalculationControl",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      100,
+      50,
+      15,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Robot_MassiveGenerator": {
+    "Research_Category": 1,
+    "Research_Name": "1002400048",
+    "Research_Desc": "1002400089",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400151",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_EnergyCharger"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_MassiveGenerator",
+    "MetalCost": 300,
+    "NutrientCost": 0,
+    "PowerCost": 1250,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_CalculationControl",
+      "Advanced_Module"
+    ],
+    "NeedItemCount": [
+      50,
+      150,
+      100,
+      0
+    ],
+    "Research_Time": 54000
+  },
+  "Robot_Booster": {
+    "Research_Category": 1,
+    "Research_Name": "1002400049",
+    "Research_Desc": "1002400090",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400152",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Aero_Controlsystem"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_Booster",
+    "MetalCost": 400,
+    "NutrientCost": 0,
+    "PowerCost": 975,
+    "NeedItemKeyString": [
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      50,
+      10,
+      0,
+      0
+    ],
+    "Research_Time": 21600
+  },
+  "Robot_Aero_Controlsystem": {
+    "Research_Category": 1,
+    "Research_Name": "1002400050",
+    "Research_Desc": "1002400091",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400153",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Shock_Absorber"
+    ],
+    "Research_Pos_Line": 3,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_AeroControlsystem",
+    "MetalCost": 175,
+    "NutrientCost": 0,
+    "PowerCost": 400,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Booster"
+    ],
+    "NeedItemCount": [
+      30,
+      5,
+      0,
+      0
+    ],
+    "Research_Time": 3600
+  },
+  "Robot_MultiBooster": {
+    "Research_Category": 1,
+    "Research_Name": "1002400051",
+    "Research_Desc": "1002400092",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400154",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Booster"
+    ],
+    "Research_Pos_Line": 5,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_MultiBooster",
+    "MetalCost": 400,
+    "NutrientCost": 0,
+    "PowerCost": 1200,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      60,
+      80,
+      50,
+      0
+    ],
+    "Research_Time": 129600
+  },
+  "Robot_FCS": {
+    "Research_Category": 1,
+    "Research_Name": "1002400052",
+    "Research_Desc": "1002400093",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400155",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Robotics_Frame"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_FCS",
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 150,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_Weapon"
+    ],
+    "NeedItemCount": [
+      10,
+      10,
+      0,
+      0
+    ],
+    "Research_Time": 1800
+  },
+  "Robot_HeavyFCS": {
+    "Research_Category": 1,
+    "Research_Name": "1002400053",
+    "Research_Desc": "1002400094",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400156",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_FCS"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_HeavyFCS",
+    "MetalCost": 750,
+    "NutrientCost": 0,
+    "PowerCost": 400,
+    "NeedItemKeyString": [
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      50,
+      5,
+      20,
+      0
+    ],
+    "Research_Time": 14400
+  },
+  "Robot_Communication": {
+    "Research_Category": 1,
+    "Research_Name": "1002400054",
+    "Research_Desc": "1002400095",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400157",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Robotics_Frame"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Robot_Communication",
+    "MetalCost": 50,
+    "NutrientCost": 0,
+    "PowerCost": 50,
+    "NeedItemKeyString": [
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "Research_Time": 1800
+  },
+  "Robot_ExamSystem": {
+    "Research_Category": 1,
+    "Research_Name": "1002400055",
+    "Research_Desc": "1002400096",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400158",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Communication",
+      "Robot_FCS"
+    ],
+    "Research_Pos_Line": 3,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Robot_ExamSystem",
+    "MetalCost": 75,
+    "NutrientCost": 0,
+    "PowerCost": 200,
+    "NeedItemKeyString": [
+      "RobotParts_MPParts",
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      30,
+      10,
+      0,
+      0
+    ],
+    "Research_Time": 2700
+  },
+  "Robot_ProtectModule": {
+    "Research_Category": 1,
+    "Research_Name": "1002400056",
+    "Research_Desc": "1002400097",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400159",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Robotics_Frame"
+    ],
+    "Research_Pos_Line": 2,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Robot_ProtectModule",
+    "MetalCost": 150,
+    "NutrientCost": 0,
+    "PowerCost": 30,
+    "NeedItemKeyString": [
+      "RobotParts_CalculationControl"
+    ],
+    "NeedItemCount": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "Research_Time": 1800
+  },
+  "Robot_Advanced_Simulator": {
+    "Research_Category": 1,
+    "Research_Name": "1002400057",
+    "Research_Desc": "1002400098",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400160",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_ProtectModule"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Robot_AdvancedSimulator",
+    "MetalCost": 175,
+    "NutrientCost": 0,
+    "PowerCost": 1250,
+    "NeedItemKeyString": [
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl"
+    ],
+    "NeedItemCount": [
+      125,
+      40,
+      0,
+      0
+    ],
+    "Research_Time": 115200
+  },
+  "Robot_TacticControl": {
+    "Research_Category": 1,
+    "Research_Name": "1002400058",
+    "Research_Desc": "1002400099",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400161",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_ExamSystem"
+    ],
+    "Research_Pos_Line": 4,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Robot_TacticControl",
+    "MetalCost": 325,
+    "NutrientCost": 0,
+    "PowerCost": 1750,
+    "NeedItemKeyString": [
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Advanced_Module"
+    ],
+    "NeedItemCount": [
+      100,
+      20,
+      50,
+      0
+    ],
+    "Research_Time": 45000
+  },
+  "Robot_AGS_Command": {
+    "Research_Category": 1,
+    "Research_Name": "1002400059",
+    "Research_Desc": "1002400100",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400162",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_TacticControl"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 1,
+    "Research_Icon": "UI_Icon_Research_Robot_AGSCommand",
+    "MetalCost": 100,
+    "NutrientCost": 0,
+    "PowerCost": 2500,
+    "NeedItemKeyString": [
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      200,
+      50,
+      30,
+      0
+    ],
+    "Research_Time": 345600
+  },
+  "Robot_EnergyConverter ": {
+    "Research_Category": 1,
+    "Research_Name": "1002400060",
+    "Research_Desc": "1002400101",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400163",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_Advanced_Simulator",
+      "Robot_ParticleAccelerator"
+    ],
+    "Research_Pos_Line": 7,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Robot_EnergyConverter",
+    "MetalCost": 2750,
+    "NutrientCost": 0,
+    "PowerCost": 2750,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      20000,
+      1000,
+      50,
+      0
+    ],
+    "Research_Time": 388800
+  },
+  "Robot_HPBooster": {
+    "Research_Category": 1,
+    "Research_Name": "1002400061",
+    "Research_Desc": "1002400102",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400164",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_MultiBooster"
+    ],
+    "Research_Pos_Line": 6,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_HPBooster",
+    "MetalCost": 500,
+    "NutrientCost": 0,
+    "PowerCost": 5000,
+    "NeedItemKeyString": [
+      "RobotParts_ExParts",
+      "RobotParts_HighpowerBooster",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      120,
+      200,
+      30,
+      0
+    ],
+    "Research_Time": 259200
+  },
+  "Research_EquipEnchant_Lv1": {
+    "Research_Category": 0,
+    "Research_Name": "1002400062",
+    "Research_Desc": "1002400103",
+    "Research_Result": 7,
+    "Research_ResultTypeValue": "0.02",
+    "Research_ResultDesc": "1002400165",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_073"
+    ],
+    "Unlock_Condition": [
+      "Research_Disassemble_Lv1"
+    ],
+    "Research_Pos_Line": 12,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_EquipEnchant_Lv1",
+    "MetalCost": 1000,
+    "NutrientCost": 0,
+    "PowerCost": 1000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      10000,
+      500,
+      100,
+      0
+    ],
+    "Research_Time": 172800
+  },
+  "Research_EquipEnchant_Lv2": {
+    "Research_Category": 0,
+    "Research_Name": "1002400063",
+    "Research_Desc": "1002400103",
+    "Research_Result": 7,
+    "Research_ResultTypeValue": "0.04",
+    "Research_ResultDesc": "1002400166",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_074"
+    ],
+    "Unlock_Condition": [
+      "Research_EquipEnchant_Lv1"
+    ],
+    "Research_Pos_Line": 13,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_EquipEnchant_Lv2",
+    "MetalCost": 1250,
+    "NutrientCost": 0,
+    "PowerCost": 1250,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      20000,
+      1000,
+      200,
+      0
+    ],
+    "Research_Time": 345600
+  },
+  "Research_EquipEnchant_Lv3": {
+    "Research_Category": 0,
+    "Research_Name": "1002400064",
+    "Research_Desc": "1002400103",
+    "Research_Result": 7,
+    "Research_ResultTypeValue": "0.06",
+    "Research_ResultDesc": "1002400167",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_075"
+    ],
+    "Unlock_Condition": [
+      "Research_EquipEnchant_Lv2"
+    ],
+    "Research_Pos_Line": 14,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_EquipEnchant_Lv3",
+    "MetalCost": 1500,
+    "NutrientCost": 0,
+    "PowerCost": 1500,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      30000,
+      1500,
+      300,
+      0
+    ],
+    "Research_Time": 518400
+  },
+  "Research_EquipEnchant_Lv4": {
+    "Research_Category": 0,
+    "Research_Name": "1002400065",
+    "Research_Desc": "1002400103",
+    "Research_Result": 7,
+    "Research_ResultTypeValue": "0.08",
+    "Research_ResultDesc": "1002400168",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_076"
+    ],
+    "Unlock_Condition": [
+      "Research_EquipEnchant_Lv3"
+    ],
+    "Research_Pos_Line": 15,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_EquipEnchant_Lv4",
+    "MetalCost": 1750,
+    "NutrientCost": 0,
+    "PowerCost": 1750,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      40000,
+      2000,
+      400,
+      0
+    ],
+    "Research_Time": 691200
+  },
+  "Research_EquipEnchant_Lv5": {
+    "Research_Category": 0,
+    "Research_Name": "1002400066",
+    "Research_Desc": "1002400103",
+    "Research_Result": 7,
+    "Research_ResultTypeValue": "0.1",
+    "Research_ResultDesc": "1002400169",
+    "Research_ReqQuest": [
+      "Research_Fac_Quest_077"
+    ],
+    "Unlock_Condition": [
+      "Research_EquipEnchant_Lv4"
+    ],
+    "Research_Pos_Line": 16,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_EquipEnchant_Lv5",
+    "MetalCost": 2000,
+    "NutrientCost": 0,
+    "PowerCost": 2000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module"
+    ],
+    "NeedItemCount": [
+      50000,
+      2500,
+      500,
+      0
+    ],
+    "Research_Time": 864000
+  },
+  "Robot_HybridGenerator": {
+    "Research_Category": 1,
+    "Research_Name": "1002400170",
+    "Research_Desc": "1002400172",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400174",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_ParticleAccelerator"
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_HybridGenerator",
+    "MetalCost": 12500,
+    "NutrientCost": 0,
+    "PowerCost": 7500,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      60000,
+      300,
+      1500,
+      0
+    ],
+    "Research_Time": 604800
+  },
+  "Robot_GeneArchitectAI": {
+    "Research_Category": 1,
+    "Research_Name": "1002400171",
+    "Research_Desc": "1002400173",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400175",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_EnergyConverter "
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 5,
+    "Research_Icon": "UI_Icon_Research_Robot_GeneArchitectAI",
+    "MetalCost": 3500,
+    "NutrientCost": 0,
+    "PowerCost": 5000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "NeedItemCount": [
+      20000,
+      150,
+      500,
+      0
+    ],
+    "Research_Time": 604800
+  },
+  "Robot_OverTechPowerPack": {
+    "Research_Category": 1,
+    "Research_Name": "1002400176",
+    "Research_Desc": "1002400177",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400178",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_HPBooster"
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_OverTechPowerPack",
+    "MetalCost": 9000,
+    "NutrientCost": 0,
+    "PowerCost": 6000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      30000,
+      200,
+      1000,
+      0
+    ],
+    "Research_Time": 604800
+  },
+  "Robot_CooledReactor": {
+    "Research_Category": 1,
+    "Research_Name": "1002400179",
+    "Research_Desc": "1002400180",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400181",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_EnergyConverter "
+    ],
+    "Research_Pos_Line": 8,
+    "Research_Pos_Row": 3,
+    "Research_Icon": "UI_Icon_Research_Robot_CooledReactor",
+    "MetalCost": 3000,
+    "NutrientCost": 0,
+    "PowerCost": 8000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "NeedItemCount": [
+      10000,
+      250,
+      1000,
+      0
+    ],
+    "Research_Time": 604800
+  },
+  "Robot_MultiFCS": {
+    "Research_Category": 1,
+    "Research_Name": "1002400182",
+    "Research_Desc": "1002400183",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400184",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_HybridGenerator"
+    ],
+    "Research_Pos_Line": 9,
+    "Research_Pos_Row": 2,
+    "Research_Icon": "UI_Icon_Research_Robot_MultiFCS",
+    "MetalCost": 15000,
+    "NutrientCost": 0,
+    "PowerCost": 10000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "NeedItemCount": [
+      30000,
+      500,
+      1500,
+      0
+    ],
+    "Research_Time": 691200
+  },
+  "Robot_NuclearSystem": {
+    "Research_Category": 1,
+    "Research_Name": "1002400185",
+    "Research_Desc": "1002400186",
+    "Research_Result": 17,
+    "Research_ResultTypeValue": "0",
+    "Research_ResultDesc": "1002400187",
+    "Research_ReqQuest": [],
+    "Unlock_Condition": [
+      "Robot_HPBooster"
+    ],
+    "Research_Pos_Line": 9,
+    "Research_Pos_Row": 4,
+    "Research_Icon": "UI_Icon_Research_Robot_NuclearSystem",
+    "MetalCost": 10000,
+    "NutrientCost": 0,
+    "PowerCost": 15000,
+    "NeedItemKeyString": [
+      "Normal_Module",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      30000,
+      500,
+      1500,
+      0
+    ],
+    "Research_Time": 691200
+  }
+}

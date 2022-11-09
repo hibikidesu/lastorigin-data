@@ -1,0 +1,781 @@
+{
+  "STAGE_SEARCH_IDCHIP_1": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "2",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "2",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_2": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "3",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "3",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_3": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "4",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "4",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_4": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "5",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "5",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      7,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_5": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "6",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "6",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      27,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_6": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "7",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "7",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      4,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_7": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "8",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "8",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      10,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_8": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "9",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "9",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      38,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_9": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "10",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "10",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_10": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "11",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "11",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      3,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_11": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "12",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "12",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      11,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_12": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "13",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "13",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      3,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_13": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "14",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "14",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      32,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_14": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "15",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "15",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      12,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_15": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "16",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "16",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      14,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_16": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "17",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "17",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      50,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_17": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_18": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      10,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "STAGE_SEARCH_IDCHIP_19": {
+    "RewardPosType": 0,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 0,
+    "ExpMax": 0,
+    "ExpRate": "1",
+    "SkillExp": 0,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      43,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Consumable_EventDiceIDChip"
+    ],
+    "ItemRate": [
+      "1"
+    ],
+    "CharIndexString": [],
+    "CharRate": [],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

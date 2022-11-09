@@ -1,0 +1,653 @@
+{
+  "Pv_C1_ExSkill_1101": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1101",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1101",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 201,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1101",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1102": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1102",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1102",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 202,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1102",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1103": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1103",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1103",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 203,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1103",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1104": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1104",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1104",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 204,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1104",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1105": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1105",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1105",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 205,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1105",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1106": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1106",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1106",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 206,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1106",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1107": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1107",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1107",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 207,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1107",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1108": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1108",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1108",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 208,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1108",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1109": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1109",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1109",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 209,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1109",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1110": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1110",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1110",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 210,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1110",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C1_ExSkill_1201": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1201",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1201",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 1,
+    "UI_Priority": 211,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1201",
+    "Unlock_Needed": 0,
+    "Unlock_Cost_Metal": 0,
+    "Unlock_Cost_Nutrient": 0,
+    "Unlock_Cost_Power": 0,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1202": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1202",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1202",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 212,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1202",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1203": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1203",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1203",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 213,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1203",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1204": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1204",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1204",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 214,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1204",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1205": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1205",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1205",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 215,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1205",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1206": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1206",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1206",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 216,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1206",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1207": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1207",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1207",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 217,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1207",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1208": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1208",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1208",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 218,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1208",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1209": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1209",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1209",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 219,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1209",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1210": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1210",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1210",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 220,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1210",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1211": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1211",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1211",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 221,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1211",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1212": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1212",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1212",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 222,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1212",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C2_ExSkill_1213": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1213",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1213",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 223,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1213",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Pv_C3_ExSkill_1301": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1301",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1301",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 225,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1301",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Pv_C3_ExSkill_1302": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1302",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1302",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 226,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1302",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Pv_C3_ExSkill_1303": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1303",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1303",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 227,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1303",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Pv_C3_ExSkill_1304": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1304",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1304",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 228,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1304",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Pv_C3_ExSkill_1305": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1305",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1305",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 229,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1305",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Pv_C3_ExSkill_1307": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1307",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1307",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 230,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1307",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Pv_C3_ExSkill_1317": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_1317",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_1317",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 3,
+    "UI_Priority": 231,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_1317",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C2_ExSkill_2201": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2201",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2201",
+    "Skill_Activate_Type": 1,
+    "Slot_Cost": 2,
+    "UI_Priority": 224,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2201",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 3000,
+    "Unlock_Cost_Nutrient": 3000,
+    "Unlock_Cost_Power": 3000,
+    "Unlock_Cost_Item": [],
+    "Unlock_Cost_ItemValue": []
+  },
+  "Ac_C3_ExSkill_2301": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2301",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2301",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 233,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2301",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2302": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2302",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2302",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 234,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2302",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2303": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2303",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2303",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 235,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2303",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2304": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2304",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2304",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 236,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2304",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2305": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2305",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2305",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 237,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2305",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2306": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2306",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2306",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 238,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2306",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2307": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2307",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2307",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 239,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2307",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  "Ac_C3_ExSkill_2317": {
+    "TableSkill_ID": "Skill_ExtPassiveSkill_N_2317",
+    "TableBuff_ID": "Effect_ExtPassiveSkill_N_2317",
+    "Skill_Activate_Type": 0,
+    "Slot_Cost": 3,
+    "UI_Priority": 240,
+    "ExtPassiveSkillLvCost": "Skill_ExtPassiveSkill_N_2317",
+    "Unlock_Needed": 1,
+    "Unlock_Cost_Metal": 5000,
+    "Unlock_Cost_Nutrient": 5000,
+    "Unlock_Cost_Power": 5000,
+    "Unlock_Cost_Item": [
+      "Consumable_CombatSkillBook"
+    ],
+    "Unlock_Cost_ItemValue": [
+      5,
+      0,
+      0,
+      0
+    ]
+  }
+}

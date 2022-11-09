@@ -1,0 +1,55 @@
+{
+  "Prototype": {
+    "DefaultGivePC": [
+      "Char_3P_ConstantiaS2_N",
+      "Char_BR_PA00EL_N"
+    ],
+    "DefaultGiveCurrencyType1": 0,
+    "DefaultGiveCurrencyValue1": 5000,
+    "DefaultGiveCurrencyType2": 1,
+    "DefaultGiveCurrencyValue2": 5000,
+    "DefaultGiveCurrencyType3": 2,
+    "DefaultGiveCurrencyValue3": 5000,
+    "DefaultGiveCurrencyType4": 9,
+    "DefaultGiveCurrencyValue4": 0,
+    "DefaultGiveCurrencyType5": 9,
+    "DefaultGiveCurrencyValue5": 0,
+    "DefaultGiveCurrencyType6": 9,
+    "DefaultGiveCurrencyValue6": 0,
+    "DefaultGiveCurrencyType7": 9,
+    "DefaultGiveCurrencyValue7": 0,
+    "DefaultGiveItemIndex": [
+      "TestItem_8",
+      "TestItem_4",
+      "TestItem_5",
+      "TestItem_10",
+      "TestItem_6"
+    ],
+    "DefaultGiveItemCount": [
+      5,
+      5,
+      10,
+      5,
+      10,
+      0,
+      0,
+      0
+    ],
+    "DefaultDeck1": [
+      "0",
+      "0",
+      "0",
+      "0",
+      "Char_3P_ConstantiaS2_N",
+      "Char_BR_PA00EL_N",
+      "0",
+      "0",
+      "0"
+    ],
+    "DefaultDeck2": [],
+    "DefaultDeck3": [],
+    "DefaultDeck4": [],
+    "DefaultDeck5": [],
+    "DefaultMasterPC": "Char_3P_ConstantiaS2_N"
+  }
+}

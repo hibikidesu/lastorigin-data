@@ -1,0 +1,538 @@
+{
+  "BuffCategory_Attack(%)": {
+    "Buff_Group": "Attack(%)",
+    "Buff_Group_View_Number": 1,
+    "Buff_Group_Name": "Buff_Category_Name_Attack(%)",
+    "BUFFEFFECT_TYPE": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Defence(%)": {
+    "Buff_Group": "Defence(%)",
+    "Buff_Group_View_Number": 2,
+    "Buff_Group_Name": "Buff_Category_Name_Defence(%)",
+    "BUFFEFFECT_TYPE": [
+      3,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Hit_Rate(%)": {
+    "Buff_Group": "Hit_Rate(%)",
+    "Buff_Group_View_Number": 3,
+    "Buff_Group_Name": "Buff_Category_Name_Hit_Rate(%)",
+    "BUFFEFFECT_TYPE": [
+      7,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Evade(%)": {
+    "Buff_Group": "Evade(%)",
+    "Buff_Group_View_Number": 4,
+    "Buff_Group_Name": "Buff_Category_Name_Evade(%)",
+    "BUFFEFFECT_TYPE": [
+      11,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Critical(%)": {
+    "Buff_Group": "Critical(%)",
+    "Buff_Group_View_Number": 5,
+    "Buff_Group_Name": "Buff_Category_Name_Critical(%)",
+    "BUFFEFFECT_TYPE": [
+      9,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Speed(%)": {
+    "Buff_Group": "Speed(%)",
+    "Buff_Group_View_Number": 6,
+    "Buff_Group_Name": "Buff_Category_Name_Speed(%)",
+    "BUFFEFFECT_TYPE": [
+      13,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_HP(%)": {
+    "Buff_Group": "HP(%)",
+    "Buff_Group_View_Number": 7,
+    "Buff_Group_Name": "Buff_Category_Name_HP(%)",
+    "BUFFEFFECT_TYPE": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Max_HP(%)": {
+    "Buff_Group": "Max_HP(%)",
+    "Buff_Group_View_Number": 8,
+    "Buff_Group_Name": "Buff_Category_Name_Max_HP(%)",
+    "BUFFEFFECT_TYPE": [
+      105,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Attack": {
+    "Buff_Group": "Attack",
+    "Buff_Group_View_Number": 9,
+    "Buff_Group_Name": "Buff_Category_Name_Attack",
+    "BUFFEFFECT_TYPE": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Defence": {
+    "Buff_Group": "Defence",
+    "Buff_Group_View_Number": 10,
+    "Buff_Group_Name": "Buff_Category_Name_Defence",
+    "BUFFEFFECT_TYPE": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Hit_Rate": {
+    "Buff_Group": "Hit_Rate",
+    "Buff_Group_View_Number": 11,
+    "Buff_Group_Name": "Buff_Category_Name_Hit_Rate",
+    "BUFFEFFECT_TYPE": [
+      6,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Evade": {
+    "Buff_Group": "Evade",
+    "Buff_Group_View_Number": 12,
+    "Buff_Group_Name": "Buff_Category_Name_Evade",
+    "BUFFEFFECT_TYPE": [
+      10,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Critical": {
+    "Buff_Group": "Critical",
+    "Buff_Group_View_Number": 13,
+    "Buff_Group_Name": "Buff_Category_Name_Critical",
+    "BUFFEFFECT_TYPE": [
+      8,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Speed": {
+    "Buff_Group": "Speed",
+    "Buff_Group_View_Number": 14,
+    "Buff_Group_Name": "Buff_Category_Name_Speed",
+    "BUFFEFFECT_TYPE": [
+      12,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_HP": {
+    "Buff_Group": "HP",
+    "Buff_Group_View_Number": 15,
+    "Buff_Group_Name": "Buff_Category_Name_HP",
+    "BUFFEFFECT_TYPE": [
+      104,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Max_HP": {
+    "Buff_Group": "Max_HP",
+    "Buff_Group_View_Number": 16,
+    "Buff_Group_Name": "Buff_Category_Name_Max_HP",
+    "BUFFEFFECT_TYPE": [
+      5,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Resist": {
+    "Buff_Group": "Resist",
+    "Buff_Group_View_Number": 17,
+    "Buff_Group_Name": "Buff_Category_Name_Resist",
+    "BUFFEFFECT_TYPE": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_AP": {
+    "Buff_Group": "AP",
+    "Buff_Group_View_Number": 18,
+    "Buff_Group_Name": "Buff_Category_Name_AP",
+    "BUFFEFFECT_TYPE": [
+      20,
+      21,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Effect_Rate": {
+    "Buff_Group": "Effect_Rate",
+    "Buff_Group_View_Number": 19,
+    "Buff_Group_Name": "Buff_Category_Name_Effect_Rate",
+    "BUFFEFFECT_TYPE": [
+      90,
+      91,
+      92,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Attack_Effect": {
+    "Buff_Group": "Attack_Effect",
+    "Buff_Group_View_Number": 20,
+    "Buff_Group_Name": "Buff_Category_Name_Attack_Effect",
+    "BUFFEFFECT_TYPE": [
+      77,
+      94,
+      102,
+      103,
+      106,
+      109,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Type": {
+    "Buff_Group": "Type",
+    "Buff_Group_View_Number": 21,
+    "Buff_Group_Name": "Buff_Category_Name_Type",
+    "BUFFEFFECT_TYPE": [
+      60,
+      61,
+      62,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Defence_Pierce": {
+    "Buff_Group": "Defence_Pierce",
+    "Buff_Group_View_Number": 22,
+    "Buff_Group_Name": "Buff_Category_Name_Defence_Pierce",
+    "BUFFEFFECT_TYPE": [
+      57,
+      58,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Proportion_Effect": {
+    "Buff_Group": "Proportion_Effect",
+    "Buff_Group_View_Number": 23,
+    "Buff_Group_Name": "Buff_Category_Name_Proportion_Effect",
+    "BUFFEFFECT_TYPE": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      129,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Damage_Dot": {
+    "Buff_Group": "Damage_Dot",
+    "Buff_Group_View_Number": 24,
+    "Buff_Group_Name": "Buff_Category_Name_Damage_Dot",
+    "BUFFEFFECT_TYPE": [
+      65,
+      66,
+      67,
+      68
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Damage_Add": {
+    "Buff_Group": "Damage_Add",
+    "Buff_Group_View_Number": 25,
+    "Buff_Group_Name": "Buff_Category_Name_Damage_Add",
+    "BUFFEFFECT_TYPE": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      70,
+      71,
+      72,
+      73,
+      80,
+      81,
+      83,
+      84,
+      85,
+      86,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Counter": {
+    "Buff_Group": "Counter",
+    "Buff_Group_View_Number": 26,
+    "Buff_Group_Name": "Buff_Category_Name_Counter",
+    "BUFFEFFECT_TYPE": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Protect_Ignore": {
+    "Buff_Group": "Protect_Ignore",
+    "Buff_Group_View_Number": 27,
+    "Buff_Group_Name": "Buff_Category_Name_Protect_Ignore",
+    "BUFFEFFECT_TYPE": [
+      130,
+      131,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Damage_Increase": {
+    "Buff_Group": "Damage_Increase",
+    "Buff_Group_View_Number": 28,
+    "Buff_Group_Name": "Buff_Category_Name_Damage_Increase",
+    "BUFFEFFECT_TYPE": [
+      48,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Protect": {
+    "Buff_Group": "Protect",
+    "Buff_Group_View_Number": 29,
+    "Buff_Group_Name": "Buff_Category_Name_Protect",
+    "BUFFEFFECT_TYPE": [
+      50,
+      51,
+      75,
+      76,
+      101,
+      110,
+      126,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Damage_Redsuce": {
+    "Buff_Group": "Damage_Redsuce",
+    "Buff_Group_View_Number": 30,
+    "Buff_Group_Name": "Buff_Category_Name_Damage_Redsuce",
+    "BUFFEFFECT_TYPE": [
+      36,
+      37,
+      0,
+      0
+    ],
+    "Value_View": 1
+  },
+  "BuffCategory_Shield": {
+    "Buff_Group": "Shield",
+    "Buff_Group_View_Number": 31,
+    "Buff_Group_Name": "Buff_Category_Name_Shield",
+    "BUFFEFFECT_TYPE": [
+      38,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 0
+  },
+  "BuffCategory_Damage_Null": {
+    "Buff_Group": "Damage_Null",
+    "Buff_Group_View_Number": 32,
+    "Buff_Group_Name": "Buff_Category_Name_Damage_Null",
+    "BUFFEFFECT_TYPE": [
+      33,
+      34,
+      35,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Restart": {
+    "Buff_Group": "Restart",
+    "Buff_Group_View_Number": 33,
+    "Buff_Group_Name": "Buff_Category_Name_Restart",
+    "BUFFEFFECT_TYPE": [
+      82,
+      98,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Range": {
+    "Buff_Group": "Range",
+    "Buff_Group_View_Number": 34,
+    "Buff_Group_Name": "Buff_Category_Name_Range",
+    "BUFFEFFECT_TYPE": [
+      55,
+      107,
+      108,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Change": {
+    "Buff_Group": "Change",
+    "Buff_Group_View_Number": 35,
+    "Buff_Group_Name": "Buff_Category_Name_Change",
+    "BUFFEFFECT_TYPE": [
+      63,
+      64,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Grid": {
+    "Buff_Group": "Grid",
+    "Buff_Group_View_Number": 36,
+    "Buff_Group_Name": "Buff_Category_Name_Grid",
+    "BUFFEFFECT_TYPE": [
+      52,
+      53,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Sub_Effect": {
+    "Buff_Group": "Sub_Effect",
+    "Buff_Group_View_Number": 37,
+    "Buff_Group_Name": "Buff_Category_Name_Sub_Effect",
+    "BUFFEFFECT_TYPE": [
+      22,
+      23,
+      47,
+      49,
+      54,
+      56,
+      59,
+      69,
+      74,
+      78,
+      79,
+      87,
+      88,
+      89,
+      93,
+      96,
+      97,
+      99,
+      100,
+      125,
+      127,
+      128,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 2
+  },
+  "BuffCategory_Exp": {
+    "Buff_Group": "Exp",
+    "Buff_Group_View_Number": 38,
+    "Buff_Group_Name": "Buff_Category_Name_Exp",
+    "BUFFEFFECT_TYPE": [
+      95,
+      0,
+      0,
+      0
+    ],
+    "Value_View": 1
+  }
+}

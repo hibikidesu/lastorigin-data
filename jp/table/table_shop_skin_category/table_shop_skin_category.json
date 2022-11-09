@@ -1,0 +1,92 @@
+{
+  "Skin_Category_ALL": {
+    "Skin_Category_Group": "ALL",
+    "Skin_Category_View_Number": 0,
+    "Skin_Category_Group_Name": "Skin_Category_Name_ALL"
+  },
+  "Skin_Category_None": {
+    "Skin_Category_Group": "None",
+    "Skin_Category_View_Number": 1,
+    "Skin_Category_Group_Name": "Skin_Category_Name_None"
+  },
+  "Skin_Category_Premium": {
+    "Skin_Category_Group": "Premium",
+    "Skin_Category_View_Number": 2,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Premium"
+  },
+  "Skin_Category_Lingerie": {
+    "Skin_Category_Group": "Lingerie",
+    "Skin_Category_View_Number": 3,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Lingerie"
+  },
+  "Skin_Category_Wedding": {
+    "Skin_Category_Group": "Wedding",
+    "Skin_Category_View_Number": 4,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Wedding"
+  },
+  "Skin_Category_Maid": {
+    "Skin_Category_Group": "Maid",
+    "Skin_Category_View_Number": 5,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Maid"
+  },
+  "Skin_Category_Costume": {
+    "Skin_Category_Group": "Costume",
+    "Skin_Category_View_Number": 6,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Costume"
+  },
+  "Skin_Category_Everday_Dress": {
+    "Skin_Category_Group": "Everday_Dress",
+    "Skin_Category_View_Number": 7,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Everday_Dress"
+  },
+  "Skin_Category_Suit_Dress": {
+    "Skin_Category_Group": "Suit_Dress",
+    "Skin_Category_View_Number": 8,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Suit_Dress"
+  },
+  "Skin_Category_School": {
+    "Skin_Category_Group": "School",
+    "Skin_Category_View_Number": 9,
+    "Skin_Category_Group_Name": "Skin_Category_Name_School"
+  },
+  "Skin_Category_Bunny_Girl": {
+    "Skin_Category_Group": "Bunny_Girl",
+    "Skin_Category_View_Number": 10,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Bunny_Girl"
+  },
+  "Skin_Category_AGS": {
+    "Skin_Category_Group": "AGS",
+    "Skin_Category_View_Number": 11,
+    "Skin_Category_Group_Name": "Skin_Category_Name_AGS"
+  },
+  "Skin_Category_Winter_Theme": {
+    "Skin_Category_Group": "Winter_Theme",
+    "Skin_Category_View_Number": 12,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Winter_Theme"
+  },
+  "Skin_Category_Halloween": {
+    "Skin_Category_Group": "Halloween",
+    "Skin_Category_View_Number": 13,
+    "Skin_Category_Group_Name": "Skin_Category_Name_Halloween"
+  },
+  "Skin_Category_SwimSuit_2022": {
+    "Skin_Category_Group": "SwimSuit_2022",
+    "Skin_Category_View_Number": 14,
+    "Skin_Category_Group_Name": "Skin_Category_Name_SwimSuit_2022"
+  },
+  "Skin_Category_SwimSuit_2021": {
+    "Skin_Category_Group": "SwimSuit_2021",
+    "Skin_Category_View_Number": 15,
+    "Skin_Category_Group_Name": "Skin_Category_Name_SwimSuit_2021"
+  },
+  "Skin_Category_SwimSuit_2020": {
+    "Skin_Category_Group": "SwimSuit_2020",
+    "Skin_Category_View_Number": 16,
+    "Skin_Category_Group_Name": "Skin_Category_Name_SwimSuit_2020"
+  },
+  "Skin_Category_SwimSuit_2019": {
+    "Skin_Category_Group": "SwimSuit_2019",
+    "Skin_Category_View_Number": 17,
+    "Skin_Category_Group_Name": "Skin_Category_Name_SwimSuit_2019"
+  }
+}

@@ -1,0 +1,6992 @@
+{
+  "Trooper_Bio_101": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      15,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_102": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      17,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_103": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      19,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_104": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      21,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_105": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      24,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_106": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      27,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Trooper_Bio_107": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      30,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Trooper_Bio_108": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      33,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Trooper_Bio_109": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      37,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Trooper_Bio_110": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      41,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Trooper_Bio_111": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      17,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_112": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      20,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_113": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      22,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_114": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      24,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      20,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_115": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      28,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      25,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_116": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      31,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      30,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_117": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      35,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      35,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_118": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      38,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      40,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_119": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      43,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      45,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_Bio_120": {
+    "PC_Level_Limit_Group": "Trooper_Bio",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      47,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      50,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_101": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      15,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_102": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      17,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_103": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      19,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_104": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      21,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_105": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      24,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_106": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      27,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Trooper_AGS_107": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      30,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Trooper_AGS_108": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      33,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Trooper_AGS_109": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      37,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Trooper_AGS_110": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      41,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Trooper_AGS_111": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      17,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_112": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      20,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_113": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      22,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_114": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      24,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_115": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      28,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_116": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      31,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_117": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      35,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_118": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      38,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_119": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      43,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Trooper_AGS_120": {
+    "PC_Level_Limit_Group": "Trooper_AGS",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Trooper",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      47,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_101": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      15,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_102": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      17,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_103": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      19,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_104": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      21,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_105": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      24,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_106": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      27,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Armored_Bio_107": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      30,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Armored_Bio_108": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      33,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Armored_Bio_109": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      37,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Armored_Bio_110": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      41,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Armored_Bio_111": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      17,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_112": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      20,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_113": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      22,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_114": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      24,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      20,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_115": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      28,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      25,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_116": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      31,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      30,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_117": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      35,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      35,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_118": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      38,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      40,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_119": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      43,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      45,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_Bio_120": {
+    "PC_Level_Limit_Group": "Armored_Bio",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      47,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      50,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_101": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      15,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_102": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      17,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_103": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      19,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_104": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      21,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_105": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      24,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_106": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      27,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Armored_AGS_107": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      30,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Armored_AGS_108": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      33,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Armored_AGS_109": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      37,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Armored_AGS_110": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      41,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Armored_AGS_111": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      17,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_112": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      20,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_113": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      22,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_114": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      24,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_115": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      28,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_116": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      31,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_117": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      35,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_118": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      38,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_119": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      43,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Armored_AGS_120": {
+    "PC_Level_Limit_Group": "Armored_AGS",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Armored",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      47,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_101": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      15,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_102": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      17,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_103": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      19,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_104": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      21,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_105": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      24,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_106": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      27,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Mobility_Bio_107": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      30,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Mobility_Bio_108": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      33,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Mobility_Bio_109": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      37,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Mobility_Bio_110": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      41,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Mobility_Bio_111": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      17,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_112": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      20,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_113": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      22,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_114": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      24,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      20,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_115": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      28,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      25,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_116": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      31,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      30,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_117": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      35,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      35,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_118": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      38,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      40,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_119": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      43,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      45,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_Bio_120": {
+    "PC_Level_Limit_Group": "Mobility_Bio",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      47,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      50,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_101": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      15,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_102": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      17,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_103": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      19,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_104": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      21,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_105": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      24,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_106": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      27,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Mobility_AGS_107": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      30,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Mobility_AGS_108": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      33,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Mobility_AGS_109": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      37,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Mobility_AGS_110": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      41,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Mobility_AGS_111": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      17,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_112": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      20,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_113": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      22,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_114": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      24,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_115": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      28,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_116": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      31,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_117": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      35,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_118": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      38,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_119": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      43,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Mobility_AGS_120": {
+    "PC_Level_Limit_Group": "Mobility_AGS",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock_Mobility",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      47,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_101": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      20,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_102": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      22,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_103": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      25,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_104": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      28,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_105": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      31,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_106": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      35,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_107": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      39,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_108": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      43,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_109": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      48,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_110": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      53,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_111": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      23,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_112": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      25,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_113": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      29,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_114": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      32,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      20,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_115": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      36,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      25,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_116": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      40,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      30,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_117": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      45,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      35,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_118": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      49,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      40,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_119": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      55,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      45,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_Bio_120": {
+    "PC_Level_Limit_Group": "Special_Trooper_Bio",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      61,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      50,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_101": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      20,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_102": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      22,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_103": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      25,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_104": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      28,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_105": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      31,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_106": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      35,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_107": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      39,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_108": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      43,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_109": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      48,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_110": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      53,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_111": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      23,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_112": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      25,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_113": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      29,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_114": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      32,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_115": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      36,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_116": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      40,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_117": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      45,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_118": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      49,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_119": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      55,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Trooper_AGS_120": {
+    "PC_Level_Limit_Group": "Special_Trooper_AGS",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_MPParts",
+      "RobotParts_ExParts",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      61,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_101": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      20,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_102": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      22,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_103": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      25,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_104": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      28,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_105": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      31,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_106": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      35,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Special_Armored_Bio_107": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      39,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Special_Armored_Bio_108": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      43,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Special_Armored_Bio_109": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      48,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Special_Armored_Bio_110": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      53,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Special_Armored_Bio_111": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      23,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_112": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      25,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_113": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      29,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_114": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      32,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      20,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_115": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      36,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      25,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_116": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      40,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      30,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_117": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      45,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      35,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_118": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      49,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      40,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_119": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      55,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      45,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_Bio_120": {
+    "PC_Level_Limit_Group": "Special_Armored_Bio",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      61,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      50,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_101": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      20,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_102": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      22,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_103": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      25,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_104": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      28,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_105": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      31,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_106": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      35,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Special_Armored_AGS_107": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      39,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Special_Armored_AGS_108": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      43,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Special_Armored_AGS_109": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      48,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Special_Armored_AGS_110": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      53,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Special_Armored_AGS_111": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      23,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_112": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      25,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_113": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      29,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_114": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      32,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_115": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      36,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_116": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      40,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_117": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      45,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_118": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      49,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_119": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      55,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Armored_AGS_120": {
+    "PC_Level_Limit_Group": "Special_Armored_AGS",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      61,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_101": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      20,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_102": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      22,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_103": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      25,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_104": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      28,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_105": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      31,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_106": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      35,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_107": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      39,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_108": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      43,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_109": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      48,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_110": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ],
+    "Need_Item_Value": [
+      53,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_111": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      23,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_112": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      25,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_113": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      29,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      15,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_114": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      32,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      20,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_115": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv"
+    ],
+    "Need_Item_Value": [
+      36,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      25,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_116": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      40,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      30,
+      3,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_117": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      45,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      35,
+      6,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_118": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      49,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      40,
+      9,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_119": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      55,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      45,
+      12,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_Bio_120": {
+    "PC_Level_Limit_Group": "Special_Mobility_Bio",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp"
+    ],
+    "Need_Item_Value": [
+      61,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      50,
+      15,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_101": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 101,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      20,
+      40,
+      40,
+      40,
+      100,
+      5,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_102": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 102,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      22,
+      60,
+      60,
+      60,
+      150,
+      10,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_103": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 103,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      25,
+      80,
+      80,
+      80,
+      200,
+      15,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_104": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 104,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      28,
+      100,
+      100,
+      100,
+      250,
+      20,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_105": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 105,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      31,
+      120,
+      120,
+      120,
+      300,
+      25,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_106": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 106,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      35,
+      140,
+      140,
+      140,
+      350,
+      10,
+      30,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_107": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 107,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      39,
+      160,
+      160,
+      160,
+      400,
+      20,
+      35,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_108": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 108,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      43,
+      180,
+      180,
+      180,
+      450,
+      30,
+      40,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_109": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 109,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      48,
+      200,
+      200,
+      200,
+      500,
+      40,
+      45,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_110": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 110,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      53,
+      220,
+      220,
+      220,
+      550,
+      50,
+      50,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_111": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 111,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      23,
+      240,
+      5,
+      240,
+      5,
+      240,
+      5,
+      600,
+      60,
+      3,
+      55,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_112": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 112,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      25,
+      260,
+      10,
+      260,
+      10,
+      260,
+      10,
+      650,
+      70,
+      6,
+      60,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_113": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 113,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      29,
+      280,
+      15,
+      280,
+      15,
+      280,
+      15,
+      700,
+      80,
+      9,
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_114": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 114,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      32,
+      300,
+      20,
+      300,
+      20,
+      300,
+      20,
+      750,
+      90,
+      12,
+      70,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_115": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 115,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      36,
+      320,
+      25,
+      320,
+      25,
+      320,
+      25,
+      800,
+      100,
+      15,
+      75,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_116": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 116,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      40,
+      340,
+      30,
+      340,
+      30,
+      340,
+      30,
+      850,
+      110,
+      18,
+      80,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_117": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 117,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      45,
+      360,
+      35,
+      360,
+      35,
+      360,
+      35,
+      900,
+      120,
+      21,
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_118": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 118,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      49,
+      380,
+      40,
+      380,
+      40,
+      380,
+      40,
+      950,
+      130,
+      24,
+      90,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_119": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 119,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      55,
+      400,
+      45,
+      400,
+      45,
+      400,
+      45,
+      1000,
+      140,
+      27,
+      95,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "Special_Mobility_AGS_120": {
+    "PC_Level_Limit_Group": "Special_Mobility_AGS",
+    "PC_Level_Limit": 120,
+    "Need_Item": [
+      "Consumable_LV_Limit_Unlock",
+      "RobotParts_Booster",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_Weapon",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_CalculationControl",
+      "RobotParts_HDCalculationControl",
+      "Normal_Module",
+      "Advanced_Module",
+      "Special_Module",
+      "Consumable_EWMPMetal"
+    ],
+    "Need_Item_Value": [
+      61,
+      420,
+      50,
+      420,
+      50,
+      420,
+      50,
+      1050,
+      150,
+      30,
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

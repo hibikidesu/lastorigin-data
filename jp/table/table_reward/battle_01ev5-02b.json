@@ -1,0 +1,551 @@
+{
+  "BATTLE_01Ev5-02B-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-01_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-01_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-02_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-02_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.04",
+      "0.04",
+      "0.04"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_System_Defense_T3",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.08",
+      "0.02",
+      "0.08",
+      "0.08",
+      "0.08"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-03_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_System_Defense_T3",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.08",
+      "0.02",
+      "0.08",
+      "0.08",
+      "0.08"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev5-02B-03_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 525,
+    "ExpMax": 525,
+    "ExpRate": "1",
+    "SkillExp": 53,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Chip_Ev_T1",
+      "Equip_System_Defense_T3",
+      "Equip_Chip_Atk_T1",
+      "Equip_Chip_Acc_T1",
+      "Equip_Chip_Def_T1"
+    ],
+    "ItemRate": [
+      "0.08",
+      "0.02",
+      "0.08",
+      "0.08",
+      "0.08"
+    ],
+    "CharIndexString": [
+      "Char_BR_Alvis_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "CharRate": [
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

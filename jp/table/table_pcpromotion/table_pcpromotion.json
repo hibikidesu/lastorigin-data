@@ -1,0 +1,1842 @@
+{
+  "Promotion_Char_3P_Aqua_N_2": {
+    "Promotion_CharIdx": "Char_3P_Aqua_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_3P_Aqua_PS1_G3"
+  },
+  "Promotion_Char_3P_ConstantiaS2_N": {
+    "Promotion_CharIdx": "Char_3P_ConstantiaS2_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_3P_ConstantiaS2_PS1_G4"
+  },
+  "Promotion_Char_3P_CSPerrault_N": {
+    "Promotion_CharIdx": "Char_3P_CSPerrault_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_3P_CSPerrault_PS1_G5"
+  },
+  "Promotion_Char_3P_Daphne_N_3": {
+    "Promotion_CharIdx": "Char_3P_Daphne_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_3P_Daphne_PS1_G4"
+  },
+  "Promotion_Char_3P_Fotia_N": {
+    "Promotion_CharIdx": "Char_3P_Fotia_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_3P_Fotia_PS1_G3"
+  },
+  "Promotion_Char_3P_ScissorsLise_N_3": {
+    "Promotion_CharIdx": "Char_3P_ScissorsLise_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_3P_ScissorsLise_PS1_G4"
+  },
+  "Promotion_Char_3P_Vanilla_N_3": {
+    "Promotion_CharIdx": "Char_3P_Vanilla_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_3P_Vanilla_PS1_G4"
+  },
+  "Promotion_Char_AGS_Rampart_N": {
+    "Promotion_CharIdx": "Char_AGS_Rampart_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Normal_Module",
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      1500,
+      125,
+      25,
+      250
+    ],
+    "CharSkin_Activate": "Skin_AGS_Rampart_PS1_G3"
+  },
+  "Promotion_Char_AGS_Rampart_N_3": {
+    "Promotion_CharIdx": "Char_AGS_Rampart_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      500,
+      50,
+      1000,
+      100
+    ],
+    "CharSkin_Activate": "Skin_AGS_Rampart_PS1_G4"
+  },
+  "Promotion_Char_AGS_RheinRitter_N_4": {
+    "Promotion_CharIdx": "Char_AGS_RheinRitter_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Special_Module",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      100,
+      100,
+      50,
+      100
+    ],
+    "CharSkin_Activate": "Skin_AGS_RheinRitter_PS1_G4"
+  },
+  "Promotion_Char_AGS_Seljuq_N_3": {
+    "Promotion_CharIdx": "Char_AGS_Seljuq_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      500,
+      50,
+      1000,
+      100
+    ],
+    "CharSkin_Activate": "Skin_AGS_Seljuq_PS1_G4"
+  },
+  "Promotion_Char_AGS_SpartanA_N": {
+    "Promotion_CharIdx": "Char_AGS_SpartanA_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Normal_Module",
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      1500,
+      125,
+      25,
+      250
+    ],
+    "CharSkin_Activate": "Skin_AGS_SpartanA_PS1_G3"
+  },
+  "Promotion_Char_AGS_SpartanB_N": {
+    "Promotion_CharIdx": "Char_AGS_SpartanB_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Normal_Module",
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_CalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      1500,
+      125,
+      25,
+      250
+    ],
+    "CharSkin_Activate": "Skin_AGS_SpartanB_PS1_G3"
+  },
+  "Promotion_Char_AGS_SpartanC_N": {
+    "Promotion_CharIdx": "Char_AGS_SpartanC_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      500,
+      50,
+      1000,
+      100
+    ],
+    "CharSkin_Activate": "Skin_AGS_SpartanC_PS1_G4"
+  },
+  "Promotion_Char_BR_AS12TurtleDragon_N": {
+    "Promotion_CharIdx": "Char_BR_AS12TurtleDragon_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_AS12TurtleDragon_PS1_G4"
+  },
+  "Promotion_Char_BR_Brownie_N": {
+    "Promotion_CharIdx": "Char_BR_Brownie_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_MPParts"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Brownie_PS1_G3"
+  },
+  "Promotion_Char_BR_Brownie_N_3": {
+    "Promotion_CharIdx": "Char_BR_Brownie_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Brownie_PS1_G4"
+  },
+  "Promotion_Char_BR_Daika_N": {
+    "Promotion_CharIdx": "Char_BR_Daika_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Daika_PS1_G4"
+  },
+  "Promotion_Char_BR_Djinnia_N_2": {
+    "Promotion_CharIdx": "Char_BR_Djinnia_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Booster"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Djinnia_PS1_G3"
+  },
+  "Promotion_Char_BR_Efreeti_N_3": {
+    "Promotion_CharIdx": "Char_BR_Efreeti_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Efreeti_PS1_G4"
+  },
+  "Promotion_Char_BR_Gnome_N_2": {
+    "Promotion_CharIdx": "Char_BR_Gnome_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Gnome_PS1_G3"
+  },
+  "Promotion_Char_BR_Gremlin_N_2": {
+    "Promotion_CharIdx": "Char_BR_Gremlin_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Gremlin_PS1_G3"
+  },
+  "Promotion_Char_BR_Impet_N": {
+    "Promotion_CharIdx": "Char_BR_Impet_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Impet_PS1_G3"
+  },
+  "Promotion_Char_BR_Impet_N_3": {
+    "Promotion_CharIdx": "Char_BR_Impet_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Impet_PS1_G4"
+  },
+  "Promotion_Char_BR_Leprechaun_N_2": {
+    "Promotion_CharIdx": "Char_BR_Leprechaun_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Leprechaun_PS1_G3"
+  },
+  "Promotion_Char_BR_Leprechaun_N_3": {
+    "Promotion_CharIdx": "Char_BR_Leprechaun_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Leprechaun_PS1_G4"
+  },
+  "Promotion_Char_BR_Lindwurm_N_3": {
+    "Promotion_CharIdx": "Char_BR_Lindwurm_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Lindwurm_PS1_G4"
+  },
+  "Promotion_Char_BR_Miho_N": {
+    "Promotion_CharIdx": "Char_BR_Miho_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Miho_PS1_G4"
+  },
+  "Promotion_Char_BR_Miho_N_4": {
+    "Promotion_CharIdx": "Char_BR_Miho_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_BR_Miho_PS1_G4"
+  },
+  "Promotion_Char_BR_Nymph_N": {
+    "Promotion_CharIdx": "Char_BR_Nymph_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Nymph_PS1_G3"
+  },
+  "Promotion_Char_BR_PA00EL_N": {
+    "Promotion_CharIdx": "Char_BR_PA00EL_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_PA00EL_PS1_G4"
+  },
+  "Promotion_Char_BR_Phantom_N_4": {
+    "Promotion_CharIdx": "Char_BR_Phantom_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_BR_Phantom_PS1_G5"
+  },
+  "Promotion_Char_BR_PoniesAnger_N_3": {
+    "Promotion_CharIdx": "Char_BR_PoniesAnger_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_PoniesAnger_PS1_G4"
+  },
+  "Promotion_Char_BR_PoniesAnger_N_4": {
+    "Promotion_CharIdx": "Char_BR_PoniesAnger_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_BR_PoniesAnger_PS1_G5"
+  },
+  "Promotion_Char_BR_SandMan_N": {
+    "Promotion_CharIdx": "Char_BR_SandMan_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_SandMan_PS1_G3"
+  },
+  "Promotion_Char_BR_Sylphid_N": {
+    "Promotion_CharIdx": "Char_BR_Sylphid_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_Sylphid_PS1_G4"
+  },
+  "Promotion_Char_BR_Tomoe_N": {
+    "Promotion_CharIdx": "Char_BR_Tomoe_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Tomoe_PS1_G3"
+  },
+  "Promotion_Char_BR_Valkyrie_N_4": {
+    "Promotion_CharIdx": "Char_BR_Valkyrie_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_BR_Valkyrie_PS1_G4"
+  },
+  "Promotion_Char_BR_WarWolf_N": {
+    "Promotion_CharIdx": "Char_BR_WarWolf_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_WarWolf_PS1_G3"
+  },
+  "Promotion_Char_BR_WarWolf_N_3": {
+    "Promotion_CharIdx": "Char_BR_WarWolf_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_BR_WarWolf_PS1_G4"
+  },
+  "Promotion_Char_BR_Wraithy_N_2": {
+    "Promotion_CharIdx": "Char_BR_Wraithy_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_BR_Wraithy_PS1_G3"
+  },
+  "Promotion_Char_DS_MoMo_N_4": {
+    "Promotion_CharIdx": "Char_DS_MoMo_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_BR_DS_MoMo_G4"
+  },
+  "Promotion_Char_PECS_Cerberus_N_3": {
+    "Promotion_CharIdx": "Char_PECS_Cerberus_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_Cerberus_PS1_G4"
+  },
+  "Promotion_Char_PECS_Cerberus_N_4": {
+    "Promotion_CharIdx": "Char_PECS_Cerberus_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_PECS_Cerberus_PS1_G4"
+  },
+  "Promotion_Char_PECS_DarkElf_N_3": {
+    "Promotion_CharIdx": "Char_PECS_DarkElf_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_DarkElf_PS1_G4"
+  },
+  "Promotion_Char_PECS_DutchGirl_N": {
+    "Promotion_CharIdx": "Char_PECS_DutchGirl_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_PECS_DutchGirl_PS1_G3"
+  },
+  "Promotion_Char_PECS_DutchGirl_N_3": {
+    "Promotion_CharIdx": "Char_PECS_DutchGirl_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_DutchGirl_PS1_G4"
+  },
+  "Promotion_Char_PECS_ElvenForestmaker_N_3": {
+    "Promotion_CharIdx": "Char_PECS_ElvenForestmaker_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_ElvenForestmaker_PS1_G4"
+  },
+  "Promotion_Char_PECS_LRL_N": {
+    "Promotion_CharIdx": "Char_PECS_LRL_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_CalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_PECS_LRL_PS1_G3"
+  },
+  "Promotion_Char_PECS_LRL_N_3": {
+    "Promotion_CharIdx": "Char_PECS_LRL_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_LRL_PS1_G4"
+  },
+  "Promotion_Char_PECS_MightyR_N_3": {
+    "Promotion_CharIdx": "Char_PECS_MightyR_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_MightyR_PS1_G4"
+  },
+  "Promotion_Char_PECS_MightyR_N_4": {
+    "Promotion_CharIdx": "Char_PECS_MightyR_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_PECS_MightyR_PS1_G5"
+  },
+  "Promotion_Char_PECS_MissSafety_2": {
+    "Promotion_CharIdx": "Char_PECS_MissSafety_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_PECS_MissSafety_PS1_G3"
+  },
+  "Promotion_Char_PECS_PuppHead_N": {
+    "Promotion_CharIdx": "Char_PECS_PuppHead_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Normal_Module",
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_CalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      1500,
+      125,
+      25,
+      250
+    ],
+    "CharSkin_Activate": "Skin_PECS_PuppHead_PS1_G3"
+  },
+  "Promotion_Char_PECS_Saetti_N": {
+    "Promotion_CharIdx": "Char_PECS_Saetti_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_Saetti_PS1_G4"
+  },
+  "Promotion_Char_PECS_Serpent_N_3": {
+    "Promotion_CharIdx": "Char_PECS_Serpent_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_PECS_Serpent_PS1_G4"
+  },
+  "Promotion_Char_PECS_Tiequan_N_2": {
+    "Promotion_CharIdx": "Char_PECS_Tiequan_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_Weapon"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_PECS_Tiequan_PS1_G3"
+  },
+  "Promotion_Char_PECS_TommyWalker_N_3": {
+    "Promotion_CharIdx": "Char_PECS_TommyWalker_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      500,
+      50,
+      1000,
+      100
+    ],
+    "CharSkin_Activate": "Skin_PECS_TommyWalker_PS1_G4"
+  },
+  "Promotion_Char_ST_Lancer_N_3": {
+    "Promotion_CharIdx": "Char_ST_Lancer_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_ST_Lancer_PS1_G4"
+  },
+  "Promotion_Char_BR_Io_N_3": {
+    "Promotion_CharIdx": "Char_BR_Io_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Io_PS1_G4"
+  },
+  "Promotion_Char_ST_Lancer_N_4": {
+    "Promotion_CharIdx": "Char_ST_Lancer_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_ST_Lancer_PS1_G5"
+  },
+  "Promotion_Char_BR_Io_N_4": {
+    "Promotion_CharIdx": "Char_BR_Io_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Io_PS1_G5"
+  },
+  "Promotion_Char_BR_Wraithy_N_3": {
+    "Promotion_CharIdx": "Char_BR_Wraithy_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Wraithy_G4"
+  },
+  "Promotion_Char_BR_Wraithy_N_4": {
+    "Promotion_CharIdx": "Char_BR_Wraithy_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Wraithy_G5"
+  },
+  "Promotion_Char_3P_Dryad_N_4": {
+    "Promotion_CharIdx": "Char_3P_Dryad_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_3P_Dryad_G5"
+  },
+  "Promotion_Char_BR_Amy_N_3": {
+    "Promotion_CharIdx": "Char_BR_Amy_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Amy_G4"
+  },
+  "Promotion_Char_BR_Amy_N_4": {
+    "Promotion_CharIdx": "Char_BR_Amy_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Amy_G5"
+  },
+  "Promotion_Char_BR_QuickCamel_N_4": {
+    "Promotion_CharIdx": "Char_BR_QuickCamel_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_QuickCamel_G5"
+  },
+  "Promotion_Char_BR_Bulgasari_N_4": {
+    "Promotion_CharIdx": "Char_BR_Bulgasari_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Bulgasari_G5"
+  },
+  "Promotion_Char_AGS_Rampart_N_4": {
+    "Promotion_CharIdx": "Char_AGS_Rampart_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Special_Module",
+      "TestItem_4",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      100,
+      100,
+      50,
+      100
+    ],
+    "CharSkin_Activate": "Skin_Char_AGS_Rampart_G5"
+  },
+  "Promotion_Char_BR_NightAngel_N_4": {
+    "Promotion_CharIdx": "Char_BR_NightAngel_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_NightAngel_G5"
+  },
+  "Promotion_Char_BR_Alvis_N_3": {
+    "Promotion_CharIdx": "Char_BR_Alvis_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Alvis_G4"
+  },
+  "Promotion_Char_BR_Alvis_N_4": {
+    "Promotion_CharIdx": "Char_BR_Alvis_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Alvis_G5"
+  },
+  "Promotion_Char_PECS_Veronica_N_4": {
+    "Promotion_CharIdx": "Char_PECS_Veronica_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_Veronica_G5"
+  },
+  "Promotion_Char_AGS_Goltarion_N_4": {
+    "Promotion_CharIdx": "Char_AGS_Goltarion_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Special_Module",
+      "TestItem_4",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      100,
+      100,
+      50,
+      100
+    ],
+    "CharSkin_Activate": "Skin_Char_AGS_Goltarion_G5"
+  },
+  "Promotion_Char_BR_Thetis_N_4": {
+    "Promotion_CharIdx": "Char_BR_Thetis_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Thetis_G5"
+  },
+  "Promotion_Char_BR_Undine_N_4": {
+    "Promotion_CharIdx": "Char_BR_Undine_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Undine_G5"
+  },
+  "Promotion_Char_BR_Nereid_N_4": {
+    "Promotion_CharIdx": "Char_BR_Nereid_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Nereid_G5"
+  },
+  "Promotion_Char_BR_Phoenix_N_4": {
+    "Promotion_CharIdx": "Char_BR_Phoenix_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Phoenix_G5"
+  },
+  "Promotion_Char_BR_PXSilky_N_4": {
+    "Promotion_CharIdx": "Char_BR_PXSilky_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_PXSilky_G5"
+  },
+  "Promotion_Char_BR_Gnome_N_3": {
+    "Promotion_CharIdx": "Char_BR_Gnome_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Gnome_G4"
+  },
+  "Promotion_Char_BR_Gnome_N_4": {
+    "Promotion_CharIdx": "Char_BR_Gnome_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Gnome_G5"
+  },
+  "Promotion_Char_PECS_DarkElf_N_4": {
+    "Promotion_CharIdx": "Char_PECS_DarkElf_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_DarkElf_G5"
+  },
+  "Promotion_Char_PECS_ElvenForestmaker_N_4": {
+    "Promotion_CharIdx": "Char_PECS_ElvenForestmaker_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_ElvenForestmaker_G5"
+  },
+  "Promotion_Char_BR_Kheshig_N_4": {
+    "Promotion_CharIdx": "Char_BR_Kheshig_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Kheshig_G5"
+  },
+  "Promotion_Char_3P_Aurora_N_4": {
+    "Promotion_CharIdx": "Char_3P_Aurora_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_3P_Aurora_G5"
+  },
+  "Promotion_Char_BR_Leprechaun_N_4": {
+    "Promotion_CharIdx": "Char_BR_Leprechaun_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Leprechaun_G5"
+  },
+  "Promotion_Char_BR_Efreeti_N_4": {
+    "Promotion_CharIdx": "Char_BR_Efreeti_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Efreeti_G5"
+  },
+  "Promotion_Char_BR_Banshee_N_3": {
+    "Promotion_CharIdx": "Char_BR_Banshee_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Banshee_G4"
+  },
+  "Promotion_Char_BR_Banshee_N_4": {
+    "Promotion_CharIdx": "Char_BR_Banshee_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Banshee_G5"
+  },
+  "Promotion_Char_BR_Spriggan_N_3": {
+    "Promotion_CharIdx": "Char_BR_Spriggan_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Spriggan_G4"
+  },
+  "Promotion_Char_BR_Spriggan_N_4": {
+    "Promotion_CharIdx": "Char_BR_Spriggan_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Spriggan_G5"
+  }
+}

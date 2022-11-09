@@ -1,0 +1,698 @@
+{
+  "BATTLE_01Ev3-14-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-01_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-01_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-02_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-02_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-03_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-03_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-04": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T4",
+      "Equip_Sub_Hologram_T3",
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.006",
+      "0.02",
+      "0.04",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-04_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T4",
+      "Equip_Sub_Hologram_T3",
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.006",
+      "0.02",
+      "0.04",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-14-04_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2800,
+    "ExpMax": 2800,
+    "ExpRate": "1",
+    "SkillExp": 280,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_Hologram_T4",
+      "Equip_Sub_Hologram_T3",
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ],
+    "ItemRate": [
+      "0.006",
+      "0.02",
+      "0.04",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_DS_Faucre_N",
+      "Char_BR_Sirene_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

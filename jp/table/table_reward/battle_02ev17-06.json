@@ -1,0 +1,187 @@
+{
+  "BATTLE_02Ev17-06-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 900,
+    "ExpMax": 900,
+    "ExpRate": "1",
+    "SkillExp": 90,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_System_HManeuver_T1",
+      "Ev_Consumable_HordeBadge"
+    ],
+    "ItemRate": [
+      "0.1",
+      "0.55"
+    ],
+    "CharIndexString": [
+      "Char_BR_TalonFeather_N",
+      "Char_AGS_Watcher_N",
+      "Char_BR_Raven_N",
+      "Char_AGS_Rampart_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "CharRate": [
+      "0.003",
+      "0.01",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_02Ev17-06-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 900,
+    "ExpMax": 900,
+    "ExpRate": "1",
+    "SkillExp": 90,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_System_HManeuver_T2",
+      "Ev_Consumable_HordeBadge"
+    ],
+    "ItemRate": [
+      "0.04",
+      "0.55"
+    ],
+    "CharIndexString": [
+      "Char_BR_TalonFeather_N",
+      "Char_AGS_Watcher_N",
+      "Char_BR_Raven_N",
+      "Char_AGS_Rampart_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "CharRate": [
+      "0.003",
+      "0.01",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_02Ev17-06-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 900,
+    "ExpMax": 900,
+    "ExpRate": "1",
+    "SkillExp": 90,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_System_HManeuver_T3",
+      "Ev_Consumable_HordeBadge",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.55",
+      "1",
+      "0.35",
+      "0.35",
+      "0.35",
+      "0.35"
+    ],
+    "CharIndexString": [
+      "Char_BR_TalonFeather_N",
+      "Char_AGS_Watcher_N",
+      "Char_BR_Raven_N",
+      "Char_AGS_Rampart_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "CharRate": [
+      "0.006",
+      "0.02",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}

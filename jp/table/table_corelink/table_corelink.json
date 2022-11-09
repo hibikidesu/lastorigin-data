@@ -1,0 +1,3307 @@
+{
+  "Char_BR_PA00EL_N": {
+    "PC_Key": "Char_BR_PA00EL_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_ConstantiaS2_N": {
+    "PC_Key": "Char_3P_ConstantiaS2_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Johanna_N": {
+    "PC_Key": "Char_DS_Johanna_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_PuppHead_N": {
+    "PC_Key": "Char_PECS_PuppHead_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Fallen_N": {
+    "PC_Key": "Char_AGS_Fallen_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Amy_N": {
+    "PC_Key": "Char_BR_Amy_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_CoCoWhiteShell_N": {
+    "PC_Key": "Char_PECS_CoCoWhiteShell_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Marie_N": {
+    "PC_Key": "Char_BR_Marie_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Drone_N": {
+    "PC_Key": "Char_PECS_Drone_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_LRL_N": {
+    "PC_Key": "Char_PECS_LRL_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_30",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_MissSafety_N": {
+    "PC_Key": "Char_PECS_MissSafety_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Brownie_N": {
+    "PC_Key": "Char_BR_Brownie_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_MightyR_N": {
+    "PC_Key": "Char_PECS_MightyR_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_DutchGirl_N": {
+    "PC_Key": "Char_PECS_DutchGirl_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Daphne_N": {
+    "PC_Key": "Char_3P_Daphne_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Albatross_N": {
+    "PC_Key": "Char_AGS_Albatross_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_PECS_TommyWalker_N": {
+    "PC_Key": "Char_PECS_TommyWalker_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_25",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Fortune_N": {
+    "PC_Key": "Char_PECS_Fortune_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Leprechaun_N": {
+    "PC_Key": "Char_BR_Leprechaun_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Fotia_N": {
+    "PC_Key": "Char_3P_Fotia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_ScissorsLise_N": {
+    "PC_Key": "Char_3P_ScissorsLise_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_PoniesAnger_N": {
+    "PC_Key": "Char_BR_PoniesAnger_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_AS12TurtleDragon_N": {
+    "PC_Key": "Char_BR_AS12TurtleDragon_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_FallenTT_N": {
+    "PC_Key": "Char_AGS_FallenTT_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_Nereid_N": {
+    "PC_Key": "Char_BR_Nereid_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_FallenTTMK02_N": {
+    "PC_Key": "Char_AGS_FallenTTMK02_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_AGS_FallenVar_N": {
+    "PC_Key": "Char_AGS_FallenVar_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_3P_CSPerrault_N": {
+    "PC_Key": "Char_3P_CSPerrault_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Tiequan_N": {
+    "PC_Key": "Char_PECS_Tiequan_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_BeastHunter_N": {
+    "PC_Key": "Char_BR_BeastHunter_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Efreeti_N": {
+    "PC_Key": "Char_BR_Efreeti_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Aeda_N": {
+    "PC_Key": "Char_AGS_Aeda_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Impet_N": {
+    "PC_Key": "Char_BR_Impet_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Valkyrie_N": {
+    "PC_Key": "Char_BR_Valkyrie_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Tomoe_N": {
+    "PC_Key": "Char_BR_Tomoe_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Labiata_N": {
+    "PC_Key": "Char_3P_Labiata_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Io_N": {
+    "PC_Key": "Char_BR_Io_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_SandMan_N": {
+    "PC_Key": "Char_BR_SandMan_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_Nymph_N": {
+    "PC_Key": "Char_BR_Nymph_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Gremlin_N": {
+    "PC_Key": "Char_BR_Gremlin_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Vanilla_N": {
+    "PC_Key": "Char_3P_Vanilla_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_BloodyPanther_N": {
+    "PC_Key": "Char_BR_BloodyPanther_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Rampart_N": {
+    "PC_Key": "Char_AGS_Rampart_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_May_N": {
+    "PC_Key": "Char_BR_May_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Cerberus_N": {
+    "PC_Key": "Char_PECS_Cerberus_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_NightAngel_N": {
+    "PC_Key": "Char_BR_NightAngel_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Emily_N": {
+    "PC_Key": "Char_BR_Emily_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Leona_N": {
+    "PC_Key": "Char_BR_Leona_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Khan_N": {
+    "PC_Key": "Char_BR_Khan_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Pani_N": {
+    "PC_Key": "Char_BR_Pani_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Serpent_N": {
+    "PC_Key": "Char_PECS_Serpent_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_Sylphid_N": {
+    "PC_Key": "Char_BR_Sylphid_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Scathy_N": {
+    "PC_Key": "Char_BR_Scathy_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Phantom_N": {
+    "PC_Key": "Char_BR_Phantom_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_BlackLilith_N": {
+    "PC_Key": "Char_3P_BlackLilith_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Alexandra_N": {
+    "PC_Key": "Char_3P_Alexandra_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Sleipnir_N": {
+    "PC_Key": "Char_BR_Sleipnir_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_20"
+  },
+  "Char_BR_Neodym_N": {
+    "PC_Key": "Char_BR_Neodym_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Express76_N": {
+    "PC_Key": "Char_PECS_Express76_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Hachiko_N": {
+    "PC_Key": "Char_3P_Hachiko_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Djinnia_N": {
+    "PC_Key": "Char_BR_Djinnia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_Blackhound_N": {
+    "PC_Key": "Char_BR_Blackhound_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_DrM_N": {
+    "PC_Key": "Char_BR_DrM_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_PXSilky_N": {
+    "PC_Key": "Char_BR_PXSilky_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Stinger_N": {
+    "PC_Key": "Char_PECS_Stinger_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Miho_N": {
+    "PC_Key": "Char_BR_Miho_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Calista_N": {
+    "PC_Key": "Char_BR_Calista_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Gigantes_N": {
+    "PC_Key": "Char_AGS_Gigantes_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Seljuq_N": {
+    "PC_Key": "Char_AGS_Seljuq_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Daika_N": {
+    "PC_Key": "Char_BR_Daika_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Aqua_N": {
+    "PC_Key": "Char_3P_Aqua_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Wraithy_N": {
+    "PC_Key": "Char_BR_Wraithy_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Bulgasari_N": {
+    "PC_Key": "Char_BR_Bulgasari_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_QuickCamel_N": {
+    "PC_Key": "Char_BR_QuickCamel_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_WarWolf_N": {
+    "PC_Key": "Char_BR_WarWolf_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_Module_TA_B_N": {
+    "PC_Key": "Char_Module_TA_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TA_A_N": {
+    "PC_Key": "Char_Module_TA_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TA_S_N": {
+    "PC_Key": "Char_Module_TA_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TA_SS_N": {
+    "PC_Key": "Char_Module_TA_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TT_B_N": {
+    "PC_Key": "Char_Module_TT_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TT_A_N": {
+    "PC_Key": "Char_Module_TT_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TT_S_N": {
+    "PC_Key": "Char_Module_TT_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TT_SS_N": {
+    "PC_Key": "Char_Module_TT_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TC_B_N": {
+    "PC_Key": "Char_Module_TC_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TC_A_N": {
+    "PC_Key": "Char_Module_TC_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TC_S_N": {
+    "PC_Key": "Char_Module_TC_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_TC_SS_N": {
+    "PC_Key": "Char_Module_TC_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MA_B_N": {
+    "PC_Key": "Char_Module_MA_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MA_A_N": {
+    "PC_Key": "Char_Module_MA_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MA_S_N": {
+    "PC_Key": "Char_Module_MA_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MA_SS_N": {
+    "PC_Key": "Char_Module_MA_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MT_B_N": {
+    "PC_Key": "Char_Module_MT_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MT_A_N": {
+    "PC_Key": "Char_Module_MT_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MT_S_N": {
+    "PC_Key": "Char_Module_MT_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MT_SS_N": {
+    "PC_Key": "Char_Module_MT_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MC_B_N": {
+    "PC_Key": "Char_Module_MC_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MC_A_N": {
+    "PC_Key": "Char_Module_MC_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MC_S_N": {
+    "PC_Key": "Char_Module_MC_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_MC_SS_N": {
+    "PC_Key": "Char_Module_MC_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AA_B_N": {
+    "PC_Key": "Char_Module_AA_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AA_A_N": {
+    "PC_Key": "Char_Module_AA_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AA_S_N": {
+    "PC_Key": "Char_Module_AA_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AA_SS_N": {
+    "PC_Key": "Char_Module_AA_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AT_B_N": {
+    "PC_Key": "Char_Module_AT_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AT_A_N": {
+    "PC_Key": "Char_Module_AT_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AT_S_N": {
+    "PC_Key": "Char_Module_AT_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AT_SS_N": {
+    "PC_Key": "Char_Module_AT_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AC_B_N": {
+    "PC_Key": "Char_Module_AC_B_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AC_A_N": {
+    "PC_Key": "Char_Module_AC_A_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AC_S_N": {
+    "PC_Key": "Char_Module_AC_S_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Module_AC_SS_N": {
+    "PC_Key": "Char_Module_AC_SS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_AGS_Shade_N": {
+    "PC_Key": "Char_AGS_Shade_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_MoMo_N": {
+    "PC_Key": "Char_DS_MoMo_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Atalanta_N": {
+    "PC_Key": "Char_DS_Atalanta_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Phoenix_N": {
+    "PC_Key": "Char_BR_Phoenix_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Undine_N": {
+    "PC_Key": "Char_BR_Undine_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_PECS_Carolina_N": {
+    "PC_Key": "Char_PECS_Carolina_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_ST_Lancer_N": {
+    "PC_Key": "Char_ST_Lancer_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_PECS_Audrey_N": {
+    "PC_Key": "Char_PECS_Audrey_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Gnome_N": {
+    "PC_Key": "Char_BR_Gnome_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Sowan_N": {
+    "PC_Key": "Char_3P_Sowan_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_SpartanA_N": {
+    "PC_Key": "Char_AGS_SpartanA_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_SpartanB_N": {
+    "PC_Key": "Char_AGS_SpartanB_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_SpartanC_N": {
+    "PC_Key": "Char_AGS_SpartanC_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_ElvenForestmaker_N": {
+    "PC_Key": "Char_PECS_ElvenForestmaker_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_BS_N": {
+    "PC_Key": "Char_PECS_BS_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Charlotte_N": {
+    "PC_Key": "Char_DS_Charlotte_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Spriggan_N": {
+    "PC_Key": "Char_BR_Spriggan_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Sirene_N": {
+    "PC_Key": "Char_BR_Sirene_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Azazel_N": {
+    "PC_Key": "Char_DS_Azazel_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Core_Normal_N": {
+    "PC_Key": "Char_Core_Normal_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_Core_Special_N": {
+    "PC_Key": "Char_Core_Special_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_PECS_Triaina_N": {
+    "PC_Key": "Char_PECS_Triaina_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Roc_N": {
+    "PC_Key": "Char_AGS_Roc_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Rhea_N": {
+    "PC_Key": "Char_3P_Rhea_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Ignis_N": {
+    "PC_Key": "Char_PECS_Ignis_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Empress_N": {
+    "PC_Key": "Char_PECS_Empress_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Alice_N": {
+    "PC_Key": "Char_3P_Alice_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Lindwurm_N": {
+    "PC_Key": "Char_BR_Lindwurm_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Fortress_N": {
+    "PC_Key": "Char_AGS_Fortress_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Baekto_N": {
+    "PC_Key": "Char_DS_Baekto_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Faucre_N": {
+    "PC_Key": "Char_DS_Faucre_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Bheur_N": {
+    "PC_Key": "Char_BR_Bheur_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_DarkElf_N": {
+    "PC_Key": "Char_PECS_DarkElf_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Alvis_N": {
+    "PC_Key": "Char_BR_Alvis_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Raven_N": {
+    "PC_Key": "Char_BR_Raven_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Fenrir_N": {
+    "PC_Key": "Char_3P_Fenrir_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Arman_N": {
+    "PC_Key": "Char_DS_Arman_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Circe_N": {
+    "PC_Key": "Char_PECS_Circe_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Veronica_N": {
+    "PC_Key": "Char_PECS_Veronica_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_ST_Tiamat_N": {
+    "PC_Key": "Char_ST_Tiamat_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Echidna_N": {
+    "PC_Key": "Char_BR_Echidna_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_TalonFeather_N": {
+    "PC_Key": "Char_BR_TalonFeather_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_RedHood_N": {
+    "PC_Key": "Char_BR_RedHood_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Ran_N": {
+    "PC_Key": "Char_3P_Ran_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Maria_N": {
+    "PC_Key": "Char_3P_Maria_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Harpy_N": {
+    "PC_Key": "Char_BR_Harpy_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Spartoia_N": {
+    "PC_Key": "Char_PECS_Spartoia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Annie_N": {
+    "PC_Key": "Char_3P_Annie_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_PECS_Babariana_N": {
+    "PC_Key": "Char_PECS_Babariana_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_RoyalArsenal_N": {
+    "PC_Key": "Char_BR_RoyalArsenal_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Shirayuri_N": {
+    "PC_Key": "Char_BR_Shirayuri_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Aurora_N": {
+    "PC_Key": "Char_3P_Aurora_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_HongRyun_N": {
+    "PC_Key": "Char_BR_HongRyun_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Saetti_N": {
+    "PC_Key": "Char_PECS_Saetti_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Sunny_N": {
+    "PC_Key": "Char_PECS_Sunny_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Tyrant_N": {
+    "PC_Key": "Char_AGS_Tyrant_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Banshee_N": {
+    "PC_Key": "Char_BR_Banshee_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Thetis_N": {
+    "PC_Key": "Char_BR_Thetis_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_InvDragon_N": {
+    "PC_Key": "Char_BR_InvDragon_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Lumberjane_N": {
+    "PC_Key": "Char_PECS_Lumberjane_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_BlackWyrm_N": {
+    "PC_Key": "Char_3P_BlackWyrm_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_KunoichiZero_N": {
+    "PC_Key": "Char_DS_KunoichiZero_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_RheinRitter_N": {
+    "PC_Key": "Char_AGS_RheinRitter_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_SnowFeather_N": {
+    "PC_Key": "Char_3P_SnowFeather_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_PECS_HighElven_N": {
+    "PC_Key": "Char_PECS_HighElven_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_MrAlfred2_N": {
+    "PC_Key": "Char_AGS_MrAlfred2_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Andvari_N": {
+    "PC_Key": "Char_BR_Andvari_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Dryad_N": {
+    "PC_Key": "Char_3P_Dryad_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Sadius_N": {
+    "PC_Key": "Char_PECS_Sadius_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_DummyA01_N": {
+    "PC_Key": "Char_3P_DummyA01_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_DummyA02_N": {
+    "PC_Key": "Char_3P_DummyA02_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_DummyP01_N": {
+    "PC_Key": "Char_3P_DummyP01_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_DummyP02_N": {
+    "PC_Key": "Char_3P_DummyP02_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_DummyT01_N": {
+    "PC_Key": "Char_3P_DummyT01_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Watcher_N": {
+    "PC_Key": "Char_AGS_Watcher_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_KunoichiKaen_N": {
+    "PC_Key": "Char_DS_KunoichiKaen_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Hraesvelgr_N": {
+    "PC_Key": "Char_BR_Hraesvelgr_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_ALWraith_N": {
+    "PC_Key": "Char_BR_ALWraith_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Poi_N": {
+    "PC_Key": "Char_3P_Poi_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Leanne_N": {
+    "PC_Key": "Char_PECS_Leanne_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Eternity_N": {
+    "PC_Key": "Char_3P_Eternity_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Goltarion_N": {
+    "PC_Key": "Char_AGS_Goltarion_N",
+    "Link_Bonus": [
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Azaz_N": {
+    "PC_Key": "Char_PECS_Azaz_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_LemonadeAlpha_N": {
+    "PC_Key": "Char_PECS_LemonadeAlpha_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Ella_N": {
+    "PC_Key": "Char_PECS_Ella_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Rena_N": {
+    "PC_Key": "Char_PECS_Rena_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Mery_N": {
+    "PC_Key": "Char_PECS_Mery_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Machina_N": {
+    "PC_Key": "Char_PECS_Machina_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Salamander_N": {
+    "PC_Key": "Char_BR_Salamander_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Draculina_N": {
+    "PC_Key": "Char_PECS_Draculina_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Saraqael_N": {
+    "PC_Key": "Char_DS_Saraqael_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_3P_Hirume_N": {
+    "PC_Key": "Char_3P_Hirume_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Hyena_N": {
+    "PC_Key": "Char_BR_Hyena_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Titania_N": {
+    "PC_Key": "Char_3P_Titania_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Stronghold_N": {
+    "PC_Key": "Char_AGS_Stronghold_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_SJ_Tachi_N": {
+    "PC_Key": "Char_SJ_Tachi_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Muse_N": {
+    "PC_Key": "Char_PECS_Muse_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Boryeon_N": {
+    "PC_Key": "Char_PECS_Boryeon_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_NickyTracy_N": {
+    "PC_Key": "Char_BR_NickyTracy_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Glacias_N": {
+    "PC_Key": "Char_PECS_Glacias_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_QueenMane_N": {
+    "PC_Key": "Char_PECS_QueenMane_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Mnemosyne_N": {
+    "PC_Key": "Char_PECS_Mnemosyne_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Hussar_N": {
+    "PC_Key": "Char_PECS_Hussar_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_SJ_Orellia_N": {
+    "PC_Key": "Char_SJ_Orellia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Angel_N": {
+    "PC_Key": "Char_DS_Angel_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_Ramiel_N": {
+    "PC_Key": "Char_DS_Ramiel_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_25",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_AGS_Arachne_N": {
+    "PC_Key": "Char_AGS_Arachne_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_StratoAngel_N": {
+    "PC_Key": "Char_BR_StratoAngel_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_JangHwa_N": {
+    "PC_Key": "Char_BR_JangHwa_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_BR_Ellie_N": {
+    "PC_Key": "Char_BR_Ellie_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Sekhmet_N": {
+    "PC_Key": "Char_PECS_Sekhmet_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Amphitrite_N": {
+    "PC_Key": "Char_3P_Amphitrite_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Salacia_N": {
+    "PC_Key": "Char_3P_Salacia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Orangeade_N": {
+    "PC_Key": "Char_PECS_Orangeade_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Triton_N": {
+    "PC_Key": "Char_PECS_Triton_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Frigga_N": {
+    "PC_Key": "Char_3P_Frigga_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_50",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_ST_Ullr_N": {
+    "PC_Key": "Char_ST_Ullr_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Cheona_N": {
+    "PC_Key": "Char_BR_Cheona_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_15",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Peregrinus_N": {
+    "PC_Key": "Char_PECS_Peregrinus_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_CyclopsePrincess_N": {
+    "PC_Key": "Char_PECS_CyclopsePrincess_N",
+    "Link_Bonus": [
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ATK_30",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_DS_BunnySlayer_N": {
+    "PC_Key": "Char_DS_BunnySlayer_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Habetrot_N": {
+    "PC_Key": "Char_BR_Habetrot_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_EV_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type3": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type4": "Core_Bonus_EV_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_ST_Mercury_N": {
+    "PC_Key": "Char_ST_Mercury_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Scarabya_N": {
+    "PC_Key": "Char_BR_Scarabya_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_20",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_15"
+  },
+  "Char_3P_Melite_N": {
+    "PC_Key": "Char_3P_Melite_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_30",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Sonia_N": {
+    "PC_Key": "Char_PECS_Sonia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Skill_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_3P_Ajax_N": {
+    "PC_Key": "Char_3P_Ajax_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_DEF_30",
+    "FullLink_Bonus_Type3": "Core_Bonus_HP_40",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Erato_N": {
+    "PC_Key": "Char_PECS_Erato_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ATK_50",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Brunhild_N": {
+    "PC_Key": "Char_BR_Brunhild_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_15",
+      "Core_Bonus_ATK_25",
+      "Core_Bonus_Cri_3",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_ATK_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Kheshig_N": {
+    "PC_Key": "Char_BR_Kheshig_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_SPD_2",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Skill_30",
+    "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_BR_Vargr_N": {
+    "PC_Key": "Char_BR_Vargr_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_25",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_DEF_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_Cri_30",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_2",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  }
+}

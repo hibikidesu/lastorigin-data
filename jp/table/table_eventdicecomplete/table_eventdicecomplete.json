@@ -1,0 +1,80 @@
+{
+  "Event_EventDice_01_Repeat_Reward_0_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 1,
+    "Round": 0,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Repeat_Reward_0_0"
+  },
+  "Event_EventDice_01_Repeat_Reward_1_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 1,
+    "Round": 1,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Repeat_Reward_1_0"
+  },
+  "Event_EventDice_01_Repeat_Reward_2_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 1,
+    "Round": 2,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Repeat_Reward_2_0"
+  },
+  "Event_EventDice_01_Repeat_Reward_3_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 1,
+    "Round": 3,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Repeat_Reward_3_0"
+  },
+  "Event_EventDice_01_Repeat_Reward_4_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 1,
+    "Round": 4,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Repeat_Reward_4_0"
+  },
+  "Event_EventDice_01_Repeat_Reward_5_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 1,
+    "Round": 5,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Repeat_Reward_5_0"
+  },
+  "Event_EventDice_01_Specific_Reward_10_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 10,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_10_0"
+  },
+  "Event_EventDice_01_Specific_Reward_25_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 25,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_25_0"
+  },
+  "Event_EventDice_01_Specific_Reward_50_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 50,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_50_0"
+  },
+  "Event_EventDice_01_Specific_Reward_75_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 75,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_75_0"
+  },
+  "Event_EventDice_01_Specific_Reward_100_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 100,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_100_0"
+  },
+  "Event_EventDice_01_Specific_Reward_150_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 150,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_150_0"
+  },
+  "Event_EventDice_01_Specific_Reward_200_0": {
+    "EventDice_Category": "Event_EventDice_06",
+    "EventDice_Repeat": 0,
+    "Round": 200,
+    "DiceReward_ItemIndexString": "DICEGAME_Event_EventDice_01_Specific_Reward_200_0"
+  }
+}

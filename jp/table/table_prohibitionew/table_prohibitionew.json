@@ -1,0 +1,702 @@
+{
+  "1": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_1"
+  },
+  "2": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_2"
+  },
+  "3": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_3"
+  },
+  "4": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_4"
+  },
+  "5": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_5"
+  },
+  "6": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_6"
+  },
+  "7": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_7"
+  },
+  "8": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_8"
+  },
+  "9": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_9"
+  },
+  "10": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_10"
+  },
+  "11": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_11"
+  },
+  "12": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_12"
+  },
+  "13": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_13"
+  },
+  "14": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_14"
+  },
+  "15": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_15"
+  },
+  "16": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_16"
+  },
+  "17": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_17"
+  },
+  "18": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_18"
+  },
+  "19": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_19"
+  },
+  "20": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_20"
+  },
+  "21": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_21"
+  },
+  "22": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_22"
+  },
+  "23": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_23"
+  },
+  "24": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_24"
+  },
+  "25": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_25"
+  },
+  "26": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_26"
+  },
+  "27": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_27"
+  },
+  "28": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_28"
+  },
+  "29": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_29"
+  },
+  "30": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_30"
+  },
+  "31": {
+    "ApplyActorBodyType": 0,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_31"
+  },
+  "32": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_32"
+  },
+  "33": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_33"
+  },
+  "34": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_34"
+  },
+  "35": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_35"
+  },
+  "36": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_36"
+  },
+  "37": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_37"
+  },
+  "38": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_38"
+  },
+  "39": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_39"
+  },
+  "40": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_40"
+  },
+  "41": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 0,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_41"
+  },
+  "42": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_42"
+  },
+  "43": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_43"
+  },
+  "44": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 1,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_44"
+  },
+  "45": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 0,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_45"
+  },
+  "46": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 1,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_46"
+  },
+  "47": {
+    "ApplyActorBodyType": 1,
+    "ApplyActorClassType": 2,
+    "ApplyActorRoleType": 2,
+    "Squad_Key": "",
+    "Desc": "Prohibition_Group_47"
+  },
+  "101": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_SteelLine_1",
+    "Desc": "Prohibition_Group_101"
+  },
+  "102": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Walhalla_1",
+    "Desc": "Prohibition_Group_102"
+  },
+  "103": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_DoomBringer_1",
+    "Desc": "Prohibition_Group_103"
+  },
+  "104": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_BattleMaid_1",
+    "Desc": "Prohibition_Group_104"
+  },
+  "105": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_GoldenWorkers_1",
+    "Desc": "Prohibition_Group_105"
+  },
+  "106": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_CityGuard_1",
+    "Desc": "Prohibition_Group_106"
+  },
+  "107": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_PublicServant_1",
+    "Desc": "Prohibition_Group_107"
+  },
+  "108": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_080_1",
+    "Desc": "Prohibition_Group_108"
+  },
+  "109": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_TeamMongus_1",
+    "Desc": "Prohibition_Group_109"
+  },
+  "110": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_ArmoredMaiden_1",
+    "Desc": "Prohibition_Group_110"
+  },
+  "111": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_OrbitalWatcher_1",
+    "Desc": "Prohibition_Group_111"
+  },
+  "112": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AGSRoboTech_1",
+    "Desc": "Prohibition_Group_112"
+  },
+  "113": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_3PFairy_1",
+    "Desc": "Prohibition_Group_113"
+  },
+  "114": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AACannonier_1",
+    "Desc": "Prohibition_Group_114"
+  },
+  "115": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_CompanionSeries_1",
+    "Desc": "Prohibition_Group_115"
+  },
+  "116": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AnywhereSeries_1",
+    "Desc": "Prohibition_Group_116"
+  },
+  "117": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_SkyKnight_1",
+    "Desc": "Prohibition_Group_117"
+  },
+  "118": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Dentertainment_1",
+    "Desc": "Prohibition_Group_118"
+  },
+  "119": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Horizon_1",
+    "Desc": "Prohibition_Group_119"
+  },
+  "120": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AngerOfTheHorde_1",
+    "Desc": "Prohibition_Group_120"
+  },
+  "121": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Bermuda_1",
+    "Desc": "Prohibition_Group_121"
+  },
+  "122": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_SteelLine_2",
+    "Desc": "Prohibition_Group_122"
+  },
+  "123": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Strikers",
+    "Desc": "Prohibition_Group_123"
+  },
+  "124": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AGSRoboTech_2",
+    "Desc": "Prohibition_Group_124"
+  },
+  "125": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_PublicServant_2",
+    "Desc": "Prohibition_Group_125"
+  },
+  "126": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_WatcherOfNature",
+    "Desc": "Prohibition_Group_126"
+  },
+  "127": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AGSRoboTech_3",
+    "Desc": "Prohibition_Group_127"
+  },
+  "128": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Dentertainment_2",
+    "Desc": "Prohibition_Group_128"
+  },
+  "129": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Dentertainment_3",
+    "Desc": "Prohibition_Group_129"
+  },
+  "130": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Walhalla_2",
+    "Desc": "Prohibition_Group_130"
+  },
+  "131": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Kouhei",
+    "Desc": "Prohibition_Group_131"
+  },
+  "132": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AmuseAttendant",
+    "Desc": "Prohibition_Group_132"
+  },
+  "133": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Bermuda_2",
+    "Desc": "Prohibition_Group_133"
+  },
+  "134": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Bismarck",
+    "Desc": "Prohibition_Group_134"
+  },
+  "135": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AnywhereSeries_2",
+    "Desc": "Prohibition_Group_135"
+  },
+  "136": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_DoomBringer_2",
+    "Desc": "Prohibition_Group_136"
+  },
+  "137": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_GoldenWorkers_2",
+    "Desc": "Prohibition_Group_137"
+  },
+  "138": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_BattleMaid_2",
+    "Desc": "Prohibition_Group_138"
+  },
+  "139": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_CityGuard_2",
+    "Desc": "Prohibition_Group_139"
+  },
+  "140": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_SkyKnight_2",
+    "Desc": "Prohibition_Group_140"
+  },
+  "141": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_CompanionSeries_2",
+    "Desc": "Prohibition_Group_141"
+  },
+  "142": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_PublicServant_3",
+    "Desc": "Prohibition_Group_142"
+  },
+  "143": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AngerOfTheHorde_2",
+    "Desc": "Prohibition_Group_143"
+  },
+  "144": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_3PFairy_2",
+    "Desc": "Prohibition_Group_144"
+  },
+  "145": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AGSRoboTech_4",
+    "Desc": "Prohibition_Group_145"
+  },
+  "146": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_SmartEnjoy",
+    "Desc": "Prohibition_Group_146"
+  },
+  "147": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_AmuseAttendant_2",
+    "Desc": "Prohibition_Group_147"
+  },
+  "148": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Bismarck_2",
+    "Desc": "Prohibition_Group_148"
+  },
+  "149": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_EmpressHound",
+    "Desc": "Prohibition_Group_149"
+  },
+  "150": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_080_2",
+    "Desc": "Prohibition_Group_150"
+  },
+  "151": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Mermaid",
+    "Desc": "Prohibition_Group_151"
+  },
+  "152": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_Poseidon",
+    "Desc": "Prohibition_Group_152"
+  },
+  "153": {
+    "ApplyActorBodyType": 4,
+    "ApplyActorClassType": 3,
+    "ApplyActorRoleType": 3,
+    "Squad_Key": "Squad_GuardianSeries",
+    "Desc": "Prohibition_Group_153"
+  }
+}

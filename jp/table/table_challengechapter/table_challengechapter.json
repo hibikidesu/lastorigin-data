@@ -1,0 +1,62 @@
+{
+  "Challenge_Chapter_01": {
+    "Event_CategoryName": "1003300001",
+    "Event_CategoryPos": 1,
+    "ChallengeChapter_Button_BG": "BG_3_8_2",
+    "ChallengeChapter_Button_Monster": "Challenge_PanelIcon_MP_EmperorChickSpCH_N",
+    "ChallengeChapter_UnlockType": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ChallengeChapter_UnlockCondition": [
+      "30"
+    ]
+  },
+  "Challenge_Chapter_02": {
+    "Event_CategoryName": "1003300002",
+    "Event_CategoryPos": 2,
+    "ChallengeChapter_Button_BG": "BG_EV2_07_07",
+    "ChallengeChapter_Button_Monster": "Challenge_PanelIcon_MP_Robert_N",
+    "ChallengeChapter_UnlockType": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ChallengeChapter_UnlockCondition": [
+      "40"
+    ]
+  },
+  "Challenge_Chapter_03": {
+    "Event_CategoryName": "1003300003",
+    "Event_CategoryPos": 3,
+    "ChallengeChapter_Button_BG": "BG_2_5_3",
+    "ChallengeChapter_Button_Monster": "Challenge_PanelIcon_MP_Predator_B020",
+    "ChallengeChapter_UnlockType": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ChallengeChapter_UnlockCondition": [
+      "40"
+    ]
+  },
+  "Challenge_Chapter_05": {
+    "Event_CategoryName": "1003300005",
+    "Event_CategoryPos": 4,
+    "ChallengeChapter_Button_BG": "BG_EV_01_01",
+    "ChallengeChapter_Button_Monster": "Challenge_PanelIcon_MP_Nereid_N",
+    "ChallengeChapter_UnlockType": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "ChallengeChapter_UnlockCondition": [
+      "50"
+    ]
+  }
+}

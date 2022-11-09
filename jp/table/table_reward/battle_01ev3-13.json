@@ -1,0 +1,686 @@
+{
+  "BATTLE_01Ev3-13-01": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-01_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-01_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.01",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-02": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-02_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-02_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.05"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.001",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-03": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-03_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-03_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.02",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.002",
+      "0.004",
+      "0.02",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-04": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T4",
+      "Equip_Sub_SubBooster_T3",
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.006",
+      "0.02",
+      "0.04",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-04_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T4",
+      "Equip_Sub_SubBooster_T3",
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.006",
+      "0.02",
+      "0.04",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_01Ev3-13-04_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 2400,
+    "ExpMax": 2400,
+    "ExpRate": "1",
+    "SkillExp": 240,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "ItemIndexString": [
+      "Equip_Sub_SubBooster_T4",
+      "Equip_Sub_SubBooster_T3",
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1"
+    ],
+    "ItemRate": [
+      "0.006",
+      "0.02",
+      "0.04",
+      "0.1"
+    ],
+    "CharIndexString": [
+      "Char_BR_BloodyPanther_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.004",
+      "0.01",
+      "0.03",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  }
+}
