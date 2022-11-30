@@ -1958,5 +1958,33 @@
     "Pos8": "1",
     "Pos9": "1",
     "StandardPoint": 6
+  },
+  "Grid_100100100e100100100100100": {
+    "GridName": "1001000130",
+    "UsePoint": 1,
+    "Pos1": "1",
+    "Pos2": "1",
+    "Pos3": "1",
+    "Pos4": "0",
+    "Pos5": "1",
+    "Pos6": "1",
+    "Pos7": "1",
+    "Pos8": "1",
+    "Pos9": "1",
+    "StandardPoint": 3
+  },
+  "Grid_F_100100e100100e100100e": {
+    "GridName": "1001000081",
+    "UsePoint": 0,
+    "Pos1": "1",
+    "Pos2": "1",
+    "Pos3": "0",
+    "Pos4": "1",
+    "Pos5": "1",
+    "Pos6": "0",
+    "Pos7": "1",
+    "Pos8": "1",
+    "Pos9": "0",
+    "StandardPoint": 4
   }
 }

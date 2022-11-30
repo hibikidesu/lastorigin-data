@@ -179,5 +179,16 @@
     "OpenCheckString": [],
     "Open_Desc": "1001500038",
     "BGM_Icon": "UI_Icon_Track13_MomentShort_Muse"
+  },
+  "Track16_FLIGHTAGAIN_NightAngel": {
+    "BGM_Name": "1001500095",
+    "BGM_Desc": "1001500098",
+    "BGM_Res": "Track16_FLIGHTAGAIN_NightAngel",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_NightAngel_3"
+    ],
+    "Open_Desc": "1001500101",
+    "BGM_Icon": "UI_Icon_Track16_FLIGHTAGAIN_NightAngel"
   }
 }

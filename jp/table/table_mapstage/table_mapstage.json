@@ -66001,7 +66001,7 @@
     "StageBG": "Ch01Ev11Stage01",
     "Stage_FirstClear_Reward": "STAGE_01Ev11-01_F",
     "Stage_AllMissionClear_Reward": "STAGE_01Ev11-01_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -66149,7 +66149,7 @@
     "StageBG": "Ch01Ev11Stage02",
     "Stage_FirstClear_Reward": "STAGE_01Ev11-02_F",
     "Stage_AllMissionClear_Reward": "STAGE_01Ev11-02_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -66297,7 +66297,7 @@
     "StageBG": "Ch01Ev11Stage03",
     "Stage_FirstClear_Reward": "STAGE_01Ev11-03_F",
     "Stage_AllMissionClear_Reward": "STAGE_01Ev11-03_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -66449,7 +66449,7 @@
     "StageBG": "Ch01Ev11Stage04",
     "Stage_FirstClear_Reward": "STAGE_01Ev11-04_F",
     "Stage_AllMissionClear_Reward": "STAGE_01Ev11-04_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -66601,7 +66601,7 @@
     "StageBG": "Ch01Ev11Stage05",
     "Stage_FirstClear_Reward": "STAGE_01Ev11-05_F",
     "Stage_AllMissionClear_Reward": "STAGE_01Ev11-05_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -66757,7 +66757,7 @@
     "StageBG": "Ch01Ev11Stage06",
     "Stage_FirstClear_Reward": "STAGE_01Ev11-06_F",
     "Stage_AllMissionClear_Reward": "STAGE_01Ev11-06_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -67657,7 +67657,7 @@
     "StageBG": "Ch02Ev11Stage01",
     "Stage_FirstClear_Reward": "STAGE_02Ev11-01_F",
     "Stage_AllMissionClear_Reward": "STAGE_02Ev11-01_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -67805,7 +67805,7 @@
     "StageBG": "Ch02Ev11Stage02",
     "Stage_FirstClear_Reward": "STAGE_02Ev11-02_F",
     "Stage_AllMissionClear_Reward": "STAGE_02Ev11-02_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -67953,7 +67953,7 @@
     "StageBG": "Ch02Ev11Stage03",
     "Stage_FirstClear_Reward": "STAGE_02Ev11-03_F",
     "Stage_AllMissionClear_Reward": "STAGE_02Ev11-03_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -68105,7 +68105,7 @@
     "StageBG": "Ch02Ev11Stage04",
     "Stage_FirstClear_Reward": "STAGE_02Ev11-04_F",
     "Stage_AllMissionClear_Reward": "STAGE_02Ev11-04_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -68257,7 +68257,7 @@
     "StageBG": "Ch02Ev11Stage05",
     "Stage_FirstClear_Reward": "STAGE_02Ev11-05_F",
     "Stage_AllMissionClear_Reward": "STAGE_02Ev11-05_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -68413,7 +68413,7 @@
     "StageBG": "Ch02Ev11Stage06",
     "Stage_FirstClear_Reward": "STAGE_02Ev11-06_F",
     "Stage_AllMissionClear_Reward": "STAGE_02Ev11-06_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -69321,7 +69321,7 @@
     "StageBG": "Ch03Ev11Stage01",
     "Stage_FirstClear_Reward": "STAGE_03Ev11-01_F",
     "Stage_AllMissionClear_Reward": "STAGE_03Ev11-01_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],
@@ -69477,7 +69477,7 @@
     "StageBG": "Ch03Ev11Stage02",
     "Stage_FirstClear_Reward": "STAGE_03Ev11-02_F",
     "Stage_AllMissionClear_Reward": "STAGE_03Ev11-02_AM",
-    "Search_Enable": 1,
+    "Search_Enable": 0,
     "MidCutsceneIndex": [
       "0"
     ],

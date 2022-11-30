@@ -1037,8 +1037,8 @@
   },
   "Marriage_StratoAngel": {
     "Marriage_CutScene": "Cut_Marriage_StratoAngel",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_StratoAngel_MR",
+    "Marriage_VoicePrefab": "Char_BR_StratoAngel_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2178,8 +2178,8 @@
   },
   "Marriage_Muse_NS1": {
     "Marriage_CutScene": "Cut_Marriage_Muse_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Muse_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Muse_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2458,8 +2458,8 @@
   },
   "Marriage_Cheona": {
     "Marriage_CutScene": "Cut_Marriage_Cheona",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_Cheona_MR",
+    "Marriage_VoicePrefab": "Char_BR_Cheona_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2689,8 +2689,8 @@
   },
   "Marriage_Habetrot_NS1": {
     "Marriage_CutScene": "Cut_Marriage_Habetrot_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_Habetrot_MR",
+    "Marriage_VoicePrefab": "Char_BR_Habetrot_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },

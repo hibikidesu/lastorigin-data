@@ -2294,5 +2294,117 @@
     "DgEndTriggerValue": "Cut_ChCS-20Stage01_1",
     "DgTriggerHide": 0,
     "DialogPCKeyString": "Char_PECS_Sekhmet_N"
+  },
+  "Story_Char_BR_NightAngel_N_19_BR_NightAngel_1": {
+    "StoryNo": 87,
+    "StoryFileName": "1002200296",
+    "StoryDesc": "1002200284",
+    "StoryFileCharIcon": "InvenIcon_BR_NightAngel_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [
+      "Story_Char_BR_NightAngel_N_19_BR_StratoAngel_2"
+    ],
+    "StartStoryDialog": "Cut_ChCS-23Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 8,
+    "DgStartTriggerValue1": [
+      "Char_BR_NightAngel_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "100"
+    ],
+    "DgStartTriggerString1": "1002200290",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-23Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_NightAngel_N"
+  },
+  "Story_Char_BR_NightAngel_N_19_BR_StratoAngel_2": {
+    "StoryNo": 88,
+    "StoryFileName": "1002200297",
+    "StoryDesc": "1002200285",
+    "StoryFileCharIcon": "InvenIcon_BR_StratoAngel_N",
+    "StoryFileNo": "2",
+    "StoryFile_Next": [
+      "Story_Char_BR_NightAngel_N_19_BR_NightAngel_3"
+    ],
+    "StartStoryDialog": "Cut_ChCS-23Stage02_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_BR_NightAngel_N_19_BR_NightAngel_1"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200291",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-23Stage02_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_NightAngel_N"
+  },
+  "Story_Char_BR_NightAngel_N_19_BR_NightAngel_3": {
+    "StoryNo": 89,
+    "StoryFileName": "1002200298",
+    "StoryDesc": "1002200286",
+    "StoryFileCharIcon": "InvenIcon_BR_NightAngel_N",
+    "StoryFileNo": "3",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-23Stage03_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_BR_NightAngel_N_19_BR_StratoAngel_2"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200292",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-23Stage03_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_NightAngel_N"
+  },
+  "Story_Char_BR_JangHwa_N_21_BR_JangHwa_1": {
+    "StoryNo": 93,
+    "StoryFileName": "1002200309",
+    "StoryDesc": "1002200310",
+    "StoryFileCharIcon": "InvenIcon_BR_JangHwa_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-25Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 8,
+    "DgStartTriggerValue1": [
+      "Char_BR_JangHwa_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "20"
+    ],
+    "DgStartTriggerString1": "1002200311",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-25Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_JangHwa_N"
   }
 }

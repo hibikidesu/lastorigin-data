@@ -1838,5 +1838,85 @@
       150
     ],
     "CharSkin_Activate": "Skin_Char_BR_Spriggan_G5"
+  },
+  "Promotion_Char_3P_Hachiko_N_4": {
+    "Promotion_CharIdx": "Char_3P_Hachiko_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_ExParts"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_3P_Hachiko_G5"
+  },
+  "Promotion_Char_AGS_Fallen_N_2": {
+    "Promotion_CharIdx": "Char_AGS_Fallen_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Normal_Module",
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      1500,
+      125,
+      25,
+      250
+    ],
+    "CharSkin_Activate": "Skin_Char_AGS_Fallen_G3"
+  },
+  "Promotion_Char_AGS_Fallen_N_3": {
+    "Promotion_CharIdx": "Char_AGS_Fallen_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Advanced_Module",
+      "TestItem_4",
+      "RobotParts_AlloyArmor",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      500,
+      50,
+      1000,
+      100
+    ],
+    "CharSkin_Activate": "Skin_Char_AGS_Fallen_G4"
+  },
+  "Promotion_Char_AGS_Fallen_N_4": {
+    "Promotion_CharIdx": "Char_AGS_Fallen_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 0,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Special_Module",
+      "TestItem_4",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      100,
+      100,
+      50,
+      100
+    ],
+    "CharSkin_Activate": "Skin_Char_AGS_Fallen_G5"
   }
 }

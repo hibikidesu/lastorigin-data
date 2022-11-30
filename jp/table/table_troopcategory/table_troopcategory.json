@@ -523,7 +523,8 @@
     "Squad_Desc": "1002900037",
     "Squad_Member": [
       "Char_BR_Banshee_N",
-      "Char_BR_ALWraith_N"
+      "Char_BR_ALWraith_N",
+      "Char_BR_StratoAngel_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -673,7 +674,8 @@
     "Squad_Name": "SquadName_Squad_EmpressHound",
     "Squad_Desc": "SquadDesc_Squad_EmpressHound",
     "Squad_Member": [
-      "Char_BR_JangHwa_N"
+      "Char_BR_JangHwa_N",
+      "Char_BR_Cheona_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

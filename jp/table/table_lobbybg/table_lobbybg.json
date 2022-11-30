@@ -400,5 +400,21 @@
       "Skin_PECS_Muse_1"
     ],
     "Open_Desc": "1001500080"
+  },
+  "LobbyBG_25": {
+    "BG_Name": "1001500091",
+    "BG_Desc": "1001500092",
+    "BG_UnlockItem": "Consumable_BG_25",
+    "BG_Prefab": "BG_Preset_25",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_25",
+    "BG_Icon": "UI_ICON_BG_25",
+    "BG_MiniIcon": "UI_ICON_BG_25",
+    "BG_OpenType": 0,
+    "OpenCheckString": [],
+    "Open_Desc": ""
   }
 }

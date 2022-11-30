@@ -57,7 +57,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2019_FullMoon",
     "Chapter_Key": "Chapter_01Ev3",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_06": {
     "Event_Category": "Open_Event04",
@@ -249,7 +249,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_OrcaIdol",
     "Chapter_Key": "Chapter_01Ev11",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_22": {
     "Event_Category": "Open_Event11",
@@ -261,7 +261,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_OrcaIdol",
     "Chapter_Key": "Chapter_02Ev11",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_23": {
     "Event_Category": "Open_Event11",
@@ -273,7 +273,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_OrcaIdol",
     "Chapter_Key": "Chapter_03Ev11",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_24": {
     "Event_Category": "Open_Event12",

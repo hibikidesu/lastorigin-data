@@ -256,5 +256,31 @@
     "PCStoryIndex": [
       "Story_Char_PECS_Sekhmet_N_16_PECS_Sekhmet_1"
     ]
+  },
+  "PCStory_CH_BR_NightAngel_1": {
+    "StoryType": 0,
+    "StoryName": "1002200280",
+    "PCInvenIcon": "InvenIcon_BR_NightAngel_N",
+    "PCName": "1000200036",
+    "SquadStoryIcon": "UI_TroopIcon_DoomBringer",
+    "SquadStoryString": "Squad_Story_Name_DoomBringer",
+    "PCStoryNo": 19,
+    "PCStoryIndex": [
+      "Story_Char_BR_NightAngel_N_19_BR_NightAngel_1",
+      "Story_Char_BR_NightAngel_N_19_BR_StratoAngel_2",
+      "Story_Char_BR_NightAngel_N_19_BR_NightAngel_3"
+    ]
+  },
+  "PCStory_CH_BR_JangHwa_1": {
+    "StoryType": 0,
+    "StoryName": "1002200309",
+    "PCInvenIcon": "InvenIcon_BR_JangHwa_N",
+    "PCName": "PCName_Char_BR_JangHwa_N",
+    "SquadStoryIcon": "UI_TroopIcon_EmpressHound",
+    "SquadStoryString": "Squad_Story_Name_EmpressHound",
+    "PCStoryNo": 21,
+    "PCStoryIndex": [
+      "Story_Char_BR_JangHwa_N_21_BR_JangHwa_1"
+    ]
   }
 }
