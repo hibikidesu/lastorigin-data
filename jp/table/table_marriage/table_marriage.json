@@ -2360,22 +2360,22 @@
   },
   "Marriage_Amphitrite": {
     "Marriage_CutScene": "Cut_Marriage_Amphitrite",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_3P_Amphitrite_MR",
+    "Marriage_VoicePrefab": "Char_3P_Amphitrite_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
   "Marriage_Salacia": {
     "Marriage_CutScene": "Cut_Marriage_Salacia",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_3P_Salacia_MR",
+    "Marriage_VoicePrefab": "Char_3P_Salacia_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
   "Marriage_Orangeade": {
     "Marriage_CutScene": "Cut_Marriage_Orangeade",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Orangeade_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Orangeade_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },

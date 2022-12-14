@@ -2406,5 +2406,89 @@
     "DgEndTriggerValue": "Cut_ChCS-25Stage01_1",
     "DgTriggerHide": 0,
     "DialogPCKeyString": "Char_BR_JangHwa_N"
+  },
+  "Story_Char_BR_May_N_20_PECS_Muse_1": {
+    "StoryNo": 90,
+    "StoryFileName": "1002200303",
+    "StoryDesc": "1002200300",
+    "StoryFileCharIcon": "InvenIcon_PECS_Muse_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [
+      "Story_Char_BR_May_N_20_BR_May_2"
+    ],
+    "StartStoryDialog": "Cut_ChCS-24Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 8,
+    "DgStartTriggerValue1": [
+      "Char_BR_May_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "100"
+    ],
+    "DgStartTriggerString1": "1002200306",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-24Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_May_N"
+  },
+  "Story_Char_BR_May_N_20_BR_May_2": {
+    "StoryNo": 91,
+    "StoryFileName": "1002200304",
+    "StoryDesc": "1002200301",
+    "StoryFileCharIcon": "InvenIcon_BR_May_N",
+    "StoryFileNo": "2",
+    "StoryFile_Next": [
+      "Story_Char_BR_May_N_20_BR_May_3"
+    ],
+    "StartStoryDialog": "Cut_ChCS-24Stage02_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_BR_May_N_20_PECS_Muse_1"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200307",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-24Stage02_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_May_N"
+  },
+  "Story_Char_BR_May_N_20_BR_May_3": {
+    "StoryNo": 92,
+    "StoryFileName": "1002200305",
+    "StoryDesc": "1002200302",
+    "StoryFileCharIcon": "InvenIcon_BR_May_N",
+    "StoryFileNo": "3",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-24Stage03_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_BR_May_N_20_BR_May_2"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200308",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-24Stage03_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_BR_May_N"
   }
 }

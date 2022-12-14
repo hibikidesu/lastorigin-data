@@ -583,7 +583,8 @@
     "Squad_Desc": "1002900041",
     "Squad_Member": [
       "Char_PECS_LemonadeAlpha_N",
-      "Char_PECS_Sekhmet_N"
+      "Char_PECS_Sekhmet_N",
+      "Char_PECS_Orangeade_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -687,6 +688,18 @@
     "Squad_Desc": "SquadDesc_Squad_080_2",
     "Squad_Member": [
       "Char_BR_Ellie_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Mermaid": {
+    "Squad_Index": 51,
+    "Squad_Icon": "UI_TroopIcon_Mermaid",
+    "Squad_Name": "SquadName_Squad_Mermaid",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_3P_Amphitrite_N",
+      "Char_3P_Salacia_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

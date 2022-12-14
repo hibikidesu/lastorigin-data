@@ -180,6 +180,17 @@
     "Open_Desc": "1001500038",
     "BGM_Icon": "UI_Icon_Track13_MomentShort_Muse"
   },
+  "Track15_MyLove_May": {
+    "BGM_Name": "1001500094",
+    "BGM_Desc": "1001500097",
+    "BGM_Res": "Track15_MyLove_May",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_BR_May_4"
+    ],
+    "Open_Desc": "1001500100",
+    "BGM_Icon": "UI_Icon_Track15_MyLove_May"
+  },
   "Track16_FLIGHTAGAIN_NightAngel": {
     "BGM_Name": "1001500095",
     "BGM_Desc": "1001500098",
