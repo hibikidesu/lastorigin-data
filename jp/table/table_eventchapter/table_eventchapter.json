@@ -69,7 +69,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2019_HalloweenPark",
     "Chapter_Key": "Chapter_01Ev4",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_07": {
     "Event_Category": "Open_Event05",
@@ -345,7 +345,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_WinterArk",
     "Chapter_Key": "Chapter_01Ev14",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 1
   },
   "Event_Chapter_30": {
     "Event_Category": "Open_Event14",

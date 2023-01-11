@@ -1938,5 +1938,65 @@
       150
     ],
     "CharSkin_Activate": "Skin_Char_PECS_Spartoia_G5"
+  },
+  "Promotion_Char_BR_Habetrot_N_3": {
+    "Promotion_CharIdx": "Char_BR_Habetrot_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Habetrot_G4"
+  },
+  "Promotion_Char_BR_Habetrot_N_4": {
+    "Promotion_CharIdx": "Char_BR_Habetrot_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Habetrot_G5"
+  },
+  "Promotion_Char_PECS_LRL_N_4": {
+    "Promotion_CharIdx": "Char_PECS_LRL_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_LRL_G5"
   }
 }

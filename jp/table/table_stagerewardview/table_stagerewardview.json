@@ -9849,7 +9849,10 @@
       "Equip_Sub_VerminEliminator_T4",
       "Equip_Chip_SpAtk_T4",
       "Equip_Chip_SpAtk_T3",
-      "Equip_Chip_SpAtk_T2"
+      "Equip_Chip_SpAtk_T2",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor"
     ]
   },
   "RewardView_Ch01Ev14Stage12": {
@@ -9869,7 +9872,10 @@
       "Equip_Sub_QMObserver_T4",
       "Equip_Chip_AtkControl_T4",
       "Equip_Chip_AtkControl_T3",
-      "Equip_Chip_AtkControl_T2"
+      "Equip_Chip_AtkControl_T2",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor"
     ]
   },
   "RewardView_Ch01Ev14Stage13": {
@@ -9985,7 +9991,10 @@
       "Equip_Sub_SK14MODKit_T4",
       "Equip_Chip_AtkTypeB_T4",
       "Equip_Chip_AtkTypeB_T3",
-      "Equip_Chip_AtkTypeB_T2"
+      "Equip_Chip_AtkTypeB_T2",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor"
     ]
   },
   "RewardView_Ch01Ev14Stage08B": {
@@ -10010,7 +10019,10 @@
       "Equip_Sub_AngelLegs_T4",
       "Equip_Sub_LRCannon_T4",
       "Equip_Chip_LTWT_T3",
-      "Equip_Chip_LTWT_T2"
+      "Equip_Chip_LTWT_T2",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor"
     ]
   },
   "RewardView_Ch01Ev14Stage01Ex": {

@@ -2295,6 +2295,34 @@
     "DgTriggerHide": 0,
     "DialogPCKeyString": "Char_PECS_Sekhmet_N"
   },
+  "Story_Char_PECS_Triton_N_17_PECS_Triton_1": {
+    "StoryNo": 83,
+    "StoryFileName": "1002200276",
+    "StoryDesc": "1002200277",
+    "StoryFileCharIcon": "InvenIcon_PECS_Triton_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-21Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 2,
+    "DgStartTriggerValue1": [
+      "Char_PECS_Triton_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "1"
+    ],
+    "DgStartTriggerString1": "1002200278",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-21Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Triton_N"
+  },
   "Story_Char_BR_NightAngel_N_19_BR_NightAngel_1": {
     "StoryNo": 87,
     "StoryFileName": "1002200296",

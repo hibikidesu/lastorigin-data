@@ -257,6 +257,18 @@
       "Story_Char_PECS_Sekhmet_N_16_PECS_Sekhmet_1"
     ]
   },
+  "PCStory_CH_PECS_Triton_1": {
+    "StoryType": 0,
+    "StoryName": "1002200276",
+    "PCInvenIcon": "InvenIcon_PECS_Triton_N",
+    "PCName": "PCName_Char_PECS_Triton_N",
+    "SquadStoryIcon": "UI_TroopIcon_Poseidon",
+    "SquadStoryString": "Squad_Story_Name_Poseidon",
+    "PCStoryNo": 17,
+    "PCStoryIndex": [
+      "Story_Char_PECS_Triton_N_17_PECS_Triton_1"
+    ]
+  },
   "PCStory_CH_BR_NightAngel_1": {
     "StoryType": 0,
     "StoryName": "1002200280",

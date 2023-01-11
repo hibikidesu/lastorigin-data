@@ -606,5 +606,57 @@
       "Robot_LargeFrame",
       "Robot_MassiveGenerator"
     ]
+  },
+  "Char_PECS_Triton_N": {
+    "PCKeyString": "Char_PECS_Triton_N",
+    "PCMakingTime": 57600,
+    "BluePrint_Idx": 25,
+    "MetalCost": 6500,
+    "NutrientCost": 0,
+    "PowerCost": 1500,
+    "NeedItemKeyString": [
+      "Special_Module",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HeavyWeapon"
+    ],
+    "NeedItemCount": [
+      50,
+      100,
+      300,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_MultiFCS",
+      "Robot_HeavyArmor",
+      "Robot_OverTechPowerPack",
+      "Robot_EnergyConverter "
+    ]
+  },
+  "Char_PECS_Peregrinus_N": {
+    "PCKeyString": "Char_PECS_Peregrinus_N",
+    "PCMakingTime": 36000,
+    "BluePrint_Idx": 26,
+    "MetalCost": 1000,
+    "NutrientCost": 0,
+    "PowerCost": 6000,
+    "NeedItemKeyString": [
+      "Special_Module",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "NeedItemCount": [
+      50,
+      350,
+      100,
+      0
+    ],
+    "NeedAICore": 1,
+    "ReqResearch": [
+      "Robot_NuclearSystem",
+      "Robot_CooledReactor",
+      "Robot_ParticleAccelerator",
+      "Robot_LargeFrame"
+    ]
   }
 }

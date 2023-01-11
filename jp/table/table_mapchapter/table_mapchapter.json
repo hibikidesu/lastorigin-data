@@ -502,5 +502,17 @@
     "ChapterSearch_IDX": "Ev3",
     "Chapter_3DWorldMap": "3D_worldmap_2022_Collabo01_E3",
     "Chapter_PrefabName": "Prefab_Event17_Chapter03"
+  },
+  "Chapter_01Ev14": {
+    "ChapterName": "MapChaterName_Chapter_01Ev14",
+    "GameModeType": 4,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_01Ev14",
+    "ChapterString": "Event14_Chapter01",
+    "Event_Category": "Open_Event14",
+    "Chapter_IDX": 1,
+    "ChapterSearch_IDX": "Ev1",
+    "Chapter_3DWorldMap": "3D_worldmap_2021_WinterArk_E1",
+    "Chapter_PrefabName": "Prefab_Event14_Chapter01"
   }
 }

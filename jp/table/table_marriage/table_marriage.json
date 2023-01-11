@@ -2486,8 +2486,8 @@
   },
   "Marriage_CyclopsePrincess": {
     "Marriage_CutScene": "Cut_Marriage_CyclopsePrincess",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_PECS_CyclopsePrincess_MR",
+    "Marriage_VoicePrefab": "Char_PECS_CyclopsePrincess_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },

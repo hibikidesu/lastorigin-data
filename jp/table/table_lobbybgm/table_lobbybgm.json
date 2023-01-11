@@ -201,5 +201,23 @@
     ],
     "Open_Desc": "1001500101",
     "BGM_Icon": "UI_Icon_Track16_FLIGHTAGAIN_NightAngel"
+  },
+  "42 BGM_ArkofMemory_01": {
+    "BGM_Name": "1001500104",
+    "BGM_Desc": "1001500106",
+    "BGM_Res": "42 BGM_ArkofMemory_01",
+    "BGM_Type": 1,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500038",
+    "BGM_Icon": "UI_Icon_42 BGM_ArkofMemory_01"
+  },
+  "44 BGM_MemoryofTime": {
+    "BGM_Name": "1001500105",
+    "BGM_Desc": "1001500107",
+    "BGM_Res": "44 BGM_MemoryofTime",
+    "BGM_Type": 1,
+    "OpenCheckString": [],
+    "Open_Desc": "1001500038",
+    "BGM_Icon": "UI_Icon_44 BGM_MemoryofTime"
   }
 }

@@ -653,7 +653,9 @@
     "Squad_Name": "1002900067",
     "Squad_Desc": "",
     "Squad_Member": [
-      "Char_AGS_Arachne_N"
+      "Char_AGS_Arachne_N",
+      "Char_PECS_Peregrinus_N",
+      "Char_PECS_CyclopsePrincess_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -700,6 +702,17 @@
     "Squad_Member": [
       "Char_3P_Amphitrite_N",
       "Char_3P_Salacia_N"
+    ],
+    "Squad_CompleteReward": [],
+    "Req_Squad_Member": 9
+  },
+  "Squad_Poseidon": {
+    "Squad_Index": 52,
+    "Squad_Icon": "UI_TroopIcon_Poseidon",
+    "Squad_Name": "SquadName_Squad_Poseidon",
+    "Squad_Desc": "",
+    "Squad_Member": [
+      "Char_PECS_Triton_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
