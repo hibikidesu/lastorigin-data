@@ -2507,8 +2507,8 @@
   },
   "Marriage_BunnySlayer": {
     "Marriage_CutScene": "Cut_Marriage_BunnySlayer",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_DS_BunnySlayer_MR",
+    "Marriage_VoicePrefab": "Char_DS_BunnySlayer_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2549,22 +2549,22 @@
   },
   "Marriage_BunnySlayer_NS1": {
     "Marriage_CutScene": "Cut_Marriage_BunnySlayer_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_DS_BunnySlayer_MR",
+    "Marriage_VoicePrefab": "Char_DS_BunnySlayer_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
   "Marriage_JangHwa_NS1": {
     "Marriage_CutScene": "Cut_Marriage_JangHwa_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_JangHwa_MR",
+    "Marriage_VoicePrefab": "Char_BR_JangHwa_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
   "Marriage_StratoAngel_NS1": {
     "Marriage_CutScene": "Cut_Marriage_StratoAngel_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_StratoAngel_MR",
+    "Marriage_VoicePrefab": "Char_BR_StratoAngel_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2647,8 +2647,8 @@
   },
   "Marriage_Ajax": {
     "Marriage_CutScene": "Cut_Marriage_Ajax",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_3P_Ajax_MR",
+    "Marriage_VoicePrefab": "Char_3P_Ajax_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },

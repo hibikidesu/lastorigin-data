@@ -269,6 +269,20 @@
       "Story_Char_PECS_Triton_N_17_PECS_Triton_1"
     ]
   },
+  "PCStory_CH_3P_Hirume_1": {
+    "StoryType": 0,
+    "StoryName": "1002200279",
+    "PCInvenIcon": "InvenIcon_3P_Hirume_N",
+    "PCName": "1002100233",
+    "SquadStoryIcon": "UI_TroopIcon_BettleMaid",
+    "SquadStoryString": "Squad_Story_Name_BettleMaid",
+    "PCStoryNo": 18,
+    "PCStoryIndex": [
+      "Story_Char_3P_Hirume_N_18_3P_Hirume_1",
+      "Story_Char_3P_Hirume_N_18_3P_Hachiko_2",
+      "Story_Char_3P_Hirume_N_18_3P_Hirume_3"
+    ]
+  },
   "PCStory_CH_BR_NightAngel_1": {
     "StoryType": 0,
     "StoryName": "1002200280",

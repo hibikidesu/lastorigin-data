@@ -2518,5 +2518,89 @@
     "DgEndTriggerValue": "Cut_ChCS-24Stage03_1",
     "DgTriggerHide": 0,
     "DialogPCKeyString": "Char_BR_May_N"
+  },
+  "Story_Char_3P_Hirume_N_18_3P_Hirume_1": {
+    "StoryNo": 84,
+    "StoryFileName": "1002200293",
+    "StoryDesc": "1002200281",
+    "StoryFileCharIcon": "InvenIcon_3P_Hirume_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [
+      "Story_Char_3P_Hirume_N_18_3P_Hachiko_2"
+    ],
+    "StartStoryDialog": "Cut_ChCS-22Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 8,
+    "DgStartTriggerValue1": [
+      "Char_3P_Hirume_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "100"
+    ],
+    "DgStartTriggerString1": "1002200287",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-22Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_3P_Hirume_N"
+  },
+  "Story_Char_3P_Hirume_N_18_3P_Hachiko_2": {
+    "StoryNo": 85,
+    "StoryFileName": "1002200294",
+    "StoryDesc": "1002200282",
+    "StoryFileCharIcon": "InvenIcon_3P_Hachiko_N",
+    "StoryFileNo": "2",
+    "StoryFile_Next": [
+      "Story_Char_3P_Hirume_N_18_3P_Hirume_3"
+    ],
+    "StartStoryDialog": "Cut_ChCS-22Stage02_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_3P_Hirume_N_18_3P_Hirume_1"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200288",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-22Stage02_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_3P_Hirume_N"
+  },
+  "Story_Char_3P_Hirume_N_18_3P_Hirume_3": {
+    "StoryNo": 86,
+    "StoryFileName": "1002200295",
+    "StoryDesc": "1002200283",
+    "StoryFileCharIcon": "InvenIcon_3P_Hirume_N",
+    "StoryFileNo": "3",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-22Stage03_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_3P_Hirume_N_18_3P_Hachiko_2"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200289",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-22Stage03_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_3P_Hirume_N"
   }
 }

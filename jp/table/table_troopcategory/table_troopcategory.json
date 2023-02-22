@@ -449,7 +449,8 @@
     "Squad_Member": [
       "Char_DS_Faucre_N",
       "Char_DS_Arman_N",
-      "Char_AGS_Goltarion_N"
+      "Char_AGS_Goltarion_N",
+      "Char_DS_BunnySlayer_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -666,7 +667,8 @@
     "Squad_Name": "SquadName_Squad_GuardianSeries",
     "Squad_Desc": "",
     "Squad_Member": [
-      "Char_3P_Frigga_N"
+      "Char_3P_Frigga_N",
+      "Char_3P_Ajax_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

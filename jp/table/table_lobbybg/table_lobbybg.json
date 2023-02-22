@@ -239,6 +239,22 @@
     "OpenCheckString": [],
     "Open_Desc": ""
   },
+  "LobbyBG_16": {
+    "BG_Name": "1001102066",
+    "BG_Desc": "1001102067",
+    "BG_UnlockItem": "Consumable_BG_16",
+    "BG_Prefab": "BG_Preset_16",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_16",
+    "BG_Icon": "UI_ICON_BG_16",
+    "BG_MiniIcon": "UI_ICON_BG_16",
+    "BG_OpenType": 0,
+    "OpenCheckString": [],
+    "Open_Desc": ""
+  },
   "LobbyBG_17": {
     "BG_Name": "1001500043",
     "BG_Desc": "1001500044",

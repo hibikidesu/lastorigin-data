@@ -357,7 +357,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_WinterArk",
     "Chapter_Key": "Chapter_02Ev14",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 1
   },
   "Event_Chapter_31": {
     "Event_Category": "Open_Event15",
