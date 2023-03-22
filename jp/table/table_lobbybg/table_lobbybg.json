@@ -448,5 +448,37 @@
     "BG_OpenType": 0,
     "OpenCheckString": [],
     "Open_Desc": ""
+  },
+  "LobbyBG_26": {
+    "BG_Name": "LobbyBG_26_CAFE amor_Name",
+    "BG_Desc": "LobbyBG_26_CAFE amor_Desc",
+    "BG_UnlockItem": "Consumable_BG_26",
+    "BG_Prefab": "BG_Preset_26",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_26",
+    "BG_Icon": "UI_ICON_BG_26",
+    "BG_MiniIcon": "UI_ICON_BG_26",
+    "BG_OpenType": 0,
+    "OpenCheckString": [],
+    "Open_Desc": ""
+  },
+  "LobbyBG_27": {
+    "BG_Name": "LobbyBG_27_CAFE Horizon_Name",
+    "BG_Desc": "LobbyBG_27_CAFE Horizon_Desc",
+    "BG_UnlockItem": "Consumable_BG_27",
+    "BG_Prefab": "BG_Preset_27",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_27",
+    "BG_Icon": "UI_ICON_BG_27",
+    "BG_MiniIcon": "UI_ICON_BG_27",
+    "BG_OpenType": 0,
+    "OpenCheckString": [],
+    "Open_Desc": ""
   }
 }

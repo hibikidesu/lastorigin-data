@@ -27,16 +27,14 @@
       30,
       3,
       1,
-      1
+      0
     ],
     "ItemIndexString": [
       "Normal_Module",
       "Advanced_Module",
-      "TestItem_10",
-      "Ev_Consumable_BlueprintBunnySlayer"
+      "TestItem_10"
     ],
     "ItemRate": [
-      "1",
       "1",
       "1",
       "1"

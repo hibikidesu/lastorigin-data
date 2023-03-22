@@ -2528,8 +2528,8 @@
   },
   "Marriage_Azaz_NS2": {
     "Marriage_CutScene": "Cut_Marriage_Azaz_NS2",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Azaz_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Azaz_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2570,8 +2570,8 @@
   },
   "Marriage_Cheona_NS1": {
     "Marriage_CutScene": "Cut_Marriage_Cheona_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_Cheona_MR",
+    "Marriage_VoicePrefab": "Char_BR_Cheona_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2584,8 +2584,8 @@
   },
   "Marriage_Mercury": {
     "Marriage_CutScene": "Cut_Marriage_Mercury",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_ST_Mercury_MR",
+    "Marriage_VoicePrefab": "Char_ST_Mercury_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2682,8 +2682,8 @@
   },
   "Marriage_Brunhild": {
     "Marriage_CutScene": "Cut_Marriage_Brunhild",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_BR_Brunhild_MR",
+    "Marriage_VoicePrefab": "Char_BR_Brunhild_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },

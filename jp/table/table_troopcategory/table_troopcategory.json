@@ -335,7 +335,8 @@
     "Squad_Member": [
       "Char_ST_Tiamat_N",
       "Char_ST_Lancer_N",
-      "Char_ST_Ullr_N"
+      "Char_ST_Ullr_N",
+      "Char_ST_Mercury_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -474,7 +475,8 @@
     "Squad_Name": "1002900033",
     "Squad_Desc": "",
     "Squad_Member": [
-      "Char_BR_Echidna_N"
+      "Char_BR_Echidna_N",
+      "Char_BR_Brunhild_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
