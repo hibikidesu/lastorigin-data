@@ -5080,5 +5080,26 @@
     "Slot08SubType": [],
     "Slot09Type": 3,
     "Slot09SubType": []
+  },
+  "Char_DS_KunoichiEnrai_N": {
+    "PCKeyString": "Char_DS_KunoichiEnrai_N",
+    "Slot01Type": 3,
+    "Slot01SubType": [],
+    "Slot02Type": 0,
+    "Slot02SubType": [],
+    "Slot03Type": 3,
+    "Slot03SubType": [],
+    "Slot04Type": 0,
+    "Slot04SubType": [],
+    "Slot05Type": 3,
+    "Slot05SubType": [],
+    "Slot06Type": 1,
+    "Slot06SubType": [],
+    "Slot07Type": 3,
+    "Slot07SubType": [],
+    "Slot08Type": 2,
+    "Slot08SubType": [],
+    "Slot09Type": 3,
+    "Slot09SubType": []
   }
 }

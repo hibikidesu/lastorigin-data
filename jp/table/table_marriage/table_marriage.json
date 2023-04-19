@@ -2598,8 +2598,8 @@
   },
   "Marriage_Machina_NS1": {
     "Marriage_CutScene": "Cut_Marriage_Machina_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Machina_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Machina_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2640,8 +2640,8 @@
   },
   "Marriage_Sonia": {
     "Marriage_CutScene": "Cut_Marriage_Sonia",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Sonia_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Sonia_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2696,8 +2696,8 @@
   },
   "Marriage_Mercury_NS1": {
     "Marriage_CutScene": "Cut_Marriage_Mercury_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_ST_Mercury_MR",
+    "Marriage_VoicePrefab": "Char_ST_Mercury_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2710,8 +2710,8 @@
   },
   "Marriage_Ullr_NS1": {
     "Marriage_CutScene": "Cut_Marriage_Ullr_NS1",
-    "Marriage_LobbyScript": "",
-    "Marriage_VoicePrefab": "",
+    "Marriage_LobbyScript": "LobbyScript_ST_Ullr_MR",
+    "Marriage_VoicePrefab": "Char_ST_Ullr_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   },
@@ -2719,6 +2719,13 @@
     "Marriage_CutScene": "Cut_Marriage_Kheshig",
     "Marriage_LobbyScript": "LobbyScript_BR_Kheshig_MR",
     "Marriage_VoicePrefab": "Char_BR_Kheshig_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_KunoichiEnrai": {
+    "Marriage_CutScene": "Cut_Marriage_KunoichiEnrai",
+    "Marriage_LobbyScript": "LobbyScript_DS_KunoichiEnrai_MR",
+    "Marriage_VoicePrefab": "Char_DS_KunoichiEnrai_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
   }

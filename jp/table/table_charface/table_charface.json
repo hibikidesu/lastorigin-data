@@ -11102,5 +11102,37 @@
       "BR_Brunhild_N_Anger",
       "BR_Brunhild_N_Sad"
     ]
+  },
+  "CharFace_DS_KunoichiEnrai_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500054",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500026",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      55,
+      3,
+      15,
+      11,
+      44,
+      28
+    ],
+    "Face2dTexture": [
+      "0",
+      "DS_KunoichiEnrai_N_Smile",
+      "DS_KunoichiEnrai_N_Smile2",
+      "DS_KunoichiEnrai_N_CloseEye",
+      "DS_KunoichiEnrai_N_Shy",
+      "DS_KunoichiEnrai_N_Anger",
+      "DS_KunoichiEnrai_N_Anger2",
+      "DS_KunoichiEnrai_N_Sad"
+    ]
   }
 }

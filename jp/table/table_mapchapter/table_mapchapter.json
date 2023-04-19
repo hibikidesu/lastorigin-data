@@ -526,5 +526,17 @@
     "ChapterSearch_IDX": "Ev2",
     "Chapter_3DWorldMap": "3D_worldmap_2021_WinterArk_E2",
     "Chapter_PrefabName": "Prefab_Event14_Chapter02"
+  },
+  "Chapter_01Ev15": {
+    "ChapterName": "MapChaterName_Chapter_01Ev15",
+    "GameModeType": 4,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_01Ev15",
+    "ChapterString": "Event15_Chapter01",
+    "Event_Category": "Open_Event15",
+    "Chapter_IDX": 1,
+    "ChapterSearch_IDX": "Ev1",
+    "Chapter_3DWorldMap": "3D_worldmap_2022_MiniCompanion_E1",
+    "Chapter_PrefabName": "Prefab_Event15_Chapter01"
   }
 }

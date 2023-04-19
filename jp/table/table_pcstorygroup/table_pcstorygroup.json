@@ -322,5 +322,35 @@
     "PCStoryIndex": [
       "Story_Char_BR_JangHwa_N_21_BR_JangHwa_1"
     ]
+  },
+  "PCStory_CH_PECS_Sonia_1": {
+    "StoryType": 0,
+    "StoryName": "1002200341",
+    "PCInvenIcon": "InvenIcon_PECS_Sonia_N",
+    "PCName": "PCName_Char_PECS_Sonia_N",
+    "SquadStoryIcon": "UI_TroopIcon_CityGuard",
+    "SquadStoryString": "Squad_Story_Name_CityGuard",
+    "PCStoryNo": 24,
+    "PCStoryIndex": [
+      "Story_Char_PECS_Sonia_N_24_PECS_Sekhmet_1",
+      "Story_Char_PECS_Sonia_N_24_PECS_Sadius_2",
+      "Story_Char_PECS_Sonia_N_24_PECS_Sonia_3"
+    ]
+  },
+  "PCStory_CH_DS_KunoichiKaen_1": {
+    "StoryType": 0,
+    "StoryName": "1002200312",
+    "PCInvenIcon": "InvenIcon_DS_KunoichiKaen_N",
+    "PCName": "1002100201",
+    "SquadStoryIcon": "UI_TroopIcon_Dentertainment",
+    "SquadStoryString": "Squad_Story_Name_Dentertainment",
+    "PCStoryNo": 22,
+    "PCStoryIndex": [
+      "Story_Char_DS_KunoichiKaen_N_22_3P_Sowan_1",
+      "Story_Char_DS_KunoichiKaen_N_22_3P_Alice_2",
+      "Story_Char_DS_KunoichiKaen_N_22_BR_Neodym_3",
+      "Story_Char_DS_KunoichiKaen_N_22_BR_Emily_4",
+      "Story_Char_DS_KunoichiKaen_N_22_DS_KunoichiKaen_5"
+    ]
   }
 }

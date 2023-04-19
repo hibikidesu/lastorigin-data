@@ -451,7 +451,8 @@
       "Char_DS_Faucre_N",
       "Char_DS_Arman_N",
       "Char_AGS_Goltarion_N",
-      "Char_DS_BunnySlayer_N"
+      "Char_DS_BunnySlayer_N",
+      "Char_DS_KunoichiEnrai_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -563,7 +564,8 @@
     "Squad_Desc": "1002900057",
     "Squad_Member": [
       "Char_PECS_Sadius_N",
-      "Char_PECS_Leanne_N"
+      "Char_PECS_Leanne_N",
+      "Char_PECS_Sonia_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

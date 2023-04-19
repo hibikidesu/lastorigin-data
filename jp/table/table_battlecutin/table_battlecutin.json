@@ -1234,5 +1234,11 @@
     "CutIn_Condition": 0,
     "CutIn_Condition_Value": "Skill_BR_Vargr_N_2",
     "CutIn_Img": "0"
+  },
+  "CutIn_Char_DS_KunoichiEnrai_N_0Skill_DS_KunoichiEnrai_N_2": {
+    "CutIn_CharKey": "Char_DS_KunoichiEnrai_N",
+    "CutIn_Condition": 0,
+    "CutIn_Condition_Value": "Skill_DS_KunoichiEnrai_N_2",
+    "CutIn_Img": "0"
   }
 }

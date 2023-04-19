@@ -2602,5 +2602,229 @@
     "DgEndTriggerValue": "Cut_ChCS-22Stage03_1",
     "DgTriggerHide": 0,
     "DialogPCKeyString": "Char_3P_Hirume_N"
+  },
+  "Story_Char_PECS_Sonia_N_24_PECS_Sekhmet_1": {
+    "StoryNo": 103,
+    "StoryFileName": "1002200345",
+    "StoryDesc": "1002200342",
+    "StoryFileCharIcon": "InvenIcon_PECS_Sekhmet_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [
+      "Story_Char_PECS_Sonia_N_24_PECS_Sadius_2"
+    ],
+    "StartStoryDialog": "Cut_ChCS-28Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 2,
+    "DgStartTriggerValue1": [
+      "Char_PECS_Sonia_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "1"
+    ],
+    "DgStartTriggerString1": "1002200348",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-28Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Sonia_N"
+  },
+  "Story_Char_PECS_Sonia_N_24_PECS_Sadius_2": {
+    "StoryNo": 104,
+    "StoryFileName": "1002200346",
+    "StoryDesc": "1002200343",
+    "StoryFileCharIcon": "InvenIcon_PECS_Sadius_N",
+    "StoryFileNo": "2",
+    "StoryFile_Next": [
+      "Story_Char_PECS_Sonia_N_24_PECS_Sonia_3"
+    ],
+    "StartStoryDialog": "Cut_ChCS-28Stage02_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_PECS_Sonia_N_24_PECS_Sekhmet_1"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200349",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-28Stage02_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Sonia_N"
+  },
+  "Story_Char_PECS_Sonia_N_24_PECS_Sonia_3": {
+    "StoryNo": 105,
+    "StoryFileName": "1002200347",
+    "StoryDesc": "1002200344",
+    "StoryFileCharIcon": "InvenIcon_PECS_Sonia_N",
+    "StoryFileNo": "3",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-28Stage03_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_PECS_Sonia_N_24_PECS_Sadius_2"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200350",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-28Stage03_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Sonia_N"
+  },
+  "Story_Char_DS_KunoichiKaen_N_22_3P_Sowan_1": {
+    "StoryNo": 94,
+    "StoryFileName": "1002200313",
+    "StoryDesc": "1002200318",
+    "StoryFileCharIcon": "InvenIcon_3P_Sowan_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [
+      "Story_Char_DS_KunoichiKaen_N_22_3P_Alice_2"
+    ],
+    "StartStoryDialog": "Cut_ChCS-26Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 8,
+    "DgStartTriggerValue1": [
+      "Char_DS_KunoichiKaen_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "100"
+    ],
+    "DgStartTriggerString1": "1002200323",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-26Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_DS_KunoichiKaen_N"
+  },
+  "Story_Char_DS_KunoichiKaen_N_22_3P_Alice_2": {
+    "StoryNo": 95,
+    "StoryFileName": "1002200314",
+    "StoryDesc": "1002200319",
+    "StoryFileCharIcon": "InvenIcon_3P_Alice_N",
+    "StoryFileNo": "2",
+    "StoryFile_Next": [
+      "Story_Char_DS_KunoichiKaen_N_22_BR_Neodym_3"
+    ],
+    "StartStoryDialog": "Cut_ChCS-26Stage02_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_DS_KunoichiKaen_N_22_3P_Sowan_1"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200324",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-26Stage02_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_DS_KunoichiKaen_N"
+  },
+  "Story_Char_DS_KunoichiKaen_N_22_BR_Neodym_3": {
+    "StoryNo": 96,
+    "StoryFileName": "1002200315",
+    "StoryDesc": "1002200320",
+    "StoryFileCharIcon": "InvenIcon_BR_Neodym_N",
+    "StoryFileNo": "3",
+    "StoryFile_Next": [
+      "Story_Char_DS_KunoichiKaen_N_22_BR_Emily_4"
+    ],
+    "StartStoryDialog": "Cut_ChCS-26Stage03_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_DS_KunoichiKaen_N_22_3P_Alice_2"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200325",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-26Stage03_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_DS_KunoichiKaen_N"
+  },
+  "Story_Char_DS_KunoichiKaen_N_22_BR_Emily_4": {
+    "StoryNo": 97,
+    "StoryFileName": "1002200316",
+    "StoryDesc": "1002200321",
+    "StoryFileCharIcon": "InvenIcon_BR_Emily_N",
+    "StoryFileNo": "4",
+    "StoryFile_Next": [
+      "Story_Char_DS_KunoichiKaen_N_22_DS_KunoichiKaen_5"
+    ],
+    "StartStoryDialog": "Cut_ChCS-26Stage04_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_DS_KunoichiKaen_N_22_BR_Neodym_3"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200326",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-26Stage04_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_DS_KunoichiKaen_N"
+  },
+  "Story_Char_DS_KunoichiKaen_N_22_DS_KunoichiKaen_5": {
+    "StoryNo": 98,
+    "StoryFileName": "1002200317",
+    "StoryDesc": "1002200322",
+    "StoryFileCharIcon": "InvenIcon_DS_KunoichiKaen_N",
+    "StoryFileNo": "5",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-26Stage05_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_DS_KunoichiKaen_N_22_BR_Emily_4"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200327",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-26Stage05_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_DS_KunoichiKaen_N"
   }
 }

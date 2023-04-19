@@ -33624,5 +33624,28 @@
     "FuncParam5": "",
     "FuncSubParam5": "",
     "FuncRate5": ""
+  },
+  "CharTicket_Char_DS_KunoichiEnrai_N": {
+    "Desc": "\ucfe0\ub178\uc774\uce58 \uc5d4\ub77c\uc774\ub97c \uc9c0\uae09\ud569\ub2c8\ub2e4.",
+    "FuncType1": 0,
+    "FuncParam1": "Char_DS_KunoichiEnrai_N",
+    "FuncSubParam1": "1",
+    "FuncRate1": "1",
+    "FuncType2": 38,
+    "FuncParam2": "",
+    "FuncSubParam2": "",
+    "FuncRate2": "",
+    "FuncType3": 38,
+    "FuncParam3": "",
+    "FuncSubParam3": "",
+    "FuncRate3": "",
+    "FuncType4": 38,
+    "FuncParam4": "",
+    "FuncSubParam4": "",
+    "FuncRate4": "",
+    "FuncType5": 38,
+    "FuncParam5": "",
+    "FuncSubParam5": "",
+    "FuncRate5": ""
   }
 }

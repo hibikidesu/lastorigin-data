@@ -41376,7 +41376,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Ios1",
+    "FunctionIndex": "",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T1",
     "DropImg": [
       "0"
@@ -41403,7 +41403,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Ios2",
+    "FunctionIndex": "",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T2",
     "DropImg": [
       "0"
@@ -41538,7 +41538,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Aos3",
+    "FunctionIndex": "",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T3",
     "DropImg": [
       "0"
@@ -41646,7 +41646,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Ios1_30p",
+    "FunctionIndex": "",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T1",
     "DropImg": [
       "0"
@@ -41673,7 +41673,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Ios2_30p",
+    "FunctionIndex": "",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T2",
     "DropImg": [
       "0"
@@ -47775,7 +47775,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Aos7",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Aos3",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T3",
     "DropImg": [
       "0"

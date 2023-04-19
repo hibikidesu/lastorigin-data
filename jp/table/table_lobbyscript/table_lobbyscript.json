@@ -50894,9 +50894,9 @@
   "LobbyScript_BR_Scarabya_NS1": {
     "CharName": "Char_BR_Scarabya_N",
     "LobbyScript1": [
-      "1001405595",
-      "1001405603",
-      "1001405611"
+      "1001405661",
+      "1001405663",
+      "1001405665"
     ],
     "LobbyScript1FaceName": [
       "BR_Scarabya_NS1_Idle",
@@ -50909,9 +50909,9 @@
       "Voice_BR_Scarabya_NS1_Idle_01_03"
     ],
     "LobbyScript2": [
-      "1001405619",
-      "1001405603",
-      "1001405611"
+      "1001405667",
+      "1001405663",
+      "1001405665"
     ],
     "LobbyScript2FaceName": [
       "BR_Scarabya_NS1_Idle",
@@ -50924,9 +50924,9 @@
       "Voice_BR_Scarabya_NS1_Idle_01_03"
     ],
     "LobbyScript3": [
-      "1001405619",
-      "1001405603",
-      "1001405627"
+      "1001405667",
+      "1001405663",
+      "1001405669"
     ],
     "LobbyScript3FaceName": [
       "BR_Scarabya_NS1_Idle",
@@ -50939,9 +50939,9 @@
       "Voice_BR_Scarabya_NS1_Idle_03_01"
     ],
     "LobbyScript4": [
-      "1001405619",
-      "1001405635",
-      "1001405627"
+      "1001405667",
+      "1001405671",
+      "1001405669"
     ],
     "LobbyScript4FaceName": [
       "BR_Scarabya_NS1_Idle",
@@ -50958,7 +50958,7 @@
     "ReqFavorValueLobbyScript3": "",
     "ReqFavorValueLobbyScript4": "",
     "LobbyScriptSp1": [
-      "1001405643"
+      "1001405673"
     ],
     "LobbyScriptSp1FaceName": [
       "BR_Scarabya_NS1_Idle"
@@ -50967,7 +50967,7 @@
       "Voice_BR_Scarabya_NS1_SPIdle_01_01"
     ],
     "LobbyScriptSp2": [
-      "1001405651"
+      "1001405675"
     ],
     "LobbyScriptSp2FaceName": [
       "BR_Scarabya_NS1_Idle"
@@ -50976,7 +50976,7 @@
       "Voice_BR_Scarabya_NS1_SPIdle_02_01"
     ],
     "LobbyScriptMarriage": [
-      "1001405659"
+      "1001405677"
     ],
     "LobbyScripMarriageFaceName": [
       "BR_Scarabya_NS1_Idle"
@@ -50988,9 +50988,9 @@
   "LobbyScript_PECS_Babariana_NS2": {
     "CharName": "Char_PECS_Babariana_N",
     "LobbyScript1": [
-      "1001405594",
-      "1001405602",
-      "1001405610"
+      "1001405662",
+      "1001405664",
+      "1001405666"
     ],
     "LobbyScript1FaceName": [
       "PECS_Babariana_NS2_Idle",
@@ -51003,9 +51003,9 @@
       "Voice_PECS_Babariana_NS2_Idle_01_03"
     ],
     "LobbyScript2": [
-      "1001405618",
-      "1001405602",
-      "1001405610"
+      "1001405668",
+      "1001405664",
+      "1001405666"
     ],
     "LobbyScript2FaceName": [
       "PECS_Babariana_NS2_Idle",
@@ -51018,9 +51018,9 @@
       "Voice_PECS_Babariana_NS2_Idle_01_03"
     ],
     "LobbyScript3": [
-      "1001405618",
-      "1001405602",
-      "1001405626"
+      "1001405668",
+      "1001405664",
+      "1001405670"
     ],
     "LobbyScript3FaceName": [
       "PECS_Babariana_NS2_Idle",
@@ -51033,9 +51033,9 @@
       "Voice_PECS_Babariana_NS2_Idle_03_01"
     ],
     "LobbyScript4": [
-      "1001405618",
-      "1001405634",
-      "1001405626"
+      "1001405668",
+      "1001405672",
+      "1001405670"
     ],
     "LobbyScript4FaceName": [
       "PECS_Babariana_NS2_Idle",
@@ -51052,7 +51052,7 @@
     "ReqFavorValueLobbyScript3": "",
     "ReqFavorValueLobbyScript4": "",
     "LobbyScriptSp1": [
-      "1001405642"
+      "1001405674"
     ],
     "LobbyScriptSp1FaceName": [
       "PECS_Babariana_NS2_Idle"
@@ -51061,7 +51061,7 @@
       "Voice_PECS_Babariana_NS2_SPIdle_01_01"
     ],
     "LobbyScriptSp2": [
-      "1001405650"
+      "1001405676"
     ],
     "LobbyScriptSp2FaceName": [
       "PECS_Babariana_NS2_Idle"
@@ -51070,7 +51070,7 @@
       "Voice_PECS_Babariana_NS2_SPIdle_02_01"
     ],
     "LobbyScriptMarriage": [
-      "1001405658"
+      "1001405678"
     ],
     "LobbyScripMarriageFaceName": [
       "PECS_Babariana_NS2_Idle"
@@ -51359,6 +51359,194 @@
     ],
     "LobbyScriptMarriageVoiceName": [
       "Voice_BR_Tomoe_OathIdle_01"
+    ]
+  },
+  "LobbyScript_DS_KunoichiEnrai": {
+    "CharName": "Char_DS_KunoichiEnrai_N",
+    "LobbyScript1": [
+      "1001405972",
+      "1001405973",
+      "1001405974"
+    ],
+    "LobbyScript1FaceName": [
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_01_01",
+      "Voice_DS_KunoichiEnrai_Idle_01_02",
+      "Voice_DS_KunoichiEnrai_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001405975",
+      "1001405973",
+      "1001405974"
+    ],
+    "LobbyScript2FaceName": [
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_02_01",
+      "Voice_DS_KunoichiEnrai_Idle_01_02",
+      "Voice_DS_KunoichiEnrai_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001405975",
+      "1001405973",
+      "1001405976"
+    ],
+    "LobbyScript3FaceName": [
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_02_01",
+      "Voice_DS_KunoichiEnrai_Idle_01_02",
+      "Voice_DS_KunoichiEnrai_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001405975",
+      "1001405977",
+      "1001405976"
+    ],
+    "LobbyScript4FaceName": [
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle",
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_02_01",
+      "Voice_DS_KunoichiEnrai_Idle_04_01",
+      "Voice_DS_KunoichiEnrai_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001405978"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_DS_KunoichiEnrai_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001405979"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_DS_KunoichiEnrai_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001405980"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "DS_KunoichiEnrai_N_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_DS_KunoichiEnrai_OathIdle_01"
+    ]
+  },
+  "LobbyScript_DS_KunoichiEnrai_MR": {
+    "CharName": "Char_DS_KunoichiEnrai_N",
+    "LobbyScript1": [
+      "1001405981",
+      "1001405982",
+      "1001405983"
+    ],
+    "LobbyScript1FaceName": [
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_DS_KunoichiEnrai_Marriage_Idle_01_01",
+      "Voice_DS_KunoichiEnrai_Marriage_Idle_01_02",
+      "Voice_DS_KunoichiEnrai_Marriage_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001405981",
+      "1001405982",
+      "1001405983"
+    ],
+    "LobbyScript2FaceName": [
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_02_01",
+      "Voice_DS_KunoichiEnrai_Marriage_Idle_01_02",
+      "Voice_DS_KunoichiEnrai_Marriage_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001405981",
+      "1001405982",
+      "1001405982"
+    ],
+    "LobbyScript3FaceName": [
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_02_01",
+      "Voice_DS_KunoichiEnrai_Marriage_Idle_01_02",
+      "Voice_DS_KunoichiEnrai_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001405981",
+      "1001405983",
+      "1001405982"
+    ],
+    "LobbyScript4FaceName": [
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle",
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_DS_KunoichiEnrai_Idle_02_01",
+      "Voice_DS_KunoichiEnrai_Idle_04_01",
+      "Voice_DS_KunoichiEnrai_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001405984"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_DS_KunoichiEnrai_Marriage_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001405984"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_DS_KunoichiEnrai_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "0"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "DS_KunoichiEnrai_MR_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_DS_KunoichiEnrai_OathIdle_01"
     ]
   }
 }
