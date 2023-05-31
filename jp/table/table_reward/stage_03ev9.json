@@ -24,13 +24,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      3000,
+      20,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA"
+      "Consumable_OriginDustAdv"
     ],
     "ItemRate": [
       "1"
@@ -65,13 +65,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      3000,
+      60,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA"
+      "Consumable_TacticRecord"
     ],
     "ItemRate": [
       "1"
@@ -106,13 +106,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      4000,
+      8,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA"
+      "Consumable_TacticRecord_T2"
     ],
     "ItemRate": [
       "1"
@@ -147,13 +147,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      5000,
+      2,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA"
+      "Consumable_TacticRecord_T3"
     ],
     "ItemRate": [
       "1"

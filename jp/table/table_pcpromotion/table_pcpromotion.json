@@ -2338,5 +2338,25 @@
       150
     ],
     "CharSkin_Activate": "Skin_Char_DS_KunoichiZero_G5"
+  },
+  "Promotion_Char_3P_Galatea_N_4": {
+    "Promotion_CharIdx": "Char_3P_Galatea_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_3P_Galatea_G5"
   }
 }

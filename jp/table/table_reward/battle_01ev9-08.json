@@ -24,18 +24,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
       "RobotParts_MPParts",
@@ -43,8 +41,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -93,18 +89,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
       "RobotParts_MPParts",
@@ -112,8 +106,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -162,18 +154,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
       "RobotParts_MPParts",
@@ -181,8 +171,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -231,18 +219,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
       "RobotParts_MPParts",
@@ -250,8 +236,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -300,18 +284,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
       "RobotParts_MPParts",
@@ -319,8 +301,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -369,18 +349,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
       "RobotParts_MPParts",
@@ -388,8 +366,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -438,18 +414,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T3",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
@@ -458,8 +432,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.04",
       "0.1",
@@ -509,18 +481,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T3",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
@@ -529,8 +499,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.04",
       "0.1",
@@ -580,18 +548,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T3",
       "Equip_System_AntiTrooper_T2",
       "Equip_System_AntiTrooper_T1",
@@ -600,8 +566,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.04",
       "0.1",
@@ -651,7 +615,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
@@ -659,18 +622,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T4",
       "Equip_System_AntiTrooper_T3",
       "Equip_System_AntiTrooper_T2",
@@ -680,8 +634,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.02",
       "0.04",
@@ -732,7 +684,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
@@ -740,18 +691,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T4",
       "Equip_System_AntiTrooper_T3",
       "Equip_System_AntiTrooper_T2",
@@ -761,8 +703,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.02",
       "0.04",
@@ -813,7 +753,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
       1,
       1,
       1,
@@ -821,18 +760,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiTrooper_T4",
       "Equip_System_AntiTrooper_T3",
       "Equip_System_AntiTrooper_T2",
@@ -842,8 +772,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.02",
       "0.04",

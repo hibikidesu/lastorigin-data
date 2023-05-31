@@ -1240,5 +1240,17 @@
     "CutIn_Condition": 0,
     "CutIn_Condition_Value": "Skill_DS_KunoichiEnrai_N_2",
     "CutIn_Img": "0"
+  },
+  "CutIn_Char_3P_Galatea_N_0Skill_3P_Galatea_N_2": {
+    "CutIn_CharKey": "Char_3P_Galatea_N",
+    "CutIn_Condition": 0,
+    "CutIn_Condition_Value": "Skill_3P_Galatea_N_2",
+    "CutIn_Img": "0"
+  },
+  "CutIn_Char_DS_Cloverace_N_0Skill_DS_Cloverace_N_2": {
+    "CutIn_CharKey": "Char_DS_Cloverace_N",
+    "CutIn_Condition": 0,
+    "CutIn_Condition_Value": "Skill_DS_Cloverace_N_2",
+    "CutIn_Img": "0"
   }
 }

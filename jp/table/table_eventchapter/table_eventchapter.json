@@ -105,7 +105,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_ValentineChocoQueen",
     "Chapter_Key": "Chapter_01Ev6",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_10": {
     "Event_Category": "Open_Event06",
@@ -117,7 +117,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_ValentineChocoQueen",
     "Chapter_Key": "Chapter_02Ev6",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_11": {
     "Event_Category": "Open_Event07",
@@ -189,7 +189,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_WinterParadise",
     "Chapter_Key": "Chapter_01Ev9",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_17": {
     "Event_Category": "Open_Event09",
@@ -201,7 +201,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_WinterParadise",
     "Chapter_Key": "Chapter_02Ev9",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_18": {
     "Event_Category": "Open_Event09",
@@ -213,7 +213,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_WinterParadise",
     "Chapter_Key": "Chapter_03Ev9",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_19": {
     "Event_Category": "Open_Event10",
@@ -369,7 +369,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2022_AprilFool",
     "Chapter_Key": "Chapter_01Ev15",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_32": {
     "Event_Category": "Open_Event16",
@@ -381,7 +381,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2022_Spring",
     "Chapter_Key": "Chapter_01Ev16",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 1
   },
   "Event_Chapter_33": {
     "Event_Category": "Open_Event17",

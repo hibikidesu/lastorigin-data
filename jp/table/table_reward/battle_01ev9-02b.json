@@ -24,18 +24,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -43,8 +41,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "0.55",
       "0.55",
@@ -93,18 +89,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -112,8 +106,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "0.55",
       "0.55",
@@ -162,18 +154,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -181,8 +171,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "0.55",
       "0.55",
@@ -231,18 +219,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -250,8 +236,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "0.55",
       "0.55",
@@ -300,18 +284,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -319,8 +301,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "0.55",
       "0.55",
@@ -369,18 +349,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -388,8 +366,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "0.55",
       "0.55",
@@ -438,18 +414,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -457,8 +431,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "1",
       "1",
@@ -507,18 +479,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -526,8 +496,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "1",
       "1",
@@ -576,18 +544,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "RobotParts_MPParts",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -595,8 +561,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "1",
       "1",
       "1",

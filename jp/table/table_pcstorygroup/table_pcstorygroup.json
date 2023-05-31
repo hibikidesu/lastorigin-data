@@ -352,5 +352,70 @@
       "Story_Char_DS_KunoichiKaen_N_22_BR_Emily_4",
       "Story_Char_DS_KunoichiKaen_N_22_DS_KunoichiKaen_5"
     ]
+  },
+  "PCStory_CH_DS_KunoichiEnrai_1": {
+    "StoryType": 0,
+    "StoryName": "1002200457",
+    "PCInvenIcon": "InvenIcon_DS_KunoichiEnrai_N",
+    "PCName": "1002100267",
+    "SquadStoryIcon": "UI_TroopIcon_Dentertainment",
+    "SquadStoryString": "Squad_Story_Name_Dentertainment",
+    "PCStoryNo": 32,
+    "PCStoryIndex": [
+      "Story_Char_DS_KunoichiEnrai_N_32_DS_KunoichiEnrai_1",
+      "Story_Char_DS_KunoichiEnrai_N_32_BR_Hraesvelgr_2",
+      "Story_Char_DS_KunoichiEnrai_N_32_DS_Arman_3",
+      "Story_Char_DS_KunoichiEnrai_N_32_DS_MoMo_4",
+      "Story_Char_DS_KunoichiEnrai_N_32_DS_Baekto_5",
+      "Story_Char_DS_KunoichiEnrai_N_32_DS_KunoichiEnrai_6"
+    ]
+  },
+  "PCStory_CH_3P_Hirume_2": {
+    "StoryType": 0,
+    "StoryName": "1002200672",
+    "PCInvenIcon": "InvenIcon_3P_Hirume_NS3",
+    "PCName": "1002100233",
+    "SquadStoryIcon": "UI_TroopIcon_BettleMaid",
+    "SquadStoryString": "Squad_Story_Name_BettleMaid",
+    "PCStoryNo": 47,
+    "PCStoryIndex": [
+      "Story_Char_3P_Hirume_N_47_3P_Hirume_1",
+      "Story_Char_3P_Hirume_N_47_PECS_Leanne_2",
+      "Story_Char_3P_Hirume_N_47_BR_Marie_3",
+      "Story_Char_3P_Hirume_N_47_3P_Hirume_4",
+      "Story_Char_3P_Hirume_N_47_PECS_Spartoia_5",
+      "Story_Char_3P_Hirume_N_47_3P_Hirume_6"
+    ]
+  },
+  "PCStory_CH_BR_InvDragon_1": {
+    "StoryType": 0,
+    "StoryName": "1002200328",
+    "PCInvenIcon": "InvenIcon_BR_InvDragon_N",
+    "PCName": "1000615432",
+    "SquadStoryIcon": "UI_TroopIcon_Horizon",
+    "SquadStoryString": "Squad_Story_Name_Horizon",
+    "PCStoryNo": 23,
+    "PCStoryIndex": [
+      "Story_Char_BR_InvDragon_N_23_BR_Sirene_1",
+      "Story_Char_BR_InvDragon_N_23_BR_Nereid_2",
+      "Story_Char_BR_InvDragon_N_23_BR_Undine_3",
+      "Story_Char_BR_InvDragon_N_23_BR_InvDragon_4"
+    ]
+  },
+  "PCStory_CH_DS_Cloverace_1": {
+    "StoryType": 0,
+    "StoryName": "1002200425",
+    "PCInvenIcon": "InvenIcon_DS_Cloverace_N",
+    "PCName": "PCName_Char_DS_Cloverace_N",
+    "SquadStoryIcon": "UI_TroopIcon_Dentertainment",
+    "SquadStoryString": "Squad_Story_Name_Dentertainment",
+    "PCStoryNo": 30,
+    "PCStoryIndex": [
+      "Story_Char_DS_Cloverace_N_30_DS_Cloverace_1",
+      "Story_Char_DS_Cloverace_N_30_DS_Cloverace_2",
+      "Story_Char_DS_Cloverace_N_30_DS_Cloverace_3",
+      "Story_Char_DS_Cloverace_N_30_DS_Arman_4",
+      "Story_Char_DS_Cloverace_N_30_DS_Cloverace_5"
+    ]
   }
 }

@@ -30,7 +30,8 @@
     "Squad_Idx": 4,
     "Story_Group": [
       "PCStory_CH_3P_ConstantiaS2_1",
-      "PCStory_CH_3P_Hirume_1"
+      "PCStory_CH_3P_Hirume_1",
+      "PCStory_CH_3P_Hirume_2"
     ],
     "Squad_Icon": "UI_TroopIcon_BettleMaid",
     "Squad_Name": "1002900004",
@@ -152,7 +153,8 @@
       "PCStory_CH_DS_Baekto_1",
       "PCStory_CH_DS_KunoichiKaen_1",
       "PCStory_CH_AGS_Goltarion_1",
-      "PCStory_CH_DS_Johanna_1"
+      "PCStory_CH_DS_Johanna_1",
+      "PCStory_CH_DS_Cloverace_1"
     ],
     "Squad_Icon": "UI_TroopIcon_Dentertainment",
     "Squad_Name": "1002900018",

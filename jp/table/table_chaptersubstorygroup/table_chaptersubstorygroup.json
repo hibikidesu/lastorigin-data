@@ -281,5 +281,129 @@
     "NumberOfStory": 5,
     "PCName": "StoryGroupName_Chapter_02Ev14_DS_Faucre_6",
     "PCInvenIconID": "InvenIcon_DS_Faucre_N"
+  },
+  "SubStory_Chapter_01Ev16_DS_Angel": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 1,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_DS_Angel_No1",
+      "SubStory_Chapter_01Ev16_DS_Angel_No2",
+      "SubStory_Chapter_01Ev16_DS_Angel_No3",
+      "SubStory_Chapter_01Ev16_DS_Angel_No4",
+      "SubStory_Chapter_01Ev16_DS_Angel_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_DS_Angel_1",
+    "PCInvenIconID": "InvenIcon_DS_Angel_N"
+  },
+  "SubStory_Chapter_01Ev16_PECS_Orangeade": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 2,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_PECS_Orangeade_No1",
+      "SubStory_Chapter_01Ev16_PECS_Orangeade_No2",
+      "SubStory_Chapter_01Ev16_PECS_Orangeade_No3",
+      "SubStory_Chapter_01Ev16_PECS_Orangeade_No4"
+    ],
+    "NumberOfStory": 4,
+    "PCName": "StoryGroupName_Chapter_01Ev16_PECS_Orangeade_2",
+    "PCInvenIconID": "InvenIcon_PECS_Orangeade_N"
+  },
+  "SubStory_Chapter_01Ev16_PECS_Spartoia": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 3,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_PECS_Spartoia_No1",
+      "SubStory_Chapter_01Ev16_PECS_Spartoia_No2",
+      "SubStory_Chapter_01Ev16_PECS_Spartoia_No3",
+      "SubStory_Chapter_01Ev16_PECS_Spartoia_No4",
+      "SubStory_Chapter_01Ev16_PECS_Spartoia_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_PECS_Spartoia_3",
+    "PCInvenIconID": "InvenIcon_PECS_Spartoia_N"
+  },
+  "SubStory_Chapter_01Ev16_BR_Habetrot": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 4,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_BR_Habetrot_No1",
+      "SubStory_Chapter_01Ev16_BR_Habetrot_No2",
+      "SubStory_Chapter_01Ev16_BR_Habetrot_No3",
+      "SubStory_Chapter_01Ev16_BR_Habetrot_No4",
+      "SubStory_Chapter_01Ev16_BR_Habetrot_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_BR_Habetrot_4",
+    "PCInvenIconID": "InvenIcon_BR_Habetrot_N"
+  },
+  "SubStory_Chapter_01Ev16_BR_QuickCamel": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 5,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_BR_QuickCamel_No1",
+      "SubStory_Chapter_01Ev16_BR_QuickCamel_No2",
+      "SubStory_Chapter_01Ev16_BR_QuickCamel_No3",
+      "SubStory_Chapter_01Ev16_BR_QuickCamel_No4",
+      "SubStory_Chapter_01Ev16_BR_QuickCamel_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_BR_QuickCamel_5",
+    "PCInvenIconID": "InvenIcon_BR_QuickCamel_N"
+  },
+  "SubStory_Chapter_01Ev16_BR_Amy": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 6,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_BR_Amy_No1",
+      "SubStory_Chapter_01Ev16_BR_Amy_No2",
+      "SubStory_Chapter_01Ev16_BR_Amy_No3",
+      "SubStory_Chapter_01Ev16_BR_Amy_No4"
+    ],
+    "NumberOfStory": 4,
+    "PCName": "StoryGroupName_Chapter_01Ev16_BR_Amy_6",
+    "PCInvenIconID": "InvenIcon_BR_Amy_N"
+  },
+  "SubStory_Chapter_01Ev16_3P_Frigga": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 7,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_3P_Frigga_No1",
+      "SubStory_Chapter_01Ev16_3P_Frigga_No2",
+      "SubStory_Chapter_01Ev16_3P_Frigga_No3",
+      "SubStory_Chapter_01Ev16_3P_Frigga_No4",
+      "SubStory_Chapter_01Ev16_3P_Frigga_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_3P_Frigga_7",
+    "PCInvenIconID": "InvenIcon_3P_Frigga_N"
+  },
+  "SubStory_Chapter_01Ev16_BR_Daika": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 8,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_BR_Daika_No1",
+      "SubStory_Chapter_01Ev16_BR_Daika_No2",
+      "SubStory_Chapter_01Ev16_BR_Daika_No3",
+      "SubStory_Chapter_01Ev16_BR_Daika_No4",
+      "SubStory_Chapter_01Ev16_BR_Daika_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_BR_Daika_8",
+    "PCInvenIconID": "InvenIcon_BR_Daika_N"
+  },
+  "SubStory_Chapter_01Ev16_BR_Bulgasari": {
+    "ChapterIndex": "Chapter_01Ev16",
+    "StoryPCNo": 9,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_01Ev16_BR_Bulgasari_No1",
+      "SubStory_Chapter_01Ev16_BR_Bulgasari_No2",
+      "SubStory_Chapter_01Ev16_BR_Bulgasari_No3",
+      "SubStory_Chapter_01Ev16_BR_Bulgasari_No4",
+      "SubStory_Chapter_01Ev16_BR_Bulgasari_No5"
+    ],
+    "NumberOfStory": 5,
+    "PCName": "StoryGroupName_Chapter_01Ev16_BR_Bulgasari_9",
+    "PCInvenIconID": "InvenIcon_BR_Bulgasari_N"
   }
 }

@@ -262,7 +262,8 @@
       "Char_DS_Johanna_N",
       "Char_DS_MoMo_N",
       "Char_DS_Atalanta_N",
-      "Char_DS_Charlotte_N"
+      "Char_DS_Charlotte_N",
+      "Char_DS_Cloverace_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -634,7 +635,8 @@
     "Squad_Name": "1002900066",
     "Squad_Desc": "",
     "Squad_Member": [
-      "Char_PECS_Boryeon_N"
+      "Char_PECS_Boryeon_N",
+      "Char_PECS_Erato_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9
@@ -707,7 +709,9 @@
     "Squad_Desc": "",
     "Squad_Member": [
       "Char_3P_Amphitrite_N",
-      "Char_3P_Salacia_N"
+      "Char_3P_Salacia_N",
+      "Char_3P_Galatea_N",
+      "Char_3P_Melite_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

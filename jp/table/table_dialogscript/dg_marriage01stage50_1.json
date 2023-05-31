@@ -41,7 +41,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "16 BGM_Marriage_01"
+    "Bgm_Sound": "16 BGM_Marriage_01",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_2": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -85,7 +86,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_3": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -129,7 +131,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_4": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -173,7 +176,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_5": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -217,7 +221,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "17 BGM_Marriage_02"
+    "Bgm_Sound": "17 BGM_Marriage_02",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_6": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -263,7 +268,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_7": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -307,7 +313,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_8": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -353,7 +360,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "Char_3P_Hachiko_N_Voice",
     "Script_VoiceName": "Voice_3P_Hachiko_Oath",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Marriage01Stage50_1_9": {
     "Dialog_Group": "DG_Marriage01Stage50_1",
@@ -397,6 +405,7 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   }
 }

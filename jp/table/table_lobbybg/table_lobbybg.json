@@ -496,5 +496,23 @@
     "BG_OpenType": 0,
     "OpenCheckString": [],
     "Open_Desc": ""
+  },
+  "LobbyBG_35": {
+    "BG_Name": "1001500141",
+    "BG_Desc": "1001500142",
+    "BG_UnlockItem": "Consumable_BG_35",
+    "BG_Prefab": "BG_Preset_35",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_35",
+    "BG_Icon": "UI_ICON_BG_35",
+    "BG_MiniIcon": "UI_ICON_BG_35",
+    "BG_OpenType": 1,
+    "OpenCheckString": [
+      "Skin_3P_Hirume_3"
+    ],
+    "Open_Desc": "1001500140"
   }
 }

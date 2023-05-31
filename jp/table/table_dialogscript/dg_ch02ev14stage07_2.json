@@ -41,7 +41,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "24 BGM_Noire_02"
+    "Bgm_Sound": "24 BGM_Noire_02",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_2": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -85,7 +86,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_3": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -129,7 +131,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_4": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -173,7 +176,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_5": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -217,7 +221,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_6": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -261,7 +266,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_7": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -305,7 +311,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev14Stage07_2_8": {
     "Dialog_Group": "DG_Ch02Ev14Stage07_2",
@@ -349,6 +356,7 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   }
 }

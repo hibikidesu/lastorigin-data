@@ -24,18 +24,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T2",
       "Equip_System_AntiAir_T1",
       "RobotParts_MPParts",
@@ -43,8 +41,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -93,18 +89,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T2",
       "Equip_System_AntiAir_T1",
       "RobotParts_MPParts",
@@ -112,8 +106,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -162,18 +154,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
-      1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T2",
       "Equip_System_AntiAir_T1",
       "RobotParts_MPParts",
@@ -181,8 +171,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.1",
       "1",
@@ -231,18 +219,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T3",
       "Equip_System_AntiAir_T2",
       "Equip_System_AntiAir_T1",
@@ -251,8 +237,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.04",
       "0.1",
@@ -302,18 +286,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T3",
       "Equip_System_AntiAir_T2",
       "Equip_System_AntiAir_T1",
@@ -322,8 +304,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.04",
       "0.1",
@@ -373,18 +353,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
       1,
       1,
       1,
-      1
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T3",
       "Equip_System_AntiAir_T2",
       "Equip_System_AntiAir_T1",
@@ -393,8 +371,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.04",
       "0.1",
@@ -444,7 +420,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
@@ -452,18 +427,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T4",
       "Equip_System_AntiAir_T3",
       "Equip_System_AntiAir_T2",
@@ -473,8 +439,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.02",
       "0.04",
@@ -525,7 +489,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
@@ -533,18 +496,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T4",
       "Equip_System_AntiAir_T3",
       "Equip_System_AntiAir_T2",
@@ -554,8 +508,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.02",
       "0.04",
@@ -606,7 +558,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      42,
       1,
       1,
       1,
@@ -614,18 +565,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_BatteryAA",
-      "Ev_Consumable_BatteryFC-1",
       "Equip_System_AntiAir_T4",
       "Equip_System_AntiAir_T3",
       "Equip_System_AntiAir_T2",
@@ -635,8 +577,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.02",
       "0.04",

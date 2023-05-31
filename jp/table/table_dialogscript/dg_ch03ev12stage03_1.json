@@ -41,7 +41,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_2": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -89,7 +90,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_3": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -133,7 +135,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_4": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -177,7 +180,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "20 BGM_Summer_02"
+    "Bgm_Sound": "20 BGM_Summer_02",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_5": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -221,7 +225,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_6": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -269,7 +274,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_7": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -313,7 +319,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_8": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -357,7 +364,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_9": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -401,7 +409,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_10": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -445,7 +454,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_11": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -489,7 +499,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_12": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -533,7 +544,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_13": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -581,7 +593,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_14": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -625,7 +638,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_15": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -673,7 +687,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_16": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -721,7 +736,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_17": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -765,7 +781,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_18": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -813,7 +830,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_19": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -857,7 +875,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_20": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -901,7 +920,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_21": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -945,7 +965,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_22": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -989,7 +1010,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "15 BGM_Empty"
+    "Bgm_Sound": "15 BGM_Empty",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_23": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1037,7 +1059,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_24": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1081,7 +1104,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_25": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1133,7 +1157,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_26": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1177,7 +1202,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_27": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1221,7 +1247,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_28": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1265,7 +1292,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_29": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1313,7 +1341,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_30": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1357,7 +1386,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_31": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1401,7 +1431,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_32": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1449,7 +1480,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_33": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1493,7 +1525,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_34": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1541,7 +1574,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_35": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1589,7 +1623,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_36": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1633,7 +1668,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_37": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1677,7 +1713,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_38": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1725,7 +1762,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_39": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1769,7 +1807,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_40": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1813,7 +1852,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_41": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1861,7 +1901,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_42": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1905,7 +1946,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "17 BGM_Marriage_02"
+    "Bgm_Sound": "17 BGM_Marriage_02",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_43": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -1953,7 +1995,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_44": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2001,7 +2044,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_45": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2045,7 +2089,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_46": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2089,7 +2134,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_47": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2133,7 +2179,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_48": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2177,7 +2224,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_49": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2221,7 +2269,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_50": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2265,7 +2314,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_51": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2309,7 +2359,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_52": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2353,7 +2404,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_53": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2401,7 +2453,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_54": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2445,7 +2498,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_55": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2489,7 +2543,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_56": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2533,7 +2588,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_57": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2577,7 +2633,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_58": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2625,7 +2682,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_59": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2673,7 +2731,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_60": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2717,7 +2776,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_61": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2761,7 +2821,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_62": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2805,7 +2866,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_63": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2853,7 +2915,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_64": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2897,7 +2960,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_65": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2941,7 +3005,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_66": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -2985,7 +3050,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_67": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3029,7 +3095,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_68": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3073,7 +3140,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_69": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3117,7 +3185,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_70": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3161,7 +3230,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_71": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3205,7 +3275,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_72": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3249,7 +3320,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_73": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3293,7 +3365,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_74": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3337,7 +3410,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_75": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3381,7 +3455,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_76": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3429,7 +3504,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_77": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3473,7 +3549,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_78": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3521,7 +3598,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "15 BGM_Empty"
+    "Bgm_Sound": "15 BGM_Empty",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_79": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3565,7 +3643,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_80": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3613,7 +3692,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "11 BGM_Talk_05"
+    "Bgm_Sound": "11 BGM_Talk_05",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_81": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3657,7 +3737,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_82": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3701,7 +3782,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_83": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3745,7 +3827,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_84": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3793,7 +3876,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_85": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3837,7 +3921,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_86": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3881,7 +3966,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_87": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3929,7 +4015,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_88": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -3977,7 +4064,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_89": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4021,7 +4109,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_90": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4069,7 +4158,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_91": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4113,7 +4203,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_92": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4157,7 +4248,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_93": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4201,7 +4293,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_94": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4249,7 +4342,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_95": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4297,7 +4391,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_96": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4341,7 +4436,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_97": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4385,7 +4481,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_98": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4433,7 +4530,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_99": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4477,7 +4575,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_100": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4521,7 +4620,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_101": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4569,7 +4669,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_102": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4617,7 +4718,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_103": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4665,7 +4767,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_104": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4713,7 +4816,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_105": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4757,7 +4861,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_106": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4805,7 +4910,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_107": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4849,7 +4955,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_108": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4897,7 +5004,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_109": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4941,7 +5049,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_110": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -4985,7 +5094,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_111": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5029,7 +5139,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_112": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5073,7 +5184,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_113": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5117,7 +5229,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_114": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5165,7 +5278,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_115": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5209,7 +5323,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_116": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5253,7 +5368,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_117": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5301,7 +5417,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_118": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5349,7 +5466,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_119": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5397,7 +5515,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_120": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5445,7 +5564,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_121": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5489,7 +5609,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_122": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5533,7 +5654,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_123": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5577,7 +5699,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_124": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5625,7 +5748,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_125": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5669,7 +5793,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_126": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5717,7 +5842,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_127": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5761,7 +5887,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_128": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5805,7 +5932,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_129": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5849,7 +5977,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_130": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5893,7 +6022,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_131": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5937,7 +6067,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_132": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -5985,7 +6116,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_133": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6033,7 +6165,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_134": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6077,7 +6210,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_135": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6121,7 +6255,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_136": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6169,7 +6304,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_137": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6213,7 +6349,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_138": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6265,7 +6402,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_139": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6309,7 +6447,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_140": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6353,7 +6492,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_141": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6397,7 +6537,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_142": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6445,7 +6586,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_143": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6489,7 +6631,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_144": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6533,7 +6676,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_145": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6581,7 +6725,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_146": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6625,7 +6770,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_147": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6673,7 +6819,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_148": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6721,7 +6868,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_149": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6765,7 +6913,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_150": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6813,7 +6962,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_151": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6857,7 +7007,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_152": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6901,7 +7052,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_153": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6945,7 +7097,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "18 BGM_Forest_of_Elves"
+    "Bgm_Sound": "18 BGM_Forest_of_Elves",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_154": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -6989,7 +7142,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_155": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7033,7 +7187,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_156": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7081,7 +7236,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_157": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7125,7 +7281,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_158": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7169,7 +7326,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_159": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7217,7 +7375,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_160": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7261,7 +7420,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_161": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7305,7 +7465,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_162": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7349,7 +7510,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_163": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7393,7 +7555,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_164": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7441,7 +7604,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_165": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7489,7 +7653,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_166": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7537,7 +7702,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_167": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7585,7 +7751,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_168": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7629,7 +7796,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_169": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7677,7 +7845,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_170": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7721,7 +7890,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_171": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7769,7 +7939,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_172": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7813,7 +7984,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_173": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7857,7 +8029,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_174": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7901,7 +8074,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_175": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7945,7 +8119,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_176": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -7989,7 +8164,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_177": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8033,7 +8209,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_178": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8077,7 +8254,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_179": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8121,7 +8299,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_180": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8169,7 +8348,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_181": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8213,7 +8393,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_182": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8257,7 +8438,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "19 BGM_Summer_01"
+    "Bgm_Sound": "19 BGM_Summer_01",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_183": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8301,7 +8483,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_184": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8345,7 +8528,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_185": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8389,7 +8573,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_186": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8437,7 +8622,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_187": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8481,7 +8667,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_188": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8525,7 +8712,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_189": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8569,7 +8757,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_190": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8613,7 +8802,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_191": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8657,7 +8847,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_192": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8701,7 +8892,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_193": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8745,7 +8937,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_194": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8789,7 +8982,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_195": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8833,7 +9027,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_196": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8877,7 +9072,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_197": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8921,7 +9117,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_198": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -8965,7 +9162,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_199": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9013,7 +9211,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_200": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9061,7 +9260,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_201": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9105,7 +9305,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_202": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9149,7 +9350,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_203": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9193,7 +9395,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_204": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9237,7 +9440,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_205": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9281,7 +9485,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_206": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9325,7 +9530,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_207": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9369,7 +9575,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_208": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9417,7 +9624,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_209": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9461,7 +9669,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_210": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9509,7 +9718,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_211": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9557,7 +9767,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_212": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9605,7 +9816,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_213": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9649,7 +9861,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_214": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9693,7 +9906,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_215": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9737,7 +9951,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_216": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9785,7 +10000,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_217": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9833,7 +10049,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "12 BGM_Battle_03"
+    "Bgm_Sound": "12 BGM_Battle_03",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_218": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9877,7 +10094,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_219": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9921,7 +10139,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_220": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -9965,7 +10184,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_221": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10013,7 +10233,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_222": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10057,7 +10278,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_223": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10101,7 +10323,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_224": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10145,7 +10368,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_225": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10189,7 +10413,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_226": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10233,7 +10458,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_227": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10281,7 +10507,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_228": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10325,7 +10552,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_229": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10369,7 +10597,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_230": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10413,7 +10642,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_231": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10457,7 +10687,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_232": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10501,7 +10732,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_233": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10545,7 +10777,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_234": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10589,7 +10822,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_235": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10637,7 +10871,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_236": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10681,7 +10916,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_237": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10733,7 +10969,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_238": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10777,7 +11014,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_239": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10821,7 +11059,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_240": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10869,7 +11108,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_241": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10913,7 +11153,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_242": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -10961,7 +11202,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "20 BGM_Summer_02"
+    "Bgm_Sound": "20 BGM_Summer_02",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_243": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11005,7 +11247,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_244": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11049,7 +11292,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_245": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11097,7 +11341,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_246": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11141,7 +11386,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_247": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11185,7 +11431,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_248": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11233,7 +11480,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_249": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11277,7 +11525,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_250": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11321,7 +11570,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_251": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11365,7 +11615,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_252": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11409,7 +11660,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_253": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11453,7 +11705,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_254": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11497,7 +11750,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_255": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11541,7 +11795,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_256": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11585,7 +11840,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_257": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11633,7 +11889,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_258": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11681,7 +11938,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_259": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11725,7 +11983,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_260": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11769,7 +12028,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_261": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11813,7 +12073,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_262": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11857,7 +12118,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_263": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11901,7 +12163,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_264": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11945,7 +12208,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_265": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -11989,7 +12253,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_266": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12033,7 +12298,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_267": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12077,7 +12343,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_268": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12121,7 +12388,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_269": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12169,7 +12437,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_270": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12213,7 +12482,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_271": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12257,7 +12527,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "15 BGM_Empty"
+    "Bgm_Sound": "15 BGM_Empty",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_272": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12301,7 +12572,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_273": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12345,7 +12617,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_274": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12389,7 +12662,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_275": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12433,7 +12707,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_276": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12477,7 +12752,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_277": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12525,7 +12801,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_278": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12569,7 +12846,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_279": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12617,7 +12895,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_280": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12661,7 +12940,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_281": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12705,7 +12985,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_282": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12749,7 +13030,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_283": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12797,7 +13079,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_284": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12845,7 +13128,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_285": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12889,7 +13173,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_286": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12933,7 +13218,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_287": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -12977,7 +13263,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "15 BGM_Empty"
+    "Bgm_Sound": "15 BGM_Empty",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_288": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13021,7 +13308,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_289": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13065,7 +13353,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_290": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13109,7 +13398,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_291": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13153,7 +13443,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_292": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13197,7 +13488,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_293": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13245,7 +13537,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_294": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13289,7 +13582,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_295": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13337,7 +13631,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_296": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13381,7 +13676,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_297": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13429,7 +13725,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_298": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13473,7 +13770,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_299": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13517,7 +13815,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_300": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13561,7 +13860,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_301": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13609,7 +13909,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_302": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13653,7 +13954,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_303": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13697,7 +13999,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_304": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13741,7 +14044,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_305": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13785,7 +14089,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_306": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13829,7 +14134,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_307": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13877,7 +14183,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_308": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13925,7 +14232,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_309": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -13969,7 +14277,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_310": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14017,7 +14326,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_311": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14061,7 +14371,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_312": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14109,7 +14420,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_313": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14157,7 +14469,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_314": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14201,7 +14514,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_315": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14245,7 +14559,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_316": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14289,7 +14604,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_317": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14337,7 +14653,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_318": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14381,7 +14698,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_319": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14425,7 +14743,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_320": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14469,7 +14788,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_321": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14513,7 +14833,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_322": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14557,7 +14878,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_323": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14601,7 +14923,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_324": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14649,7 +14972,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_325": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14693,7 +15017,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_326": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14745,7 +15070,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_327": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14789,7 +15115,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_328": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14833,7 +15160,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_329": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14877,7 +15205,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_330": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14925,7 +15254,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_331": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -14973,7 +15303,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_332": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15021,7 +15352,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_333": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15069,7 +15401,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_334": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15113,7 +15446,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_335": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15161,7 +15495,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_336": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15205,7 +15540,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_337": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15249,7 +15585,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_338": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15293,7 +15630,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_339": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15337,7 +15675,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_340": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15381,7 +15720,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_341": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15431,7 +15771,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_342": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15475,7 +15816,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_343": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15523,7 +15865,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_344": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15571,7 +15914,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_345": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15615,7 +15959,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_346": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15659,7 +16004,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_347": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15703,7 +16049,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_348": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15751,7 +16098,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_349": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15795,7 +16143,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_350": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15839,7 +16188,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_351": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15883,7 +16233,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_352": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15931,7 +16282,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_353": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -15975,7 +16327,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_354": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16019,7 +16372,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_355": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16063,7 +16417,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_356": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16107,7 +16462,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_357": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16151,7 +16507,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_358": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16195,7 +16552,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_359": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16239,7 +16597,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_360": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16287,7 +16646,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_361": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16331,7 +16691,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_362": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16375,7 +16736,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_363": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16419,7 +16781,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "33 BGM_HeartbeatOME"
+    "Bgm_Sound": "33 BGM_HeartbeatOME",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_364": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16463,7 +16826,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_365": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16507,7 +16871,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_366": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16551,7 +16916,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_367": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16599,7 +16965,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_368": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16643,7 +17010,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_369": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16687,7 +17055,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_370": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16731,7 +17100,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_371": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16779,7 +17149,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_372": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16823,7 +17194,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_373": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16867,7 +17239,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_374": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16911,7 +17284,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_375": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16955,7 +17329,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_376": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -16999,7 +17374,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_377": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17043,7 +17419,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_378": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17087,7 +17464,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_379": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17131,7 +17509,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_380": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17175,7 +17554,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_381": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17219,7 +17599,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_382": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17267,7 +17648,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_383": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17311,7 +17693,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_384": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17355,7 +17738,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_385": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17399,7 +17783,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_386": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17443,7 +17828,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_387": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17487,7 +17873,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_388": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17531,7 +17918,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_389": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17575,7 +17963,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_390": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17619,7 +18008,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_391": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17667,7 +18057,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_392": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17711,7 +18102,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_393": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17755,7 +18147,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_394": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17799,7 +18192,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_395": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17843,7 +18237,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_396": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17887,7 +18282,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_397": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17931,7 +18327,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_398": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -17975,7 +18372,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_399": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18023,7 +18421,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_400": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18067,7 +18466,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_401": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18111,7 +18511,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_402": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18155,7 +18556,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_403": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18199,7 +18601,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_404": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18243,7 +18646,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_405": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18287,7 +18691,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_406": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18331,7 +18736,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_407": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18375,7 +18781,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_408": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18419,7 +18826,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_409": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18463,7 +18871,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_410": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18507,7 +18916,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_411": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18551,7 +18961,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_412": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18595,7 +19006,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_413": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18639,7 +19051,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_414": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18683,7 +19096,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_415": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18727,7 +19141,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_416": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18771,7 +19186,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_417": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18815,7 +19231,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_418": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18859,7 +19276,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_419": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18903,7 +19321,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_420": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18947,7 +19366,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_421": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -18991,7 +19411,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_422": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19035,7 +19456,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_423": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19079,7 +19501,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_424": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19123,7 +19546,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_425": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19171,7 +19595,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_426": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19215,7 +19640,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_427": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19259,7 +19685,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_428": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19303,7 +19730,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_429": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19347,7 +19775,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_430": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19395,7 +19824,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_431": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19445,7 +19875,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_432": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19489,7 +19920,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "21 BGM_Thrill_01"
+    "Bgm_Sound": "21 BGM_Thrill_01",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_433": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19533,7 +19965,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_434": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19583,7 +20016,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_435": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19627,7 +20061,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "11 BGM_Talk_05"
+    "Bgm_Sound": "11 BGM_Talk_05",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_436": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19671,7 +20106,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_437": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19715,7 +20151,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_438": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19759,7 +20196,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_439": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19803,7 +20241,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_440": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19847,7 +20286,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_441": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19891,7 +20331,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_442": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19935,7 +20376,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_443": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -19979,7 +20421,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_444": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20023,7 +20466,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_445": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20067,7 +20511,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_446": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20111,7 +20556,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_447": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20155,7 +20601,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_448": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20199,7 +20646,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_449": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20243,7 +20691,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_450": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20287,7 +20736,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_451": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20331,7 +20781,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_452": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20375,7 +20826,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_453": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20419,7 +20871,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_454": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20467,7 +20920,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_455": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20515,7 +20969,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_456": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20559,7 +21014,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_457": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20607,7 +21063,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_458": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20651,7 +21108,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_459": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20699,7 +21157,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_460": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20743,7 +21202,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_461": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20791,7 +21251,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_462": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20835,7 +21296,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_463": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20879,7 +21341,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_464": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20923,7 +21386,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_465": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -20967,7 +21431,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_466": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21011,7 +21476,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_467": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21059,7 +21525,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_468": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21103,7 +21570,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "26 BGM_Talk_06"
+    "Bgm_Sound": "26 BGM_Talk_06",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_469": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21147,7 +21615,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_470": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21195,7 +21664,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_471": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21243,7 +21713,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_472": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21291,7 +21762,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_473": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21339,7 +21811,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_474": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21383,7 +21856,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_475": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21427,7 +21901,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_476": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21475,7 +21950,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_477": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21523,7 +21999,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_478": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21571,7 +22048,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_479": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21615,7 +22093,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_480": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21659,7 +22138,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_481": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21703,7 +22183,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_482": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21751,7 +22232,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_483": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21795,7 +22277,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_484": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21843,7 +22326,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_485": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21891,7 +22375,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_486": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21935,7 +22420,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "17 BGM_Marriage_02"
+    "Bgm_Sound": "17 BGM_Marriage_02",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_487": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -21979,7 +22465,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_488": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22023,7 +22510,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_489": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22067,7 +22555,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_490": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22111,7 +22600,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_491": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22159,7 +22649,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_492": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22203,7 +22694,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_493": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22251,7 +22743,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_494": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22295,7 +22788,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_495": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22339,7 +22833,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_496": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22387,7 +22882,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_497": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22435,7 +22931,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch03Ev12Stage03_1_498": {
     "Dialog_Group": "DG_Ch03Ev12Stage03_1",
@@ -22479,6 +22976,7 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   }
 }

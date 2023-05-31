@@ -11134,5 +11134,133 @@
       "DS_KunoichiEnrai_N_Anger2",
       "DS_KunoichiEnrai_N_Sad"
     ]
+  },
+  "CharFace_3P_Galatea_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500014",
+      "1003500022",
+      "1003500025",
+      "1003500021",
+      "1003500013"
+    ],
+    "FaceType": [
+      0,
+      3,
+      4,
+      28,
+      15,
+      8,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "3P_Galatea_N_CloseEye",
+      "3P_Galatea_N_Embarrass",
+      "3P_Galatea_N_Sad",
+      "3P_Galatea_N_Shy",
+      "3P_Galatea_N_Smile"
+    ]
+  },
+  "CharFace_3P_Melite_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500014",
+      "1003500004",
+      "1003500025",
+      "1003500013"
+    ],
+    "FaceType": [
+      0,
+      3,
+      18,
+      28,
+      8,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "3P_Melite_N_CloseEye",
+      "3P_Melite_N_Serious",
+      "3P_Melite_N_Sad",
+      "3P_Melite_N_Smile"
+    ]
+  },
+  "CharFace_3P_Hirume_NS3": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_DS_Cloverace_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500011",
+      "1003500014",
+      "1003500022",
+      "1003500025",
+      "1003500021",
+      "1003500013",
+      "1003500020"
+    ],
+    "FaceType": [
+      0,
+      11,
+      3,
+      4,
+      28,
+      15,
+      8,
+      7
+    ],
+    "Face2dTexture": [
+      "0",
+      "DS_Cloverace_N_Anger",
+      "DS_Cloverace_N_CloseEye",
+      "DS_Cloverace_N_Embarrass",
+      "DS_Cloverace_N_Sad",
+      "DS_Cloverace_N_Shy",
+      "DS_Cloverace_N_Smile",
+      "DS_Cloverace_N_Surprised"
+    ]
+  },
+  "CharFace_PECS_Triton_N": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_PECS_Empress_NS1": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
   }
 }

@@ -41,7 +41,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "07 BGM_Talk_01"
+    "Bgm_Sound": "07 BGM_Talk_01",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_2": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -85,7 +86,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_3": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -129,7 +131,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_4": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -173,7 +176,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_5": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -217,7 +221,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_6": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -261,7 +266,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "15 BGM_Empty"
+    "Bgm_Sound": "15 BGM_Empty",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_7": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -305,7 +311,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_8": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -349,7 +356,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_9": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -393,7 +401,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch01Ev7Stage01b_3_10": {
     "Dialog_Group": "DG_Ch01Ev7Stage01b_3",
@@ -437,6 +446,7 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "05 BGM_Battle_02"
+    "Bgm_Sound": "05 BGM_Battle_02",
+    "Voice_Skip": 0
   }
 }

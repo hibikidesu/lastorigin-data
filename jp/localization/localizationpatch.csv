@@ -33,8 +33,8 @@ code	ko	ja	en	tc	sc
 52	기억을 잃은 내가 깨어났을 때 첫 번째로 들은 소식은 나를 제외한 모든 인간이 멸망했다는 소식이었다.	記憶を失くした私が目覚めた時、最初に耳にした報せは、私以外の全ての人間が滅亡したという報せだった。	Having lost my memories, the first news I received when I regained consciousness was that all of mankind had perished and that I was the only survivor.	失去記憶的我，醒來後聽到的第一個消息是除了我以外的所有人類皆已滅亡。	失去记忆的我醒来后听到的第一个消息是除我以外的人类都已灭亡。
 53	상세정보	詳細情報	Details	詳情	详情
 54	캐릭터 교체	戦闘員交代	Change Character	更換角色	更换角色
-55	회피율	回避率	EVA Rate	迴避率	闪避率
-56	적중률	命中率	ACU Rate	命中率	命中率
+55	회피율	回避率	EVA%	迴避率	闪避率
+56	적중률	命中率	ACU%	命中率	命中率
 57	확인	確認	OK	確定	确定
 58	방어력	防御力	DEF	防禦力	防御力
 59	스쿼드 전투력	分隊の戦闘力	Squad Combat Power	小隊戰鬥力	小队战斗力
@@ -121,7 +121,7 @@ cannot be added to the same squad."	"小隊中不能同時登錄
 113	평균 레벨	平均レベル	Average Level	平均等級	平均等级
 114	스쿼드 구성 인원	編成機数	Squad Members	小隊成員	小队成员
 115	아이템 획득 확률 추가	アイテム獲得確率上昇	Additional Item Rate	增加道具獲得機率	增加道具掉落率
-116	탐색 시작	探索開始	Start Exploration	開始探索	开始探索
+116	탐색 시작	探索開始	Start	開始探索	开始探索
 117	탐색 소요 시간	探索所要時間	Exploration Time	探索所需時間	探索所需时间
 118	이상	以上	or more	以上	以上
 119	스쿼드를 투입하세요	分隊を投入してください	Dispatch Squad	請投入小隊	请投入小队
@@ -134,8 +134,6 @@ cannot be added to the same squad."	"小隊中不能同時登錄
 126	"[c][ffcc00]자원 탐색[-][/c]을 중지할 경우, 자원을 획득할 수 없습니다.
 중지하시겠습니까?"	"[c][ffcc00]資源探索[-][/c]を中止した場合、資源を獲得できません。
  中止しますか？"	"You will not get any resources if you quit this [c][ffcc00]Resource Exploration[-][/c].
- Do you still want to quit?
-
  Do you still want to quit?"	"如果停止[c][ffcc00]資源探索[-][/c]，就無法獲得資源。
 是否確定停止？"	"如果停止[c][ffcc00]资源探索[-][/c]，就无法获得资源。
 是否确定停止？"
@@ -172,7 +170,7 @@ cannot be added to the same squad."	"小隊中不能同時登錄
 Select All"	"B級裝備
 全選"	"B级装备
 全选"
-155	결정	決定	Decide	決定	决定
+155	결정	決定	Confirm	確定	决定
 156	먼저 강화할 장비를 장착해 주세요.	先に強化する装備を選択してください。	Equip the item you want to upgrade first.	請先配戴要強化的裝備。	请先选择要强化的装备。
 157	전투원 제작	戦闘員製作	Create Soldier	製造戰鬥員	制作战斗员
 158	전투원 강화	戦闘員強化	Upgrade Soldier	強化戰鬥員	强化战斗员
@@ -251,7 +249,7 @@ Do you want to increase Barrack space?"	"角色的宿舍已滿。
 是否擴張宿舍？"	"角色的宿舍已满。
 是否扩张宿舍？"
 188	전투원제작 불가! 자원 부족	戦闘員製作不可！資源不足	Cannot create soldier! Not enough resources.	無法製造戰鬥員！資源不足	无法制作战斗员！资源不足
-189	{0} 스테이지를 클리어하시면 해금됩니다.	{0}エピソードをクリアすると解禁されます。	Unlocked after clearing Stage {0}.	通關{0}關卡時解鎖。	通过{0}关卡时解锁。
+189	{0} 스테이지를 클리어하시면 해금됩니다.	{0}エピソードをクリアすると解禁されます。	Unlocked after clearing\nStage {0}.	通關{0}關卡時解鎖。	通过{0}关卡时解锁。
 190	캐릭터 상세	戦闘員詳細	Character Details	角色詳情	角色详情
 191	스킬 경험치	スキル経験値	Skill EXP	技能經驗值	技能经验值
 192	레벨{0} 활성화	レベル{0}アクティブ化	Activate Lv. {0}	啟用{0}等級	启用{0}等级
@@ -438,17 +436,17 @@ you have reached the max limit for deploying Squads."	"可出擊的小隊數已�
 无法指派新的出击小队。"
 284	행동력	行動力	Action Power	行動力	行动力
 285	모듈 분해	分解	Dismantle Module	分解模組	分解模块
-286	분해 획득 자원	分解獲得資源	Resources from Dismantling	分解可獲資源	分解可获资源
+286	분해 획득 자원	分解獲得資源	Resources from Dismantling	分解獲得資源	分解可获资源
 287	"분해
 전투원 선택"	"分解
- 戦闘員選択"	"Dismantle
-Select Soldier"	"選擇
+ 戦闘員選択"	"Select Soldier
+to dismantle"	"選擇
 分解戰鬥員"	"选择
 分解战斗员"
 288	"분해
 장비 선택"	"分解
- 装備選択"	"Dismantle
-Select Gear"	"選擇
+ 装備選択"	"Select Gear
+to dismantle"	"選擇
 分解裝備"	"选择
 分解装备"
 289	모듈 분해 확인	モジュール分解確認	Confirm Module Dismantling	確認分解模組	确认分解模块
@@ -525,11 +523,11 @@ Select All"	"B級角色
 345	{0} 리더로 지정하시겠습니까?	{0}をリーダーに指定しますか?	Appoint {0} as the Leader?	是否將{0}指定為隊長？	是否将{0}任命为队长？
 346	리더 지정	リーダー指定	Appoint Leader	指定隊長	指定队长
 347	다음 자원이 부족해서 출격할 수 없습니다.	次の資源が不足しており出撃できません。	Cannot deploy as you do not have enough of the following resources.	因以下資源不足，無法出擊。	因以下资源不足，无法出击。
-348	부관 변경	副官変更	Change Deputy	變更副官	变更副官
+348	부관 변경	副官変更	Change	變更副官	变更副官
 349	지원 스쿼드	支援分隊	Support Squad	支援小隊	支援小队
 350	설정	設定	Settings	設定	设置
 351	캐릭터 수집율	戦闘員収集率	Collected Characters	角色收集率	角色收集率
-352	완료 업적 수	完了業績数	Completed Achievements	已完成的成就數量	已完成成就数
+352	완료 업적 수	完了業績数	Completed Achievements	完成的成就數量	已完成成就数
 353	{0}위	{0}位	{0} Place	第{0}名	第{0}名
 354	순위 밖	順位外	Not in Ranks	未入榜	未入榜
 355	프로필	プロフィール	Profile	個人簡介	个人资料
@@ -681,18 +679,18 @@ in progress."	"沒有正在進行的
 467	훈련 완료 Exp	訓練完了Exp	Training Completion EXP	完成訓練經驗值	完成训练Exp
 468	획득 보상	獲得報酬	Acquired Rewards	獲得獎勵	获得奖励
 469	보통	普通	Normal	普通	普通
-470	호감	好感	Like	好感	好感
+470	호감	好感	Interested	好感	好感
 471	친밀	親密	Friendly	親密	亲密
 472	애정	愛情	Intimate	愛情	爱情
-473	호감도 상승	好感度上昇	Like UP	好感度上升	好感度上升
-474	호감도 하락	好感度低下	Like DOWN	好感度下降	好感度下降
+473	호감도 상승	好感度上昇	Affinity UP	好感度上升	好感度上升
+474	호감도 하락	好感度低下	Affinity DOWN	好感度下降	好感度下降
 475	이벤트	イベント	Event	活動	活动
 476	수복 필요	修復が必要	Recovery Needed	需要修復	需要修复
 477	이야기 리스트가 없습니다.	ストーリーリストがありません。	There’s no Story list.	沒有劇情列表。	没有剧情目录。
 478	연구소	研究所	Lab	研究所	研究所
 479	시설 연구	施設研究	Research Facility	設施研究	设施研究
 480	로봇 설계	ロボット設計	Design Robot	機器人設計	机器人设计
-481	승급	昇級	Promotion	進階	升级
+481	승급	昇級	Promote	進階	升级
 482	연구 항목을 선택하세요.	研究項目を選択してください。	Select Research item	請選擇研究項目。	请选择研究项目。
 483	연구 실행	研究実行	Start Research	進行研究	进行研究
 484	연구 필요 조건	研究必要条件	Research Conditions	研究所需條件	研究所需条件
@@ -769,7 +767,7 @@ from the [c][FFBA29FF]Lab[-][/c] first."	"需要在[c][FFBA29FF]研究所[-][/c]
 535	알림	お知らせ	Notification	通知	提示
 536	[c][FFCC00FF]{0}[-][/c] 에게 [c][FFCC00FF]{1}[-][/c] 아이템을 선물하시겠습니까?	[c][FFCC00FF]{0}[-][/c]に[c][FFCC00FF]{1}[-][/c]をプレゼントしますか?	Do you want to gift [c][FFCC00FF]{1}[-][/c] to [c][FFCC00FF]{0}[-][/c]?	是否要把[c][FFCC00FF]{1}[-][/c]送給[c][FFCC00FF]{0}[-][/c]？	是否要把[c][FFCC00FF]{1}[-][/c]送给[c][FFCC00FF]{0}[-][/c]？
 537	[c][FFCC00FF]{0}[-][/c] 에게 [c][FFCC00FF]{1}[-][/c] 아이템을 선물했습니다.	[c][FFCC00FF]{0}[-][/c]に[c][FFCC00FF]{1}[-][/c]をプレゼントしました。	You gave [c][FFCC00FF]{1}[-][/c] to [c][FFCC00FF]{0}[-][/c].	把[c][FFCC00FF]{1}[-][/c]送給了[c][FFCC00FF]{0}[-][/c]。	把[c][FFCC00FF]{1}[-][/c]送给了[c][FFCC00FF]{0}[-][/c]。
-538	호감도가 맥스입니다.	好感度が最大値です。	Like is at max!	好感度已達最高值。	好感度已达最高值。
+538	호감도가 맥스입니다.	好感度が最大値です。	Affinity is at max!	好感度已達最高值。	好感度已达最高值。
 539	"수복 대상
 일괄 선택"	"修復対象
  一括選択"	"Characters for Recovery
@@ -932,7 +930,7 @@ Returning to title screen."	"連動失敗，請重新連動。
 633	{0}라운드 시작	{0}ラウンド開始	Start Round {0}.	開始第{0}回合	开始第{0}回合
 634	[c][e3e3e3]{0},{1}에게 {2} 사용[-][/c]	[c][e3e3e3]{0},{1}に{2}使用[-][/c]	[c][e3e3e3]Use {2} on {0}, {1}.[-][/c]	[c][e3e3e3]給{0}、{1}使用{2}[-][/c]	[c][e3e3e3]给{0}、{1}使用{2}[-][/c]
 635	[c][e3e3e3]{0}, {1}사용[-][/c] 	[c][e3e3e3]{0},{1}使用[-][/c]	[c][e3e3e3]Use {0}, {1}.[-][/c]	[c][e3e3e3]使用{0}、{1}[-][/c]	[c][e3e3e3]使用{0}、{1}[-][/c]
-636	[c][ff4945]{0} {1} 피해를 입음.[-][/c]	[c][ff4945]{0}{1}ダメージを受けた。[-][/c]	[c][ff4945]{0} received {1} damage.[-][/c]	[c][ff4945]受到{0}{1}的傷害。[-][/c]	[c][ff4945]受到{0}{1}的伤害。[-][/c]
+636	[c][ff4945]{0} {1} 피해를 입음.[-][/c]	[c][ff4945]{0}{1}ダメージを受けた。[-][/c]	[c][ff4945]{0} received {1} damage.[-][/c]	[c][ff4945]受到{0}{1}的傷害。[-][/c]	[c][ff4945]受到{0}{1}的伤害[-][/c]
 637	[c][c70400]{0} 치명타로 {1} 피해를 입음[-][/c]	[c][c70400]{0}クリティカルで{1}ダメージを受けた[-][/c]	[c][c70400]{0} received {1} damage by CRIT Hit.[-][/c]	[c][c70400]{0}因暴擊受到{1}的傷害[-][/c]	[c][c70400]{0}因暴击受到{1}的伤害[-][/c]
 638	[c][2ac940]{0} 회피 성공[-][/c]	[c][2ac940]{0}回避成功[-][/c]	[c][2ac940]{0} EVA successful![-][/c]	[c][2ac940]{0}迴避成功[-][/c]	[c][2ac940]{0}闪避成功[-][/c]
 639	[c][ffdab9]{0} {1} 적용됨[-][/c]	[c][ffdab9]{0}{1}適用されました[-][/c]	[c][ffdab9]{0} {1} applied.[-][/c]	[c][ffdab9]已套用{0}{1}[-][/c]	[c][ffdab9]已获得{0}{1}[-][/c]
@@ -966,8 +964,8 @@ Returning to title screen."	"連動失敗，請重新連動。
 667	이야기 다시 보기	ストーリーもう一度見る	View Story Again	重播劇情	重播剧情
 668	이야기 시작	ストーリー開始	Start Story	開始劇情	开始剧情
 669	자동전투	自動戦闘	Auto Combat	自動戰鬥	自动战斗
-670	이전	前	Back	上一個	上一个
-671	다음	次	Next	下一個	下一个
+670	이전	前	Back	返回	上一个
+671	다음	次	Next	繼續	下一个
 672	전투원	戦闘員	Soldier	戰鬥員	战斗员
 673	소모품	消耗品	Consumables	消耗品	消耗品
 674	{0}라운드 남음	残り{0}ラウンド	{0} Rounds Remaining	還剩{0}回合	还剩{0}回合
@@ -1005,7 +1003,7 @@ Returning to title screen."	"連動失敗，請重新連動。
 706	알림 설정	お知らせ設定	Notifications	通知設定	提示设置
 707	공지 수신	告知受信	Notices	接收公告	接收公告
 708	탐색 완료	探索完了	Exploration	完成探索	完成探索
-709	수복 완료	修復完了	Recovery	完成修復	修复完成
+709	수복 완료	修復完了	Recovery	完成修復	完成修复
 710	연구 완료	研究完了	Research	完成研究	完成研究
 711	구글 계정과 연동 되어 있지 않습니다.	Googleアカウントと連携されていません。	Not connected with your Google account.	未連動到Google帳號。	未绑定到Google账号。
 712	사운드 설정	サウンド設定	Sound	音效設定	声音设置
@@ -1043,8 +1041,8 @@ Do you want to go purchase [c][FFBA29FF]{1}[-][/c]?"	"因[c][FFBA29FF]{0}[-][/c]
 是否前往購買[c][FFBA29FF]{1}[-][/c]？"	"因[c][FFBA29FF]{0}[-][/c]不足，无法进行。
 是否去购买[c][FFBA29FF]{1}[-][/c]？"
 736	[c][FFBA29FF]{0}[-][/c]에게 [c][FFBA29FF]{1}[-][/c] 스킨이 적용되었습니다.	[c][FFBA29FF]{0}[-][/c]に[c][FFBA29FF]{1}[-][/c]スキンが適用されました。	[c][FFBA29FF]{1}[-][/c] skin was applied to [c][FFBA29FF]{0}[-][/c].	幫[c][FFBA29FF]{0}[-][/c]套用了[c][FFBA29FF]{1}[-][/c]造型。	给[c][FFBA29FF]{0}[-][/c]使用了[c][FFBA29FF]{1}[-][/c]皮肤。
-737	[c][FFBA29FF]{0}[-][/c]의 호감도가 [c][FFBA29FF]{1}[-][/c] 상승했습니다.	[c][FFBA29FF]{0}[-][/c]の好感度が[c][FFBA29FF]{1}[-][/c]上昇しました。	[c][FFBA29FF]{0}[-][/c]’s Like has increased by [c][FFBA29FF]{1}[-][/c].	[c][FFBA29FF]{0}[-][/c]的好感度上升了[c][FFBA29FF]{1}[-][/c]。	[c][FFBA29FF]{0}[-][/c]的好感度增加[c][FFBA29FF]{1}[-][/c]。
-738	현재 호감도 : [c][FFBA29FF]{0}[-][/c]	現在の好感度：[c][FFBA29FF]{0}[-][/c]	Current Like: [c][FFBA29FF]{0}[-][/c]	當前好感度：[c][FFBA29FF]{0}[-][/c]	当前好感度：[c][FFBA29FF]{0}[-][/c]
+737	[c][FFBA29FF]{0}[-][/c]의 호감도가 [c][FFBA29FF]{1}[-][/c] 상승했습니다.	[c][FFBA29FF]{0}[-][/c]の好感度が[c][FFBA29FF]{1}[-][/c]上昇しました。	[c][FFBA29FF]{0}[-][/c]’s Affinity has increased by [c][FFBA29FF]{1}[-][/c].	[c][FFBA29FF]{0}[-][/c]的好感度上升了[c][FFBA29FF]{1}[-][/c]。	[c][FFBA29FF]{0}[-][/c]的好感度增加[c][FFBA29FF]{1}[-][/c]。
+738	현재 호감도 : [c][FFBA29FF]{0}[-][/c]	現在の好感度：[c][FFBA29FF]{0}[-][/c]	Current Affinity: [c][FFBA29FF]{0}[-][/c]	當前好感度：[c][FFBA29FF]{0}[-][/c]	当前好感度：[c][FFBA29FF]{0}[-][/c]
 739	의 보급 목록	の補給リスト	Supply List	的補給目錄	的补给目录
 740	일까지	日まで	Until	日為止	日为止
 741	[c][FFCC00FF]{0}[-][/c] 를 구입 하였습니다.	[c][FFCC00FF]{0}[-][/c]を購入しました。	You have purchased [c][FFCC00FF]{0}[-][/c].	購買了[c][FFCC00FF]{0}[-][/c]。	购买了[c][FFCC00FF]{0}[-][/c]。
@@ -1079,7 +1077,7 @@ from the [c][FFBA29FF]lab[-][/c] first."	"需要在[c][FFBA29FF]研究所[-][/c]
 760	평균 레벨이 조건에 맞지 않습니다.	平均レベルが条件に合っていません。	Average level does not meet the conditions.	平均等級不符合條件。	平均等级不符合条件。
 761	평균 인원이 조건에 맞지 않습니다.	編成機数が条件に合っていません。	Average members do not meet the conditions.	平均人數不符合條件。	平均人数不符合条件。
 762	스쿼드 중에 수복중인 객체가 있습니다.	分隊の中に修復中の戦闘員がいます。	Squad contains a soldier in recovery.	小隊中有正在修復中的隊員。	小队中有正在修复中的队员。
-763	스쿼드 중에 전투불능 상태인 객체가 있습니다.	分隊の中に戦闘不能状態の戦闘員がいます。	Squad contains an object that is unable to combat.	小隊中有處於無法戰鬥狀態的隊員。	小队中有处于无法战斗状态的的队员。
+763	스쿼드 중에 전투불능 상태인 객체가 있습니다.	分隊の中に戦闘不能状態の戦闘員がいます。	Squad contains a soldier that is unable to combat.	小隊中有處於無法戰鬥狀態的隊員。	小队中有处于无法战斗状态的的队员。
 764	분해 전투원 선택	分解する戦闘員選択	Select Soldier for Dismantling	選擇要分解的戰鬥員	选择要分解的战斗员
 765	분해 장비 선택	分解する装備選択	Select Gear for Dismantling	選擇要分解的裝備	选择要分解的装备
 766	"강화 재료
@@ -1094,8 +1092,8 @@ from the [c][FFBA29FF]lab[-][/c] first."	"需要在[c][FFBA29FF]研究所[-][/c]
 768	텍스트 출력 속도를 조정합니다.	テキスト出力速度を調整します。	Sets text display speed.	調整輸出文本速度。	调整输出文本速度。
 769	스테이지 진행 시, 이미 본 스토리를 다시 봅니다.	ステージ進行時、すでに見たストーリーをもう一度見ます。	Allows you to watch the story again whilst playing the Stage.	進行關卡時，將再次播放已經看過的故事。	进行关卡时，再次播放已经看过的故事。
 770	임무 완료 시, 알림 창이 출력됩니다.	任務完了時、お知らせが表示されます。	Notification pop-up window appears when you complete a mission.	完成任務時，將跳出通知視窗。	完成任务时，弹出提示窗口。
-771	전투 중, 전투원 컷 인을 출력합니다.	戦闘中、戦闘員のカットインが表示されます。	Shows soldier cut-in scene during combat.	戰鬥中，將顯示戰鬥員的過場動畫演出。	战斗中，显示战斗员的Cut-in演出。
-772	전투 중, 부상 컷 인을 출력합니다.	戦闘中、負傷のカットインが表示されます。	Shows injury cut-in scene during combat.	戰鬥中，將顯示受傷過場動畫演出。	战斗中，显示受伤Cut-in演出。
+771	전투 중, 전투원 컷 인을 출력합니다.	戦闘中、戦闘員のカットインが表示されます。	Shows soldier cut-in scene during combat.	戰鬥中，將顯示戰鬥員的過場動畫演出。	战斗中，显示战斗员的过场动画演出。
+772	전투 중, 부상 컷 인을 출력합니다.	戦闘中、負傷のカットインが表示されます。	Shows injury cut-in scene during combat.	戰鬥中，將顯示受傷過場動畫演出。	战斗中，显示受伤过场动画演出。
 773	배경 음악 볼륨을 조정합니다.	BGMのボリュームを調整します。	Adjusts background music volume.	調整背景音樂音量。	调整背景音乐音量。
 774	효과음 볼륨을 조정합니다.	効果音のボリュームを調整します。	Adjusts sound effects volume.	調整效果音音量。	调整效果音音量。
 775	캐릭터 음성 볼륨을 조정합니다.	戦闘員の音声ボリュームを調整します。	Adjusts character voice volume.	調整角色語音音量。	调整角色语音音量。
@@ -1112,8 +1110,8 @@ Do you want to use Rapid Recovery?"	"快速修復[c][f0f0b3]{0}[-][/c]需要以�
 是否确定进行快速修复？"
 782	[c][FFFFFF7D]사정 거리[-][/c]	[c][FFFFFF7D]射程距離[-][/c]	[c][FFFFFF7D]Range[-][/c]	[c][FFFFFF7D]射程[-][/c]	[c][FFFFFF7D]射程[-][/c]
 783	[c][FFFFFF7D]AP 소모[-][/c]	[c][FFFFFF7D]AP消費[-][/c]	[c][FFFFFF7D]AP Consumed[-][/c]	[c][FFFFFF7D]消耗AP[-][/c]	[c][FFFFFF7D]消耗AP[-][/c]
-784	{0} 파괴량을 정해주세요	{0}の廃棄量を決めてください	Set {0} destruction rate.	請設定{0}破壞量	请设定{0}破坏量
-785	[c][f0f0b3]{0}[-][/c] 전투원의 호감도가 상승했습니다.	戦闘員[c][f0f0b3]{0}[-][/c]の好感度が上昇しました。	[c][f0f0b3]{0}[-][/c]’s Like has increased.	[c][f0f0b3]{0}[/c]戰鬥員的好感度上升了。	[c][f0f0b3]{0}[-][/c]战斗员的好感度增加了。
+784	{0} 파괴량을 정해주세요	{0}の廃棄量を決めてください	Decide how many {0} you want to destroy.	請設定{0}破壞量	请设定{0}破坏量
+785	[c][f0f0b3]{0}[-][/c] 전투원의 호감도가 상승했습니다.	戦闘員[c][f0f0b3]{0}[-][/c]の好感度が上昇しました。	[c][f0f0b3]{0}[-][/c]’s Affinity has increased.	[c][f0f0b3]{0}[/c]戰鬥員的好感度上升了。	[c][f0f0b3]{0}[-][/c]战斗员的好感度增加了。
 786	[c][f0f0b3]{0}[-][/c] 전투원의 경험치가 [c][f0f0b3]{1}[-][/c] 상승했습니다.	戦闘員[c][f0f0b3]{0}[-][/c]の経験値が[c][f0f0b3]{1}[-][/c]上昇しました。	[c][f0f0b3]{0}[-][/c]’s EXP has increased by [c][f0f0b3]{1}[-][/c].	[c][f0f0b3]{0}[-][/c]戰鬥員的經驗值上升了[c][f0f0b3]{1}[-][/c]。	[c][f0f0b3]{0}[-][/c]战斗员的经验增加[c][f0f0b3]{1}[-][/c]。
 787	판매 중인 상품이 없습니다.	販売中の商品はありません。	There are no products for sale.	目前沒有正在出售的商品。	目前没有出售的商品。
 788	자원 탐색 중인 스쿼드는 편집할 수 없습니다.	資源探索中の分隊は編集できません。	Cannot change Squad members while the Squad is exploring for resources.	無法編輯正在探索資源的小隊。	无法编辑正在探索资源的小队。
@@ -1257,7 +1255,7 @@ Cost for changing Nickname is 1 {0}."	"請輸入要變更的暱稱。
 905	탐사를 떠나면 선물을 받거나 수복이 불가능 합니다.	探索に行くとプレゼントを受けたり修復が不可能です。	You cannot receive gifts or do Recovery if you quit the Exploration.	在探查中無法領取禮物或進行修復。	在探查中无法领取礼物或进行修复。
 906	탐사중인 스쿼드는 장비 장착/해제를 제외한 정보를 변경할 수 없습니다.	探索中の分隊は装備の装着/解除以外の情報を変更できません。	You cannot modify any details of a Squad currently in Exploration except for equipping and removing gear items.	探查中的小隊只能配戴／解除裝備，無法更改其他資訊。	探查中的小队只能佩戴／解除装备，无法更改其他信息。
 907	보낸 요청	送った要請	Sent Requests	發出請求	发出申请
-908	보낸 요청을 취소 하시겠습니까?	送った要請をキャンセルしますか？	Do you want to cancel the request sent?	是否取消已發出的請求？	是否取消已发出的申请？
+908	보낸 요청을 취소 하시겠습니까?	送った要請をキャンセルしますか？	Do you want to delete the request sent?	是否取消已發出的請求？	是否取消已发出的申请？
 909	보낸 요청이 없습니다.	送った要請がありません。	You have no sent requests.	目前沒有發出請求。	目前没有发出申请。
 910	장비 잠금	装備ロック	Lock Gear	鎖定裝備	锁定装备
 911	잠금 해제	ロック解除	Unlock Gear	解鎖	解锁
@@ -1269,15 +1267,15 @@ Cost for changing Nickname is 1 {0}."	"請輸入要變更的暱稱。
 917	종류	種類	Type	種類	种类
 918	보조	補助	Auxiliary	輔助	辅助
 919	전용	専用	Exclusive	專用	专用
-920	전투원 승급	戦闘員を昇級	Soldier Promotion	戰鬥員進階	战斗员升级
-921	승급 전투원 선택	昇級戦闘員の選択	Select Promoted Soldier	選擇進階戰鬥員	选择升级战斗员
+920	전투원 승급	戦闘員を昇級	Promote Soldier	戰鬥員進階	战斗员升级
+921	승급 전투원 선택	昇級戦闘員の選択	Select Soldier to promote	選擇進階戰鬥員	选择升级战斗员
 922	승급시킬 전투원을 선택해 주세요.	昇級させる戦闘員を選択してください。	Select the soldier you want to promote.	請先選擇要進階的戰鬥員。	请先选择要升级的战斗员。
 923	승급 [b2aaa5]조건[-]	昇級[b2aaa5]条件[-]	Upgrade [b2aaa5]Conditions[-]	進階[b2aaa5]條件[-]	升级[b2aaa5]条件[-]
 924	■ 승급 대상인 전투원만 승급 목록에 출력됩니다.	■昇級対象である戦闘員のみ昇級リストに表示されます。	■ Only soldiers that are eligible for promotion are shown in the Promotion List.	■ 只有可進階的戰鬥員會顯示在升級目錄中。	■ 只有可升级的战斗员会显示在升级列表中。
-925	■ 승급에 필요한 [ffcc00]레벨[-]과 [00c6ff]호감도[-] 조건을 만족하면 승급을 진행할 수 있습니다.	■昇級に必要な[ffcc00]レベル[-]と[00c6ff]好感度[-]条件を満たすと、昇級を進めることができます。	■ You can promote by satisfying the [ffcc00]level[-] and [00c6ff]Like[-] conditions needed for the promotion.	■ 必須達成進階所需[ffcc00]等級[-]和[00c6ff]好感度[-]條件才可進行進階。	■ 必须满足升级所需[ffcc00]等级[-]和[00c6ff]好感度[-]条件才可以进行升级。
+925	■ 승급에 필요한 [ffcc00]레벨[-]과 [00c6ff]호감도[-] 조건을 만족하면 승급을 진행할 수 있습니다.	■昇級に必要な[ffcc00]レベル[-]と[00c6ff]好感度[-]条件を満たすと、昇級を進めることができます。	■ You can promote by satisfying the [ffcc00]level[-] and [00c6ff]Affinity[-] conditions needed for the promotion.	■ 必須達成進階所需[ffcc00]等級[-]和[00c6ff]好感度[-]條件才可進行進階。	■ 必须满足升级所需[ffcc00]等级[-]和[00c6ff]好感度[-]条件才可以进行升级。
 926	■ 일부 캐릭터는 [ffcc00]SS등급[-]으로 승급 시, 승급 [ffcc00]전용 스킨[-]이 활성화됩니다.	■一部戦闘員は[ffcc00]SS等級[-]に昇級時、昇級[ffcc00]専用スキン[-]が解禁されます	When some characters are promoted to [ffcc00]SS Grade[-], the Promotion [ffcc00]Exclusive Skin[-] will be activated.	■ 部分角色進階到[ffcc00]SS級別[-]時，將啟用進階[ffcc00]專用造型[-]。	■ 一些角色升级到[ffcc00]SS级别[-]时，升级[ffcc00]专用皮肤[-]会开启。
 927	승급에 필요한 조건을 달성하지 못했습니다.	昇級に必要な条件を達成することができませんでした。	You have not satisfied the promotion conditions.	尚未達到進階所需條件。	尚未达到升级所需条件。
-928	호감도	好感度	Like	好感度	好感度
+928	호감도	好感度	Affinity	好感度	好感度
 929	승급 시, 다음 자원이 소모 됩니다.	昇級時、次の資源が消費されます。	The following resources will be consumed when promoting.	進階時，會消耗以下資源。	升级时，会消耗以下资源。
 930	승급을 진행 하시겠습니까?	昇級を行いますか?	Do you want to promote?	是否進行進階？	是否进行升级？
 931	모든 승급이 완료된 전투원 입니다.	すべての昇級が完了した戦闘員です。	All promotions are complete for the selected soldier.	此戰鬥員已完成所有進階。	此战斗员已完成所有升级。
@@ -1285,7 +1283,7 @@ Cost for changing Nickname is 1 {0}."	"請輸入要變更的暱稱。
 933	스킬 레벨	スキルレベル	Skill Level	技能等級	技能等级
 934	승급 대상	昇級対象	Character to Promote	進階對象	升级对象
 935	Lv :	Lv :	Lv:	等級：	Lv：
-936	호감도 :	好感度 :	Like:	好感度：	好感度：
+936	호감도 :	好感度 :	Affinity:	好感度：	好感度：
 946	신규 스킬	新規スキル	New Skill	新技能	新技能
 947	전투입장	戦闘入場	Enter Combat	戰鬥入場	进入战斗
 948	AP	AP	AP	AP	AP
@@ -1363,8 +1361,8 @@ Cost for changing Nickname is 1 {0}."	"請輸入要變更的暱稱。
 1000	설정한 부관의 이미지가 변경되지 않고 고정됩니다.	設定した副官のイメージが変更されずに固定されます。	The set Deputy's image does not change.	設定的副官圖片會被固定。	设置的副官图像会被固定。
 1001	"로비에서 출력되는 부관의 이미지가 보유하고 있는 모든 캐릭터의 이미지 중에서 랜덤으로 출력됩니다.
  실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다."	"ロビーから出力される副官のイメージは保有している全てのキャラクターの中からランダムで出力されます。
- 実際の副官が変更されるわけではなく、出力されるイメージのみ変更されます。"	"The Deputy’s image shown in the Lobby will be randomly selected from one of the character images you currently own.
-The actual Deputy does not change, and only the displayed image changes."	"將隨機從擁有的所有角色圖片之中選擇作為大廳裡出現的副官圖片。
+ 実際の副官が変更されるわけではなく、出力されるイメージのみ変更されます。"	"The Deputy’s image shown in the Lobby will be randomly selected from one of your skin images.
+The actual Deputy does not change, and only the displayed image will change."	"將隨機從擁有的所有角色圖片之中選擇作為大廳裡出現的副官圖片。
 實際副官不變，只變更顯示的圖片。"	"大厅里出现的副官图像会随机更改为你拥有的所有角色图像之一。
 实际副官不变，只改变显示的图像。"
 1002	"로비에서 출력되는 부관의 이미지가 보유하고 있는 모든 스킨의 이미지 중에서 랜덤으로 출력됩니다.
@@ -1406,7 +1404,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1033	도착임박	到着間近	Arriving soon!	即將抵達	即将抵达
 1034	강화 상한 레벨 확장	強化上限レベル拡張	Increase max upgrade limit	擴充強化上限等級	扩张强化上限等级
 1035	리셋	リセット	Reset	重置	重置
-1036	상한 확장	上限拡張	Increase max limit	擴充上限	扩张上限
+1036	상한 확장	上限拡張	Increase Limit	擴充上限	扩张上限
 1037	비활성화된 스테이지여서 탐색을 보낼 수 없습니다.	開催期間が終了したステージのため探索を行うことができません。	Exploration cannot be sent as the stage has not been activated.	無法探索未被啟用的關卡。	无法探索未被启用的关卡。
 1038	배틀 로그	バトルログ	Battle Log	戰鬥記錄	战斗记录
 1039	아이템 정보	アイテム情報	Item Info	道具資訊	道具信息
@@ -1432,7 +1430,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1059	공방	工房	Workshop	工坊	工坊
 1060	로봇 설계도 목록	ロボット設計図一覧	Robot Blueprint List	機器人設計圖目錄	机器人设计图目录
 1061	머리	頭	Head	頭	头
-1062	일반 제작 설정	一般製作設定	Normal Creation Settings	普通製造設定	一般制作设置
+1062	일반 제작 설정	一般製作設定	Creation Settings	普通製造設定	一般制作设置
 1063	상부	上部	Upper	上半部	上部
 1064	하부	下部	Lower	下半部	下部
 1065	특수 제작 설정	特殊製作設定	Special Creation Settings	特殊製造設定	特殊制作设置
@@ -1440,15 +1438,16 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1067	모든 역할	すべての役割	All Roles	所有角色	所有角色
 1068	모든 타입	全タイプ	All Types	所有類型	所有类型
 1069	필요 자원	必要資源	Required Resources	所需資源	必要资源
-1070	총 소모 자원	総消費資源	Total Consumed Resources	總消耗資源	总消耗资源
+1070	총 소모 자원	総消費資源	Consumed Resources	總消耗資源	总消耗资源
 1071	보유 자원	保有資源	Owned Resources	持有資源	持有资源
 1072	메카닉	メカニック	Mechanic	機械學	机械学
 1073	리셋	リセット	Reset	重置	重置
-1074	강화 전투원 선택	強化戦闘員の選択	Select Upgrade Soldier	選擇要強化的戰鬥員	选择强化战斗员
+1074	강화 전투원 선택	強化戦闘員の選択	Select Soldier to upgrade	選擇要強化的戰鬥員	选择强化战斗员
 1075	회로 제공 전투원	回路提供戦闘員	Circuit Material Soldier	提供迴路的戰鬥員	提供电路的战斗员
 1076	남은 강화 포인트	残りの強化ポイント	Remaining Upgrade Points	剩餘強化點數	剩余强化点数
 1077	분해 전투원 선택	分解戦闘員選択	Select Soldier for Dismantle	選擇要分解的戰鬥員	选择要分解的战斗员
-1078	강화 장비 선택	強化装備の選択	Select Upgrade Gear	選擇要強化的裝備	选择强化装备
+1078	강화 장비 선택	強化装備の選択	"Select Gear
+to upgrade"	選擇要強化的裝備	选择强化装备
 1079	강화 재료 아이템	強化材料装備	Upgrade Material Item	強化材料道具	强化材料道具
 1080	"닦고 조이고
  기름 치는 거거든?"	"磨いて締め付けて
@@ -1475,7 +1474,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1093	내림차순	高い順 ▼	Sort: Descending	遞減排序	降序
 1094	수집율	取集率	Collection Rate	收集率	收集率
 1095	출석 체크	出席チェック	Attendance Check	簽到	签到
-1096	등록 된 부대	登録済み部隊	Registered Contingent	已登錄的部隊	已配置的部队
+1096	등록 된 부대	登録済み部隊	Registered Contingents	已登錄的部隊	已配置部队
 1097	부대 검색	部隊を検索	Search Contingents	搜尋部隊	搜索部队
 1098	통신 요청	通信申請	Request Communication	通訊請求	申请通讯
 1099	등록 된 부대가 없습니다.	登録された部隊がありません。	You have no registered Contingents.	目前沒有登錄的部隊。	目前没有已配置部队。
@@ -1509,14 +1508,14 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1127	탐사시간	探索時間	Exploration Time	探查時間	探查时间
 1128	탐색	探索	Exploration	探索	探索
 1129	완 료	完了	Complete	完 成	完 成
-1130	탐색 스쿼드	探索分隊	Exploration Squad	探索小隊	探索小队
-1131	탐색 조건	探索条件	Exploration Conditions	探索條件	探索条件
+1130	탐색 스쿼드	探索分隊	Squad	探索小隊	探索小队
+1131	탐색 조건	探索条件	Conditions	探索條件	探索条件
 1132	자원 추가 회복	研究ボーナス	Additional Resource Restoration	額外恢復資源	恢复更多资源
 1133	추가 획득 가능	追加獲得可能	Available Additional Rewards	可額外獲得	可额外获得
 1134	탐색 완료 보상	探索完了報酬	Exploration Completion Rewards	探索完成獎勵	探索完成奖励
 1135	반복전투	反復戦闘	Repeated Combat	反覆戰鬥	反复战斗
 1136	수복시간	修復時間	Recovery Time	修復時間	修复时间
-1137	결정	決定	Decide	決定	决定
+1137	결정	決定	Confirm	確定	决定
 1138	행동 개시	行動開始	Engage	開始行動	开始行动
 1139	이야기 시작 조건	ストーリー開始条件	Conditions for Starting Story	劇情開始條件	剧情开始条件
 1140	달성한 이야기	達成したストーリー	Completed Story	已完成的劇情	已完成的剧情
@@ -1533,12 +1532,12 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1151	상태 정보	状態情報	Status Info	狀態資訊	状态信息
 1152	전투 개시	戦闘開始	Start Combat	開始戰鬥	开始战斗
 1153	승급에 필요한 레벨 조건을 만족하지 못해 승급할 수 없습니다.	昇級に必要なレベル条件を満たせず昇級できません。	Cannot promote as the level conditions needed for promotion have not been met.	因未達成進階所需的等級條件，無法進階。	因未满足升级所需的等级条件，无法升级。
-1154	승급에 필요한 호감도 조건을 만족하지 못해 승급할 수 없습니다.	昇級に必要な好感度条件を満たせず昇級できません。	Cannot promote as the Like conditions needed for promotion have not been met.	因未達成進階所需的好感度條件，無法進階。	因未满足升级所需的好感度条件，无法升级。
+1154	승급에 필요한 호감도 조건을 만족하지 못해 승급할 수 없습니다.	昇級に必要な好感度条件を満たせず昇級できません。	Cannot promote as the Affinity conditions needed for promotion have not been met.	因未達成進階所需的好感度條件，無法進階。	因未满足升级所需的好感度条件，无法升级。
 1155	승급에 필요한 재료가 부족해 승급할 수 없습니다.	昇級に必要な材料が足りず昇級できません。	Cannot promote as you do not have the required materials for promotion.	因進階所需的材料不足，無法進階。	因升级所需的材料不足，无法升级。
 1156	제 {0}구역 {1}섹터	第{0}区域{1}セクター	Zone {0}, Sector {1}	第{0}區域{1}區段	第{0}区域{1}地带
 1157	점거 실패	占拠失敗	Occupation failed	佔據失敗	占领失败
 1158	임무 중 획득 아이템	任務中の獲得アイテム	Items acquired from mission	任務中獲得的道具	任务中获得的道具
-1159	출현 적	出現する敵	Appearing Enemy	出現的敵人	出现的敌人
+1159	출현 적	出現する敵	Enemies	出現的敵人	出现的敌人
 1160	확보 예정 광물 수	確保予定の鉱物数	Estimated Materials to be acquired	將獲得的礦物總量	将获得的矿物总量
 1161	최대 도달 구역	最大到達区域	Highest Zone reached.	最遠到達區域	最多到达区域
 1162	구역 위험도 : {0}	区域の危険度:{0}	Zone Danger Level: {0}	區域危險度：{0}	区域危险度：{0}
@@ -1603,7 +1602,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1224	배경 설정	背景設定	Background Settings	背景設定	背景设置
 1225	캐릭터 설정	戦闘員設定	Character Settings	角色設定	角色设置
 1226	기본배경프리셋{0}	基本背景プリセット{0}	Default Background Preset {0}	預設基本背景{0}	预设默认背景{0}
-1227	프리셋 이름 변경	プリセット名変更	Change Preset Name	變更預設名	更改预设名称
+1227	프리셋 이름 변경	プリセット名変更	Change Preset Name	變更預設名稱	更改预设名称
 1228	변경할 프리셋 이름을 설정해주세요.	変更するプリセット名を設定してください。	Enter the Preset Name you want to change to.	請設定要更改的預設名稱。	请设置要更改的预设名称。
 1229	최대 10자의 한글, 영문, 숫자를 사용할 수 있습니다.	最大10文字の韓国語、英語、数字を使用することができます。	You can use up to 10 Korean or alphanumeric characters.	最多可輸入10個字的中文字、英文、數字。	最多可以输入10字的汉字、英文、数字组合。
 1230	프리셋 설정	プリセット設定	Preset Settings	預設設定	预设设置
@@ -1622,7 +1621,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1243	초기화	初期化	Reset	重置	重置
 1244	보유하지 않은 배경입니다.	保有していない背景です。	You do not own that background.	未擁有的背景。	未拥有的背景。
 1245	부관 변경시 일시적으로 프리셋 설정이 해제됩니다.	副官を変更する際、一時的にプリセット設定が解除されます。	Preset settings will be temporarily removed when you change your Deputy.	變更副官時，預設設定會暫時解除。	变更副官时，预设设置会暂时解除。
-1246	[c][f0f0b3]{0}[-][/c]에게 [c][f0f0b3]{1}[-][/c]아이템을 선물하여 호감도가 [c][f0f0b3]{2}[-][/c] 상승했습니다.	[c][f0f0b3]{0}[-][/c]に[c][f0f0b3]{1}[-][/c]アイテムをプレゼントして好感度が[c][f0f0b3]{2}[-][/c]上昇しました。	Your Like has increased by [c][f0f0b3]{2}[-][/c] because you gave [c][f0f0b3]{1}[-][/c] to [c][f0f0b3]{0}[-][/c].	把[c][f0f0b3]{1}[-][/c]道具送給了[c][f0f0b3]{0}[-][/c]，好感度上升了[c][f0f0b3]{2}[-][/c]。	把[c][f0f0b3]{1}[-][/c]送给了[c][f0f0b3]{0}[-][/c]，好感度增加[c][f0f0b3]{2}[-][/c]。
+1246	[c][f0f0b3]{0}[-][/c]에게 [c][f0f0b3]{1}[-][/c]아이템을 선물하여 호감도가 [c][f0f0b3]{2}[-][/c] 상승했습니다.	[c][f0f0b3]{0}[-][/c]に[c][f0f0b3]{1}[-][/c]アイテムをプレゼントして好感度が[c][f0f0b3]{2}[-][/c]上昇しました。	Your Affinity has increased by [c][f0f0b3]{2}[-][/c] because you gave [c][f0f0b3]{1}[-][/c] to [c][f0f0b3]{0}[-][/c].	把[c][f0f0b3]{1}[-][/c]道具送給了[c][f0f0b3]{0}[-][/c]，好感度上升了[c][f0f0b3]{2}[-][/c]。	把[c][f0f0b3]{1}[-][/c]送给了[c][f0f0b3]{0}[-][/c]，好感度增加[c][f0f0b3]{2}[-][/c]。
 1247	현재 전투원 레벨 [c][f0f0b3]: {0}[-][/c]	現在戦闘員レベル[c][f0f0b3]:{0}[-][/c]	Current Soldier’s Level [c][f0f0b3]: {0}[-][/c]	當前戰鬥員等級[c][f0f0b3]：{0}[-][/c]	当前战斗员等级[c][f0f0b3]：{0}[-][/c]
 1248	(+{0})	(+{0})	(+{0})	（+{0}）	（+{0}）
 1249	선물수량	プレゼント数量	Gift Quantity	禮物數量	礼物数量
@@ -1646,7 +1645,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 实际副官不变，只改变显示的图像。"
 1263	"로비에서 출력되는 부관 및 배경 이미지를 보유하고 있는 모든 캐릭터 및 배경 중에서 랜덤으로 출력합니다.
 실제 부관이 변경되는 것은 아니며 출력되는 이미지만 변경됩니다."	"ロビーで表示される副官および背景画像を保有している全てのキャラクターおよび背景の中からランダムで表示します。
- 実際に副官が変更されるわけではなく、表示される画像のみが変更されます。"	"The Deputy and background image shown in the Lobby is randomly selected from one of the character and background you currently own.
+ 実際に副官が変更されるわけではなく、表示される画像のみが変更されます。"	"The Deputy and background image shown in the Lobby is randomly selected from one of your skins and backgrounds.
 The actual Deputy does not change, and only the displayed image changes."	"將隨機從擁有的所有角色及背景之中選擇作為大廳裡出現的副官及背景圖片。
 實際副官不變，只變更顯示的圖片。"	"大厅里出现的副官及背景图像在所持有的所有角色及背景中随机出现。
 实际副官不变，只改变显示的图像。"
@@ -1657,7 +1656,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 實際副官不變，只變更顯示的圖片。"	"大厅里出现的副官及背景图像在所持有的所有皮肤及背景中随机出现。
 实际副官不变，只改变显示的图像。"
 1265	일괄해제	一括解除	Remove All	一鍵解除	一键解除
-1266	스킬레벨 정보	スキルレベル情報	Skill Level Info	技能等級資訊	技能等级信息
+1266	스킬레벨 정보	スキルレベル情報	Skill Level Info	技能等級資訊	技能等级
 1267	LV.{0}	LV.{0}	Lv. {0}	等級{0}	Lv.{0}
 1268	닉네임 확인	[c][f0f0b3]ニックネームの確認[-][/c]	Confirm Nickname	確認暱稱	确认昵称
 1269	다음 호칭으로 사용하시겠습니까?\n\n[c][f0f0b3]{0}[-][/c]	このニックネームを使用しますか？\n\n[c][f0f0b3]{0}[-][/c]	Do you want to use the following Nickname?\n\n[c][f0f0b3]{0}[-][/c]	是否確定使用以下稱謂？\n\n[c][f0f0b3]{0}[-][/c]	是否确定使用以下的名称？\n\n[c][f0f0b3]{0}[-][/c]
@@ -1665,12 +1664,12 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1271	기록실	記録室	Archive	記錄室	记录室
 1272	출현확률	出現確率	Appearance Rate	出現機率	出现几率
 1273	연구 효과	研究	Research Effect	研究效果	研究效果
-1274	연구대기	研究待機	Research Wait	研究等候	研究等待
+1274	연구대기	研究待機	Waiting for Research	研究等候	研究等待
 1275	연구시간	研究時間	Research Time	研究時間	研究时间
 1276	를 실행 하시겠습니까?	を実行しますか?	: Start?	是否執行？	是否实行？
 1277	대상을 선택하세요.	対象を選んでください	Select Soldier	請選擇對象。	请选择对象。
 1278	재고	在庫	Stock	庫存	库存
-1279	전투 승리	戦闘勝利	Combat Victory	戰鬥勝利	战斗胜利
+1279	전투 승리	戦闘勝利	Victory	戰鬥勝利	战斗胜利
 1280	중파 스킨 설정은 프리셋 및 캐릭터 상세보기 메뉴에 일괄 적용됩니다.	中破スキン設定はプリセットおよびキャラクター詳細確認メニューに一括適用されます。	Severely Injured skin settings will be collectively applied to the Preset and character detailed view menu.	嚴重損壞造型設定會一併套用於預設以及角色詳情。	严重损坏皮肤设置会一键应用于预设以及角色详情目录。
 1281	잠금을 해제 하려면 화면을 드래그 하세요.	ロックを解除するためには画面をドラッグしてください。	Drag the screen to unlock.	請滑動畫面解鎖。	请滑动画面解锁。
 1282	버튼을 누르면 미니게임을 시작합니다.	ボタンを押すとミニゲームが始まります。	Press the button to start the Mini Game.	按下按鍵就會開始進行小遊戲。	按下按钮就会开始小游戏。
@@ -1681,7 +1680,7 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1287	[c][f0f0b3]{0}%[-][/c]	[c][f0f0b3]{0}%[-][/c]	[c][f0f0b3]{0}%[-][/c]	[c][f0f0b3]{0}%[-][/c]	[c][f0f0b3]{0}%[-][/c]
 1288	근방에서 아군 신호 탐색중...	味方の信号探索中...	Searching for an ally signal in the nearby vicinity…	在附近探索我軍信號…	在附近探索我军信号……
 1289	일괄 수령중 입니다. 잠시만 기다려주세요.	一括受領中です。しばらくお待ちください。	Receiving all. Please wait.	一鍵領取中，請稍等。	一键领取中，请稍等。
-1290	[c][ffb900ff]제작 중인 장비[-][/c]가 있습니다.\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 완성 하시겠습니까?\n\n즉시 완성된 장비는 [c][ffb900ff]일괄적으로 수령[-][/c]됩니다.\n\n[sub][c][CDCDCDFF]SS급 장비를 제외한 등장 연출은 생략됩니다.[-][/c]	[c][ffb900ff]製作中の装備[-][/c]があります。\n [c][ffb900ff]急速完成回路[-][/c]を消費して今すぐ完成させますか？\n\n即時完成された装備は[c][ffb900ff]一括受領[-][/c]となります。\n\n[sub][c][CDCDCDFF]SS級装備を除く登場時の演出は省略されます。[-][/c]	You have [c][ffb900ff]gear being created[-][/c].\nDo you want to use [c][ffb900ff]Rapid Completion Circuit[-][/c] and finish it instantly?\n\nAll instantly completed gear items [c][ffb900ff]will be received together[-][/c].\n\nOnly [sub][c][CDCDCDFF]SS Grade gear will play animation.[-][/c]	有[c][ffb900ff]正在製造[-][/c]的裝備。\n是否消耗[c][ffb900ff]速成迴路[-][/c]來立即完成？\n\n會[c][ffb900ff]全部領取[-][/c]立即完成的裝備。\n\n[sub][c][CDCDCDFF]除了SS級裝備以外，其他登場演出效果會被省略。[-][/c]	有[c][ffb900ff]正在制作的装备[-][/c]。\n是否消耗[c][ffb900ff]速成电路[-][/c]来立即完成？\n\n立即完成的装备会由[c][ffb900ff]全部领取[-][/c]。\n\n除了[sub][c][CDCDCDFF]SS装备的登场，其他登场效果会被省略。[-][/c]
+1290	[c][ffb900ff]제작 중인 장비[-][/c]가 있습니다.\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 완성 하시겠습니까?\n\n즉시 완성된 장비는 [c][ffb900ff]일괄적으로 수령[-][/c]됩니다.\n\n[sub][c][CDCDCDFF]SS급 장비를 제외한 등장 연출은 생략됩니다.[-][/c]	[c][ffb900ff]製作中の装備[-][/c]があります。\n [c][ffb900ff]急速完成回路[-][/c]を消費して今すぐ完成させますか？\n\n即時完成された装備は[c][ffb900ff]一括受領[-][/c]となります。\n\n[sub][c][CDCDCDFF]SS級装備を除く登場時の演出は省略されます。[-][/c]	You have [c][ffb900ff]gear being created[-][/c].\nDo you want to use a [c][ffb900ff]Rapid Completion Circuit[-][/c] and finish it instantly?\n\nAll instantly completed gear items [c][ffb900ff]will be received together[-][/c].\n\n[sub][c][CDCDCDFF]Animation will only be played for SS Grade gear.[-][/c]	有[c][ffb900ff]正在製造[-][/c]的裝備。\n是否消耗[c][ffb900ff]速成迴路[-][/c]來立即完成？\n\n會[c][ffb900ff]全部領取[-][/c]立即完成的裝備。\n\n[sub][c][CDCDCDFF]除了SS級裝備以外，其他登場演出效果會被省略。[-][/c]	有[c][ffb900ff]正在制作的装备[-][/c]。\n是否消耗[c][ffb900ff]速成电路[-][/c]来立即完成？\n\n立即完成的装备会由[c][ffb900ff]全部领取[-][/c]。\n\n除了[sub][c][CDCDCDFF]SS装备的登场，其他登场效果会被省略。[-][/c]
 1291	수령	受領	Accept	領取	领取
 1292	일괄 수령 완료	一括受領完了	All Received	一鍵領取完畢	一键领取完毕
 1293	일괄 제작 중입니다. 잠시만 기다려주세요.	一括製作中です。しばらくお待ちください。	Creating all simultaneously... Please wait.	一鍵製造中，請稍等。	一键制作中，请稍等。
@@ -1697,8 +1696,8 @@ The actual Deputy does not change, and only the displayed image changes."	"將�
 1303	[c][ffb900ff]제작 중인 캐릭터[-][/c]가 있습니다.\n [c][ffb900ff]급속 완성 회로[-][/c]를 소모하여 즉시 완성 하시겠습니까?\n\n즉시 완성된 캐릭터는 [c][ffb900ff]일괄적으로 수령[-][/c]됩니다.\n\n[sub][c][CDCDCDFF]우측 상단 버튼을 사용하여 등장 연출을 모두 스킵할 수 있습니다.[-][/c]	[c][ffb900ff]製作中のキャラクター[-][/c]があります。\n [c][ffb900ff]急速完成回路[-][/c]を消費して直ちに完成させますか？\n\n即時完成されたキャラクターは[c][ffb900ff]一括受領[-][/c]となります。\n\n[sub][c][CDCDCDFF]右側上段のボタンを使用して登場演出を全てスキップすることができます。[-][/c]	You have [c][ffb900ff]a character being created.[-][/c]\nDo you want to use [c][ffb900ff]a Rapid Completion Circuit[-][/c] and finish it instantly?\n\nAll instantly completed characters [c][ffb900ff]will be received together[-][/c].\n\n[sub][c][CDCDCDFF]Press the button on the top right to skip all animations.[-][/c]	有[c][ffb900ff]正在製造的角色[-][/c]。\n是否消耗[c][ffb900ff]速成迴路[-][/c]來立即完成？\n\n立即完成的角色會[c][ffb900ff]全部領取[-][/c]。\n\n[sub][c][CDCDCDFF]輕觸右側上端的按鍵即可跳過所有登場效果。[-][/c]	有[c][ffb900ff]正在制作的角色[-][/c]。\n是否消耗[c][ffb900ff]速成电路[-][/c]来立即完成？\n\n立即完成的角色会[c][ffb901ff]全部领取[-][/c]。\n\n[sub][c][CDCDCDFF]轻触右侧上端的按键即可跳过所有登场效果。[-][/c]
 1304	제조 중인 캐릭터가 없습니다.	製造中のキャラクターがいません。	There is no character being crafted.	沒有正在製造中的角色。	没有正在制造中的角色。
 1305	수령 가능 캐릭터가 없습니다.	受領可能なキャラクターがいません。	There are no characters to receive.	沒有可領取的角色。	没有可领取的角色。
-1306	스킬 상세 정보 -	スキル詳細情報 -	Skill Details	技能詳情-	技能详情-
-1307	지원 받을 수 있는 외부 부대가 없습니다	支援できる外部部隊がありません	There are no external Contingents to support you.	沒有可以收到支援的外部部隊。	没有可以收到支援的外部部队。
+1306	스킬 상세 정보 -	スキル詳細情報 -	Skill Details	技能詳情–	技能详情-
+1307	지원 받을 수 있는 외부 부대가 없습니다	支援できる外部部隊がありません	No external support Squads available	沒有可以收到支援的外部部隊。	没有可以收到支援的外部部队。
 1308	의 스쿼드 배치	の分隊配置	’s Squad assign	的小隊配置	的小队部署
 1309	구매 확인	購買確認	Confirm Purchase	確認購買	确认购买
 1310	구매 완료	購買完了	Purchase Complete	購買完畢	购买完毕
@@ -1765,7 +1764,7 @@ Of course, Labiata knew. She knew that countless sisters would be sacrificed in 
 1351	트위터 계정 연동 되었습니다.	Twitterアカウントと連携しました。	Twitter account has been connected.	已連動Twitter帳號。	已绑定Twitter账号。
 1352	로그인 정보가 만료되어 게임을 종료합니다	ログイン情報の期限が過ぎたためゲームアプリを終了します。	Login data has expired. Exiting game.	登入資訊已過期，即將結束遊戲。	登入信息已过期，结束游戏。
 1353	B급 일괄 선택	B級一括選択	Select All B Grade	一鍵選擇B級	一键选择B级
-1354	B급 일괄 해제	B級一括解除	Remove All B Grade	一鍵解除B級	一键解除B级
+1354	B급 일괄 해제	B級一括解除	Deselect All B Grade	一鍵解除B級	一键解除B级
 1355	프리셋 설정된 전투원은 영구 링크가 불가능 합니다.	プリセット設定された戦闘員は永久リンクが不可能です。	Preset Soldiers cannot be used to permanently link.	不能永久連結被設定為預設的戰鬥員。	被设置为预设的战斗员无法进行永久链接。
 1356	[c][2ac940]{0}의 재공격[-][/c]	[c][2ac940]{0}の再攻撃[-][/c]	[c][2ac940]{0}’s repeated attack[-][/c]	[c][2ac940]{0}的再次攻擊[-][/c]	[c][2ac940]{0}的再次攻击[-][/c]
 1357	{0} 피해 최소화	{0} ダメージ最小化	Minimize {0} damage.	{0}傷害最小化	{0}伤害最小化
@@ -1776,7 +1775,7 @@ Of course, Labiata knew. She knew that countless sisters would be sacrificed in 
 1362	[FFCC00FF]▼[-] [보기]	[FFCC00FF]▼[-] [見る]	[FFCC00FF]▼[-] [View]	[FFCC00FF]▼[-]【查看】	[FFCC00FF]▼[-]【查看】
 1363	[FFCC00FF]▲[-] [닫기]	[FFCC00FF]▲[-] [閉じる]	[FFCC00FF]▲[-] [Close]	[FFCC00FF]▲[-]【關閉】	[FFCC00FF]▲[-]【关闭】
 1364	콘스탄챠의	コンスタンツァからの	Constantia’s	康斯坦察的	康斯坦察的
-1365	공지사항	お知らせ	Notice	公告	公告
+1365	공지사항	お知らせ	Notices	公告	公告
 1366	전투 불능 전투원이 있어 전투 종료	戦闘不能戦闘員がいるため戦闘終了	Exiting Combat as there is a soldier unable to combat.	因有無法戰鬥的戰鬥員，將結束戰鬥	因有无法战斗的战斗员，战斗结束
 1367	전투 진입 불가	戦闘進入不可	Cannot start combat	無法進入戰鬥	无法进入战斗
 1368	수용 초과로 인해 전투 종료	受容超過により戦闘終了	Exiting combat because you have exceeded max capacity	因超出容量，將結束戰鬥	因超出容量，战斗结束
@@ -1811,14 +1810,14 @@ Instead of summoning the Bioroids, she ordered all the Bioroids to stay with the
 1382	-획득 자원-	-獲得資源-	- Acquired Resource -	-獲得資源-	-获得资源-
 1383	추가 획득 보상	追加獲得報酬	Additional Rewards	獲得額外獎勵	获得额外奖励
 1393	서약된 전투원은 영구 링크가 불가능 합니다.	誓約した戦闘員は永久リンクが不可能です。	Soldier that has made a Pledge cannot be permanently linked.	不能永久連結被誓約的戰鬥員。	已誓约的战斗员无法进行永久链接。
-1394	최대 호감도	最大好感度	Max Like	最大好感度	最大好感度
-1395	[c][f0f0b3]{0}[-][/c]에게 [c][f0f0b3]{1}[-][/c]아이템을 선물하여 최대 호감도가 [c][f0f0b3]{2}[-][/c] 상승했습니다.	[c][f0f0b3]{0}[-][/c]に[c][f0f0b3]{1}[-][/c]アイテムを贈ったため最大好感度が[c][f0f0b3]{2}[-][/c]上昇しました。	Your Max Like has increased by [c][f0f0b3]{2}[-][/c] because you gave [c][f0f0b3]{1}[-][/c] to [c][f0f0b3]{0}[-][/c].	把[c][f0f0b3]{1}[-][/c]道具送給了[c][f0f0b3]{0}[-][/c]，最大好感度上升了[c][f0f0b3]{2}[-][/c]。	把[c][f0f0b3]{1}[-][/c]送给了[c][f0f0b3]{0}[-][/c]，最大好感度增加[c][f0f0b3]{2}[-][/c]。
-1396	현재  최대 호감도 : [c][FFBA29FF]{0}[-][/c]	現在の最大好感度 : [c][FFBA29FF]{0}[-][/c]	Current Max Like: [c][FFBA29FF]{0}[-][/c]	當前最大好感度：[c][FFBA29FF]{0}[-][/c]	当前最大好感度：[c][FFBA29FF]{0}[-][/c]
+1394	최대 호감도	最大好感度	Max Affinity	最大好感度	最大好感度
+1395	[c][f0f0b3]{0}[-][/c]에게 [c][f0f0b3]{1}[-][/c]아이템을 선물하여 최대 호감도가 [c][f0f0b3]{2}[-][/c] 상승했습니다.	[c][f0f0b3]{0}[-][/c]に[c][f0f0b3]{1}[-][/c]アイテムを贈ったため最大好感度が[c][f0f0b3]{2}[-][/c]上昇しました。	Your Max Affinity has increased by [c][f0f0b3]{2}[-][/c] because you gave [c][f0f0b3]{1}[-][/c] to [c][f0f0b3]{0}[-][/c].	把[c][f0f0b3]{1}[-][/c]道具送給了[c][f0f0b3]{0}[-][/c]，最大好感度上升了[c][f0f0b3]{2}[-][/c]。	把[c][f0f0b3]{1}[-][/c]送给了[c][f0f0b3]{0}[-][/c]，最大好感度增加[c][f0f0b3]{2}[-][/c]。
+1396	현재  최대 호감도 : [c][FFBA29FF]{0}[-][/c]	現在の最大好感度 : [c][FFBA29FF]{0}[-][/c]	Current Max Affinity: [c][FFBA29FF]{0}[-][/c]	當前最大好感度：[c][FFBA29FF]{0}[-][/c]	当前最大好感度：[c][FFBA29FF]{0}[-][/c]
 1397	기본 (애정)	基本(愛情)	Basic (Intimate)	基本（愛情）	基本（爱情）
 1398	기본 (친밀)	基本(親密)	Basic (Friendly)	基本（親密）	基本（亲密）
 1399	기본 (호감)	基本(好感)	Basic (Interested)	基本（好感）	基本（好感）
 1400	전투원 닉네임 설정 가능	戦闘員のニックネーム設定可能	Soldier nickname settings available	可設定戰鬥員暱稱	可设置战斗员昵称
-1401	호감도 최대로 유지	好感度を最大に維持	Maintain Max Like	維持最大好感度	维持最大好感度
+1401	호감도 최대로 유지	好感度を最大に維持	Maintain Max Affinity	維持最大好感度	维持最大好感度
 1402	서약 전용 로비 / 전투 대사 추가	誓約専用ロビー / 戦闘台詞追加	Exclusive Pledge Lobby / Add Combat Dialogue	添加誓約專用大廳／戰鬥台詞	添加誓约专用大厅／战斗台词
 1403	로비 / 전투 대사 설정 기능	ロビー / 戦闘台詞設定機能	Lobby / Combat Dialogue settings available	大廳／戰鬥台詞設定功能	大厅／战斗台词设置功能
 1404	전투 경험치 / 스킬 경험치 획득 +{0}%	戦闘経験値 / スキル経験値獲得 +{0}%	Obtain Combat EXP / Skill EXP +{0}%	獲得戰鬥經驗值／技能經驗值+{0}%	获得战斗经验／技能经验+{0}%
@@ -1833,7 +1832,7 @@ The following effect will be activated when the Pledge is made."	"將與對象�
 誓约时，将获得以下效果。
 "
 1407	서약 시, [c][FFCF04FF]서약 반지[-][/c] 1개가 소모됩니다.	誓約時、[c][FFCF04FF]誓約指輪[-][/c]1個が消費されます。	1 [c][FFCF04FF]Pledge Ring[-][/c] will be used when Pledge is made.	誓約時，將消耗一個[c][FFCF04FF]誓約戒指[-][/c]。	誓约时，消耗一个[c][FFCF04FF]誓约戒指[-][/c]。
-1408	최대 호감도 보너스	最大好感度ボーナス	Max Like Bonus	最大好感度加成	最大好感度加成
+1408	최대 호감도 보너스	最大好感度ボーナス	Max Affinity Bonus	最大好感度加成	最大好感度加成
 1409	서약 또는 호감도 {0} 상태인 전투원은 다음 효과가 적용됩니다.	誓約または好感度{0}状態の戦闘員は次の効果が適用されます。	The following effect is applied if a character has made a Pledge or has {0} Like.	誓約或好感度為{0}的戰鬥員將套用以下效果。	誓约或好感度为{0}的战斗员会获得以下效果。
 1410	애플 로그인에 실패하였습니다.	Appleログインに失敗しました。	Apple log in failed.	登入 Apple 失敗。	Apple账号登录失败。
 1411	애플 계정 연동 되었습니다.	Appleアカウントと連携しました。	Apple account has been connected.	已連動 Apple 帳號。	已绑定Apple账号。
@@ -1846,7 +1845,7 @@ The following effect will be activated when the Pledge is made."	"將與對象�
 1418	{0} [c][ffcc00]1개[-][/c]가 소모됩니다.	{0} [c][ffcc00]1個[-][/c]が消費されます。	[c][ffcc00]1[-][/c] {0} will be consumed.	將消耗[c][ffcc00]1個[-][/c]{0}。	消耗{0}[c][ffcc00]1个[-][/c]。
 1419	첫 변경은 [c][ffcc00]비용 없이[-][/c] 변경할 수 있습니다.	最初の変更は[c][ffcc00]無料で[-][/c]変更できます。	The first change can be done for [c][ffcc00]free[-][/c].	第一次變更時為[c][ffcc00]免費[-][/c]。	第一次更改时不需要[c][ffcc00]费用就可以更改[-][/c]。
 1420	[c][ffcc00]{0}[-][/c] 의 호칭을 변경합니다.	[c][ffcc00]{0}[-][/c]の呼称を変更します。	[c][ffcc00]{0}[-][/c]'s nickname will be changed.	變更[c][ffcc00]{0}[-][/c]的稱謂。	更改[c][ffcc00]{0}[-][/c]的称呼。
-1421	전투원 닉네임 변경 확인	戦闘員のニックネーム変更確認	Confirm changed Soldier’s nickname	確定變更戰鬥員暱稱	确认更改战斗员昵称
+1421	전투원 닉네임 변경 확인	戦闘員のニックネーム変更確認	Confirm Soldier’s Changed Nickname	確定變更戰鬥員暱稱	确认更改战斗员昵称
 1422	"[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]
 변경하시겠습니까?"	"[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]
  変更しますか？"	"[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]
@@ -1856,7 +1855,7 @@ Do you want to change?"	"[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]
 1423	장비 장착	装備装着	Equip Gear	配戴裝備	佩戴装备
 1424	장비 해제	装備解除	Remove Gear	解除裝備	解除装备
 1425	훈련 결과	訓練の結果	Training Result	訓練結果	训练结果
-1426	최대 호감도가 맥스입니다.	最大好感度が最大値です。	Like is at Max!	最大好感度已達最高值。	最大好感度已达最高值。
+1426	최대 호감도가 맥스입니다.	最大好感度が最大値です。	Affinity is at max!	最大好感度已達最高值。	最大好感度已达最高值。
 1436	이벤트 보급	イベント補給	Event Supply	活動補給	活动补给
 1437	DMM 계정 연동되었습니다.	DMMアカウントと連携しました。	DMM account has been connected.	已連動DMM帳號。	已绑定DMM账号。
 1438	DMM 계정과 연동되어 있지 않습니다.	DMMアカウントに連携されていません。	Not connected with your DMM account.	未連動DMM帳號。	未绑定DMM账号。
@@ -1893,7 +1892,7 @@ Do you want to change?"	"[c][ffcc00]{0}[-][/c] -> [c][ffcc00]{1}[-][/c]
  
 Bioroid: Special Creation
 - With Special Creation for a Bioroid, you can only create A Grade or higher [u][c][ffcc00]Light Armor/Mobile/Heavy Armor[-][/c][/u] Bioroids.
-- The basic details are the same as Normal Creation apart from the fact that Premium Creation requires a Premium Module and more resources.
+- The basic details are the same as Normal Creation apart from the fact that Special Creation requires a Premium Module and more resources.
 - Premium Modules can be obtained as a reward for various missions or when you dismantle A Grade or higher soldiers or gear modules.
 "	"生化人：一般製造
 - 在生化人一般製造中可以製造[u][c][ffcc00]輕裝型／機動型[-][/c][/u] 生化人。
@@ -1910,7 +1909,7 @@ Bioroid: Special Creation
 - 生化人特殊制作中可以制作[u][c][ffcc00]轻装型／机动型／重装型[-][/c][/u]生化人，而且只会制作出A级以上的战斗员。
 - 基本事项和一般制作相似，但需要的资源量更多而且需要高级模块。
 - 高级模块可以在各种任务奖励以及分解A级别以上的战斗员或者装备模块时得到。"
-1000012	[u][c][b3d8db][전투원 제작에 대해 상세 설명] 사이트 이동[-][/c][/u]	[u][c][b3d8db][戦闘員の製作に関する詳しい説明]サイトに移動[-][/c][/u]	[u][c][b3d8db]Go to 'Detailed Information on Creating Soldiers' website[-][/c][/u]	[u][c][b3d8db]【關於製造戰鬥員的詳細說明】移動至網站[-][/c][/u]	[u][c][b3d8db]前往网站【关于制作战斗员的详细说明】[-][/c][/u]
+1000012	[u][c][b3d8db][전투원 제작에 대해 상세 설명] 사이트 이동[-][/c][/u]	[u][c][b3d8db][戦闘員の製作に関する詳しい説明]サイトに移動[-][/c][/u]	[u][c][b3d8db]Go to 'Detailed Information on Creating Soldiers' website[-][/c][/u]	[u][c][b3d8db]前往網站【關於製造戰鬥員的詳細說明】[-][/c][/u]	[u][c][b3d8db]前往网站【关于制作战斗员的详细说明】[-][/c][/u]
 1000013	"장비의 제작
 -공방의 장비 제작 메뉴에서 장비를 제작할 수 있습니다.
 -전투원 제작과 마찬가지로, [u][c][ffcc00]투입한 자원 종류와 양에 따라[-][/c][/u] 제작되는 장비의 타입이 달라집니다."	"装備の製作
@@ -1921,7 +1920,7 @@ Bioroid: Special Creation
 - 可進入工坊的製造裝備選單來進行製造。
 - 和製造戰鬥員一樣，依照[u][c][ffcc00]投入的資源種類與數量[-][/c][/u]來決定製造的裝備類型。"	"制作装备
 - 可以进入工坊的制作装备来制作。
-- 这个和制作战斗员一样，[u][c][ffcc00]投入的资源种类与数量[-][/c][/u]决定制作的装备类型。"
+- 与制作战斗员一样，[u][c][ffcc00]投入的资源种类与数量[-][/c][/u]决定制作的装备类型。"
 1000014	[u][c][b3d8db][전투원 제작에 대해 상세 설명] 사이트 이동[-][/c][/u]	[u][c][b3d8db][装備の製作に関する詳しい説明]サイト移動[-][/c][/u]	[u][c][b3d8db]Go to 'Detailed Information on Creating Soldiers' website[-][/c][/u]	[u][c][b3d8db]【關於製造戰鬥員的詳細說明】移動至網站[-][/c][/u]	[u][c][b3d8db]前往网站【关于制作战斗员的详细说明】[-][/c][/u]
 1000015	제작에 대해 상세 설명	製作に関する詳しい説明	Detailed Information on Creating	關於製造的詳細說明	关于制作的详细说明
 1000016	"[{0}]
@@ -1989,7 +1988,7 @@ This month’s total payment: {1} JPY
 *购买金额会在每月1日重置。"
 1000018	Lv.{0}	Lv.{0}	Lv. {0}	等級{0}	Lv.{0}
 1000019	분해 획득 모듈	分解獲得モジュール	Modules from Dismantling	分解獲得模組	分解获得模块
-1000020	슬롯 확장 필요	スロット拡張必要	Slot Expansion Required	需要擴充欄位	需要扩充栏位
+1000020	슬롯 확장 필요	スロット拡張必要	Expand Slot	需要擴充欄位	需要扩充栏位
 1000021	"서약한 전투원입니다. 정말 잠금을 해제하시겠습니까?
 잠금 해제 시에 서약한 전투원이 사라질 수 있습니다."	誓約した戦闘員です。本当にロックを解除しますか？ロックを解除すると誓約した戦闘員が消失することがあります。	"Selected Soldier has made a Pledge. Do you still want to unlock?
 You may lose the pledged soldier if you unlock."	"已誓約的戰鬥員。是否確定解鎖？
@@ -2111,7 +2110,7 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 1000083	재료 부족	材料不足	Not enough material.	材料不足	材料不足
 1000084	업그레이드 시작	アップグレード開始	Start Upgrade.	開始升級	开始升级
 1000085	획득 방법	獲得方法	How to Acquire	獲取方法	获得方法
-1000086	동시에 여러 시설의 업그레이드를 진행 할 수 없습니다.	同時に複数の施設のアップグレードはできません。	You cannot upgrade multiple facilities at the same time.	不能同時進行多個設施的升級。	不能同时进行各个设施的升级。
+1000086	동시에 여러 시설의 업그레이드를 진행 할 수 없습니다.	同時に複数の施設のアップグレードはできません。	You cannot upgrade multiple facilities at the same time.	不能同時升級多個設施。	不能同时升级多个设施。
 1000087	사용 가능한 부품이 없습니다.	使用可能な部品がありません。	You have no parts that can be used.	目前沒有可使用的零件。	目前没有可使用的配件。
 1000088	필요 사령관 레벨 : {0}	必要な司令官レベル : {0}	Required Commander Level: {0}	所需司令官等級：{0}	所需司令等级：{0}
 1000089	LV {0}	LV {0}	Lv. {0}	等級{0}	Lv.{0}
@@ -2199,17 +2198,17 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 1000171	대기	待機	Wait	等候	等待
 1000172	방어막	バリア	Defensive Shield	防護罩	防护罩
 1000173	보호	保護	Protect	保護	保护
-1000174	호감도 하락	好感度下落	Like DOWN	好感度下降	好感度下降
-1000175	호감도 상승	好感度上昇	Like UP	好感度上升	好感度上升
+1000174	호감도 하락	好感度下落	Affinity DOWN	好感度下降	好感度下降
+1000175	호감도 상승	好感度上昇	Affinity UP	好感度上升	好感度上升
 1000176	저장되지 않음	未保存状態	Not Saved	未儲存	未存储
 1000177	이대로 뒤로 돌아갈 경우 현재 편집한 정보는 저장 되지 않습니다.\n진행하시겠습니까?	このまま戻る場合、今までの編集情報は保存されません。\n実行しますか？	Changed data will not be saved if you go back now.\nDo you want to continue?	如果現在返回，則不會儲存當前編輯的資訊。\n是否確定進行？	如果现在返回，则不会存储当前编辑的信息。\n是否进行？
-1000178	우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\n또한 모든 장식품이 해제됩니다.\n진행하시겠습니까?	優先順位を除くすべての編集値が初期状態に戻ります。\nまたすべての装飾品が解除されます。\n実行しますか？	All edits except for the priority order will reset to default\nand all Ornaments will be removed.\nDo you want to continue?	除了優先順序外的所有編輯值皆將回到初始狀態。\n並且將同時解除所有裝飾品。\n是否確定進行？	除优先级外的所有编辑值都回到初始状态。\n同时解除所有装饰品。\n是否进行？
+1000178	우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\n또한 모든 장식품이 해제됩니다.\n진행하시겠습니까?	優先順位を除くすべての編集値が初期状態に戻ります。\nまたすべての装飾品が解除されます。\n実行しますか？	All edits except for the priority order will reset to default\nand all Ornaments will be removed.\nDo you want to continue?	除了優先順序外的所有編輯值皆將回到初始狀態。\n並且將同時解除所有裝飾品。\n是否確定進行？	除优先级外的所有编辑值都将回到初始状态。\n同时将解除所有装饰品。\n是否进行？
 1000179	프리셋 전체 초기화	フリーセット全体初期化	Reset All Preset Settings	重置所有預設	重置所有预设
 1000180	캐릭터 초기화	キャラクター初期化	Reset Character	角色重置	角色重置
 1000181	선택된 캐릭터의 우선 순위를 제외한 모든 편집 값이 초기 상태로 돌아갑니다.\n진행하시겠습니까?	選択したキャラクターの優先順位を除くすべての編集値が初期状態に戻ります。\n実行しますか？	All changed data except for the priority order for the selected character will reset to default.\nDo you want to continue?	除了所選角色的優先順序，所有編輯值都將回到初始狀態。\n是否進行？	所选角色的优先顺位之外的所有编辑值都回到初始状态。\n是否进行？
 1000182	전체 초기화	全体初期化	Reset All	全部重置	全部重置
 1000183	미리 보기	プレビュー	Preview	預覽	预览
-1000184	우선 순위 변경	優先順位変更	Change Priority Order	變更優先順序	变更优先顺位
+1000184	우선 순위 변경	優先順位変更	Change Priority	變更優先順序	变更优先顺位
 1000185	편집중	編集中	Editing	編輯中	编辑中
 1000186	로비 UI 제거	ロビーUI除去	Remove UI	清除大廳UI	消除大厅UI
 1000187	표정 변경	表情変更	Change Expression	變更表情	变更表情
@@ -2217,9 +2216,9 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 1000189	좌우 반전	左右反転	Left-Right Rotate	左右顛倒	左右颠倒
 1000190	소품 활성화	小道具表示	Activate Accessories	啟用小道具	启用小道具
 1000191	중파 활성화	中破状態	Activate Severely Injured	啟用嚴重損壞	启用严重损坏
-1000192	순위 변경 해제	順位変更解除	Cancel	解除優先順序變更	解除顺位变更
+1000192	순위 변경 해제	順位変更解除	Cancel	解除順序變更	解除顺位变更
 1000193	현재 상태로 프리셋을 저장하시겠습니까?	現在の状態でフリーセットを保存しますか？	Do you want to save this Preset with the current settings?	是否將當前狀態儲存為預設？	是否将当前状态保存为预设？
-1000194	호감도 상승	好感度上昇	Like UP	好感度上升	好感度上升
+1000194	호감도 상승	好感度上昇	Affinity UP	好感度上升	好感度上升
 1000195	전투 속행	戦闘続行	Speed Up Combat	快速進行戰鬥	战斗快速进行
 1000196	{0} X	{0} X	{0} X	{0} X	{0} X
 1000197	슬롯 구매	スロット購入	Purchase Slot	購買欄位	购买栏位
@@ -2232,18 +2231,18 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 1000204	좌측 패널에서 레이어를 선택하여\n크기 조절 및 이동, 개별 편집이 가능합니다.	左側のパネルからレイヤーを選択し\nサイズ調節および移動、個別に編集が可能です。	Select a layer from the left panel\nto adjust size, movement, and make custom changes.	可在左側面板中選擇一個圖層\n來調整大小、移動和單獨編輯。	可以在左侧面板中选择一个图层，\n调整它的大小、移动和单独编辑。
 1000205	편집 완료	編集完了	Edit Complete	編輯完成	编辑完成
 1000206	현재 크기 :	現在サイズ :	Current Size:	當前大小：	当前大小：
-1000207	상단 바로 선택중인 레이어의 크기를 조절 합니다.\n우측 버튼을 터치 시 각도 변경 모드로 전환합니다.	上段バーに選択中のレイヤーのサイズを調節します。\n右側のボタンをタッチすると角度変更モードになります。	Adjust the size of the selected layer.\nPress the button on the right to toggle to Angle Adjustment mode.	可用上方橫條來調整所選圖層的大小。\n輕觸右側按鍵即可轉為變更角度模式。	可以用上端的调整条调节所选图层的大小。\n轻触右侧按键即可转为调整角度模式。
+1000207	상단 바로 선택중인 레이어의 크기를 조절 합니다.\n우측 버튼을 터치 시 각도 변경 모드로 전환합니다.	上段バーに選択中のレイヤーのサイズを調節します。\n右側のボタンをタッチすると角度変更モードになります。	Adjust the size of the selected layer.\nPress the button on the right to toggle to angle adjustment mode.	可用上方橫條來調整所選圖層的大小。\n輕觸右側按鍵即可轉為變更角度模式。	可以用上端的调整条调节所选图层的大小。\n轻触右侧按键即可转为调整角度模式。
 1000208	선택중	選択中	Selected	已選	已选择
 1000209	순위 상승	順位上昇	Rank Up	排名提升	顺位上升
 1000210	순위 하락	順位下落	Rank Down	排名降低	顺位下降
-1000211	좌측 패널을 사용해 우선순위를 변경할 수 있습니다.\n우선 순위가 높을수록 화면의 맨 앞에 위치합니다.\n버튼을 다시 터치하여 종료할 수 있습니다.	左側のパネルを利用して優先順位を変更します。\n優先順位が高いほど一番前に配置されます。\nボタンをもう一度押すと終了します。	Change the priority order from the panel on the left.\nThe ones with higher priority will be positioned at the front of the screen.\nTap on the button again to exit.	可使用左側面板變更優先順序。\n優先順序越高，位置越靠前。\n再一次輕觸按鍵即可結束。	可使用左侧面板变更优先顺位。\n优先顺位越高，位置越靠前。\n再一次轻触按键即可结束。
+1000211	좌측 패널을 사용해 우선순위를 변경할 수 있습니다.\n우선 순위가 높을수록 화면의 맨 앞에 위치합니다.\n버튼을 다시 터치하여 종료할 수 있습니다.	左側のパネルを利用して優先順位を変更します。\n優先順位が高いほど一番前に配置されます。\nボタンをもう一度押すと終了します。	Change the priority order from the left panel.\nHigher priority characters will be placed\nat the front of the screen.\nPress Cancel to exit.	可使用左側面板變更優先順序。\n優先順序越高，位置越靠前。\n再一次輕觸按鍵即可結束。	可使用左侧面板变更优先顺位。\n优先顺位越高，位置越靠前。\n再一次轻触按键即可结束。
 1000212	미리 보기 모드 실행중입니다.\n좌측 하단의 버튼을 터치하여 모드를 종료하거나\n로비 UI를 제거할 수 있습니다.	プレビューモードを実行中です。\n左側下段のボタンをタッチするとモードの終了および\nロビーUIを取り消すことができます。	Preview mode is active.\nPress the buttons on the bottom left to exit\nor remove the Lobby UI.	正在執行預覽模式。\n可以輕觸左下方的按鍵來結束模式，\n或者可以清除大廳UI。	正在执行预览模式。\n可以轻触左下方的按键来结束模式，\n或者消除大厅UI。
 1000213	좌측 패널의 버튼을 통해 표정을 선택하실 수 있습니다.\n패널 영역을 제외한 곳을 터치시 표정 편집이 종료됩니다.	左側のパネルのボタンを押すと表情を選択します。\nパネル領域以外の場所をタッチすると表情の編集を終了します。	Select Expressions from the left panel.\nTap on the area outside the panel to exit.	可以透過左側面板的按鍵來選擇表情。\n輕觸面板以外的地方就會結束表情編輯。	可以通过左侧面板的按键来选择表情。\n轻触面板以外的地方就会结束表情编辑。
 1000214	편집 모드	編集モード	Edit Mode	編輯模式	编辑模式
 1000215	미리 보기 해제	プレビュー解除	Exit Preview	解除預覽	解除预览
 1000216	공식 위키	公式wiki	Official Wiki	官方Wiki	官方百科
 1000217	현재 각도 :	現在の角度 :	Current Angle:	當前角度：	当前角度：
-1000218	상단 바로 편집중인 레이어의 각도를 조절 합니다.\n우측 버튼을 터치 시 크기 변경 모드로 전환합니다.	上段バーに編集中のレイヤーの角度を調節します。\n右側のボタンをタッチするとサイズ変更モードになります。	Adjust the angle of the selected layer.\nPress the button on the right to toggle to Size Adjustment mode.	可用上方橫條調整正在編輯的圖層角度。\n輕觸右側按鍵即可轉為變更大小模式。	可以用上方的调整条调节正在编辑的图层角度。\n轻触右侧按键即可转为调整大小模式。
+1000218	상단 바로 편집중인 레이어의 각도를 조절 합니다.\n우측 버튼을 터치 시 크기 변경 모드로 전환합니다.	上段バーに編集中のレイヤーの角度を調節します。\n右側のボタンをタッチするとサイズ変更モードになります。	Adjust the angle of the selected layer.\nPress the button on the right to toggle to size adjustment mode.	可用上方橫條調整正在編輯的圖層角度。\n輕觸右側按鍵即可轉為變更大小模式。	可以用上方的调整条调节正在编辑的图层角度。\n轻触右侧按键即可转为调整大小模式。
 1000219	{0}°	{0}°	{0}°	{0}°	{0}°
 1000220	시스템 알림	システム通知	System Message	系統通知	系统提示
 1000221	철의 탑	鉄の塔	Tower of Steel	鐵之塔	铁之塔
@@ -2294,13 +2293,14 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 1000266	편성 인원이 가득 찼습니다.	ログライク編成人員がいっぱいです。	Squad is full.	編排人數已滿。	编成人数已满。
 1000267	출격이 불가능한 전투원 입니다.	出撃不可能な戦闘員です。	Selected soldier cannot be deployed.	此戰鬥員不能出擊。	此战斗员不能出击。
 1000268	{0} 전투원이 합류하였습니다.	{0}戦闘員が合流しました。	{0} has joined the squad.	{0}戰鬥員加入了。	{0}战斗员加入了。
-1000269	장비 승급	装備昇級	Gear Promotion	裝備進階	装备升级
-1000270	승급 장비 선택	昇級装備選択	Select gear to promote.	選擇進階裝備	选择升级装备
+1000269	장비 승급	装備昇級	Promote Gear	裝備進階	装备升级
+1000270	승급 장비 선택	昇級装備選択	"Select Gear
+to promote"	選擇進階裝備	选择升级装备
 1000271	승급시킬 장비를 선택해 주세요.	昇級させる装備を選択してください。	Select the gear you want to promote.	請選擇要進階的裝備。	请先选择要升级的装备。
 1000272	■ 승급 대상인 장비만 승급 목록에 출력됩니다.	■ 昇級対象の装備のみ昇級リストに表示されます。	■ Only gear that meets the upgrade conditions are shown in the list.	■ 只有可進階的裝備會顯示在升級目錄中。	■ 只有可升级的装备会显示在升级列表中。
-1000273	■ 승급에 필요한 [ffcc00]레벨[-]과 [00c6ff]재료[-] 조건을 만족하면 승급을 진행할 수 있습니다.	■ 昇級に必要な[ffcc00]レベル[-]と[00c6ff]材料[-]条件を満たすと昇級を実行できます。	■ You can promote by satisfying the [ffcc00]level[-] and [00c6ff]material[-] conditions needed for the promotion.	■ 必須達到進階所需[ffcc00]等級[-]和[00c6ff]材料[-]條件才可進行進階。	■ 必须满足升级所需[ffcc00]等级[-]和[00c6ff]材料[-]条件才可以进行升级。
+1000273	■ 승급에 필요한 [ffcc00]레벨[-]과 [00c6ff]재료[-] 조건을 만족하면 승급을 진행할 수 있습니다.	■ 昇級に必要な[ffcc00]レベル[-]と[00c6ff]材料[-]条件を満たすと昇級を実行できます。	■ Satisfy the [ffcc00]level[-] and [00c6ff]material[-] conditions to promote.	■ 必須達到進階所需[ffcc00]等級[-]和[00c6ff]材料[-]條件才可進行進階。	■ 必须满足升级所需[ffcc00]等级[-]和[00c6ff]材料[-]条件才可以进行升级。
 1000274	모든 승급이 완료된 장비 입니다.	すべての昇級が完了した装備です。	All promotions are complete for the selected gear.	此裝備已完成所有進階。	此装备已完成所有升级。
-1000275	■ 승급 시 장비의 강화 수치는 초기화됩니다.	■ 昇級時、装備の強化数値は初期化されます。	■ Gear’s Upgrade Level will be reset when promoted.	■ 進階時裝備的強化數值將被重置。	■ 升级时装备的强化数值将被重置。
+1000275	■ 승급 시 장비의 강화 수치는 초기화됩니다.	■ 昇級時、装備の強化数値は初期化されます。	■ Gear’s Upgrade Values will be reset when promoted.	■ 進階時裝備的強化數值將被重置。	■ 升级时装备的强化数值将被重置。
 1000276	다음 승급이 개방되지 않은 장비 입니다.	次の昇級が開放されていない装備です。	Selected gear's next promotion has not been unlocked.	此裝備的下一次進階尚未開放。	此装备的下一次升级尚未开放。
 1000277	장비 승급 재료	装備昇級材料	Gear Promotion Material	裝備進階材料	装备升级材料
 1000278	최대 강화시	最大強化時	After Max Upgrade	最大強化時	最大强化时
@@ -2353,12 +2353,12 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 2000038	[fa1e00]{0}[-]의 에센스를 수집하였습니다.	[fa1e00]{0}[-]のエッセンスを収集しました。	You got [fa1e00]{0}[-] Essence.	收集了[fa1e00]{0}[-]精華。	收集了[fa1e00]{0}[-]的精华。
 2000039	오르카 패스	オルカパス	Orca Pass	奧爾卡通行證	奥尔卡通行证
 2000040	임무를 완료하고 보상을 획득하세요.	任務を完了し報酬を獲得しましょう。	Complete missions to get rewards.	請完成任務並獲得獎勵。	完成任务并获得奖励。
-2000041	구간별 일괄 수령	区間別一括受領	Accept All per Sector	一鍵領取各分段	一键领取各区间
+2000041	구간별 일괄 수령	区間別一括受領	Claim All by Row	一鍵領取各分段	一键领取各区间
 2000042	기본 보상	基本報酬	Basic Rewards	基本獎勵	基本奖励
-2000043	일반적으로\n획득 가능한\n보상입니다.	一般的に\n獲得可能な\n報酬です。	These are normal rewards\nthat can be\nobtained generally.	這是\n普遍可獲得的\n獎勵。	这是\n一般可以获得的\n奖励。
+2000043	일반적으로\n획득 가능한\n보상입니다.	一般的に\n獲得可能な\n報酬です。	These are normal rewards\nthat can be\nobtained generally.	這是普遍\n可獲得的獎勵。	这是\n一般可以获得的\n奖励。
 2000044	고급 보상\n(패스 구매시 해금)	高級報酬\n(パス購入時解禁)	Premium Reward\n(Unlocked when you buy Pass)	高級獎勵\n（購買通行證時解鎖）	高级奖励\n（购买通行证时解锁）
-2000045	최종 보상 갱신 시점: [FFFF00]1일 오전 9시[-]\n(매월 말일까지 [FF0000]{0}[-]일미만이면 구매 불가)	最終報酬更新時点: [FFFF00]1日午前9時[-]\n(毎月末日まで[FF0000]{0}[-]日未満の場合、購入不可)	Final Reward Refresh Time: [FFFF00]1st of the Month 9 AM[-]\n(Cannot buy the Pass if there are less than [FF0000]{0}[-] days remaining until the end of the month.)	最終獎勵更新時間：[FFFF00]1日上午9點[-]\n（若距離每月月底剩下不到[FF0000]{0}[-]天，就無法購買。）	最终奖励更新时间：[FFFF00]1日上午9点[-]\n（如果到每月末剩余不到[FF0000]{0}[-]天，则无法购买。）
-2000046	도달 수준	到達レベル	Achieved	達到的水準	达到的水平
+2000045	최종 보상 갱신 시점: [FFFF00]1일 오전 9시[-]\n(매월 말일까지 [FF0000]{0}[-]일미만이면 구매 불가)	最終報酬更新時点: [FFFF00]1日午前9時[-]\n(毎月末日まで[FF0000]{0}[-]日未満の場合、購入不可)	Final Reward Refresh Time: [FFFF00]1st of the Month 9 AM[-]\n(Cannot buy the Pass if there are less than [FF0000]{0}[-] days remaining until the end of the month.)	最終獎勵更新時間：\n[FFFF00]1日上午9點[-]\n（若距離每月月底\n剩下不到[FF0000]{0}[-]天，\n就無法購買。）	最终奖励更新时间：\n[FFFF00]每月1日上午9点[-]\n（如果距月末剩余不到[FF0000]{0}[-]天，则无法购买。）
+2000046	도달 수준	到達レベル	Achieved Level	達到的水準	达到的水平
 2000047	고급 패스 구매	高級パス購入	Buy Premium Pass	購買高級通行證	购买高级通行证
 2000048	{0}-{1} 층	{0}-{1}階	{ 0 }-{ 1 }	{0}-{1}層	{0}-{1}层
 2000049	{0} 전투원을 수복하시겠습니까?	{0}戦闘員を修復しますか？	Floors {0}-{1}	是否修復{0}戰鬥員？	是否修复{0}战斗员？
@@ -2442,7 +2442,7 @@ very cautious."	"湯 米・沃 克…
 2000122	선택 하신 음악으로 변경 하겠습니까?	この音楽に変更しますか？	Do you want to change to selected music?	是否變更為所選音樂？	是否变更为所选音乐？
 2000123	스킨 구입	スキン購入	Purchase Skin	購買造型	购买皮肤
 2000124	획득 조건	獲得条件	Acquirement Conditions	獲得條件	获得条件
-2000125	배치 가능한 시설이 없습니다.	配置できる施設がありません。	You have no facilities that can be assigned to.	目前沒有可配置的設施。	目前没有可以部署的设施。
+2000125	배치 가능한 시설이 없습니다.	配置できる施設がありません。	You have no facilities to assign.	目前沒有可配置的設施。	目前没有可以部署的设施。
 2000126	설치 가능한 시설이 더 이상 없습니다.	設置できる施設がこれ以上ありません。	You have no more facilities that can be installed.	已經沒有可以建設的設施了。	已经没有可以建设的设施了。
 2000127	아군 신호 발견!	見方の信号を発見！	Ally signal detected!	發現我軍信號！	发现我军信号！
 2000128	[99FFE5]'{0}'[-] 전투원이 일부 수복되었습니다.	[99FFE5]'{0}'[-]戦闘員が一部修復されました。	[99FFE5]'{0}’[-] has been partially healed.	已經修復了部分[99FFE5]「{0}」[-]戰鬥員。	[99FFE5]“{0}”[-]战斗员已部分修复。
@@ -2465,11 +2465,11 @@ very cautious."	"湯 米・沃 克…
 2000145	바로 가기	ショートカット	Go	立即前往	立即前往
 2000146	완료한 임무 표시	完了した任務を表示	Show completed missions	顯示完成的任務	显示完成的任务
 2000147	지휘 콘솔 메뉴얼	指揮コンソールマニュアル	Command Console Manual	指揮控制檯指南	指挥台指南
-2000148	1.AP는 Action Point의 약자로 행동점수를 의미합니다.	1.APはAction Pointの略で、行動点数を意味します。	1. AP stands for Action Point.	1.AP是Action Point的縮寫，也就是行動點數。	AP是Action Point的缩写，也就是行动点数。
+2000148	1.AP는 Action Point의 약자로 행동점수를 의미합니다.	1.APはAction Pointの略で、行動点数を意味します。	1. AP stands for Action Point.	1.AP是Action Point的縮寫，也就是行動點數。	1.AP是Action Point的缩写，也就是行动点数。
 2000149	2.전투원이 스킬을 사용할 때 AP를 사용합니다.	2.戦闘員がスキルを発動する時APを消耗します。	2. AP is used when a soldier uses a skill.	2.當戰鬥員使用技能時，會消耗AP。	2.当战斗员使用技能时，会消耗AP。
-2000150	3.AP는 라운드 종료 후 전투원의 행동력만큼 회복합니다.	3.APはラウンド終了後、戦闘員の行動力分回復します。	3. At the end of the round, AP is recovered in the amount equal to the soldier’s Action Power.	3.回合結束後，恢復相當於戰鬥員行動力的AP。	3.回合结束后，恢复相当于战斗员行动力的AP。
-2000151	4.AP가 10 미만이면 해당 라운드에서 행동할 수 없습니다.	4.APが10未満の場合、そのラウンドでは行動を取れなくなります。	4. If AP is below 10, the soldier’s action will be disabled for that round.	4.如果AP低於10，則不能在本回合中行動。	4.如果你的AP低于10，则不能在本回合中行动。
-2000152	5.오른쪽부터 AP가 높은 순으로 정렬되며 행동의 우선권을 갖습니다.	5.右からAPが高い順に整列され、行動に優先権を持ちます。	5. Soldiers are lined in the order of highest AP from the right, and those with higher AP can move first.	5.從右側開始，按AP降冪排列，而且可優先行動。	5.从右侧开始AP按降序排列，且可以获得行动优先权。
+2000150	3.AP는 라운드 종료 후 전투원의 행동력만큼 회복합니다.	3.APはラウンド終了後、戦闘員の行動力分回復します。	3. AP equal to a soldier's Action Power is restored at the end of the round.	3.回合結束後，恢復相當於戰鬥員行動力的AP。	3.回合结束后，恢复相当于战斗员行动力的AP。
+2000151	4.AP가 10 미만이면 해당 라운드에서 행동할 수 없습니다.	4.APが10未満の場合、そのラウンドでは行動を取れなくなります。	4. If AP is below 10, the soldier cannot act for that round.	4.如果AP低於10，則不能在本回合中行動。	4.如果你的AP低于10，则不能在本回合中行动。
+2000152	5.오른쪽부터 AP가 높은 순으로 정렬되며 행동의 우선권을 갖습니다.	5.右からAPが高い順に整列され、行動に優先権を持ちます。	5. Soldiers with higher AP are lined from the right and can move first.	5.從右側開始，按AP降冪排列，而且可優先行動。	5.从右侧开始AP按降序排列，且可以获得行动优先权。
 2000153	리더 효과	リーダー効果	Leader Effect	隊長效果	队长效果
 2000154	리더로 지정된 전투원은 전투 시 얻는 경험치와 스킬경험치가 20% 증가합니다.	リーダに設定された戦闘員は、戦闘で獲得する経験値とスキル経験値が20％増加します。	EXP and Skill EXP of soldiers designated as Leaders increase by 20% during Combat.	被指定為隊長的戰鬥員在戰鬥中獲得的經驗和值和技能經驗值增加20%。	被指定为队长的战斗员在战斗时获得的经验值和技能经验值增加20%。
 2000155	다음층 이동	次の階へ	Go to Next Floor	移動至下一層	前往下一层
@@ -2501,16 +2501,16 @@ very cautious."	"湯 米・沃 克…
 -連動する端末接続し、UIDと有効なOTPナンバーを入力すると連動できます。"	"- OTP for connecting data will be valid for 5 minutes after it is generated.
 - Data from Guest accounts cannot be connected.
 - When you connect your game data to a new device, the data on your previous device will be deleted.
-- Enter your UID and valid OTP on the device you wish to connect in order to connect your account."	" -連動的OTP在創建後5分鐘內有效。
+- Enter your UID and valid OTP on the device you wish to connect in order to connect your account."	"-連動的OTP在創建後5分鐘內有效。
 -無法連動訪客帳號的連線數據。
--將數據連動到新的設備時，舊設備上的數據將被刪除。
--連接到要連動的設備後，輸入UID和有效OTP代碼即可連動。"	" -绑定的OTP在创建后5分钟内有效。
+-將數據連動到新的設備時,舊設備上的數據將被刪除。
+-連接到要連動的設備後,輸入UID和有效OTP代碼即可連動。"	"-绑定的OTP在创建后5分钟内有效。
 -无法绑定游客账号的登录数据。
 -将数据绑定到新的设备时，旧设备上的数据将被删除。
 -登录要绑定的设备后，输入UID和有效OTP代码即可绑定。"
 2000171	남은 시간 :	残り時間：	Time Left:	剩餘時間：	剩余时间：
 2000172	OTP 확인	OTP確認	Confirm OTP	確認OTP	确认OTP
-2000173	-UID와 OTP 번호 입력 후 데이터 연동 버튼 클릭 하시면 데이터가 연동 됩니다.	-UIDとOTP入力後、データ連動ボタンをタッチするとデータが連動されます。	- Enter your UID and OTP before pressing the Connect Data button to connect your account.	-輸入UID和OTP代碼後，點擊連動數據按鍵即可進行連動。	－输入UID和OTP代码后,点击绑定数据按键即可绑定数据。
+2000173	-UID와 OTP 번호 입력 후 데이터 연동 버튼 클릭 하시면 데이터가 연동 됩니다.	-UIDとOTP入力後、データ連動ボタンをタッチするとデータが連動されます。	- Enter your UID and OTP before pressing the Connect Data button to connect your account.	-輸入UID和OTP代碼後，\n點擊連動數據按鍵即可進行連動。	－输入UID和OTP代码后,点击绑定数据按键即可绑定数据。
 2000174	UID를 입력해주세요.	UIDを入力してください。	Enter UID	請輸入UID。	请输入UID。
 2000175	OTP를 입력해주세요.	OTPを入力してください。	Enter OTP	請輸入OTP。	请输入OTP。
 2000176	데이터 확인	データ確認	Confirm Data	確認數據	确认数据
@@ -2562,7 +2562,7 @@ You will then be logged in with the newly entered account."	"[FF0000]請在連�
 2000203	{0}	{0}	{0}	{0}	{0}
 2000204	다음 출석을 갱신하시겠습니까?	次のログインを更新しますか？	Do you want to refresh to the next Attendance?	是否更新下一次簽到？	是否更新下一期签到？
 2000205	무료 ({0}/{1})	無料({0}/{1})	Free ({0}/{1})	免費（{0}／{1}）	免费（{0}／{1}）
-2000206	보상 획득	ボーナス獲得	Get Reward	獲得獎勵	获得奖励
+2000206	보상 획득	ボーナス獲得	Acquired Rewards	獲得獎勵	获得奖励
 2000207	{0}일차 보상이 지급되었습니다.	{0}日目のボーナスが支給されました。	Day {0} Reward has been issued.	獲得了第{0}天獎勵。	获得了第{0}天奖励。
 2000208	{0}일차 프리미엄 보상이 지급되었습니다.	{0}日目のプレミアムボーナスが支給されました。	Day {0} Premium Reward has been issued.	獲得了第{0}天豪華獎勵。	获得了第{0}天豪华奖励。
 2000209	{0}회 완주 보상이 지급되었습니다.	{0}回コンプリートボーナスが支給されました。	{0} Completion Reward has been issued.	獲得了第{0}次完成全程獎勵。	获得了第{0}次完成全程奖励。
@@ -2604,7 +2604,7 @@ You will then be logged in with the newly entered account."	"[FF0000]請在連�
 2000245	-{0}	-{0}	-{0}	-{0}	-{0}
 2000246	자가 학습 알고리즘 상품 기간이 종료되었습니다.	自己学習アルゴリズムの期限が終了しました。	Self-Learning Algorithm item has expired.	自學演算法商品期限已到期。	自学算法商品期限已到。
 2000247	임시 대기실로 보상 지급	臨時待機室に報酬支給	Send Rewards to Temporary Waiting Room	獎勵將發送至臨時等候室	奖励将发送至临时等候室
-2000248	스킬 우선 사용	スキル優先使用	Skill Usage Order	優先使用技能	优先使用技能
+2000248	스킬 우선 사용	スキル優先使用	Use Skill First	優先使用技能	优先使用技能
 2000249	메뉴	メニュー	Menu	選單	菜单
 2000250	강화 재료 리스트	強化素材リスト	Upgrade Material List	強化材料列表	强化材料列表
 2000251	*최대강화는 보유 재료로 강화 가능한 최대 레벨을 의미합니다.	*최대강화는 보유 재료로 강화 가능한 최대 레벨을 의미합니다.	*Max Upgrade refers to the max Upgrade Level that is possible with the material you own.	*強化上限代表能使用持有材料達到的最高強化等級。	*强化上限代表能使用持有材料达到的最高强化等级。
@@ -2666,7 +2666,7 @@ So, let’s go together! I’m sure it’ll be worth your time."	"啊！司令�
 2000277	물품 수령	物品受け取り	Receive Supplies	領取物品	领取物品
 2000278	물품 수령	物品受け取り	Receive Supplies	領取物品	领取物品
 2000279	채집 상한 증가	採集上限増加	Increase max gathering limit	增加採集上限	增加采集上限
-2000280	경험치 획득 구역: 일일 임무, 주간 임무, 월간 임무	経験値獲得区域：毎日任務、週間任務、月間任務	Where to Acquire EXP: Daily Missions, Weekly Missions, Monthly Missions	經驗值獲得區域：每日任務、每週任務、每月任務	获得经验区域：每日任务，每周任务，每月任务
+2000280	경험치 획득 구역: 일일 임무, 주간 임무, 월간 임무	経験値獲得区域：毎日任務、週間任務、月間任務	How to acquire EXP: Daily Missions, Weekly Missions, Monthly Missions	經驗值獲得區域：每日任務、每週任務、每月任務	获得经验区域：每日任务，每周任务，每月任务
 2000281	채굴 현황	採掘状況	Mining Status	採集現狀	采集现状
 2000282	"안녕하세요, 주인님? 구매 담당 파티마입니다. 다름이 아니라, 삼안 산업 재활용 영업소에서 먼저 연락이 와서 내용을 전달 드리려고 해요.\n
 저희가 도착한 이곳은 과거 비스마르크 코퍼레이션의 거점이었던 지역이라고 하네요. 그만큼 화물 운송이 대규모로 이루어졌던 물류의 중심지였다는 의미이기도 하고요.\n
@@ -2768,15 +2768,15 @@ I’ll be waiting for the good news!"	"哎喲，你好！真是給你添了不�
 2000309	행방불명\n화물리스트	行方不明\n貨物リスト	Lost\nCargo List	不落不明\n貨物列表	下落不明\n货物目录
 2000310	상점, 교환소 버전이 다릅니다.\n최신 버전 업데이트가 필요 합니다.	JP번역_상점, 교환소 버전이 다릅니다.\n최신 버전 업데이트가 필요 합니다.	Shot, Exchange Post version is different.\nYou must upgrade to the latest version.	商店、交換所版本不同。\n需要更新至最新版本。	商店、交换所版本不同。\n需要更新至最新版本。
 2000311	승급 재료 리스트	昇級素材リスト	Promotion Material List	進階材料列表	升级材料列表
-2000312	장비\n강화 / 승급	装備\n強化/昇級	Gear\nUpgrade/Promotion	裝備\n強化／進階	装备\n强化／升级
+2000312	장비\n강화 / 승급	装備\n強化/昇級	Upgrade/Promote\nGear	裝備\n強化／進階	装备\n强化／升级
 2000313	{0}/{1}	{0}/{1}	{0}/{1}	{0}／{1}	{0}／{1}
 2000314	전투원\n강화 / 승급 / 상한 확장	戦闘員\n強化/昇級/上限拡張	Soldier\nUpgrade/Promote/Expand Max Limit	戰鬥員\n強化／進階／擴充上限	战斗员\n强化／升级／扩张上限
 2000315	필요 LV	必要Lv	Required Lv.	所需等級	需要Lv.
-2000316	필요 호감도	必要好感度	Required Like	所需好感度	所需好感度
+2000316	필요 호감도	必要好感度	Required Affinity	所需好感度	所需好感度
 2000317	스킨 상점	スキン	Skin Shop	造型商店	皮肤商店
 2000318	스킨 구분	スキンソート	Skin Category	區分造型	皮肤划分
 2000319	초기 등급	初期ランク	Basic Grade	初始級別	初始级别
-2000410	전투원 검색	戦闘員検索	Search Soldier	搜尋戰鬥員	搜索战斗员
+2000410	전투원 검색	戦闘員検索	Enter Soldier	搜尋戰鬥員	搜索战斗员
 2000411	구성물	構成物	Included	內容物	内容物
 2000412	{0}초	{0}秒	{0} s	{0}秒	{0}秒
 2000413	남음	残り	Left	剩餘	剩余
@@ -2785,7 +2785,7 @@ I’ll be waiting for the good news!"	"哎喲，你好！真是給你添了不�
 2000416	달성도	達成度	Progress	達成度	达成度
 2000417	이벤트 교환소	イベント交換所	Event Exchange Post	活動交換所	活动交换所
 2000418	스테이지 보상	ステージ報酬	Stage Rewards	關卡獎勵	关卡奖励
-2000419	자원 탐색 파견	資源探索派遣	Dispatch Resource Exploration	資源探索派遣	资源探索派遣
+2000419	자원 탐색 파견	資源探索派遣	Dispatch Exploration	資源探索派遣	资源探索派遣
 2000420	제{0}구역	第{0}区域	Zone {0}	第{0}區域	第{0}区域
 2000421	탐색 시간	探索時間	Exploration Time	探索時間	探索时间
 2000422	제{0}-{1}지구	第{0}-{1}地区	Sector {0}-{1}	第{0}-{1}地區	第{0}-{1}地区
@@ -2800,9 +2800,9 @@ I’ll be waiting for the good news!"	"哎喲，你好！真是給你添了不�
 2000431	제{0}지구	第{0}地区	Sector {0}	第{0}地區	第{0}地区
 2000432	LV.{0}에 도달 시 LV 상한 확장을 진행 할 수 있습니다.	LV.{0}に到達時、LV上限拡張ができます。	You can expand Max Lv. limit when you reach {0}.	達到等級{0}後，可以擴充等級上限。	达到Lv.{0}后，可以扩张等级上限。
 2000433	더 이상 상한 확장을 할 수 없습니다.	これ以上の上限拡張できません。	Cannot expand Max Limit any more.	無法繼續擴充上限。	无法继续扩张上限。
-2000434	전투원 상한 확장	戦闘員上限を拡張	Expand soldier's max limit	擴充戰鬥員上限	扩张战斗员上限
+2000434	전투원 상한 확장	戦闘員上限を拡張	Expand Soldier Limit	擴充戰鬥員上限	扩张战斗员上限
 2000435	상한 확장을 할 전투원을 선택해 주세요.	上限拡張を行う戦闘員を選択してください。	Select the soldier whose max limit you want to expand.	請選擇要擴充上限的戰鬥員。	请先选择要扩张上限的战斗员。
-2000436	확장 전투원 선택	拡張戦闘員を選択	Select Soldier for Expansion	選擇擴充戰鬥員	选择扩张战斗员
+2000436	확장 전투원 선택	拡張戦闘員を選択	Select Soldier to expand	選擇擴充戰鬥員	选择扩张战斗员
 2000437	확장 대상	拡張対象	Expansion Target	擴充對象	扩张对象
 2000438	최대 LV 상한 확장 불가 전투원 숨김	最大LV上限拡張不可の戦闘員を非表示	Hide Soldiers that do not qualify for Max Lv. Limit expansion.	隱藏不能擴充最高等級上限的戰鬥員	隐藏不能扩张最高等级上限的战斗员
 2000439	■ 최대 레벨 상한 확장은 LV {0} 달성 시, 진행할 수 있습니다.	■ 最大レベル上限の拡張はLV {0}達成時に可能です。	■ Max Lv. Expansion is unlocked when you reach Lv. {0}.	■ 達到等級{0}後，可擴充最高等級上限。	■ 达到Lv.{0}后，可以扩张最高等级上限。
@@ -2828,14 +2828,14 @@ I’ll be waiting for the good news!"	"哎喲，你好！真是給你添了不�
 2000459	검색할 내용을 입력하세요	検索する内容を入力してください。	Enter search word.	請輸入要搜尋的內容	请输入要搜索的内容
 2000460	다음 전투원 제한 사항에 의해\n해당 스쿼드를 투입할 수 없습니다.	次の戦闘員制限事項により\nこの分隊を投入できません。	You cannot use the selected Squad\ndue to the following soldier restriction.	由於以下戰鬥員限制，\n不能指派該小隊。	由于以下战斗员限制，\n不能指派该小队。
 2000461	오르카 패스 	オルカパス	Orca Pass	奧爾卡通行證	奥尔卡通行证
-2000462	장비 검색	装備検索	Search Gear	搜尋裝備	搜索装备
+2000462	장비 검색	装備検索	Enter Gear	搜尋裝備	搜索装备
 2000463	해당 전장에서 이로운 효과를\n받을 수 있는 전투원이 없습니다.	この戦場で有利な効果が\n適用される戦闘員がいません。	There are no soldiers that can get\nbeneficial effects in the selected battle.	此戰場上沒有戰鬥員\n可以獲得增益效果。	在此战场上没有战斗员\n可以获得增益效果。
 2000464	터치하여 상세 보기	タッチして詳細を見る	Tap to View Details	輕觸查看詳情	轻触查看详情
-2000465	일반 보상 수령	一般報酬受け取り	Receive Basic Reward	領取一般獎勵	领取一般奖励
-2000466	고급 보상 수령	高級報酬受け取り	Receive Premium Reward	領取高級獎勵	领取高级奖励
+2000465	일반 보상 수령	一般報酬受け取り	Basic Rewards	領取一般獎勵	领取一般奖励
+2000466	고급 보상 수령	高級報酬受け取り	Premium Rewards	領取高級獎勵	领取高级奖励
 2000467	스테이지 클리어	ステージクリア	Stage Clear	關卡通關	通过关卡
 2000468	탐색 대기	探索待機	Waiting For Explorations	等候探索	等待探索
-2000469	자원 탐색 현황	資源探索現況	Resource Exploration Status	資源探索現狀	资源探索现状
+2000469	자원 탐색 현황	資源探索現況	Exploration Status	資源探索現狀	资源探索现状
 2000470	응모하기	使用する	Apply	申請	申请
 2000471	표정 편집	表情編集	Change Expression	編輯表情	编辑表情
 2000472	해당 전장에서 모든 전투원이 특정 효과를 받습니다.	この戦場ですべての戦闘員が特定の効果が適用されます。	All soldiers will receive certain effects in the selected battle.	在此戰場上所有戰鬥員都能獲得特定效果。	在此战场上所有战斗员都能获得特定效果。
@@ -2863,8 +2863,8 @@ Do you want to continue?"	將補充每日訓練券，是否要進行？	将充�
 2000493	자신에게 적용 중인 일반 효과로 강화 효과 해제 / 해로운 효과 해제등으로 해제 할 수 없습니다.	自分に適用中の一般効果。強化効果解除/有害な効果解除などで解除できません。	The normal effects that applied to self. It cannot be removed by Cancel Upgrade Effect or Cancel Debuff Effect.	不能用自身套用中的一般效果來解除強化效果/有害效果等。	不能用自身应用中的一般效果来解除强化效果／有害效果等。
 2000494	선택 해제	選択解除	Deselect	解除選擇	解除选择
 2000495	배경이 없습니다.\n배경 상점에서 구매가 가능합니다.	背景がありません。\n背景ショップで購入できます。	There is no background.\nBackgrounds can be purchased in the Background Shop.	目前沒有背景。\n可前往背景商店購買。	当前没有背景。\n可前往背景商店购买。
-2000496	스킬 우선 사용 ON	スキル優先使用ON	Skill Usage Order ON	優先使用技能ON	优先使用技能ON
-2000497	스킬 우선 사용 OFF	スキル優先使用OFF	Skill Usage Order OFF	優先使用技能OFF	优先使用技能OFF
+2000496	스킬 우선 사용 ON	スキル優先使用ON	Use Skill First ON	優先使用技能ON	优先使用技能ON
+2000497	스킬 우선 사용 OFF	スキル優先使用OFF	Use Skill First OFF	優先使用技能OFF	优先使用技能OFF
 2000498	언어변경​	言語を選択	Language	變更語言​	变更语言​
 2000499	언어 적용 알림	言語適用再起動通知	Set Language Notification	語言套用通知	语言应用通知
 2000500	선택한 언어: [c][ffff00] {0} [-][/c]	選択中の言語: [c][ffff00] {0} [-][/c]	Selected language: [c][ffff00] {0} [-][/c]	選擇的語言：[c][ffff00] {0} [-][/c]	选择的语言：[c][ffff00] {0} [-][/c]
@@ -2899,7 +2899,7 @@ Do you want to continue?"	將補充每日訓練券，是否要進行？	将充�
 2000528	플레이 리스트를 편집해주세요.	プレイリストを編集してください。	Please edit your playlist.	請編輯播放列表。	请编辑播放列表。
 2000529	플레이 그룹을 생성하시겠습니까?	プレイグループを作成しますか？	Would you like to create a playlist?	確定要建立播放群組嗎？	确定要创建播放群组吗？
 2000530	그룹 이름을 입력해 주세요.	グループ名を入力してください。	Enter a playlist name	請輸入群組名稱。	请输入群组名称。
-2000531	최대 {0}글자까지 입력할 수 있습니다.	最大{0}文字まで入力できます。	You can enter a maximum of {0} characters.	最多可輸入{0}字。	最多可输入{0}字。
+2000531	최대 {0}글자까지 입력할 수 있습니다.	最大{0}文字まで入力できます。	You can enter a maximum of {0} characters.	最多可輸入{0}個字。	最多可输入{0}字。
 2000532	최대 글자 수를 초과하였습니다.	最大文字数制限を超えています。	The character limit has been exceeded.	已超過最多字數限制。	已超过最多字数限制。
 2000533	그룹명 변경	グループ名変更	Change Playlist Name	變更群組名稱	变更群组名
 2000534	적용 하기	適用する	Apply	套用	应用
@@ -3127,7 +3127,7 @@ Tuna Can Additional Supply Order Product"	"鮪魚罐頭追加訂單商品
 2000703	적합\n 전투원		Suitable\nSoldier	合適\n 戰鬥員	合适\n 战斗员
 2000704	보상 목록		Reward List	獎勵目錄	奖励目录
 2000705	전투 기록		Combat History	戰鬥紀錄	战斗目录
-2000706	총력전 교환소		Total Power Combat Exchange Post	全力戰交換所	全力战交换所
+2000706	총력전 교환소	3周年交換所	Total Power Combat Exchange Post	全力戰交換所	全力战交换所
 2000707	총력전 기간 :		Total Power Combat Period:	全力戰進行期間：	全力战期间：
 2000708	단계		Stage	階段	阶段
 2000709	상세 정보		Details	詳情	详细信息
@@ -3187,6 +3187,8 @@ Tuna Can Additional Supply Order Product"	"鮪魚罐頭追加訂單商品
 2000788	해당 스쿼드에 기지에서 시설 작동 중인 전투원이 있습니다.				
 2000789	출전 스쿼드 중에 탐사 중인 전투원이 있습니다.				
 2000790	출전 스쿼드 중에 기지에서 시설 작동 중인 전투원이 있습니다.				
+2000791	스쿼드 내에 [c][FFBA29FF]총력전 스쿼드[-][/c]에 [c][FFBA29FF]배치된 전투원[-][/c]이 있어 [c][FFBA29FF]자원 탐색 진행[-][/c]이 [c][FFBA29FF]불가[-][/c]합니다.				
+2000792	적합 전투원 보너스 : [c][B8EE08]{0}%[-][/c]				
 2000801	BATTLE RESULT		BATTLE RESULT	戰鬥結果	战斗结果
 2000802	전투 점수		Combat Points	戰鬥分數	战斗分数
 2000803	클리어 점수		Clear Points	通關分數	通过分数
@@ -3214,3 +3216,41 @@ Tuna Can Additional Supply Order Product"	"鮪魚罐頭追加訂單商品
 2000827	획득한 점수를 모두 잃으며, 허가서는 소모되지 않습니다.		All acquired points will be lost and a ticket will not be consumed.	將遺失已獲取的所有分數，但不會消耗入場券。	失去所有得到的分数，但不消耗入场券。
 2000828	아니요		No	否	否
 2000829	예		Yes	是	是
+2000901	자율 전투				
+2000902	전투 입장				
+2000903	★4 개방				
+2000904	전투 기록				
+2000905	전투 최대 시간				
+2000906	자동 분해 설정				
+2000907	자율 전투 시작				
+2000908	{0} 자율 전투				
+2000909	남은 시간				
+2000910	작전 진행				
+2000911	전투 완료 횟수				
+2000912	자율 전투 자금				
+2000913	닫기				
+2000914	전투 종료				
+2000915	{0} 자율 전투 완료				
+2000916	전투원 획득				
+2000917	분해				
+2000918	장비 획득				
+2000919	소모품 획득 (분해 자원 포함)				
+2000920	자율 전투 중				
+2000921	전투 완료				
+2000922	자율 전투 확인				
+2000923	자율 전투 완료				
+2000924	{0} 자율 전투가 진행 중 입니다.				
+2000925	전투중				
+2000926	스쿼드 내에 [c][FFBA29FF]프리셋 슬롯[-][/c]에 [c][FFBA29FF]저장된 전투원[-][/c]이 있어 [c][FFBA29FF]자율 전투 진행[-][/c]이 [c][FFBA29FF]불가[-][/c]합니다.				
+2000927	전투 중				
+2000928	전투 확인				
+2000929	자율 전투 중				
+2000930	원하는  [c][FFBA29FF]자율 전투 시간[-][/c] 동안 전투를 반복합니다.				
+2000931	자율 전투 시간				
+2000932	최대 시간 : {0} 시간				
+2000933	자율 전투가 완료됬습니다.				
+2000934	예상 결과				
+2000935	자율 전투 횟수				
+2000936	완료 예상 횟수				
+2000937	전투 기록 시간이 지날 때마다 자율 전투가 1회 완료됩니다.\n자원은 전투가 완료될 때 마다 소모되며 전투 종료 시 남은 자원은 회수됩니다.				
+2000939	자율 전투중인 스쿼드는 장비 장착/해제를 제외한 정보를 변경할 수 없습니다.				

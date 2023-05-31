@@ -307,5 +307,16 @@
     ],
     "Open_Desc": "1001500125",
     "BGM_Icon": "UI_Icon_Track22_LastParadise_CAFEHorizonCAFEamor"
+  },
+  "Track27_Imagination_Hirume": {
+    "BGM_Name": "1002200672",
+    "BGM_Desc": "1001500138",
+    "BGM_Res": "Track27_Imagination_Hirume",
+    "BGM_Type": 2,
+    "OpenCheckString": [
+      "Skin_3P_Hirume_3"
+    ],
+    "Open_Desc": "1001500139",
+    "BGM_Icon": "UI_Icon_Track27_Imagination_Hirume"
   }
 }

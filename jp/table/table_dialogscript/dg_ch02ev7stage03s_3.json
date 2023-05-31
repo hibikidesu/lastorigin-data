@@ -41,7 +41,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "22 BGM_Battle_04"
+    "Bgm_Sound": "22 BGM_Battle_04",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev7Stage03S_3_2": {
     "Dialog_Group": "DG_Ch02Ev7Stage03S_3",
@@ -89,7 +90,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev7Stage03S_3_3": {
     "Dialog_Group": "DG_Ch02Ev7Stage03S_3",
@@ -137,7 +139,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev7Stage03S_3_4": {
     "Dialog_Group": "DG_Ch02Ev7Stage03S_3",
@@ -158,7 +161,7 @@
     "Char_AnimationAdd_R": "",
     "Char_SCGActivation_R": 2,
     "Char_ImageName_C": "2DModel_AGS_MrAlfred2_N",
-    "Char_Name_C": "1000625151",
+    "Char_Name_C": "1000600411",
     "Char_AppearEffect_C": 7,
     "Char_ImageVarName_C": "",
     "Char_AnimationAdd_C": "",
@@ -185,7 +188,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev7Stage03S_3_5": {
     "Dialog_Group": "DG_Ch02Ev7Stage03S_3",
@@ -206,7 +210,7 @@
     "Char_AnimationAdd_R": "",
     "Char_SCGActivation_R": 2,
     "Char_ImageName_C": "2DModel_AGS_MrAlfred2_N",
-    "Char_Name_C": "1000625151",
+    "Char_Name_C": "1000600411",
     "Char_AppearEffect_C": 7,
     "Char_ImageVarName_C": "",
     "Char_AnimationAdd_C": "",
@@ -229,7 +233,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "11 BGM_Talk_05"
+    "Bgm_Sound": "11 BGM_Talk_05",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev7Stage03S_3_6": {
     "Dialog_Group": "DG_Ch02Ev7Stage03S_3",
@@ -273,7 +278,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev7Stage03S_3_7": {
     "Dialog_Group": "DG_Ch02Ev7Stage03S_3",
@@ -317,6 +323,7 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   }
 }

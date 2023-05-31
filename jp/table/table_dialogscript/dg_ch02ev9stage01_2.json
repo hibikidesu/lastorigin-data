@@ -45,7 +45,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": "07 BGM_Talk_01"
+    "Bgm_Sound": "07 BGM_Talk_01",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_2": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -93,7 +94,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_3": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -137,7 +139,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_4": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -185,7 +188,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_5": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -229,7 +233,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_6": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -273,7 +278,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_7": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -317,7 +323,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_8": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -367,7 +374,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_9": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -411,7 +419,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_10": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -455,7 +464,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_11": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -503,7 +513,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_12": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -547,7 +558,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_13": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -591,7 +603,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_14": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -635,7 +648,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_15": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -679,7 +693,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_16": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -727,7 +742,8 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   },
   "DG_Ch02Ev9Stage01_2_17": {
     "Dialog_Group": "DG_Ch02Ev9Stage01_2",
@@ -771,6 +787,7 @@
     "Dialog_Reward": "0",
     "Voice_CharName": "",
     "Script_VoiceName": "",
-    "Bgm_Sound": ""
+    "Bgm_Sound": "",
+    "Voice_Skip": 0
   }
 }
