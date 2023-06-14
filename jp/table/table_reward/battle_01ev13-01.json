@@ -4,10 +4,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -24,8 +24,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -48,9 +48,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -59,14 +59,14 @@
       "0.04",
       "0.04",
       "0.04",
-      "0.5",
+      "0.04",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -85,10 +85,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -105,8 +105,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -129,9 +129,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -140,14 +140,14 @@
       "0.04",
       "0.04",
       "0.04",
-      "0.5",
+      "0.04",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -166,10 +166,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -186,8 +186,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -210,9 +210,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -221,14 +221,14 @@
       "0.04",
       "0.04",
       "0.04",
-      "0.5",
+      "0.04",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -247,10 +247,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -267,8 +267,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -291,9 +291,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -302,14 +302,14 @@
       "0.04",
       "0.04",
       "0.04",
-      "0.5",
+      "0.04",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -328,10 +328,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -348,8 +348,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -372,9 +372,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -383,14 +383,14 @@
       "0.04",
       "0.04",
       "0.04",
-      "0.5",
+      "0.04",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -409,10 +409,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -429,8 +429,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -453,9 +453,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -464,14 +464,14 @@
       "0.04",
       "0.04",
       "0.04",
-      "0.5",
+      "0.04",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -490,10 +490,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -510,8 +510,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -534,9 +534,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -545,14 +545,14 @@
       "0.08",
       "0.08",
       "0.08",
-      "0.5",
+      "0.08",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -571,10 +571,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -591,8 +591,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -615,9 +615,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -626,14 +626,14 @@
       "0.08",
       "0.08",
       "0.08",
-      "0.5",
+      "0.08",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -652,10 +652,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -672,8 +672,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -696,9 +696,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -707,14 +707,14 @@
       "0.08",
       "0.08",
       "0.08",
-      "0.5",
+      "0.08",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -733,10 +733,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -753,8 +753,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -778,9 +778,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -790,14 +790,14 @@
       "0.08",
       "0.08",
       "0.08",
-      "0.5",
+      "0.08",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -816,10 +816,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -836,8 +836,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -861,9 +861,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -873,14 +873,14 @@
       "0.08",
       "0.08",
       "0.08",
-      "0.5",
+      "0.08",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],
@@ -899,10 +899,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 300,
-    "ExpMax": 300,
+    "ExpMin": 3000,
+    "ExpMax": 3000,
     "ExpRate": "1",
-    "SkillExp": 30,
+    "SkillExp": 300,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -919,8 +919,8 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      41,
-      1,
+      100,
+      4,
       1,
       1,
       1,
@@ -944,9 +944,9 @@
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
       "Equip_Chip_Ev_T1",
+      "Equip_Chip_Spd_T1",
       "RobotParts_MPParts",
-      "RobotParts_AlloyArmor",
-      "RobotParts_Booster"
+      "RobotParts_AlloyArmor"
     ],
     "ItemRate": [
       "0.25",
@@ -956,14 +956,14 @@
       "0.08",
       "0.08",
       "0.08",
-      "0.5",
+      "0.08",
       "0.5",
       "0.5"
     ],
     "CharIndexString": [
-      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N",
       "Char_BR_Impet_N",
-      "Char_BR_Djinnia_N",
       "Char_DS_Johanna_N",
       "Char_BR_Gnome_N"
     ],

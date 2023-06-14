@@ -14108,5 +14108,3765 @@
       25,
       0
     ]
+  },
+  "1111": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1112": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1113": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1114": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1115": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1116": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1117": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1118": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1119": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1120": {
+    "EnchantGroup": 101,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1121": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2000,
+      2000,
+      2000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1122": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3100,
+      3100,
+      3100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1123": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      4200,
+      4200,
+      4200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1124": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      5300,
+      5300,
+      5300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1125": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      6400,
+      6400,
+      6400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1126": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      7500,
+      7500,
+      7500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1127": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      8600,
+      8600,
+      8600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1128": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      9700,
+      9700,
+      9700,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1129": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      10800,
+      10800,
+      10800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1130": {
+    "EnchantGroup": 102,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      11900,
+      11900,
+      11900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1131": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2500,
+      2500,
+      2500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1132": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3875,
+      3875,
+      3875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1133": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      5250,
+      5250,
+      5250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1134": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      6625,
+      6625,
+      6625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1135": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      8000,
+      8000,
+      8000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1136": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      9375,
+      9375,
+      9375,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1137": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      10750,
+      10750,
+      10750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1138": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      12125,
+      12125,
+      12125,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1139": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      13500,
+      13500,
+      13500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1140": {
+    "EnchantGroup": 103,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      14875,
+      14875,
+      14875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1141": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      3000,
+      3000,
+      3000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1142": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      4650,
+      4650,
+      4650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1143": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      6300,
+      6300,
+      6300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1144": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      7950,
+      7950,
+      7950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1145": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      9600,
+      9600,
+      9600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1146": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      11250,
+      11250,
+      11250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1147": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      12900,
+      12900,
+      12900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1148": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      14550,
+      14550,
+      14550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1149": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      16200,
+      16200,
+      16200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1150": {
+    "EnchantGroup": 104,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      17850,
+      17850,
+      17850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1151": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1152": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      1550,
+      1550,
+      1550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1153": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      2100,
+      2100,
+      2100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1154": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      2650,
+      2650,
+      2650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1155": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      3200,
+      3200,
+      3200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1156": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      3750,
+      3750,
+      3750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1157": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      4300,
+      4300,
+      4300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1158": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      4850,
+      4850,
+      4850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1159": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      5400,
+      5400,
+      5400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1160": {
+    "EnchantGroup": 105,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      5950,
+      5950,
+      5950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1161": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1162": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1163": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1164": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1165": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1166": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1167": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1168": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1169": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1170": {
+    "EnchantGroup": 106,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1171": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2000,
+      2000,
+      2000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1172": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3100,
+      3100,
+      3100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1173": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      4200,
+      4200,
+      4200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1174": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      5300,
+      5300,
+      5300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1175": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      6400,
+      6400,
+      6400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1176": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      7500,
+      7500,
+      7500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1177": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      8600,
+      8600,
+      8600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1178": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      9700,
+      9700,
+      9700,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1179": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      10800,
+      10800,
+      10800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1180": {
+    "EnchantGroup": 107,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      11900,
+      11900,
+      11900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1181": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2500,
+      2500,
+      2500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1182": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3875,
+      3875,
+      3875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1183": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      5250,
+      5250,
+      5250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1184": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      6625,
+      6625,
+      6625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1185": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      8000,
+      8000,
+      8000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1186": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      9375,
+      9375,
+      9375,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1187": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      10750,
+      10750,
+      10750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1188": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      12125,
+      12125,
+      12125,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1189": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      13500,
+      13500,
+      13500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1190": {
+    "EnchantGroup": 108,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      14875,
+      14875,
+      14875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1191": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      3000,
+      3000,
+      3000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1192": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      4650,
+      4650,
+      4650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1193": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      6300,
+      6300,
+      6300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1194": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      7950,
+      7950,
+      7950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1195": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      9600,
+      9600,
+      9600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1196": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      11250,
+      11250,
+      11250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1197": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      12900,
+      12900,
+      12900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1198": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      14550,
+      14550,
+      14550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1199": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      16200,
+      16200,
+      16200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1200": {
+    "EnchantGroup": 109,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      17850,
+      17850,
+      17850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1201": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1202": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      1550,
+      1550,
+      1550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1203": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      2100,
+      2100,
+      2100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1204": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      2650,
+      2650,
+      2650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1205": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      3200,
+      3200,
+      3200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1206": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      3750,
+      3750,
+      3750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1207": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      4300,
+      4300,
+      4300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1208": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      4850,
+      4850,
+      4850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1209": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      5400,
+      5400,
+      5400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1210": {
+    "EnchantGroup": 110,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      5950,
+      5950,
+      5950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1211": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1212": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1213": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1214": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1215": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1216": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1217": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1218": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1219": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1220": {
+    "EnchantGroup": 111,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1221": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2000,
+      2000,
+      2000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1222": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3100,
+      3100,
+      3100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1223": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      4200,
+      4200,
+      4200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1224": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      5300,
+      5300,
+      5300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1225": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      6400,
+      6400,
+      6400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1226": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      7500,
+      7500,
+      7500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1227": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      8600,
+      8600,
+      8600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1228": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      9700,
+      9700,
+      9700,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1229": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      10800,
+      10800,
+      10800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1230": {
+    "EnchantGroup": 112,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      11900,
+      11900,
+      11900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1231": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2500,
+      2500,
+      2500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1232": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3875,
+      3875,
+      3875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1233": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      5250,
+      5250,
+      5250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1234": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      6625,
+      6625,
+      6625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1235": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      8000,
+      8000,
+      8000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1236": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      9375,
+      9375,
+      9375,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1237": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      10750,
+      10750,
+      10750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1238": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      12125,
+      12125,
+      12125,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1239": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      13500,
+      13500,
+      13500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1240": {
+    "EnchantGroup": 113,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      14875,
+      14875,
+      14875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1241": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      3000,
+      3000,
+      3000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1242": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      4650,
+      4650,
+      4650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1243": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      6300,
+      6300,
+      6300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1244": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      7950,
+      7950,
+      7950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1245": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      9600,
+      9600,
+      9600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1246": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      11250,
+      11250,
+      11250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1247": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      12900,
+      12900,
+      12900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1248": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      14550,
+      14550,
+      14550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1249": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      16200,
+      16200,
+      16200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1250": {
+    "EnchantGroup": 114,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      17850,
+      17850,
+      17850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1251": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1252": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      1550,
+      1550,
+      1550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1253": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      2100,
+      2100,
+      2100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1254": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      2650,
+      2650,
+      2650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1255": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      3200,
+      3200,
+      3200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1256": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      3750,
+      3750,
+      3750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1257": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      4300,
+      4300,
+      4300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1258": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      4850,
+      4850,
+      4850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1259": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      5400,
+      5400,
+      5400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1260": {
+    "EnchantGroup": 115,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      5950,
+      5950,
+      5950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1261": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1262": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1263": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1264": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1265": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1266": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1267": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1268": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1269": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1270": {
+    "EnchantGroup": 116,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1271": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2000,
+      2000,
+      2000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1272": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3100,
+      3100,
+      3100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1273": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      4200,
+      4200,
+      4200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1274": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      5300,
+      5300,
+      5300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1275": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      6400,
+      6400,
+      6400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1276": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      7500,
+      7500,
+      7500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1277": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      8600,
+      8600,
+      8600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1278": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      9700,
+      9700,
+      9700,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1279": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      10800,
+      10800,
+      10800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1280": {
+    "EnchantGroup": 117,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      11900,
+      11900,
+      11900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1281": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2500,
+      2500,
+      2500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1282": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3875,
+      3875,
+      3875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1283": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      5250,
+      5250,
+      5250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1284": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      6625,
+      6625,
+      6625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1285": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      8000,
+      8000,
+      8000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1286": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      9375,
+      9375,
+      9375,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1287": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      10750,
+      10750,
+      10750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1288": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      12125,
+      12125,
+      12125,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1289": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      13500,
+      13500,
+      13500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1290": {
+    "EnchantGroup": 118,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      14875,
+      14875,
+      14875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1291": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      3000,
+      3000,
+      3000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1292": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      4650,
+      4650,
+      4650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1293": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      6300,
+      6300,
+      6300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1294": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      7950,
+      7950,
+      7950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1295": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      9600,
+      9600,
+      9600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1296": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      11250,
+      11250,
+      11250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1297": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      12900,
+      12900,
+      12900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1298": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      14550,
+      14550,
+      14550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1299": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      16200,
+      16200,
+      16200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1300": {
+    "EnchantGroup": 119,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      17850,
+      17850,
+      17850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1301": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1302": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      1550,
+      1550,
+      1550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1303": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      2100,
+      2100,
+      2100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1304": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      2650,
+      2650,
+      2650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1305": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      3200,
+      3200,
+      3200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1306": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      3750,
+      3750,
+      3750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1307": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      4300,
+      4300,
+      4300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1308": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      4850,
+      4850,
+      4850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1309": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      5400,
+      5400,
+      5400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1310": {
+    "EnchantGroup": 120,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      5950,
+      5950,
+      5950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1311": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1312": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1313": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1314": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1315": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1316": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1317": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1318": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1319": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1320": {
+    "EnchantGroup": 121,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1321": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2000,
+      2000,
+      2000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1322": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3100,
+      3100,
+      3100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1323": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      4200,
+      4200,
+      4200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1324": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      5300,
+      5300,
+      5300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1325": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      6400,
+      6400,
+      6400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1326": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      7500,
+      7500,
+      7500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1327": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      8600,
+      8600,
+      8600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1328": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      9700,
+      9700,
+      9700,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1329": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      10800,
+      10800,
+      10800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1330": {
+    "EnchantGroup": 122,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      11900,
+      11900,
+      11900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1331": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2500,
+      2500,
+      2500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1332": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3875,
+      3875,
+      3875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1333": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      5250,
+      5250,
+      5250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1334": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      6625,
+      6625,
+      6625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1335": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      8000,
+      8000,
+      8000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1336": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      9375,
+      9375,
+      9375,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1337": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      10750,
+      10750,
+      10750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1338": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      12125,
+      12125,
+      12125,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1339": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      13500,
+      13500,
+      13500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1340": {
+    "EnchantGroup": 123,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      14875,
+      14875,
+      14875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1341": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      3000,
+      3000,
+      3000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1342": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      4650,
+      4650,
+      4650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1343": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      6300,
+      6300,
+      6300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1344": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      7950,
+      7950,
+      7950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1345": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      9600,
+      9600,
+      9600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1346": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      11250,
+      11250,
+      11250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1347": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      12900,
+      12900,
+      12900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1348": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      14550,
+      14550,
+      14550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1349": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      16200,
+      16200,
+      16200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1350": {
+    "EnchantGroup": 124,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      17850,
+      17850,
+      17850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1351": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1000,
+      1000,
+      1000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1352": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      1550,
+      1550,
+      1550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1353": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      2100,
+      2100,
+      2100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1354": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      2650,
+      2650,
+      2650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1355": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      3200,
+      3200,
+      3200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1356": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      3750,
+      3750,
+      3750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1357": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      4300,
+      4300,
+      4300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1358": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      4850,
+      4850,
+      4850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1359": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      5400,
+      5400,
+      5400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1360": {
+    "EnchantGroup": 125,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      5950,
+      5950,
+      5950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1361": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1362": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1363": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1364": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1365": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1366": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1367": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1368": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1369": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1370": {
+    "EnchantGroup": 126,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1371": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2000,
+      2000,
+      2000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1372": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3100,
+      3100,
+      3100,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1373": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      4200,
+      4200,
+      4200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1374": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      5300,
+      5300,
+      5300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1375": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      6400,
+      6400,
+      6400,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1376": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      7500,
+      7500,
+      7500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1377": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      8600,
+      8600,
+      8600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1378": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      9700,
+      9700,
+      9700,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1379": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      10800,
+      10800,
+      10800,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1380": {
+    "EnchantGroup": 127,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      11900,
+      11900,
+      11900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1381": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      2500,
+      2500,
+      2500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1382": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      3875,
+      3875,
+      3875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1383": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      5250,
+      5250,
+      5250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1384": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      6625,
+      6625,
+      6625,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1385": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      8000,
+      8000,
+      8000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1386": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      9375,
+      9375,
+      9375,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1387": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      10750,
+      10750,
+      10750,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1388": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      12125,
+      12125,
+      12125,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1389": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      13500,
+      13500,
+      13500,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1390": {
+    "EnchantGroup": 128,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      14875,
+      14875,
+      14875,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1391": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      3000,
+      3000,
+      3000,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1392": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      4650,
+      4650,
+      4650,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1393": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      6300,
+      6300,
+      6300,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1394": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      7950,
+      7950,
+      7950,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1395": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      9600,
+      9600,
+      9600,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1396": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      11250,
+      11250,
+      11250,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1397": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      12900,
+      12900,
+      12900,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1398": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      14550,
+      14550,
+      14550,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1399": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      16200,
+      16200,
+      16200,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1400": {
+    "EnchantGroup": 129,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      17850,
+      17850,
+      17850,
+      0
+    ],
+    "ConsumableKey": [],
+    "ConsumableCount": []
+  },
+  "1401": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 1,
+    "ResourceCount": [
+      1500,
+      1500,
+      1500,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl"
+    ],
+    "ConsumableCount": [
+      20,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      0,
+      0
+    ]
+  },
+  "1402": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 2,
+    "ResourceCount": [
+      2325,
+      2325,
+      2325,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl"
+    ],
+    "ConsumableCount": [
+      40,
+      1500,
+      1500,
+      1500,
+      1500,
+      1500,
+      0,
+      0
+    ]
+  },
+  "1403": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 3,
+    "ResourceCount": [
+      3150,
+      3150,
+      3150,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl"
+    ],
+    "ConsumableCount": [
+      60,
+      2000,
+      2000,
+      2000,
+      2000,
+      2000,
+      0,
+      0
+    ]
+  },
+  "1404": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 4,
+    "ResourceCount": [
+      3975,
+      3975,
+      3975,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl"
+    ],
+    "ConsumableCount": [
+      80,
+      2500,
+      2500,
+      2500,
+      2500,
+      2500,
+      0,
+      0
+    ]
+  },
+  "1405": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 5,
+    "ResourceCount": [
+      4800,
+      4800,
+      4800,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Booster",
+      "RobotParts_Weapon",
+      "RobotParts_CalculationControl"
+    ],
+    "ConsumableCount": [
+      100,
+      3000,
+      3000,
+      3000,
+      3000,
+      3000,
+      0,
+      0
+    ]
+  },
+  "1406": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 6,
+    "ResourceCount": [
+      5625,
+      5625,
+      5625,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T2",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl"
+    ],
+    "ConsumableCount": [
+      5,
+      250,
+      250,
+      250,
+      250,
+      250,
+      0,
+      0
+    ]
+  },
+  "1407": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 7,
+    "ResourceCount": [
+      6450,
+      6450,
+      6450,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T2",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl"
+    ],
+    "ConsumableCount": [
+      10,
+      500,
+      500,
+      500,
+      500,
+      500,
+      0,
+      0
+    ]
+  },
+  "1408": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 8,
+    "ResourceCount": [
+      7275,
+      7275,
+      7275,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T2",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl"
+    ],
+    "ConsumableCount": [
+      15,
+      750,
+      750,
+      750,
+      750,
+      750,
+      0,
+      0
+    ]
+  },
+  "1409": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 9,
+    "ResourceCount": [
+      8100,
+      8100,
+      8100,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T2",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl"
+    ],
+    "ConsumableCount": [
+      20,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      0,
+      0
+    ]
+  },
+  "1410": {
+    "EnchantGroup": 130,
+    "EnchantLevel": 10,
+    "ResourceCount": [
+      8925,
+      8925,
+      8925,
+      0
+    ],
+    "ConsumableKey": [
+      "Consumable_EquipProPart_T2",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HighpowerBooster",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl"
+    ],
+    "ConsumableCount": [
+      25,
+      1250,
+      1250,
+      1250,
+      1250,
+      1250,
+      0,
+      0
+    ]
   }
 }

@@ -52206,5 +52206,381 @@
     "LobbyScriptMarriageVoiceName": [
       "Voice_DS_Cloverace_OathIdle_01"
     ]
+  },
+  "LobbyScript_BR_HongRyun_NS3": {
+    "CharName": "Char_BR_HongRyun_N",
+    "LobbyScript1": [
+      "1001406864",
+      "1001406865",
+      "1001406866"
+    ],
+    "LobbyScript1FaceName": [
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_BR_HongRyun_NS3_Idle_01_01",
+      "Voice_BR_HongRyun_NS3_Idle_01_02",
+      "Voice_BR_HongRyun_NS3_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406867",
+      "1001406865",
+      "1001406866"
+    ],
+    "LobbyScript2FaceName": [
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_BR_HongRyun_NS3_Idle_02_01",
+      "Voice_BR_HongRyun_NS3_Idle_01_02",
+      "Voice_BR_HongRyun_NS3_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406867",
+      "1001406865",
+      "1001406868"
+    ],
+    "LobbyScript3FaceName": [
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_BR_HongRyun_NS3_Idle_02_01",
+      "Voice_BR_HongRyun_NS3_Idle_01_02",
+      "Voice_BR_HongRyun_NS3_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406867",
+      "1001406869",
+      "1001406868"
+    ],
+    "LobbyScript4FaceName": [
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle",
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_BR_HongRyun_NS3_Idle_02_01",
+      "Voice_BR_HongRyun_NS3_Idle_04_01",
+      "Voice_BR_HongRyun_NS3_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406870"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_BR_HongRyun_NS3_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406871"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_BR_HongRyun_NS3_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001406872"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "BR_HongRyun_NS3_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_BR_HongRyun_NS3_OathIdle_01"
+    ]
+  },
+  "LobbyScript_BR_JangHwa_NS2": {
+    "CharName": "Char_BR_JangHwa_N",
+    "LobbyScript1": [
+      "1001406873",
+      "1001406874",
+      "1001406875"
+    ],
+    "LobbyScript1FaceName": [
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_BR_JangHwa_NS2_Idle_01_01",
+      "Voice_BR_JangHwa_NS2_Idle_01_02",
+      "Voice_BR_JangHwa_NS2_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406876",
+      "1001406874",
+      "1001406875"
+    ],
+    "LobbyScript2FaceName": [
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_BR_JangHwa_NS2_Idle_02_01",
+      "Voice_BR_JangHwa_NS2_Idle_01_02",
+      "Voice_BR_JangHwa_NS2_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406876",
+      "1001406874",
+      "1001406877"
+    ],
+    "LobbyScript3FaceName": [
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_BR_JangHwa_NS2_Idle_02_01",
+      "Voice_BR_JangHwa_NS2_Idle_01_02",
+      "Voice_BR_JangHwa_NS2_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406876",
+      "1001406878",
+      "1001406877"
+    ],
+    "LobbyScript4FaceName": [
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle",
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_BR_JangHwa_NS2_Idle_02_01",
+      "Voice_BR_JangHwa_NS2_Idle_04_01",
+      "Voice_BR_JangHwa_NS2_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406879"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_BR_JangHwa_NS2_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406880"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_BR_JangHwa_NS2_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001406881"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "BR_JangHwa_NS2_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_BR_JangHwa_NS2_OathIdle_01"
+    ]
+  },
+  "LobbyScript_BR_Hela": {
+    "CharName": "Char_BR_Hela_N",
+    "LobbyScript1": [
+      "1001406021",
+      "1001406022",
+      "1001406023"
+    ],
+    "LobbyScript1FaceName": [
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_BR_Hela_Idle_01_01",
+      "Voice_BR_Hela_Idle_01_02",
+      "Voice_BR_Hela_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406024",
+      "1001406022",
+      "1001406023"
+    ],
+    "LobbyScript2FaceName": [
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_BR_Hela_Idle_02_01",
+      "Voice_BR_Hela_Idle_01_02",
+      "Voice_BR_Hela_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406024",
+      "1001406022",
+      "1001406025"
+    ],
+    "LobbyScript3FaceName": [
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_BR_Hela_Idle_02_01",
+      "Voice_BR_Hela_Idle_01_02",
+      "Voice_BR_Hela_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406024",
+      "1001406026",
+      "1001406025"
+    ],
+    "LobbyScript4FaceName": [
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle",
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_BR_Hela_Idle_02_01",
+      "Voice_BR_Hela_Idle_04_01",
+      "Voice_BR_Hela_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406027"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_BR_Hela_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406028"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_BR_Hela_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001406029"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "BR_Hela_N_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_BR_Hela_OathIdle_01"
+    ]
+  },
+  "LobbyScript_BR_Hela_MR": {
+    "CharName": "Char_BR_Hela_N",
+    "LobbyScript1": [
+      "1001406030",
+      "1001406031",
+      "1001406032"
+    ],
+    "LobbyScript1FaceName": [
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_BR_Hela_Marriage_Idle_01_01",
+      "Voice_BR_Hela_Marriage_Idle_01_02",
+      "Voice_BR_Hela_Marriage_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406030",
+      "1001406031",
+      "1001406032"
+    ],
+    "LobbyScript2FaceName": [
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_BR_Hela_Idle_02_01",
+      "Voice_BR_Hela_Marriage_Idle_01_02",
+      "Voice_BR_Hela_Marriage_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406030",
+      "1001406031",
+      "1001406031"
+    ],
+    "LobbyScript3FaceName": [
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_BR_Hela_Idle_02_01",
+      "Voice_BR_Hela_Marriage_Idle_01_02",
+      "Voice_BR_Hela_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406030",
+      "1001406032",
+      "1001406031"
+    ],
+    "LobbyScript4FaceName": [
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle",
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_BR_Hela_Idle_02_01",
+      "Voice_BR_Hela_Idle_04_01",
+      "Voice_BR_Hela_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406033"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_BR_Hela_Marriage_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406033"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_BR_Hela_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "0"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "BR_Hela_MR_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_BR_Hela_OathIdle_01"
+    ]
   }
 }

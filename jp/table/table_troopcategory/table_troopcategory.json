@@ -478,7 +478,8 @@
     "Squad_Desc": "",
     "Squad_Member": [
       "Char_BR_Echidna_N",
-      "Char_BR_Brunhild_N"
+      "Char_BR_Brunhild_N",
+      "Char_BR_Hela_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

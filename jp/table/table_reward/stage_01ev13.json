@@ -17,15 +17,24 @@
     "MetalMin": 0,
     "MetalMax": 0,
     "MetalRate": "0",
-    "NutrientMin": 10000,
-    "NutrientMax": 10000,
-    "NutrientRate": "1",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
     "PowerMin": 0,
     "PowerMax": 0,
     "PowerRate": "0",
-    "ItemCount": [],
-    "ItemIndexString": [],
-    "ItemRate": [],
+    "ItemCount": [
+      100,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Ev_Consumable_DataUSB"
+    ],
+    "ItemRate": [
+      "1"
+    ],
     "CharIndexString": [],
     "CharRate": [],
     "BattlePass_Point": 0,
@@ -55,20 +64,15 @@
     "PowerMin": 0,
     "PowerMax": 0,
     "PowerRate": "0",
-    "ItemCount": [
-      10,
-      0,
-      0,
-      0
+    "ItemCount": [],
+    "ItemIndexString": [],
+    "ItemRate": [],
+    "CharIndexString": [
+      "Char_BR_NickyTracy_N"
     ],
-    "ItemIndexString": [
-      "Favor_Cake"
-    ],
-    "ItemRate": [
+    "CharRate": [
       "1"
     ],
-    "CharIndexString": [],
-    "CharRate": [],
     "BattlePass_Point": 0,
     "Vote_Papers": 0
   },
@@ -87,18 +91,27 @@
     "CashMin": 0,
     "CashMax": 0,
     "CashRate": "0",
-    "MetalMin": 10000,
-    "MetalMax": 10000,
-    "MetalRate": "1",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
     "NutrientMin": 0,
     "NutrientMax": 0,
     "NutrientRate": "0",
     "PowerMin": 0,
     "PowerMax": 0,
     "PowerRate": "0",
-    "ItemCount": [],
-    "ItemIndexString": [],
-    "ItemRate": [],
+    "ItemCount": [
+      2000,
+      0,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Ev_Consumable_DataCD"
+    ],
+    "ItemRate": [
+      "1"
+    ],
     "CharIndexString": [],
     "CharRate": [],
     "BattlePass_Point": 0,
@@ -129,13 +142,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      1,
+      5,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Favor_MaxExpand_Lv1"
+      "TestItem_6"
     ],
     "ItemRate": [
       "1"
@@ -166,14 +179,18 @@
     "NutrientMin": 0,
     "NutrientMax": 0,
     "NutrientRate": "0",
-    "PowerMin": 10000,
-    "PowerMax": 10000,
-    "PowerRate": "1",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
     "ItemCount": [],
     "ItemIndexString": [],
     "ItemRate": [],
-    "CharIndexString": [],
-    "CharRate": [],
+    "CharIndexString": [
+      "Char_BR_Ellie_N"
+    ],
+    "CharRate": [
+      "1"
+    ],
     "BattlePass_Point": 0,
     "Vote_Papers": 0
   },
@@ -192,20 +209,24 @@
     "CashMin": 0,
     "CashMax": 0,
     "CashRate": "0",
-    "MetalMin": 5000,
-    "MetalMax": 5000,
-    "MetalRate": "1",
-    "NutrientMin": 5000,
-    "NutrientMax": 5000,
-    "NutrientRate": "1",
-    "PowerMin": 5000,
-    "PowerMax": 5000,
-    "PowerRate": "1",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
     "ItemCount": [],
     "ItemIndexString": [],
     "ItemRate": [],
-    "CharIndexString": [],
-    "CharRate": [],
+    "CharIndexString": [
+      "Char_BR_HongRyun_N"
+    ],
+    "CharRate": [
+      "1"
+    ],
     "BattlePass_Point": 0,
     "Vote_Papers": 0
   },
@@ -403,8 +424,8 @@
   },
   "STAGE_01Ev13-01": {
     "RewardPosType": 0,
-    "AccountExpMin": 100,
-    "AccountExpMax": 100,
+    "AccountExpMin": 110,
+    "AccountExpMax": 110,
     "AccountExpRate": "1",
     "ExpMin": 0,
     "ExpMax": 0,
@@ -435,8 +456,8 @@
   },
   "STAGE_01Ev13-02": {
     "RewardPosType": 0,
-    "AccountExpMin": 105,
-    "AccountExpMax": 105,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
     "AccountExpRate": "1",
     "ExpMin": 0,
     "ExpMax": 0,

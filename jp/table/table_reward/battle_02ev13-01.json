@@ -4,10 +4,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -24,43 +24,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      200,
+      20,
+      0,
       0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.004",
-      "0.01",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -73,10 +59,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -93,43 +79,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      200,
+      20,
+      0,
       0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.004",
-      "0.01",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -142,10 +114,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -162,43 +134,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      200,
+      20,
+      0,
       0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.004",
-      "0.01",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -211,10 +169,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -231,43 +189,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      200,
+      20,
+      0,
       0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.006",
-      "0.02",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -280,10 +224,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -300,43 +244,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      200,
+      20,
+      0,
       0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.006",
-      "0.02",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -349,10 +279,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -369,43 +299,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      200,
+      20,
+      0,
       0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05",
-      "0.05"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.006",
-      "0.02",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -418,10 +334,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -438,45 +354,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      200,
+      20,
+      0,
+      0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "Equip_System_LRAD_T4",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.005",
-      "0.1",
-      "0.1",
-      "0.1",
-      "0.1",
-      "0.1"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.012",
-      "0.03",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -489,10 +389,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -509,45 +409,29 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      200,
+      20,
+      0,
+      0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "Equip_System_LRAD_T4",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.005",
-      "0.1",
-      "0.1",
-      "0.1",
-      "0.1",
-      "0.1"
+      "0.25"
     ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.012",
-      "0.03",
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"
@@ -560,10 +444,10 @@
     "AccountExpMin": 0,
     "AccountExpMax": 0,
     "AccountExpRate": "1",
-    "ExpMin": 600,
-    "ExpMax": 600,
+    "ExpMin": 3300,
+    "ExpMax": 3300,
     "ExpRate": "1",
-    "SkillExp": 60,
+    "SkillExp": 330,
     "CoinMin": 0,
     "CoinMax": 0,
     "CoinRate": "",
@@ -580,45 +464,194 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      45,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
-      1
+      200,
+      20,
+      0,
+      0
     ],
     "ItemIndexString": [
       "Ev_Consumable_OBSRecord",
-      "Ev_Consumable_DataCD",
-      "Equip_System_LRAD_T4",
-      "RobotParts_ExParts",
-      "RobotParts_SuperAlloyArmor",
-      "RobotParts_HighpowerBooster",
-      "RobotParts_HeavyWeapon",
-      "RobotParts_HDCalculationControl"
+      "Ev_Consumable_DataCD"
     ],
     "ItemRate": [
       "0.25",
-      "0.25",
-      "0.005",
+      "0.25"
+    ],
+    "CharIndexString": [
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
       "0.1",
       "0.1",
       "0.1",
       "0.1",
       "0.1"
     ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_02Ev13-01-04": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 3300,
+    "ExpMax": 3300,
+    "ExpRate": "1",
+    "SkillExp": 330,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      200,
+      20,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Ev_Consumable_OBSRecord",
+      "Ev_Consumable_DataCD"
+    ],
+    "ItemRate": [
+      "0.25",
+      "0.25"
+    ],
     "CharIndexString": [
-      "Char_BR_Ellie_N",
-      "Char_BR_AS12TurtleDragon_N",
-      "Char_3P_Fotia_N",
-      "Char_BR_Leprechaun_N",
-      "Char_BR_WarWolf_N"
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
     ],
     "CharRate": [
-      "0.012",
-      "0.03",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_02Ev13-01-04_A": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 3300,
+    "ExpMax": 3300,
+    "ExpRate": "1",
+    "SkillExp": 330,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      200,
+      20,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Ev_Consumable_OBSRecord",
+      "Ev_Consumable_DataCD"
+    ],
+    "ItemRate": [
+      "0.25",
+      "0.25"
+    ],
+    "CharIndexString": [
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1",
+      "0.1"
+    ],
+    "BattlePass_Point": 0,
+    "Vote_Papers": 0
+  },
+  "BATTLE_02Ev13-01-04_S": {
+    "RewardPosType": 2,
+    "AccountExpMin": 0,
+    "AccountExpMax": 0,
+    "AccountExpRate": "1",
+    "ExpMin": 3300,
+    "ExpMax": 3300,
+    "ExpRate": "1",
+    "SkillExp": 330,
+    "CoinMin": 0,
+    "CoinMax": 0,
+    "CoinRate": "",
+    "CashMin": 0,
+    "CashMax": 0,
+    "CashRate": "0",
+    "MetalMin": 0,
+    "MetalMax": 0,
+    "MetalRate": "0",
+    "NutrientMin": 0,
+    "NutrientMax": 0,
+    "NutrientRate": "0",
+    "PowerMin": 0,
+    "PowerMax": 0,
+    "PowerRate": "0",
+    "ItemCount": [
+      200,
+      20,
+      0,
+      0
+    ],
+    "ItemIndexString": [
+      "Ev_Consumable_OBSRecord",
+      "Ev_Consumable_DataCD"
+    ],
+    "ItemRate": [
+      "0.25",
+      "0.25"
+    ],
+    "CharIndexString": [
+      "Char_BR_SandMan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gnome_N"
+    ],
+    "CharRate": [
+      "0.1",
+      "0.1",
       "0.1",
       "0.1",
       "0.1"

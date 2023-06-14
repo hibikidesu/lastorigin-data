@@ -5344,5 +5344,32 @@
     "PCModelID": "Model_DS_Cloverace_N",
     "PCInvenIconID": "InvenIcon_DS_Cloverace_N",
     "Collection_Reward": "COLLECTION_Squad-01"
+  },
+  "Char_BR_Hela_N": {
+    "Char_BodyType": 0,
+    "Char_Number": 247,
+    "Char_Key": "Char_BR_Hela_N",
+    "Troop_Category": "Squad_Bermuda_2",
+    "Char_Name": "CharName_Char_BR_Hela_N",
+    "Char_Name_EngDisp": "Hela",
+    "Char_Grade": 5,
+    "Char_Class": 1,
+    "Char_Role": 2,
+    "Char_Height": "163cm",
+    "Char_Weight": "39kg",
+    "Char_Voice": "0",
+    "Char_WeaponDesc1": "CharWeaponDesc1_Char_BR_Hela_N",
+    "Char_WeaponDesc2": "CharWeaponDesc2_Char_BR_Hela_N",
+    "Char_AtkDisp": 2,
+    "Char_AtkRateDisp": 4,
+    "Char_SpeedDisp": 4,
+    "Char_HpDisp": 4,
+    "Char_DefDisp": 9,
+    "Char_AssistDisp": 8,
+    "Char_Desc": "CharDesc_Char_BR_Hela_N",
+    "PCFullbodyID": "FullbodyIMG_BR_Hela_N",
+    "PCModelID": "Model_BR_Hela_N",
+    "PCInvenIconID": "InvenIcon_BR_Hela_N",
+    "Collection_Reward": "COLLECTION_Squad-01"
   }
 }

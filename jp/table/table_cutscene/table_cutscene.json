@@ -5170,62 +5170,62 @@
     "Marriage_Scene": 1
   },
   "Cut_Ch01Ev13Stage01_1": {
-    "FileName": "DG_Ch01Ev13_oldStage01_1",
+    "FileName": "DG_Ch01Ev13Stage01_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage01_2": {
-    "FileName": "DG_Ch01Ev13_oldStage01_2",
+    "FileName": "DG_Ch01Ev13Stage01_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage02_1": {
-    "FileName": "DG_Ch01Ev13_oldStage02_1",
+    "FileName": "DG_Ch01Ev13Stage02_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage02_2": {
-    "FileName": "DG_Ch01Ev13_oldStage02_2",
+    "FileName": "DG_Ch01Ev13Stage02_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage03_1": {
-    "FileName": "DG_Ch01Ev13_oldStage03_1",
+    "FileName": "DG_Ch01Ev13Stage03_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage03_2": {
-    "FileName": "DG_Ch01Ev13_oldStage03_2",
+    "FileName": "DG_Ch01Ev13Stage03_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage04_1": {
-    "FileName": "DG_Ch01Ev13_oldStage04_1",
+    "FileName": "DG_Ch01Ev13Stage04_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage04_2": {
-    "FileName": "DG_Ch01Ev13_oldStage04_2",
+    "FileName": "DG_Ch01Ev13Stage04_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage05_1": {
-    "FileName": "DG_Ch01Ev13_oldStage05_1",
+    "FileName": "DG_Ch01Ev13Stage05_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage05_2": {
-    "FileName": "DG_Ch01Ev13_oldStage05_2",
+    "FileName": "DG_Ch01Ev13Stage05_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage06_1": {
-    "FileName": "DG_Ch01Ev13_oldStage06_1",
+    "FileName": "DG_Ch01Ev13Stage06_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
   "Cut_Ch01Ev13Stage06_2": {
-    "FileName": "DG_Ch01Ev13_oldStage06_2",
+    "FileName": "DG_Ch01Ev13Stage06_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   },
@@ -9403,5 +9403,10 @@
     "FileName": "DG_Marriage01Stage425_1",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 1
+  },
+  "Cut_Ch01Ev13Stage02_3": {
+    "FileName": "DG_Ch01Ev13Stage02_3",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
   }
 }

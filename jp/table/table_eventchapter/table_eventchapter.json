@@ -321,19 +321,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_FallRose",
     "Chapter_Key": "Chapter_01Ev13",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
-  },
-  "Event_Chapter_28": {
-    "Event_Category": "Open_Event13",
-    "Event_CategoryName": "EventName_Open_Event13",
-    "Event_CategoryDesc": "EventDesc_Open_Event13",
-    "Event_CategoryPos": 13,
-    "Event_CategoryIndex": 13,
-    "Event_CategoryBanner": "UI_EventBanner_2021_FallRose",
-    "Event_CategoryIcon": "UI_EventIcon_2021_FallRose",
-    "Chapter_Key": "Chapter_02Ev13",
-    "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 1
   },
   "Event_Chapter_29": {
     "Event_Category": "Open_Event14",
@@ -381,7 +369,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2022_Spring",
     "Chapter_Key": "Chapter_01Ev16",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_33": {
     "Event_Category": "Open_Event17",

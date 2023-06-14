@@ -443,18 +443,6 @@
     "Chapter_3DWorldMap": "3D_worldmap_2021_FallRose_E1",
     "Chapter_PrefabName": ""
   },
-  "Chapter_02Ev13": {
-    "ChapterName": "MapChaterName_Chapter_02Ev13",
-    "GameModeType": 4,
-    "StartCutsceneIndex": "0",
-    "ChapterMapImg": "UI_Record_Chapter_02Ev13",
-    "ChapterString": "Event13_Chapter02",
-    "Event_Category": "Open_Event13",
-    "Chapter_IDX": 2,
-    "ChapterSearch_IDX": "Ev2",
-    "Chapter_3DWorldMap": "3D_worldmap_2021_FallRose_E2",
-    "Chapter_PrefabName": ""
-  },
   "Chapter_09N": {
     "ChapterName": "MapChaterName_Chapter_09N",
     "GameModeType": 0,

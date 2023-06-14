@@ -2770,5 +2770,26 @@
     "Marriage_VoicePrefab": "Char_PECS_Erato_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
+  },
+  "Marriage_HongRyun_NS3": {
+    "Marriage_CutScene": "Cut_Marriage_HongRyun_NS3",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_JangHwa_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_JangHwa_NS2",
+    "Marriage_LobbyScript": "LobbyScript_BR_JangHwa_MR",
+    "Marriage_VoicePrefab": "Char_BR_JangHwa_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Hela": {
+    "Marriage_CutScene": "Cut_Marriage_Hela",
+    "Marriage_LobbyScript": "LobbyScript_BR_Hela_MR",
+    "Marriage_VoicePrefab": "Char_BR_Hela_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
   }
 }

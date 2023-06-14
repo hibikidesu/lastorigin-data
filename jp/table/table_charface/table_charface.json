@@ -11262,5 +11262,93 @@
     "Face2dTexture": [
       "0"
     ]
+  },
+  "CharFace_BR_Hela_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      28,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_Hela_N_Smile",
+      "BR_Hela_N_CloseEye",
+      "BR_Hela_N_Shy",
+      "BR_Hela_N_Sad"
+    ]
+  },
+  "CharFace_BR_JangHwa_NS2": {
+    "FaceName": [
+      "1003500009",
+      "1003500005",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025",
+      "1003500020"
+    ],
+    "FaceType": [
+      0,
+      6,
+      3,
+      15,
+      11,
+      28,
+      7,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_JangHwa_NS2_BigSmile",
+      "BR_JangHwa_NS2_CloseEye",
+      "BR_JangHwa_NS2_Shy",
+      "BR_JangHwa_NS2_Anger",
+      "BR_JangHwa_NS2_Sad",
+      "BR_JangHwa_NS2_Surprised"
+    ]
+  },
+  "CharFace_BR_HongRyun_NS3": {
+    "FaceName": [
+      "1003500009",
+      "1003500063",
+      "1003500005",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025",
+      "1003500020"
+    ],
+    "FaceType": [
+      0,
+      75,
+      6,
+      3,
+      15,
+      11,
+      28,
+      7
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_HongRyun_NS3_Idle2",
+      "BR_HongRyun_NS3_BigSmile",
+      "BR_HongRyun_NS3_CloseEye",
+      "BR_HongRyun_NS3_Shy",
+      "BR_HongRyun_NS3_Anger",
+      "BR_HongRyun_NS3_Sad",
+      "BR_HongRyun_NS3_Surprised"
+    ]
   }
 }
