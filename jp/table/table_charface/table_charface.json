@@ -11350,5 +11350,93 @@
       "BR_HongRyun_NS3_Sad",
       "BR_HongRyun_NS3_Surprised"
     ]
+  },
+  "CharFace_DS_Johanna_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500005",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025",
+      "1003500020"
+    ],
+    "FaceType": [
+      0,
+      6,
+      3,
+      15,
+      11,
+      28,
+      7,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "DS_Johanna_NS1_BigSmile",
+      "DS_Johanna_NS1_CloseEye",
+      "DS_Johanna_NS1_Shy",
+      "DS_Johanna_NS1_Anger",
+      "DS_Johanna_NS1_Sad",
+      "DS_Johanna_NS1_Surprised"
+    ]
+  },
+  "CharFace_3P_Fenrir_NS2": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      11,
+      28,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "3P_Fenrir_NS2_Smile",
+      "3P_Fenrir_NS2_CloseEye",
+      "3P_Fenrir_NS2_Shy",
+      "3P_Fenrir_NS2_Anger",
+      "3P_Fenrir_NS2_Sad"
+    ]
+  },
+  "CharFace_3P_Ran_NS2": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025",
+      "1003500046"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      11,
+      28,
+      25,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "3P_Ran_NS2_Smile",
+      "3P_Ran_NS2_CloseEye",
+      "3P_Ran_NS2_Shy",
+      "3P_Ran_NS2_Anger",
+      "3P_Ran_NS2_Sad",
+      "3P_Ran_NS2_Hurt"
+    ]
   }
 }

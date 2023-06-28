@@ -1503,5 +1503,103 @@
     "MissionTriggerValue": "Char_3P_Hachiko_N",
     "MissionObjectType": 0,
     "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_Live_Char_BR_Scathy_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_Live_Char_BR_Scathy_N",
+    "MissionTriggerType": 6,
+    "MissionTriggerValue": "Char_BR_Scathy_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_ST_Mercury_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_ST_Mercury_N",
+    "MissionTriggerType": 5,
+    "MissionTriggerValue": "Char_ST_Mercury_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_KillUnderWatcher_By_Skill_BR_Scathy_N_2": {
+    "Mission_ObjectString": "MissionName_Mission_KillUnderWatcher_By_Skill_BR_Scathy_N_2",
+    "MissionTriggerType": 4,
+    "MissionTriggerValue": "Char_BR_Scathy_N",
+    "MissionObjectType": 2,
+    "MissionObjectValue": "MOB_MP_UnderWatcher_EW2"
+  },
+  "Mission_StageClear_With_Char_3P_Titania_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_3P_Titania_N",
+    "MissionTriggerType": 5,
+    "MissionTriggerValue": "Char_3P_Titania_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_Live_Char_BR_JangHwa_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_Live_Char_BR_JangHwa_N",
+    "MissionTriggerType": 6,
+    "MissionTriggerValue": "Char_BR_JangHwa_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_Live_Char_BR_Cheona_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_Live_Char_BR_Cheona_N",
+    "MissionTriggerType": 6,
+    "MissionTriggerValue": "Char_BR_Cheona_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_AGS_Stronghold_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_AGS_Stronghold_N",
+    "MissionTriggerType": 5,
+    "MissionTriggerValue": "Char_AGS_Stronghold_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_No_Skill_MP_Kidnapper_EV19_C_2": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_No_Skill_MP_Kidnapper_EV19_C_2",
+    "MissionTriggerType": 21,
+    "MissionTriggerValue": "Skill_MP_Kidnapper_EV19_C_2",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_3P_Salacia_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_3P_Salacia_N",
+    "MissionTriggerType": 5,
+    "MissionTriggerValue": "Char_3P_Salacia_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_3P_Amphitrite_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_3P_Amphitrite_N",
+    "MissionTriggerType": 5,
+    "MissionTriggerValue": "Char_3P_Amphitrite_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_AGS_RheinRitter_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_AGS_RheinRitter_N",
+    "MissionTriggerType": 5,
+    "MissionTriggerValue": "Char_AGS_RheinRitter_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_BR_Wraithy_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_BR_Wraithy_N",
+    "MissionTriggerType": 6,
+    "MissionTriggerValue": "Char_BR_Wraithy_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_DS_KunoichiZero_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_DS_KunoichiZero_N",
+    "MissionTriggerType": 6,
+    "MissionTriggerValue": "Char_DS_KunoichiZero_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
+  },
+  "Mission_StageClear_With_Char_BR_Bulgasari_N": {
+    "Mission_ObjectString": "MissionName_Mission_StageClear_With_Char_BR_Bulgasari_N",
+    "MissionTriggerType": 6,
+    "MissionTriggerValue": "Char_BR_Bulgasari_N",
+    "MissionObjectType": 0,
+    "MissionObjectValue": "0"
   }
 }
