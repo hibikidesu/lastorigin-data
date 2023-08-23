@@ -11024,7 +11024,8 @@
       "1003500014",
       "1003500025",
       "1003500021",
-      "1003500020"
+      "1003500020",
+      "1003500023"
     ],
     "FaceType": [
       0,
@@ -11034,7 +11035,15 @@
       3,
       28,
       15,
-      7
+      7,
+      43,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
     ],
     "Face2dTexture": [
       "0",
@@ -11044,7 +11053,8 @@
       "BR_Vargr_N_CloseEye",
       "BR_Vargr_N_Sad",
       "BR_Vargr_N_Shy",
-      "BR_Vargr_N_Surprised"
+      "BR_Vargr_N_Surprised",
+      "BR_Vargr_N_Anger1"
     ]
   },
   "CharFace_3P_Ajax_N": {
@@ -11437,6 +11447,268 @@
       "3P_Ran_NS2_Anger",
       "3P_Ran_NS2_Sad",
       "3P_Ran_NS2_Hurt"
+    ]
+  },
+  "CharFace_PECS_CyclopsePrincess_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500011",
+      "1003500021",
+      "1003500005",
+      "1003500014"
+    ],
+    "FaceType": [
+      0,
+      11,
+      15,
+      6,
+      3,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "PECS_CyclopsePrincess_NS1_Anger",
+      "PECS_CyclopsePrincess_NS1_Shy",
+      "PECS_CyclopsePrincess_NS1_BigSmile",
+      "PECS_CyclopsePrincess_NS1_CloseEye"
+    ]
+  },
+  "CharFace_BR_Scarabya_NS1": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_PECS_Mnemosyne_NS2": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_ALWraith_NS2": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_Hraesvelgr_NS2": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500028"
+    ],
+    "FaceType": [
+      0,
+      8,
+      40,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_Hraesvelgr_NS2_Smile",
+      "BR_Hraesvelgr_NS2_Exiting"
+    ]
+  },
+  "CharFace_3P_Melite_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      11,
+      28,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "3P_Melite_NS1_Smile",
+      "3P_Melite_NS1_CloseEye",
+      "3P_Melite_NS1_Shy",
+      "3P_Melite_NS1_Anger",
+      "3P_Melite_NS1_Sad"
+    ]
+  },
+  "CharFace_PECS_Saetti_NS2": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_Hyena_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500011",
+      "1003500013"
+    ],
+    "FaceType": [
+      0,
+      11,
+      8,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_Hyena_NS1_Anger",
+      "BR_Hyena_NS1_Smile"
+    ]
+  },
+  "CharFace_3P_Galatea_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500025",
+      "1003500020"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      28,
+      7,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "3P_Galatea_NS1_Smile",
+      "3P_Galatea_NS1_CloseEye",
+      "3P_Galatea_NS1_Sad",
+      "3P_Galatea_NS1_Surprised"
+    ]
+  },
+  "CharFace_PECS_Sonia_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500022"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      4
+    ],
+    "Face2dTexture": [
+      "0",
+      "PECS_Sonia_NS1_Smile",
+      "PECS_Sonia_NS1_CloseEye",
+      "PECS_Sonia_NS1_Embarrass"
+    ]
+  },
+  "CharFace_3P_Ajax_NS1": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_StratoAngel_NS2": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_PECS_Hathor_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500005",
+      "1003500014",
+      "1003500068",
+      "1003500021",
+      "1003500011",
+      "1003500025",
+      "1003500020",
+      "1003500018"
+    ],
+    "FaceType": [
+      0,
+      6,
+      3,
+      66,
+      15,
+      11,
+      28,
+      7,
+      30,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "PECS_Hathor_N_BigSmile",
+      "PECS_Hathor_N_CloseEye",
+      "PECS_Hathor_N_CloseEye2",
+      "PECS_Hathor_N_Shy",
+      "PECS_Hathor_N_Anger",
+      "PECS_Hathor_N_Sad",
+      "PECS_Hathor_N_Surprised",
+      "PECS_Hathor_N_Temptation"
     ]
   }
 }

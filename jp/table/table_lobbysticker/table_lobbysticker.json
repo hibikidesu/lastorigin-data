@@ -1408,5 +1408,35 @@
     "LobbySticker2DModelID": "2DModel_PROP_HeartElection2022_3_N",
     "LobbyStickerIcon": "UI_Icon_PROP_HeartElection2022_3",
     "LobbyStickerGroup": 1
+  },
+  "PROP_OrcaBroadCast_1_N": {
+    "ItemName": "LobbyStickerName_PROP_OrcaBroadCast_1_N",
+    "LobbySticker2DModelID": "2DModel_PROP_OrcaBroadCast_1_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_OrcaBroadCast_1",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_OrcaBroadCast_2_N": {
+    "ItemName": "LobbyStickerName_PROP_OrcaBroadCast_2_N",
+    "LobbySticker2DModelID": "2DModel_PROP_OrcaBroadCast_2_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_OrcaBroadCast_2",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_OrcaBroadCast_3_N": {
+    "ItemName": "LobbyStickerName_PROP_OrcaBroadCast_3_N",
+    "LobbySticker2DModelID": "2DModel_PROP_OrcaBroadCast_3_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_OrcaBroadCast_3",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_OrcaBroadCast_4_N": {
+    "ItemName": "LobbyStickerName_PROP_OrcaBroadCast_4_N",
+    "LobbySticker2DModelID": "2DModel_PROP_OrcaBroadCast_4_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_OrcaBroadCast_4",
+    "LobbyStickerGroup": 1
+  },
+  "PROP_OrcaBroadCast_5_N": {
+    "ItemName": "LobbyStickerName_PROP_OrcaBroadCast_5_N",
+    "LobbySticker2DModelID": "2DModel_PROP_OrcaBroadCast_5_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_OrcaBroadCast_5",
+    "LobbyStickerGroup": 1
   }
 }

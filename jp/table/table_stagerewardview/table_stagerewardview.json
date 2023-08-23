@@ -5158,8 +5158,6 @@
       "Char_PECS_Tiequan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5180,8 +5178,6 @@
       "Char_PECS_MissSafety_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Acc_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5202,8 +5198,6 @@
       "Char_PECS_DutchGirl_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Def_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5224,8 +5218,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Ev_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5246,8 +5238,6 @@
       "Char_BR_Leprechaun_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Hp_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5268,8 +5258,6 @@
       "Char_BR_Leprechaun_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Normal_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5290,8 +5278,6 @@
       "Char_BR_Leprechaun_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Highspd_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5312,8 +5298,6 @@
       "Char_BR_Leprechaun_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_SpaceArmor_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5334,8 +5318,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Assault_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5356,8 +5338,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Defense_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5378,8 +5358,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_Hologram_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5400,8 +5378,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_LTWT_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5423,8 +5399,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_AdvRadar_T4",
       "Equip_Sub_Overclock_T4",
       "Equip_Sub_Overclock_T3",
@@ -5446,8 +5420,6 @@
       "Char_PECS_DutchGirl_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_HManeuver_T4",
       "Equip_Sub_ExoSkeleton_T4",
       "Equip_Sub_ExoSkeleton_T3",
@@ -5469,8 +5441,6 @@
       "Char_PECS_Tiequan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_ThornNecklace_T4",
       "Equip_Sub_ArmorPierce_T4",
       "Equip_Sub_ArmorPierce_T3",
@@ -5492,8 +5462,6 @@
       "Char_3P_Aqua_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_AntiTrooper_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5515,8 +5483,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_AntiAir_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5538,8 +5504,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_AntiArmor_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5561,8 +5525,6 @@
       "Char_BR_Djinnia_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Exp_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5584,8 +5546,6 @@
       "Char_BR_SandMan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_AntiLightning_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5607,8 +5567,6 @@
       "Char_BR_Djinnia_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_AntiFire_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5630,8 +5588,6 @@
       "Char_BR_SandMan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_AntiCold_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5653,8 +5609,6 @@
       "Char_BR_Djinnia_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_Barrier_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5676,8 +5630,6 @@
       "Char_3P_Aqua_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Sniper_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5699,8 +5651,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_Maneuver_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5722,8 +5672,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_Observer_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5745,8 +5693,6 @@
       "Char_BR_Djinnia_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_KillExp_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5769,8 +5715,6 @@
       "Char_BR_Leprechaun_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_EXAM_T4",
       "Equip_Chip_Acc_T4",
       "Equip_Chip_Acc_T3",
@@ -5793,8 +5737,6 @@
       "Char_3P_Fotia_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_RangerSet_T4",
       "Equip_Sub_EnergyPack_T4",
       "Equip_Sub_EnergyPack_T3",
@@ -5817,8 +5759,6 @@
       "Char_BR_WarWolf_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_UnevenTerrain_T4",
       "Equip_Chip_Hp_T4",
       "Equip_Chip_Hp_T3",
@@ -5844,8 +5784,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_AntiTrooper_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -5869,8 +5807,6 @@
       "Char_3P_Aqua_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_AntiArmor_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -5894,8 +5830,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_System_OverFlow_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",

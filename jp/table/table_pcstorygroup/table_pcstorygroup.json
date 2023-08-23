@@ -417,5 +417,65 @@
       "Story_Char_DS_Cloverace_N_30_DS_Arman_4",
       "Story_Char_DS_Cloverace_N_30_DS_Cloverace_5"
     ]
+  },
+  "PCStory_CH_BR_Vargr_1": {
+    "StoryType": 0,
+    "StoryName": "1002200405",
+    "PCInvenIcon": "InvenIcon_BR_Vargr_N",
+    "PCName": "PCName_Char_BR_Vargr_N",
+    "SquadStoryIcon": "UI_TroopIcon_EmpressHound",
+    "SquadStoryString": "Squad_Story_Name_EmpressHound",
+    "PCStoryNo": 28,
+    "PCStoryIndex": [
+      "Story_Char_BR_Vargr_N_28_PECS_Leanne_1",
+      "Story_Char_BR_Vargr_N_28_BR_Cheona_2",
+      "Story_Char_BR_Vargr_N_28_BR_Vargr_3"
+    ]
+  },
+  "PCStory_CH_AGS_Goltarion_1": {
+    "StoryType": 0,
+    "StoryName": "1002200381",
+    "PCInvenIcon": "InvenIcon_AGS_Goltarion_N",
+    "PCName": "1002100213",
+    "SquadStoryIcon": "UI_TroopIcon_Dentertainment",
+    "SquadStoryString": "Squad_Story_Name_Dentertainment",
+    "PCStoryNo": 25,
+    "PCStoryIndex": [
+      "Story_Char_AGS_Goltarion_N_25_BR_Harpy_1",
+      "Story_Char_AGS_Goltarion_N_25_3P_Sowan_2",
+      "Story_Char_AGS_Goltarion_N_25_AGS_MrAlfred2_3",
+      "Story_Char_AGS_Goltarion_N_25_AGS_Goltarion_4",
+      "Story_Char_AGS_Goltarion_N_25_DS_Faucre_5"
+    ]
+  },
+  "PCStory_CH_DS_Johanna_1": {
+    "StoryType": 0,
+    "StoryName": "1002200383",
+    "PCInvenIcon": "InvenIcon_DS_Johanna_N",
+    "PCName": "1000200003",
+    "SquadStoryIcon": "UI_TroopIcon_Dentertainment",
+    "SquadStoryString": "Squad_Story_Name_Dentertainment",
+    "PCStoryNo": 27,
+    "PCStoryIndex": [
+      "Story_Char_DS_Johanna_N_27_DS_Johanna_1",
+      "Story_Char_DS_Johanna_N_27_DS_Johanna_2",
+      "Story_Char_DS_Johanna_N_27_DS_Johanna_3",
+      "Story_Char_DS_Johanna_N_27_DS_Johanna_4",
+      "Story_Char_DS_Johanna_N_27_DS_Johanna_5"
+    ]
+  },
+  "PCStory_CH_PECS_Mnemosyne_1": {
+    "StoryType": 0,
+    "StoryName": "1002200415",
+    "PCInvenIcon": "InvenIcon_PECS_Mnemosyne_N",
+    "PCName": "1002100253",
+    "SquadStoryIcon": "UI_TroopIcon_WatcherOfNature",
+    "SquadStoryString": "Squad_Story_Name_WatcherOfNature",
+    "PCStoryNo": 29,
+    "PCStoryIndex": [
+      "Story_Char_PECS_Mnemosyne_N_29_PECS_Mnemosyne_1",
+      "Story_Char_PECS_Mnemosyne_N_29_PECS_Mnemosyne_2",
+      "Story_Char_PECS_Mnemosyne_N_29_PECS_Mnemosyne_3"
+    ]
   }
 }

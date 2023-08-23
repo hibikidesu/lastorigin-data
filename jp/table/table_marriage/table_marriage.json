@@ -2812,5 +2812,110 @@
     "Marriage_VoicePrefab": "",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
+  },
+  "Marriage_Scarabya_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Scarabya_NS1",
+    "Marriage_LobbyScript": "LobbyScript_BR_Scarabya_MR",
+    "Marriage_VoicePrefab": "Char_BR_Scarabya_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_CyclopsePrincess_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_CyclopsePrincess_NS1",
+    "Marriage_LobbyScript": "LobbyScript_PECS_CyclopsePrincess_MR",
+    "Marriage_VoicePrefab": "Char_PECS_CyclopsePrincess_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_ALWraith_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_ALWraith_NS2",
+    "Marriage_LobbyScript": "LobbyScript_BR_ALWraith_MR",
+    "Marriage_VoicePrefab": "Char_BR_ALWraith_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Mnemosyne_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_Mnemosyne_NS2",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Mnemosyne_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Mnemosyne_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Vargr": {
+    "Marriage_CutScene": "Cut_Marriage_Vargr",
+    "Marriage_LobbyScript": "LobbyScript_BR_Vargr_MR",
+    "Marriage_VoicePrefab": "Char_BR_Vargr_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Hraesvelgr_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_Hraesvelgr_NS2",
+    "Marriage_LobbyScript": "LobbyScript_BR_Hraesvelgr_MR",
+    "Marriage_VoicePrefab": "Char_BR_Hraesvelgr_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Melite_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Melite_NS1",
+    "Marriage_LobbyScript": "LobbyScript_3P_Melite_MR",
+    "Marriage_VoicePrefab": "Char_3P_Melite_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Saetti_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_Saetti_NS2",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Hyena_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Hyena_NS1",
+    "Marriage_LobbyScript": "LobbyScript_BR_Hyena_MR",
+    "Marriage_VoicePrefab": "Char_BR_Hyena_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Sonia_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Sonia_NS1",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Sonia_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Sonia_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Galatea_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Galatea_NS1",
+    "Marriage_LobbyScript": "LobbyScript_3P_Galatea_MR",
+    "Marriage_VoicePrefab": "Char_3P_Galatea_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Empress_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Empress_NS1",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Ajax_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Ajax_NS1",
+    "Marriage_LobbyScript": "LobbyScript_3P_Ajax_MR",
+    "Marriage_VoicePrefab": "Char_3P_Ajax_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_StratoAngel_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_StratoAngel_NS2",
+    "Marriage_LobbyScript": "LobbyScript_BR_StratoAngel_MR",
+    "Marriage_VoicePrefab": "Char_BR_StratoAngel_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Hathor": {
+    "Marriage_CutScene": "Cut_Marriage_Hathor",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Hathor_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Hathor_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
   }
 }

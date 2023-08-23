@@ -405,5 +405,87 @@
     "NumberOfStory": 5,
     "PCName": "StoryGroupName_Chapter_01Ev16_BR_Bulgasari_9",
     "PCInvenIconID": "InvenIcon_BR_Bulgasari_N"
+  },
+  "SubStory_Chapter_03Ev18_PECS_Sonia": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 1,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_PECS_Sonia_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_PECS_Sonia_1",
+    "PCInvenIconID": "InvenIcon_PECS_Sonia_N"
+  },
+  "SubStory_Chapter_03Ev18_PECS_Circe": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 2,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_PECS_Circe_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_PECS_Circe_2",
+    "PCInvenIconID": "InvenIcon_PECS_Circe_N"
+  },
+  "SubStory_Chapter_03Ev18_3P_Hirume": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 3,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_3P_Hirume_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_3P_Hirume_3",
+    "PCInvenIconID": "InvenIcon_3P_Hirume_N"
+  },
+  "SubStory_Chapter_03Ev18_3P_Rhea": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 4,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_3P_Rhea_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_3P_Rhea_4",
+    "PCInvenIconID": "InvenIcon_3P_Rhea_N"
+  },
+  "SubStory_Chapter_03Ev18_PECS_Express76": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 5,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_PECS_Express76_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_PECS_Express76_5",
+    "PCInvenIconID": "InvenIcon_PECS_Express76_N"
+  },
+  "SubStory_Chapter_03Ev18_BR_ALWraith": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 6,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_BR_ALWraith_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_BR_ALWraith_6",
+    "PCInvenIconID": "InvenIcon_BR_ALWraith_NS2"
+  },
+  "SubStory_Chapter_03Ev18_PECS_CyclopsePrincess": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 7,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_PECS_CyclopsePrincess_No1"
+    ],
+    "NumberOfStory": 1,
+    "PCName": "StoryGroupName_Chapter_03Ev18_PECS_CyclopsePrincess_7",
+    "PCInvenIconID": "InvenIcon_PECS_CyclopsePrincess_NS1"
+  },
+  "SubStory_Chapter_03Ev18_3P_Sowan": {
+    "ChapterIndex": "Chapter_03Ev18",
+    "StoryPCNo": 8,
+    "ChapterSubStoryIndex": [
+      "SubStory_Chapter_03Ev18_3P_Sowan_No1",
+      "SubStory_Chapter_03Ev18_3P_Sowan_No2",
+      "SubStory_Chapter_03Ev18_3P_Sowan_No3"
+    ],
+    "NumberOfStory": 3,
+    "PCName": "StoryGroupName_Chapter_03Ev18_3P_Sowan_8",
+    "PCInvenIconID": "InvenIcon_3P_Sowan_N"
   }
 }

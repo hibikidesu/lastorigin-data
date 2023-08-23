@@ -3240,7 +3240,7 @@
     "Icon_Atlas": 2
   },
   "Favor_Cake_S": {
-    "ItemName": "1001100015",
+    "ItemName": "ConsumableName_Favor_Cake_S",
     "ItemDesc": "1001100579",
     "ItemType": 4,
     "ItemSubType": 37,
@@ -41376,7 +41376,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Ios1",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T1",
     "DropImg": [
       "0"
@@ -41403,7 +41403,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Ios2",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T2",
     "DropImg": [
       "0"
@@ -41538,7 +41538,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Aos3",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T3",
     "DropImg": [
       "0"
@@ -41646,7 +41646,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Ios1_30p",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T1",
     "DropImg": [
       "0"
@@ -41673,7 +41673,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Ios2_30p",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T2",
     "DropImg": [
       "0"
@@ -47775,7 +47775,7 @@
     "IsResell": 0,
     "ResellCoin": 0,
     "StackCount": 9999999,
-    "FunctionIndex": "Function_TunaCanBonusTicket_Aos3",
+    "FunctionIndex": "Function_TunaCanBonusTicket_Aos7",
     "ImgName": "UI_Icon_TunaCanBonusTicket_T3",
     "DropImg": [
       "0"
@@ -48514,6 +48514,114 @@
     "Usable_PC": "",
     "Mail_Link_PC": "",
     "ProductType": 8,
+    "Is_SkinItem": 0,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 0
+  },
+  "CostumeTicket_13": {
+    "ItemName": "ConsumableName_CostumeTicket_13",
+    "ItemDesc": "ConsumableDesc_CostumeTicket_13",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 4,
+    "CountLimit": 9999999,
+    "ItemUseType": 0,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "CostumeTicket_13",
+    "ImgName": "UI_Icon_Consumable_CostumeTicket",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "1001100966",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "",
+    "ProductType": 0,
+    "Is_SkinItem": 0,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 2
+  },
+  "CostumeTicket_14": {
+    "ItemName": "ConsumableName_CostumeTicket_14",
+    "ItemDesc": "ConsumableDesc_CostumeTicket_14",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 4,
+    "CountLimit": 9999999,
+    "ItemUseType": 0,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "CostumeTicket_14",
+    "ImgName": "UI_Icon_Consumable_CostumeTicket",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "1001100966",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "",
+    "ProductType": 0,
+    "Is_SkinItem": 0,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 2
+  },
+  "AncientBox_N_T2_Event": {
+    "ItemName": "ConsumableName_AncientBox_N_T2_Event",
+    "ItemDesc": "ConsumableDesc_AncientBox_N_T2_Event",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 3,
+    "CountLimit": 9999999,
+    "ItemUseType": 0,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "",
+    "ImgName": "UI_Icon_Gacha_AncientBox_N_T2",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "",
+    "ProductType": 7,
+    "Is_SkinItem": 0,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 1
+  },
+  "CharTicket_Char_PECS_Hathor_N": {
+    "ItemName": "ConsumableName_CharTicket_Char_PECS_Hathor_N",
+    "ItemDesc": "ConsumableDesc_CharTicket_Char_PECS_Hathor_N",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 5,
+    "CountLimit": 9999999,
+    "ItemUseType": 0,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "CharTicket_Char_PECS_Hathor_N",
+    "ImgName": "InvenIcon_PECS_Hathor_N",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "Char_PECS_Hathor_N",
+    "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
     "Icon_Atlas": 0

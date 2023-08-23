@@ -550,5 +550,41 @@
     "ChapterSearch_IDX": "Ev1",
     "Chapter_3DWorldMap": "3D_worldmap_2022_Spring_E1",
     "Chapter_PrefabName": "Prefab_Event16_Chapter01"
+  },
+  "Chapter_01Ev18": {
+    "ChapterName": "MapChaterName_Chapter_01Ev18",
+    "GameModeType": 4,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_01Ev18",
+    "ChapterString": "Event18_Chapter01",
+    "Event_Category": "Open_Event18",
+    "Chapter_IDX": 1,
+    "ChapterSearch_IDX": "Ev1",
+    "Chapter_3DWorldMap": "3D_worldmap_2022_SummerAquaLand_E1",
+    "Chapter_PrefabName": "Prefab_Event18_Chapter01"
+  },
+  "Chapter_02Ev18": {
+    "ChapterName": "MapChaterName_Chapter_02Ev18",
+    "GameModeType": 4,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_02Ev18",
+    "ChapterString": "Event18_Chapter02",
+    "Event_Category": "Open_Event18",
+    "Chapter_IDX": 2,
+    "ChapterSearch_IDX": "Ev2",
+    "Chapter_3DWorldMap": "3D_worldmap_2022_SummerAquaLand_E2",
+    "Chapter_PrefabName": "Prefab_Event18_Chapter02"
+  },
+  "Chapter_03Ev18": {
+    "ChapterName": "MapChaterName_Chapter_03Ev18",
+    "GameModeType": 4,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_03Ev18",
+    "ChapterString": "Event18_Chapter03",
+    "Event_Category": "Open_Event18",
+    "Chapter_IDX": 3,
+    "ChapterSearch_IDX": "Ev3",
+    "Chapter_3DWorldMap": "3D_worldmap_2022_SummerAquaLand_E3",
+    "Chapter_PrefabName": "Prefab_Event18_Chapter03"
   }
 }

@@ -24,8 +24,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -33,17 +31,9 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
@@ -53,8 +43,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.04",
       "0.04",
@@ -107,8 +95,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -116,17 +102,9 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
@@ -136,8 +114,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.04",
       "0.04",
@@ -190,8 +166,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -199,17 +173,9 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
@@ -219,8 +185,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.04",
       "0.04",
@@ -273,8 +237,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -282,17 +244,9 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
@@ -302,8 +256,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.04",
       "0.04",
@@ -356,8 +308,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -365,17 +315,9 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
@@ -385,8 +327,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.04",
       "0.04",
@@ -439,8 +379,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -448,17 +386,9 @@
       1,
       1,
       1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
       "Equip_Chip_Def_T1",
@@ -468,8 +398,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.04",
       "0.04",
       "0.04",
@@ -522,8 +450,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -531,17 +457,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_Observer_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -552,8 +470,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.08",
       "0.08",
@@ -607,8 +523,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -616,17 +530,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_Observer_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -637,8 +543,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.08",
       "0.08",
@@ -692,8 +596,6 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      39,
-      3,
       1,
       1,
       1,
@@ -701,17 +603,9 @@
       1,
       1,
       1,
-      1,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+      1
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed",
-      "Ev_Consumable_CurrencyBranch",
       "Equip_Sub_Observer_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -722,8 +616,6 @@
       "RobotParts_Booster"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.02",
       "0.08",
       "0.08",

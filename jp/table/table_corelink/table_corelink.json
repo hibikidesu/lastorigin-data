@@ -3359,5 +3359,19 @@
     "FullLink_Bonus_Type3": "Core_Bonus_Cri_30",
     "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
     "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Hathor_N": {
+    "PC_Key": "Char_PECS_Hathor_N",
+    "Link_Bonus": [
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_Cri_2",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_25",
+    "FullLink_Bonus_Type2": "Core_Bonus_HP_50",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
   }
 }

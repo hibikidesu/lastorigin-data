@@ -24,13 +24,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      5000,
+      5,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed"
+      "Favor_Cake"
     ],
     "ItemRate": [
       "1"
@@ -65,13 +65,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      5000,
+      2,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_CurrencySeed"
+      "Favor_MaxExpand_Lv1"
     ],
     "ItemRate": [
       "1"

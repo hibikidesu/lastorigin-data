@@ -1258,5 +1258,11 @@
     "CutIn_Condition": 0,
     "CutIn_Condition_Value": "Skill_BR_Hela_N_2",
     "CutIn_Img": "0"
+  },
+  "CutIn_Char_PECS_Hathor_N_0Skill_PECS_Hathor_N_2": {
+    "CutIn_CharKey": "Char_PECS_Hathor_N",
+    "CutIn_Condition": 0,
+    "CutIn_Condition_Value": "Skill_PECS_Hathor_N_2",
+    "CutIn_Img": "0"
   }
 }

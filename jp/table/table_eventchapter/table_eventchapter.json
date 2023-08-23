@@ -129,7 +129,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_FairyTown",
     "Chapter_Key": "Chapter_01Ev7",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_12": {
     "Event_Category": "Open_Event07",
@@ -141,7 +141,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_FairyTown",
     "Chapter_Key": "Chapter_02Ev7",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_13": {
     "Event_Category": "Open_Event07",
@@ -153,7 +153,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_FairyTown",
     "Chapter_Key": "Chapter_03Ev7",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_14": {
     "Event_Category": "Open_Event08",
@@ -225,7 +225,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_NewyearWish",
     "Chapter_Key": "Chapter_01Ev10",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 1
   },
   "Event_Chapter_20": {
     "Event_Category": "Open_Event10",
@@ -237,7 +237,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_NewyearWish",
     "Chapter_Key": "Chapter_02Ev10",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 1
   },
   "Event_Chapter_21": {
     "Event_Category": "Open_Event11",
@@ -321,7 +321,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_FallRose",
     "Chapter_Key": "Chapter_01Ev13",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_28": {
     "Event_Category": "Open_Event13",
@@ -333,7 +333,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2021_FallRose",
     "Chapter_Key": "Chapter_02Ev13",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 1
+    "Event_OpenType": 0
   },
   "Event_Chapter_29": {
     "Event_Category": "Open_Event14",
@@ -416,6 +416,42 @@
     "Event_CategoryBanner": "UI_EventBanner_2022_Collabo01",
     "Event_CategoryIcon": "UI_EventIcon_2022_Collabo01",
     "Chapter_Key": "Chapter_03Ev17",
+    "StartCutsceneIndex": "0",
+    "Event_OpenType": 0
+  },
+  "Event_Chapter_36": {
+    "Event_Category": "Open_Event18",
+    "Event_CategoryName": "EventName_Open_Event18",
+    "Event_CategoryDesc": "EventDesc_Open_Event18",
+    "Event_CategoryPos": 18,
+    "Event_CategoryIndex": 18,
+    "Event_CategoryBanner": "UI_EventBanner_2022_SummerAquaLand",
+    "Event_CategoryIcon": "UI_EventIcon_2022_SummerAquaLand",
+    "Chapter_Key": "Chapter_01Ev18",
+    "StartCutsceneIndex": "0",
+    "Event_OpenType": 0
+  },
+  "Event_Chapter_37": {
+    "Event_Category": "Open_Event18",
+    "Event_CategoryName": "EventName_Open_Event18",
+    "Event_CategoryDesc": "EventDesc_Open_Event18_2",
+    "Event_CategoryPos": 18,
+    "Event_CategoryIndex": 18,
+    "Event_CategoryBanner": "UI_EventBanner_2022_SummerAquaLand",
+    "Event_CategoryIcon": "UI_EventIcon_2022_SummerAquaLand",
+    "Chapter_Key": "Chapter_02Ev18",
+    "StartCutsceneIndex": "0",
+    "Event_OpenType": 0
+  },
+  "Event_Chapter_38": {
+    "Event_Category": "Open_Event18",
+    "Event_CategoryName": "EventName_Open_Event18",
+    "Event_CategoryDesc": "EventDesc_Open_Event18_3",
+    "Event_CategoryPos": 18,
+    "Event_CategoryIndex": 18,
+    "Event_CategoryBanner": "UI_EventBanner_2022_SummerAquaLand",
+    "Event_CategoryIcon": "UI_EventIcon_2022_SummerAquaLand",
+    "Chapter_Key": "Chapter_03Ev18",
     "StartCutsceneIndex": "0",
     "Event_OpenType": 0
   }

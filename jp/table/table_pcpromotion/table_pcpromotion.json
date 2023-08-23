@@ -2478,5 +2478,185 @@
       150
     ],
     "CharSkin_Activate": "Skin_Char_BR_AS12TurtleDragon_G5"
+  },
+  "Promotion_Char_BR_Impet_N_4": {
+    "Promotion_CharIdx": "Char_BR_Impet_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Impet_G5"
+  },
+  "Promotion_Char_BR_RedHood_N_4": {
+    "Promotion_CharIdx": "Char_BR_RedHood_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HighpowerBooster"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_RedHood_G5"
+  },
+  "Promotion_Char_BR_Scathy_N_3": {
+    "Promotion_CharIdx": "Char_BR_Scathy_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Scathy_G4"
+  },
+  "Promotion_Char_BR_Scathy_N_4": {
+    "Promotion_CharIdx": "Char_BR_Scathy_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_BR_Scathy_G5"
+  },
+  "Promotion_Char_PECS_Tiequan_N_3": {
+    "Promotion_CharIdx": "Char_PECS_Tiequan_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_Tiequan_G4"
+  },
+  "Promotion_Char_PECS_Tiequan_N_4": {
+    "Promotion_CharIdx": "Char_PECS_Tiequan_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HeavyWeapon"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_Tiequan_G5"
+  },
+  "Promotion_Char_DS_Johanna_N_2": {
+    "Promotion_CharIdx": "Char_DS_Johanna_N",
+    "Req_CharGrade": 2,
+    "Promotion_CharLv": 70,
+    "Req_CharFavor": 6000,
+    "PromotionGrade": 3,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Normal_Module",
+      "Advanced_Module",
+      "RobotParts_AlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      350,
+      1000,
+      100,
+      200
+    ],
+    "CharSkin_Activate": "Skin_Char_DS_Johanna_G3"
+  },
+  "Promotion_Char_DS_Johanna_N_3": {
+    "Promotion_CharIdx": "Char_DS_Johanna_N",
+    "Req_CharGrade": 3,
+    "Promotion_CharLv": 80,
+    "Req_CharFavor": 8000,
+    "PromotionGrade": 4,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDust",
+      "Consumable_OriginDustAdv",
+      "Advanced_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      800,
+      150,
+      250,
+      50
+    ],
+    "CharSkin_Activate": "Skin_Char_DS_Johanna_G4"
+  },
+  "Promotion_Char_DS_Johanna_N_4": {
+    "Promotion_CharIdx": "Char_DS_Johanna_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_SuperAlloyArmor"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_DS_Johanna_G5"
   }
 }
