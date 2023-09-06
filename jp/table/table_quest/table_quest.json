@@ -6016,5 +6016,39 @@
     "QuestIcon": "0",
     "Event_Key": "0",
     "NavigationIDX": 0
+  },
+  "Achievement_231": {
+    "QuestSortIndex": "231",
+    "QuestTitle": "QuestTitle_231",
+    "QuestDesc": "QuestDesc_231",
+    "QuestCategory": 5,
+    "QuestType": 3,
+    "QuestSubType": 0,
+    "Hidden_Until_QuestClear": "Achievement_221",
+    "QuestObjectType": 1,
+    "QuestObjectTypeSub": "Ch10Stage04Ex",
+    "QuestCompleteValue": 1,
+    "QuestPosType": 0,
+    "QuestReward": "QUEST_Achievement_Quest_231",
+    "QuestIcon": "0",
+    "Event_Key": "0",
+    "NavigationIDX": 0
+  },
+  "Achievement_232": {
+    "QuestSortIndex": "232",
+    "QuestTitle": "QuestTitle_232",
+    "QuestDesc": "QuestDesc_232",
+    "QuestCategory": 5,
+    "QuestType": 3,
+    "QuestSubType": 0,
+    "Hidden_Until_QuestClear": "Achievement_222",
+    "QuestObjectType": 9,
+    "QuestObjectTypeSub": "MOB_MP_Demolisher_BOSS_TU",
+    "QuestCompleteValue": 1,
+    "QuestPosType": 0,
+    "QuestReward": "QUEST_Achievement_Quest_232",
+    "QuestIcon": "0",
+    "Event_Key": "0",
+    "NavigationIDX": 0
   }
 }

@@ -497,6 +497,38 @@
     "OpenCheckString": [],
     "Open_Desc": ""
   },
+  "LobbyBG_29": {
+    "BG_Name": "LobbyBG_29_Luxurious Room_Name",
+    "BG_Desc": "LobbyBG_29_Luxurious Room_Desc",
+    "BG_UnlockItem": "Consumable_BG_29",
+    "BG_Prefab": "BG_Preset_29",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_29",
+    "BG_Icon": "UI_ICON_BG_29",
+    "BG_MiniIcon": "UI_ICON_BG_29",
+    "BG_OpenType": 0,
+    "OpenCheckString": [],
+    "Open_Desc": ""
+  },
+  "LobbyBG_30": {
+    "BG_Name": "LobbyBG_30_Interrogation Room_Name",
+    "BG_Desc": "LobbyBG_30_Interrogation Room_Desc",
+    "BG_UnlockItem": "Consumable_BG_30",
+    "BG_Prefab": "BG_Preset_30",
+    "BG_BGM": "",
+    "Adjutant_Num": 1,
+    "Is_DefaultBG": 0,
+    "is_3D": 0,
+    "BG_Texture": "UI_ICON_BG_30",
+    "BG_Icon": "UI_ICON_BG_30",
+    "BG_MiniIcon": "UI_ICON_BG_30",
+    "BG_OpenType": 0,
+    "OpenCheckString": [],
+    "Open_Desc": ""
+  },
   "LobbyBG_34": {
     "BG_Name": "LobbyBG_34_AbandonedBuilding_Name",
     "BG_Desc": "LobbyBG_34_AbandonedBuilding_Desc",

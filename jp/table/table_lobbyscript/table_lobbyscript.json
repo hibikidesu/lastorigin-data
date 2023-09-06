@@ -54366,5 +54366,475 @@
     "LobbyScriptMarriageVoiceName": [
       "Voice_PECS_Hathor_OathIdle_01"
     ]
+  },
+  "LobbyScript_PECS_TaylorClothcut": {
+    "CharName": "Char_PECS_TaylorClothcut_N",
+    "LobbyScript1": [
+      "1001406070",
+      "1001406071",
+      "1001406072"
+    ],
+    "LobbyScript1FaceName": [
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_01_01",
+      "Voice_PECS_TaylorClothcut_Idle_01_02",
+      "Voice_PECS_TaylorClothcut_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406073",
+      "1001406071",
+      "1001406072"
+    ],
+    "LobbyScript2FaceName": [
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_02_01",
+      "Voice_PECS_TaylorClothcut_Idle_01_02",
+      "Voice_PECS_TaylorClothcut_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406073",
+      "1001406071",
+      "1001406074"
+    ],
+    "LobbyScript3FaceName": [
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_02_01",
+      "Voice_PECS_TaylorClothcut_Idle_01_02",
+      "Voice_PECS_TaylorClothcut_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406073",
+      "1001406075",
+      "1001406074"
+    ],
+    "LobbyScript4FaceName": [
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle",
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_02_01",
+      "Voice_PECS_TaylorClothcut_Idle_04_01",
+      "Voice_PECS_TaylorClothcut_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406076"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_PECS_TaylorClothcut_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406077"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_PECS_TaylorClothcut_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001406078"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "PECS_TaylorClothcut_N_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_PECS_TaylorClothcut_OathIdle_01"
+    ]
+  },
+  "LobbyScript_PECS_TaylorClothcut_MR": {
+    "CharName": "Char_PECS_TaylorClothcut_N",
+    "LobbyScript1": [
+      "1001406079",
+      "1001406080",
+      "1001406081"
+    ],
+    "LobbyScript1FaceName": [
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_PECS_TaylorClothcut_Marriage_Idle_01_01",
+      "Voice_PECS_TaylorClothcut_Marriage_Idle_01_02",
+      "Voice_PECS_TaylorClothcut_Marriage_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406079",
+      "1001406080",
+      "1001406081"
+    ],
+    "LobbyScript2FaceName": [
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_02_01",
+      "Voice_PECS_TaylorClothcut_Marriage_Idle_01_02",
+      "Voice_PECS_TaylorClothcut_Marriage_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406079",
+      "1001406080",
+      "1001406080"
+    ],
+    "LobbyScript3FaceName": [
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_02_01",
+      "Voice_PECS_TaylorClothcut_Marriage_Idle_01_02",
+      "Voice_PECS_TaylorClothcut_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406079",
+      "1001406081",
+      "1001406080"
+    ],
+    "LobbyScript4FaceName": [
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle",
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_PECS_TaylorClothcut_Idle_02_01",
+      "Voice_PECS_TaylorClothcut_Idle_04_01",
+      "Voice_PECS_TaylorClothcut_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406082"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_PECS_TaylorClothcut_Marriage_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406082"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_PECS_TaylorClothcut_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "0"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "PECS_TaylorClothcut_MR_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_PECS_TaylorClothcut_OathIdle_01"
+    ]
+  },
+  "LobbyScript_BR_Ellie_NS1": {
+    "CharName": "Char_BR_Ellie_N",
+    "LobbyScript1": [
+      "1001405937",
+      "1001405938",
+      "1001405939"
+    ],
+    "LobbyScript1FaceName": [
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_BR_Ellie_NS1_Idle_01_01",
+      "Voice_BR_Ellie_NS1_Idle_01_02",
+      "Voice_BR_Ellie_NS1_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001405940",
+      "1001405938",
+      "1001405939"
+    ],
+    "LobbyScript2FaceName": [
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_BR_Ellie_NS1_Idle_02_01",
+      "Voice_BR_Ellie_NS1_Idle_01_02",
+      "Voice_BR_Ellie_NS1_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001405940",
+      "1001405938",
+      "1001405941"
+    ],
+    "LobbyScript3FaceName": [
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_BR_Ellie_NS1_Idle_02_01",
+      "Voice_BR_Ellie_NS1_Idle_01_02",
+      "Voice_BR_Ellie_NS1_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001405940",
+      "1001405942",
+      "1001405941"
+    ],
+    "LobbyScript4FaceName": [
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle",
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_BR_Ellie_NS1_Idle_02_01",
+      "Voice_BR_Ellie_NS1_Idle_04_01",
+      "Voice_BR_Ellie_NS1_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001405943"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_BR_Ellie_NS1_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001405944"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_BR_Ellie_NS1_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001405945"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "BR_Ellie_NS1_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_BR_Ellie_NS1_OathIdle_01"
+    ]
+  },
+  "LobbyScript_BR_Vargr_NS1": {
+    "CharName": "Char_BR_Vargr_N",
+    "LobbyScript1": [
+      "1001406052",
+      "1001406053",
+      "1001406054"
+    ],
+    "LobbyScript1FaceName": [
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_BR_Vargr_NS1_Idle_01_01",
+      "Voice_BR_Vargr_NS1_Idle_01_02",
+      "Voice_BR_Vargr_NS1_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406055",
+      "1001406053",
+      "1001406054"
+    ],
+    "LobbyScript2FaceName": [
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_BR_Vargr_NS1_Idle_02_01",
+      "Voice_BR_Vargr_NS1_Idle_01_02",
+      "Voice_BR_Vargr_NS1_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406055",
+      "1001406053",
+      "1001406056"
+    ],
+    "LobbyScript3FaceName": [
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_BR_Vargr_NS1_Idle_02_01",
+      "Voice_BR_Vargr_NS1_Idle_01_02",
+      "Voice_BR_Vargr_NS1_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406055",
+      "1001406057",
+      "1001406056"
+    ],
+    "LobbyScript4FaceName": [
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle",
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_BR_Vargr_NS1_Idle_02_01",
+      "Voice_BR_Vargr_NS1_Idle_04_01",
+      "Voice_BR_Vargr_NS1_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406058"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_BR_Vargr_NS1_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406059"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_BR_Vargr_NS1_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001406060"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "BR_Vargr_NS1_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_BR_Vargr_NS1_OathIdle_01"
+    ]
+  },
+  "LobbyScript_PECS_Rena_NS1": {
+    "CharName": "Char_PECS_Rena_N",
+    "LobbyScript1": [
+      "1001406678",
+      "1001406679",
+      "1001406680"
+    ],
+    "LobbyScript1FaceName": [
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScript1VoiceName": [
+      "Voice_PECS_Rena_NS1_Idle_01_01",
+      "Voice_PECS_Rena_NS1_Idle_01_02",
+      "Voice_PECS_Rena_NS1_Idle_01_03"
+    ],
+    "LobbyScript2": [
+      "1001406681",
+      "1001406679",
+      "1001406680"
+    ],
+    "LobbyScript2FaceName": [
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScript2VoiceName": [
+      "Voice_PECS_Rena_NS1_Idle_02_01",
+      "Voice_PECS_Rena_NS1_Idle_01_02",
+      "Voice_PECS_Rena_NS1_Idle_01_03"
+    ],
+    "LobbyScript3": [
+      "1001406681",
+      "1001406679",
+      "1001406682"
+    ],
+    "LobbyScript3FaceName": [
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScript3VoiceName": [
+      "Voice_PECS_Rena_NS1_Idle_02_01",
+      "Voice_PECS_Rena_NS1_Idle_01_02",
+      "Voice_PECS_Rena_NS1_Idle_03_01"
+    ],
+    "LobbyScript4": [
+      "1001406681",
+      "1001406683",
+      "1001406682"
+    ],
+    "LobbyScript4FaceName": [
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle",
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScript4VoiceName": [
+      "Voice_PECS_Rena_NS1_Idle_02_01",
+      "Voice_PECS_Rena_NS1_Idle_04_01",
+      "Voice_PECS_Rena_NS1_Idle_03_01"
+    ],
+    "ReqFavorValueLobbyScript1": "",
+    "ReqFavorValueLobbyScript2": "",
+    "ReqFavorValueLobbyScript3": "",
+    "ReqFavorValueLobbyScript4": "",
+    "LobbyScriptSp1": [
+      "1001406684"
+    ],
+    "LobbyScriptSp1FaceName": [
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScriptSp1VoiceName": [
+      "Voice_PECS_Rena_NS1_SPIdle_01_01"
+    ],
+    "LobbyScriptSp2": [
+      "1001406685"
+    ],
+    "LobbyScriptSp2FaceName": [
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScriptSp2VoiceName": [
+      "Voice_PECS_Rena_NS1_SPIdle_02_01"
+    ],
+    "LobbyScriptMarriage": [
+      "1001406686"
+    ],
+    "LobbyScripMarriageFaceName": [
+      "PECS_Rena_NS1_Idle"
+    ],
+    "LobbyScriptMarriageVoiceName": [
+      "Voice_PECS_Rena_NS1_OathIdle_01"
+    ]
   }
 }

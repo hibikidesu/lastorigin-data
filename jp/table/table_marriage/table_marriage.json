@@ -2917,5 +2917,33 @@
     "Marriage_VoicePrefab": "Char_PECS_Hathor_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
+  },
+  "Marriage_TaylorClothcut": {
+    "Marriage_CutScene": "Cut_Marriage_TaylorClothcut",
+    "Marriage_LobbyScript": "LobbyScript_PECS_TaylorClothcut_MR",
+    "Marriage_VoicePrefab": "Char_PECS_TaylorClothcut_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Ellie_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Ellie_NS1",
+    "Marriage_LobbyScript": "LobbyScript_BR_Ellie_MR",
+    "Marriage_VoicePrefab": "Char_BR_Ellie_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Vargr_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Vargr_NS1",
+    "Marriage_LobbyScript": "LobbyScript_BR_Vargr_MR",
+    "Marriage_VoicePrefab": "Char_BR_Vargr_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Rena_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Rena_NS1",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
   }
 }

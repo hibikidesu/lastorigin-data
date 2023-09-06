@@ -122366,5 +122366,5349 @@
     ],
     "mobGroupDifficulty": 0,
     "mobGroupPattern": 0
+  },
+  "BATTLE_NEW-4311-01A": {
+    "groupName": "BATTLE_NEW-4311-01A",
+    "mobIndexString1": "MOB_MP_Tarantula_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_WaspEX_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Tarantula_EW2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickC_EV8",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Slasher_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tarantula_EW2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_WaspEX_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Tarantula_EW2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4311,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4312-01A": {
+    "groupName": "BATTLE_NEW-4312-01A",
+    "mobIndexString1": "MOB_MP_DryerHead_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_DryerShell_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Tarantula_EW2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_DryerShooter_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BigChickCG_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_DryerShooter_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tarantula_EW2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_DryerShell_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_DryerHead_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4312,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4313-01A": {
+    "groupName": "BATTLE_NEW-4313-01A",
+    "mobIndexString1": "MOB_MP_ScarabH_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_HarvesterEX_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickCG_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_ScarabH_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4313,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4314-01A": {
+    "groupName": "BATTLE_NEW-4314-01A",
+    "mobIndexString1": "MOB_MP_FridgerShell_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FridgerShooter_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickC_EV8",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickC_EV8",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_FridgerHead_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FridgerShell_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_FridgerShooter_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickC_EV8",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4314,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4321-01A": {
+    "groupName": "BATTLE_NEW-4321-01A",
+    "mobIndexString1": "MOB_MP_JuggernautP_EV1",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_JuggernautP_EV1",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_JuggernautP_EV1",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_JuggernautP_EV1",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_JuggernautP_EV1",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4321,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4322-01A": {
+    "groupName": "BATTLE_NEW-4322-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_ScoutAK_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_Executioner_EW2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQ_EV9",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickCG_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4322,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4323-01A": {
+    "groupName": "BATTLE_NEW-4323-01A",
+    "mobIndexString1": "MOB_MP_BigChickEX_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LegionMk2_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_EmperorChick_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Destroyer_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickAQG_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4323,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4324-01A": {
+    "groupName": "BATTLE_NEW-4324-01A",
+    "mobIndexString1": "MOB_MP_Predator_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Raider_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NestGuardian_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Kidnapper_EW",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BlackKnight_EW6",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Nest_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Stalker_EW",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NestChaser_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4324,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4331-01A": {
+    "groupName": "BATTLE_NEW-4331-01A",
+    "mobIndexString1": "MOB_MP_FABigChick_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_EV3",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickS_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Centurion_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FABigChick_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Testudo_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4331,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4332-01A": {
+    "groupName": "BATTLE_NEW-4332-01A",
+    "mobIndexString1": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionG_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_EV3",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_ScoutAK_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionCF_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChickMG_EV3",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Centurion_EV2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4332,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4333-01A": {
+    "groupName": "BATTLE_NEW-4333-01A",
+    "mobIndexString1": "MOB_MP_NightChickS_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickM_RV",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChick_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChick_RV",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChick_RV",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4333,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4334-01A": {
+    "groupName": "BATTLE_NEW-4334-01A",
+    "mobIndexString1": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickCG_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickCG_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4334,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4341-01A": {
+    "groupName": "BATTLE_NEW-4341-01A",
+    "mobIndexString1": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Slasher_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickM_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionCF_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEG_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Testudo_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickM_RV",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4341,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4342-01A": {
+    "groupName": "BATTLE_NEW-4342-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionG_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_JuggernautP_EV1",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickMG_EV3",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickM_RV",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4342,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4343-01A": {
+    "groupName": "BATTLE_NEW-4343-01A",
+    "mobIndexString1": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickM_RV",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickM_RV",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChick_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQG_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChick_RV",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickM_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickM_RV",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4343,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4344-01A": {
+    "groupName": "BATTLE_NEW-4344-01A",
+    "mobIndexString1": "MOB_MP_Predator_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Intruder_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_SpectorMS_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionCF_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickM_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionCF_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4344,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4351-01A": {
+    "groupName": "BATTLE_NEW-4351-01A",
+    "mobIndexString1": "MOB_MP_BigChickCG_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Tarantula_EW2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_EV3",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChickMG_EV3",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Tarantula_EW2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4351,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4352-01A": {
+    "groupName": "BATTLE_NEW-4352-01A",
+    "mobIndexString1": "MOB_MP_Tarantula_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickCG_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Tarantula_EW2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickCG_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickS_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickM_RV",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickM_RV",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4352,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4353-01A": {
+    "groupName": "BATTLE_NEW-4353-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_JuggernautP_EV1",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Centurion_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Tarantula_EW2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4353,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4354-01A": {
+    "groupName": "BATTLE_NEW-4354-01A",
+    "mobIndexString1": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChick_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickCG_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4354,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4361-01A": {
+    "groupName": "BATTLE_NEW-4361-01A",
+    "mobIndexString1": "MOB_MP_FABigChickEX_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChick_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_CenturionCF_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LegionMk2_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_CenturionCF_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChick_EW",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_FABigChickEX_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4361,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4362-01A": {
+    "groupName": "BATTLE_NEW-4362-01A",
+    "mobIndexString1": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionCF_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Stalker_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickCMS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_ChillerEX_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickCMS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4362,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4363-01A": {
+    "groupName": "BATTLE_NEW-4363-01A",
+    "mobIndexString1": "MOB_MP_Predator_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Tarantula_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ChillerEX_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickAQ_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_ChillerEX_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4363,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4364-01A": {
+    "groupName": "BATTLE_NEW-4364-01A",
+    "mobIndexString1": "MOB_MP_Executioner_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_MP_NightChickAQ_EV9",
+    "mobLevel5": 120,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_Executioner_EW2",
+    "mobLevel7": 120,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "MOB_MP_Executioner_BEW_EW2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4364,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4371-01A": {
+    "groupName": "BATTLE_NEW-4371-01A",
+    "mobIndexString1": "MOB_MP_BigChick_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Testudo_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickSP_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Phalangites_TU6",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChick_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Phalangites_TU6",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickSP_EW",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4371,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4372-01A": {
+    "groupName": "BATTLE_NEW-4372-01A",
+    "mobIndexString1": "MOB_MP_LegionElite_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionElite_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_EmperorChickSpCH_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LegionElite_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_ScarabH_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4372,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4373-01A": {
+    "groupName": "BATTLE_NEW-4373-01A",
+    "mobIndexString1": "MOB_MP_Slasher_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LegionElite_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Slasher_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQG_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Mammoth_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LegionElite_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4373,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4374-01A": {
+    "groupName": "BATTLE_NEW-4374-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChick_RV",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionG_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ScoutAK_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorBS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4374,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4381-01A": {
+    "groupName": "BATTLE_NEW-4381-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_JuggernautP_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickM_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickMG_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickSP_EW",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4381,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4382-01A": {
+    "groupName": "BATTLE_NEW-4382-01A",
+    "mobIndexString1": "MOB_MP_NightChickTD_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FryerShell_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickM_RV",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQ_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_FryerShooter_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tortoise_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_FryerHead_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickTD_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4382,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4383-01A": {
+    "groupName": "BATTLE_NEW-4383-01A",
+    "mobIndexString1": "MOB_MP_JuggernautP_EV1",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChick_RV",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Phalangites_TU6",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LegionMk2_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickCG_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChick_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickMG_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4383,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4384-01A": {
+    "groupName": "BATTLE_NEW-4384-01A",
+    "mobIndexString1": "MOB_MP_FryerHead_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FryerShooter_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Raider_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQ_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionG_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_FryerShooter_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_FryerShell_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4384,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4391-01A": {
+    "groupName": "BATTLE_NEW-4391-01A",
+    "mobIndexString1": "MOB_MP_HarvesterEX_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_HarvesterEX_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Tarantula_EW2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_JuggernautP_EV1",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_HarvesterEX_EW",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4391,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4392-01A": {
+    "groupName": "BATTLE_NEW-4392-01A",
+    "mobIndexString1": "MOB_MP_BigChick_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Tarantula_EW2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickSI_EW",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickC_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4392,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4393-01A": {
+    "groupName": "BATTLE_NEW-4393-01A",
+    "mobIndexString1": "MOB_MP_Mammoth_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionG_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BlackKnight_EW6",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_HarvesterEX_EW",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4393,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4394-01A": {
+    "groupName": "BATTLE_NEW-4394-01A",
+    "mobIndexString1": "MOB_MP_Predator_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Tarantula_EW2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_EW2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4394,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4401-01A": {
+    "groupName": "BATTLE_NEW-4401-01A",
+    "mobIndexString1": "MOB_MP_FallenC_EV4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SeljuqA_EV4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_RheinRitter_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_DroneM_B08",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_StingerC_B08",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_AMG11AA_SA5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_DroneM_B08",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_FallenC_EV4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SeljuqA_EV4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4401,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4402-01A": {
+    "groupName": "BATTLE_NEW-4402-01A",
+    "mobIndexString1": "MOB_MP_GigantesC_EV4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SeljuqA_EV4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_IntercepterAR_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_DroneM_B08",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_AMG11AA_SA5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Goltarion_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_RampartC_B08",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_GigantesC_EV4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_RheinRitter_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4402,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4403-01A": {
+    "groupName": "BATTLE_NEW-4403-01A",
+    "mobIndexString1": "MOB_MP_DroneM_B08",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_IntercepterAR_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_PuppHeadC_B08",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_RampartC_B08",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Goltarion_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_IntercepterARS_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_IntercepterAR_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_GigantesC_EV4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SeljuqA_EV4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4403,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4404-01A": {
+    "groupName": "BATTLE_NEW-4404-01A",
+    "mobIndexString1": "MOB_MP_StingerC_B08",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_GigantesC_EV4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_SeljuqA_EV4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_IntercepterARS_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_RampartC_B08",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Goltarion_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_SeljuqA_EV4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_PuppHeadC_B08",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_RheinRitter_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4404,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4411-01A": {
+    "groupName": "BATTLE_NEW-4411-01A",
+    "mobIndexString1": "MOB_MP_BigChick_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickSP_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Chiller_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_ScoutEX_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSI_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Chiller_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Chiller_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4411,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4412-01A": {
+    "groupName": "BATTLE_NEW-4412-01A",
+    "mobIndexString1": "MOB_MP_DryerHead_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_DryerShooter_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickSP_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_DryerShell_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQM_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickTD_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickC_EV9",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_WaspEX_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4412,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4413-01A": {
+    "groupName": "BATTLE_NEW-4413-01A",
+    "mobIndexString1": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Frostbite_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Phalangites_TU6",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_ScoutEX_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MammothW_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Frostbite_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MammothW_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4413,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4414-01A": {
+    "groupName": "BATTLE_NEW-4414-01A",
+    "mobIndexString1": "MOB_MP_Tarantula_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickTD_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Slasher_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Kidnapper_EW",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4414,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4421-01A": {
+    "groupName": "BATTLE_NEW-4421-01A",
+    "mobIndexString1": "MOB_MP_Executioner_BEW_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Testudo_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionElite_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionG_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4421,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4422-01A": {
+    "groupName": "BATTLE_NEW-4422-01A",
+    "mobIndexString1": "MOB_MP_SpectorBS_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Intruder_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Slasher_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickCMS_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tortoise_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Slasher_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpectorBS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4422,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4423-01A": {
+    "groupName": "BATTLE_NEW-4423-01A",
+    "mobIndexString1": "MOB_MP_NightChickS_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LegionMk2_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BlackKnight_EW6",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ScoutAK_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpectorBS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4423,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4424-01A": {
+    "groupName": "BATTLE_NEW-4424-01A",
+    "mobIndexString1": "MOB_MP_EmperorChick_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickCMS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Raider_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Kidnapper_EW",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4424,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4431-01A": {
+    "groupName": "BATTLE_NEW-4431-01A",
+    "mobIndexString1": "MOB_MP_Centurion_EV2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickCMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSPEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionCF_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEG_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LegionSPEX_TU2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Centurion_EV2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4431,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4432-01A": {
+    "groupName": "BATTLE_NEW-4432-01A",
+    "mobIndexString1": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorMS_EW2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Tarantula_EW2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickCMS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSI_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Intruder_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4432,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4433-01A": {
+    "groupName": "BATTLE_NEW-4433-01A",
+    "mobIndexString1": "MOB_MP_Mammoth_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Centurion_EV2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionCF_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Mammoth_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickCMS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4433,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4434-01A": {
+    "groupName": "BATTLE_NEW-4434-01A",
+    "mobIndexString1": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_DryerShooter_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Centurion_EV2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_SpectorMS_EW2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_DryerHead_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_DryerShell_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4434,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4441-01A": {
+    "groupName": "BATTLE_NEW-4441-01A",
+    "mobIndexString1": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_JuggernautP_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_JuggernautP_EV1",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Phalangites_TU6",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Centurion_EV2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_JuggernautP_EV1",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4441,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4442-01A": {
+    "groupName": "BATTLE_NEW-4442-01A",
+    "mobIndexString1": "MOB_MP_FryerShooter_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickTD_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_FryerShell_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_FryerHead_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FryerShell_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickTD_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_FryerShooter_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4442,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4443-01A": {
+    "groupName": "BATTLE_NEW-4443-01A",
+    "mobIndexString1": "MOB_MP_ScarabH_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_EW2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Mammoth_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4443,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4444-01A": {
+    "groupName": "BATTLE_NEW-4444-01A",
+    "mobIndexString1": "MOB_MP_NestChaser_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_JuggernautP_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Nest_TU2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickM_RV",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickM_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NestGuardian_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4444,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4451-01A": {
+    "groupName": "BATTLE_NEW-4451-01A",
+    "mobIndexString1": "MOB_MP_JuggernautP_EV1",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickCG_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_EV3",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickMG_EV3",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BigChickS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Centurion_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChickCG_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Centurion_EV2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4451,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4452-01A": {
+    "groupName": "BATTLE_NEW-4452-01A",
+    "mobIndexString1": "MOB_MP_Executioner_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickCMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickSP_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChick_EW",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickSP_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickS_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Intruder_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickCMS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4452,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4453-01A": {
+    "groupName": "BATTLE_NEW-4453-01A",
+    "mobIndexString1": "MOB_MP_Testudo_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Testudo_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_DoomEater_N_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Testudo_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Testudo_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4453,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4454-01A": {
+    "groupName": "BATTLE_NEW-4454-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickAQ_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChick_RV",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BlackKnight_EW6",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Destroyer_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_SpectorBS_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpectorBS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4454,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4461-01A": {
+    "groupName": "BATTLE_NEW-4461-01A",
+    "mobIndexString1": "MOB_MP_HarvesterEX_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Slasher_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Centurion_EV2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpectorMS_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Centurion_EV2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LegionSP_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4461,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4462-01A": {
+    "groupName": "BATTLE_NEW-4462-01A",
+    "mobIndexString1": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LegionMk2_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_CenturionCF_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_ScoutAK_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Mammoth_TU6",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_CenturionCF_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionCF_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4462,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4463-01A": {
+    "groupName": "BATTLE_NEW-4463-01A",
+    "mobIndexString1": "MOB_MP_Mammoth_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQ_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionSP_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Mammoth_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4463,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4464-01A": {
+    "groupName": "BATTLE_NEW-4464-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Intruder_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickDEG_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LegionMk2_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEG_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Testudo_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LegionSP_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4464,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4471-01A": {
+    "groupName": "BATTLE_NEW-4471-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickSP_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Spector_EV1",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Phalangites_TU6",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionCF_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSP_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Spector_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4471,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4472-01A": {
+    "groupName": "BATTLE_NEW-4472-01A",
+    "mobIndexString1": "MOB_MP_NightChickSP_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Spector_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSP_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionCF_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4472,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4473-01A": {
+    "groupName": "BATTLE_NEW-4473-01A",
+    "mobIndexString1": "MOB_MP_ChillerEX_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_ChillerEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickSP_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickAQ_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQ_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MammothW_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4473,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4474-01A": {
+    "groupName": "BATTLE_NEW-4474-01A",
+    "mobIndexString1": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionCF_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MammothW_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Frostbite_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpectorMS_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickAQ_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MammothW_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4474,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4481-01A": {
+    "groupName": "BATTLE_NEW-4481-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorBS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickM_RV",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickS_RV",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickM_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorMS_EW2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickM_RV",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4481,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4482-01A": {
+    "groupName": "BATTLE_NEW-4482-01A",
+    "mobIndexString1": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickCMS_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickAQG_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickSpCH_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_EmperorChickSpCH_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpectorMS_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSpCH_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickSpCH_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4482,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4483-01A": {
+    "groupName": "BATTLE_NEW-4483-01A",
+    "mobIndexString1": "MOB_MP_NightChickSPW_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FridgerShell_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_FridgerHead_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickAQ_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Frostbite_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FridgerHead_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_FridgerShooter_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MammothW_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4483,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4484-01A": {
+    "groupName": "BATTLE_NEW-4484-01A",
+    "mobIndexString1": "MOB_MP_Testudo_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickAQ_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_EmperorChick_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpectorBS_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_SpectorBS_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Phalangites_TU6",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_ScarabH_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4484,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4491-01A": {
+    "groupName": "BATTLE_NEW-4491-01A",
+    "mobIndexString1": "MOB_MP_Phalangites_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickCG_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Phalangites_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4491,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4492-01A": {
+    "groupName": "BATTLE_NEW-4492-01A",
+    "mobIndexString1": "MOB_MP_HarvesterEX_EW",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_ScoutAK_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_SpectorBS_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionCF_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChick_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_SpectorBS_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionElite_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4492,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4493-01A": {
+    "groupName": "BATTLE_NEW-4493-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionCF_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Intruder_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChick_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickM_RV",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpectorMS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4493,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4494-01A": {
+    "groupName": "BATTLE_NEW-4494-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEG_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Mammoth_TU6",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_ScoutAK_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpectorMS_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_EmperorChick_EW",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_CenturionG_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4494,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4501-01A": {
+    "groupName": "BATTLE_NEW-4501-01A",
+    "mobIndexString1": "MOB_MP_FABigChickS_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChick_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Slasher_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Centurion_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FABigChickS_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4501,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4502-01A": {
+    "groupName": "BATTLE_NEW-4502-01A",
+    "mobIndexString1": "MOB_MP_BigChickCG_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Tarantula_EW2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_ScoutAK_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4502,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4503-01A": {
+    "groupName": "BATTLE_NEW-4503-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickCG_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSP_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4503,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4504-01A": {
+    "groupName": "BATTLE_NEW-4504-01A",
+    "mobIndexString1": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Centurion_EV2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_EmperorChickSpCH_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSpCH_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorMS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Destroyer_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4504,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4511-01A": {
+    "groupName": "BATTLE_NEW-4511-01A",
+    "mobIndexString1": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FABigChickEX_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSPEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickEX_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LegionElite_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LegionSPEX_TU2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionElite_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4511,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4512-01A": {
+    "groupName": "BATTLE_NEW-4512-01A",
+    "mobIndexString1": "MOB_MP_NestGuardian_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NestChaser_TU2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Centurion_EV2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Nest_TU2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NestGuardian_TU2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionCF_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NestGuardian_TU2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NestChaser_TU2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Centurion_EV2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4512,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4513-01A": {
+    "groupName": "BATTLE_NEW-4513-01A",
+    "mobIndexString1": "MOB_MP_Mammoth_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Mammoth_TU6",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Slasher_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tortoise_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4513,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4514-01A": {
+    "groupName": "BATTLE_NEW-4514-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChick_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionCF_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorBS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4514,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4521-01A": {
+    "groupName": "BATTLE_NEW-4521-01A",
+    "mobIndexString1": "MOB_MP_BigChickEX_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Slasher_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickS_RV",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChickEX_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4521,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4522-01A": {
+    "groupName": "BATTLE_NEW-4522-01A",
+    "mobIndexString1": "MOB_MP_HarvesterEX_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LegionMk2_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionG_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LegionElite_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4522,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4523-01A": {
+    "groupName": "BATTLE_NEW-4523-01A",
+    "mobIndexString1": "MOB_MP_LegionElite_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Centurion_EV2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Testudo_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LegionElite_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Centurion_EV2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4523,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4524-01A": {
+    "groupName": "BATTLE_NEW-4524-01A",
+    "mobIndexString1": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickAQ_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Stalker_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BlackKnight_EW6",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEG_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Predator_EW2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorMS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4524,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4531-01A": {
+    "groupName": "BATTLE_NEW-4531-01A",
+    "mobIndexString1": "MOB_MP_CenturionCF_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChick_RV",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionCF_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Intruder_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChick_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorMS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4531,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4532-01A": {
+    "groupName": "BATTLE_NEW-4532-01A",
+    "mobIndexString1": "MOB_MP_Mammoth_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDE_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_JuggernautP_EV1",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQG_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChickCG_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDE_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4532,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4533-01A": {
+    "groupName": "BATTLE_NEW-4533-01A",
+    "mobIndexString1": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickCG_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Mammoth_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickCG_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4533,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4534-01A": {
+    "groupName": "BATTLE_NEW-4534-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickM_RV",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Destroyer_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionCF_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Destroyer_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tortoise_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickAQ_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Destroyer_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4534,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4541-01A": {
+    "groupName": "BATTLE_NEW-4541-01A",
+    "mobIndexString1": "MOB_MP_NightChick_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionCF_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Slasher_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_CenturionG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickCG_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Centurion_EV2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LegionMk2_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickM_RV",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4541,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4542-01A": {
+    "groupName": "BATTLE_NEW-4542-01A",
+    "mobIndexString1": "MOB_MP_Tortoise_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Tarantula_EW2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_SpectorMS_EW2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_SpectorMS_EW2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Tarantula_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tarantula_EW2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4542,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4543-01A": {
+    "groupName": "BATTLE_NEW-4543-01A",
+    "mobIndexString1": "MOB_MP_Predator_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickCG_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Tortoise_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorMS_EW2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4543,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4544-01A": {
+    "groupName": "BATTLE_NEW-4544-01A",
+    "mobIndexString1": "MOB_MP_NightChickSpCH_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickCMP_EV2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickCMS_EV1",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_EmperorChickSpCH_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickSpCH_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSpCH_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Intruder_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4544,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4551-01A": {
+    "groupName": "BATTLE_NEW-4551-01A",
+    "mobIndexString1": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_ScarabEX_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_ScoutAK_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_ScoutSP_TU2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorBS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Intruder_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_ScarabEX_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_ScoutSP_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4551,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4552-01A": {
+    "groupName": "BATTLE_NEW-4552-01A",
+    "mobIndexString1": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_ScoutAK_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_ScarabEX_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ScarabEX_N",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_ScoutSP_TU2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4552,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4553-01A": {
+    "groupName": "BATTLE_NEW-4553-01A",
+    "mobIndexString1": "MOB_MP_ChillerEX_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Spector_EV1",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_ChillerEX_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_WaspEX_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpectorMS_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ChillerEX_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Spector_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_ChillerEX_TU4",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4553,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4554-01A": {
+    "groupName": "BATTLE_NEW-4554-01A",
+    "mobIndexString1": "MOB_MP_ScarabH_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_ScarabH_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_ScoutAK_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_SpectorMS_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Raider_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ScarabH_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_ScarabH_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4554,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4561-01A": {
+    "groupName": "BATTLE_NEW-4561-01A",
+    "mobIndexString1": "MOB_MP_BigChickM_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionEX_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickCM_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickS_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LegionMk2_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_BigChickM_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionEX_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_CenturionEX_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4561,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4562-01A": {
+    "groupName": "BATTLE_NEW-4562-01A",
+    "mobIndexString1": "MOB_MP_FABigChickS_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_Phalangites_TU6",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSPEX_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_LegionMk2_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Phalangites_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionCF_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LegionSPEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4562,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4563-01A": {
+    "groupName": "BATTLE_NEW-4563-01A",
+    "mobIndexString1": "MOB_MP_NightChickM_RV",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LegionElite_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_ScoutAK_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Intruder_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDE_EV1",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChick_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionG_TU4",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_ScarabH_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4563,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4564-01A": {
+    "groupName": "BATTLE_NEW-4564-01A",
+    "mobIndexString1": "MOB_MP_Phalangites_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionCF_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_PhalangitesH_TU4",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_PhalangitesH_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_PhalangitesH_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionCF_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Phalangites_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4564,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4571-01A": {
+    "groupName": "BATTLE_NEW-4571-01A",
+    "mobIndexString1": "MOB_MP_HarvesterEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickQMEX_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickC_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickEX_TU6",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickShEx_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HarvesterEX_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickC_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4571,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4572-01A": {
+    "groupName": "BATTLE_NEW-4572-01A",
+    "mobIndexString1": "MOB_MP_BigChickEX_TU6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_BigChickMG_EV3",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Mammoth_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickEX_TU6",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEG_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_JuggernautP_EV1",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Mammoth_TU6",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4572,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4573-01A": {
+    "groupName": "BATTLE_NEW-4573-01A",
+    "mobIndexString1": "MOB_MP_LegionElite_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_LegionSP_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChickMG_EV3",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_FABigChickEX_TU5",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_BigChickCG_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Mammoth_TU6",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4573,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4574-01A": {
+    "groupName": "BATTLE_NEW-4574-01A",
+    "mobIndexString1": "MOB_MP_FABigChickEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FABigChickEX_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickEX_TU6",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickQMEX_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_DoomEater_N_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_CenturionCF_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Centurion_TU7",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4574,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4581-01A": {
+    "groupName": "BATTLE_NEW-4581-01A",
+    "mobIndexString1": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_ScarabH_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickCMS_N",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Testudo_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BigChickS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickCMS_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickSI_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Tarantula_EW2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickCMS_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4581,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4582-01A": {
+    "groupName": "BATTLE_NEW-4582-01A",
+    "mobIndexString1": "MOB_MP_Tarantula_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickCMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickMG_EV3",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickAQ_N",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Phalangites_TU6",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickCMS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4582,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4583-01A": {
+    "groupName": "BATTLE_NEW-4583-01A",
+    "mobIndexString1": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Centurion_EV2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_BigChick_EW",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_LegionMk2_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Tarantula_EW2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_ScarabH_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_LightningBomberEX_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_LightningBomberMP_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4583,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4584-01A": {
+    "groupName": "BATTLE_NEW-4584-01A",
+    "mobIndexString1": "MOB_MP_NightChickSpCH_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_EmperorChickSpCH_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NightChickS_RV",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickSpCH_N",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_BigChickS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Raider_EW",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_SpectorMS_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4584,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4591-01A": {
+    "groupName": "BATTLE_NEW-4591-01A",
+    "mobIndexString1": "MOB_MP_HarvesterEX_N",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorBS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_CenturionCF_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_SpeakerEx_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tortoise_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Slasher_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4591,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4592-01A": {
+    "groupName": "BATTLE_NEW-4592-01A",
+    "mobIndexString1": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_SpectorMS_N",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_NestGuardian_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Nest_TU2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NestChaser_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NestGuardian_TU2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4592,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4593-01A": {
+    "groupName": "BATTLE_NEW-4593-01A",
+    "mobIndexString1": "MOB_MP_BlackKnight_EW6",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_LegionMk2_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_NightChickAQ_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_PhalangitesH_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Testudo_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_BigChickCG_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4593,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4594-01A": {
+    "groupName": "BATTLE_NEW-4594-01A",
+    "mobIndexString1": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickAQ_EW",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_ScarabH_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_Predator_EW2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Frostbite_TU4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_MammothW_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_NightChickS_RV",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_Intruder_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Executioner_EW2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4594,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4601-01A": {
+    "groupName": "BATTLE_NEW-4601-01A",
+    "mobIndexString1": "MOB_MP_Predator_EW2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Kidnapper_EW",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickDEX_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Stalker_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickDEG_N",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Raider_EW",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4601,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4602-01A": {
+    "groupName": "BATTLE_NEW-4602-01A",
+    "mobIndexString1": "MOB_MP_NightChickSPW_TU4",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MammothW_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickAQG_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_Frostbite_EW",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_Destroyer_TU4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickQMSK_TU5",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_Intruder_TU5",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4602,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4603-01A": {
+    "groupName": "BATTLE_NEW-4603-01A",
+    "mobIndexString1": "MOB_MP_FABigChickSEX_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_CenturionCF_TU5",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_BigChickCG_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickS_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_SpectorMS_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_BigChickMG_EV3",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_Tortoise_TU4",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_JuggernautP_EV1",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickQMEX_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4603,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_NEW-4604-01A": {
+    "groupName": "BATTLE_NEW-4604-01A",
+    "mobIndexString1": "MOB_MP_HauntedFortress_TU5",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_NightChickDEAA_TU4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_Tracker_TU5",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_NightChickM_RV",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_EmperorChickSpCH_N",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_CenturionCF_TU5",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_EmperorChick_EW",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_NightChickS_RV",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_NightChickDEG_N",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 4604,
+    "mobGroupPattern": 1
+  },
+  "BATTLE_10-03-01A": {
+    "groupName": "BATTLE_10-03-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_BR_Vargr_Rage_TU",
+    "mobLevel5": 80,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-04-01A": {
+    "groupName": "BATTLE_10-04-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_BR_Vargr_Rage_TU2",
+    "mobLevel5": 100,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06-01A": {
+    "groupName": "BATTLE_10-06-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel2": 90,
+    "mobIndexString3": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel3": 90,
+    "mobIndexString4": "MOB_MP_RampartC_EV3",
+    "mobLevel4": 90,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel8": 90,
+    "mobIndexString9": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel9": 90,
+    "Rank_B_Reward": [
+      "BATTLE_10-06-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06-02A": {
+    "groupName": "BATTLE_10-06-02A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel2": 90,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel3": 90,
+    "mobIndexString4": "MOB_MP_GigantesC_EV2",
+    "mobLevel4": 90,
+    "mobIndexString5": "MOB_MP_AMG11AA_EV3",
+    "mobLevel5": 90,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel8": 90,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel9": 90,
+    "Rank_B_Reward": [
+      "BATTLE_10-06-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06-03A": {
+    "groupName": "BATTLE_10-06-03A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel1": 90,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel2": 90,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel4": 95,
+    "mobIndexString5": "MOB_MP_GigantesC_EV2",
+    "mobLevel5": 90,
+    "mobIndexString6": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel6": 95,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel7": 90,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel8": 90,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-06-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06-04A": {
+    "groupName": "BATTLE_10-06-04A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel1": 90,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel2": 90,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel3": 95,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel4": 90,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel5": 95,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel6": 95,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel7": 90,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel8": 90,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel9": 95,
+    "Rank_B_Reward": [
+      "BATTLE_10-06-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07-01A": {
+    "groupName": "BATTLE_10-07-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel2": 90,
+    "mobIndexString3": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel3": 95,
+    "mobIndexString4": "MOB_MP_RampartC_EV3",
+    "mobLevel4": 90,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel8": 90,
+    "mobIndexString9": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel9": 95,
+    "Rank_B_Reward": [
+      "BATTLE_10-07-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07-02A": {
+    "groupName": "BATTLE_10-07-02A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel2": 95,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel3": 90,
+    "mobIndexString4": "MOB_MP_GigantesC_EV2",
+    "mobLevel4": 90,
+    "mobIndexString5": "MOB_MP_AMG11AA_EV3",
+    "mobLevel5": 90,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel8": 95,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel9": 90,
+    "Rank_B_Reward": [
+      "BATTLE_10-07-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07-03A": {
+    "groupName": "BATTLE_10-07-03A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel1": 95,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 95,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel4": 95,
+    "mobIndexString5": "MOB_MP_GigantesC_EV2",
+    "mobLevel5": 90,
+    "mobIndexString6": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel6": 95,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel7": 95,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 95,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-07-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07-04A": {
+    "groupName": "BATTLE_10-07-04A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel1": 95,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 95,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel4": 95,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel5": 95,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel6": 95,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel7": 95,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 95,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-07-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07-05A": {
+    "groupName": "BATTLE_10-07-05A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel1": 95,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 95,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel4": 95,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_V2_TU2",
+    "mobLevel5": 100,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_V2_TU2",
+    "mobLevel6": 100,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel7": 95,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 95,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-07-05"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07-05"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07-05"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-08-01A": {
+    "groupName": "BATTLE_10-08-01A",
+    "mobIndexString1": "MOB_MP_AMG11AA_EV3",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_IntercepterAR_TU",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_AMG11AA_EV3",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 100,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_AMG11AA_EV3",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_IntercepterAR_TU",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_AMG11AA_EV3",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-08-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-08-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-08-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-08-02A": {
+    "groupName": "BATTLE_10-08-02A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_GigantesC_EV2",
+    "mobLevel4": 100,
+    "mobIndexString5": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel5": 100,
+    "mobIndexString6": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel6": 100,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-08-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-08-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-08-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-08-03A": {
+    "groupName": "BATTLE_10-08-03A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_AMG11AA_EV4",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 100,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel6": 100,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU2",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-08-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-08-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-08-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-08-04A": {
+    "groupName": "BATTLE_10-08-04A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU2",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel4": 100,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_V2_TU2",
+    "mobLevel5": 100,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_V2_TU2",
+    "mobLevel6": 100,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU2",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-08-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-08-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-08-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-08-05A": {
+    "groupName": "BATTLE_10-08-05A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteDM_BOSS_TU2",
+    "mobLevel2": 110,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_MarionnetteHA_BOSS_TU2",
+    "mobLevel4": 110,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_MarionnetteHW_BOSS_TU2",
+    "mobLevel6": 110,
+    "mobIndexString7": "",
+    "mobLevel7": 110,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_BOSS_TU2",
+    "mobLevel8": 110,
+    "mobIndexString9": "",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-08-05"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-08-05"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-08-05"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02B-01A": {
+    "groupName": "BATTLE_10-02B-01A",
+    "mobIndexString1": "MOB_MP_IntercepterAR_TU",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_DroneM_EV4",
+    "mobLevel2": 100,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_DroneM_EV4",
+    "mobLevel4": 100,
+    "mobIndexString5": "MOB_MP_Drone_EV9",
+    "mobLevel5": 100,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_IntercepterAR_TU",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_DroneM_EV4",
+    "mobLevel8": 100,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-02B-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02B-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02B-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02B-02A": {
+    "groupName": "BATTLE_10-02B-02A",
+    "mobIndexString1": "MOB_MP_IntercepterAR_TU",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_Drone_EV9",
+    "mobLevel2": 100,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 100,
+    "mobIndexString5": "MOB_MP_AMG11AA_EV3",
+    "mobLevel5": 100,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_IntercepterAR_TU",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_DroneM_EV4",
+    "mobLevel8": 100,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-02B-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02B-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02B-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02B-03A": {
+    "groupName": "BATTLE_10-02B-03A",
+    "mobIndexString1": "MOB_MP_StingerC_EV4",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_AMG11AA_EV3",
+    "mobLevel2": 100,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 100,
+    "mobIndexString5": "MOB_MP_Drone_EV9",
+    "mobLevel5": 100,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_IntercepterAR_TU",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_DroneM_EV4",
+    "mobLevel8": 100,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-02B-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02B-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02B-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-03B-01A": {
+    "groupName": "BATTLE_10-03B-01A",
+    "mobIndexString1": "MOB_MP_Gigantes_TU3",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_Seljuq_TU4",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_SeljuqA_EV2",
+    "mobLevel3": 100,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_Gigantes_TU3",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_Seljuq_TU4",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_SeljuqA_EV2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-03B-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-03B-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-03B-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-03B-02A": {
+    "groupName": "BATTLE_10-03B-02A",
+    "mobIndexString1": "MOB_MP_Gigantes_TU3",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_DroneM_EV4",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_SeljuqA_EV2",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_Gigantes_TU3",
+    "mobLevel4": 100,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_GigantesC_EV2",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_SeljuqA_EV2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-03B-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-03B-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-03B-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-03B-03A": {
+    "groupName": "BATTLE_10-03B-03A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel1": 100,
+    "mobIndexString2": "MOB_MP_GigantesC_EV2",
+    "mobLevel2": 100,
+    "mobIndexString3": "MOB_MP_SeljuqA_EV2",
+    "mobLevel3": 100,
+    "mobIndexString4": "MOB_MP_Fortress_TU4",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel5": 100,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel7": 100,
+    "mobIndexString8": "MOB_MP_GigantesC_EV2",
+    "mobLevel8": 100,
+    "mobIndexString9": "MOB_MP_SeljuqA_EV2",
+    "mobLevel9": 100,
+    "Rank_B_Reward": [
+      "BATTLE_10-03B-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-03B-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-03B-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-04B-01A": {
+    "groupName": "BATTLE_10-04B-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_Stinger_TU5",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_AMG11AA_EV4",
+    "mobLevel3": 110,
+    "mobIndexString4": "MOB_MP_StingerC_EV4",
+    "mobLevel4": 110,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_Drone_EV9",
+    "mobLevel6": 110,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_Stinger_TU5",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_AMG11AA_EV4",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-04B-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-04B-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-04B-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-04B-02A": {
+    "groupName": "BATTLE_10-04B-02A",
+    "mobIndexString1": "MOB_MP_AMG11AA_EV3",
+    "mobLevel1": 110,
+    "mobIndexString2": "MOB_MP_IntercepterAR_TU",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_AMG11AA_EV3",
+    "mobLevel3": 110,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 110,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_AMG11AA_EV3",
+    "mobLevel7": 110,
+    "mobIndexString8": "MOB_MP_IntercepterAR_TU",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_AMG11AA_EV3",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-04B-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-04B-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-04B-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-04B-03A": {
+    "groupName": "BATTLE_10-04B-03A",
+    "mobIndexString1": "MOB_MP_IntercepterAR_TU",
+    "mobLevel1": 110,
+    "mobIndexString2": "MOB_MP_AMG11AA_EV3",
+    "mobLevel2": 110,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 110,
+    "mobIndexString5": "MOB_MP_Drone_EV9",
+    "mobLevel5": 110,
+    "mobIndexString6": "MOB_MP_AMG11AA_EV3",
+    "mobLevel6": 110,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_AMG11AA_EV3",
+    "mobLevel8": 110,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-04B-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-04B-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-04B-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-04B-04A": {
+    "groupName": "BATTLE_10-04B-04A",
+    "mobIndexString1": "MOB_MP_IntercepterAR_TU",
+    "mobLevel1": 110,
+    "mobIndexString2": "MOB_MP_Drone_EV9",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_AMG11AA_EV3",
+    "mobLevel3": 110,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 110,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_AMG11AA_EV3",
+    "mobLevel6": 110,
+    "mobIndexString7": "MOB_MP_AMG11AA_EV3",
+    "mobLevel7": 110,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "MOB_MP_IntercepterAR_TU",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-04B-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-04B-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-04B-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-05B-01A": {
+    "groupName": "BATTLE_10-05B-01A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 110,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "MOB_MP_SeljuqA_EV2",
+    "mobLevel3": 110,
+    "mobIndexString4": "MOB_MP_RampartC_SA4",
+    "mobLevel4": 110,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel5": 110,
+    "mobIndexString6": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel6": 110,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 110,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "MOB_MP_SeljuqA_EV2",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-05B-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-05B-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-05B-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-05B-02A": {
+    "groupName": "BATTLE_10-05B-02A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 110,
+    "mobIndexString2": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel3": 110,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel4": 110,
+    "mobIndexString5": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel5": 110,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-05B-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-05B-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-05B-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-05B-03A": {
+    "groupName": "BATTLE_10-05B-03A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel3": 110,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel5": 110,
+    "mobIndexString6": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel6": 110,
+    "mobIndexString7": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel7": 110,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_TU",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-05B-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-05B-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-05B-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-05B-04A": {
+    "groupName": "BATTLE_10-05B-04A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel3": 110,
+    "mobIndexString4": "MOB_MP_GigantesC_EV2",
+    "mobLevel4": 110,
+    "mobIndexString5": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel5": 110,
+    "mobIndexString6": "MOB_MP_MarionnetteAR_TU2",
+    "mobLevel6": 110,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteHA_TU",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU2",
+    "mobLevel9": 110,
+    "Rank_B_Reward": [
+      "BATTLE_10-05B-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-05B-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-05B-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06B-01A": {
+    "groupName": "BATTLE_10-06B-01A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-06B-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06B-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06B-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06B-02A": {
+    "groupName": "BATTLE_10-06B-02A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_MP_IntercepterAR_TU",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-06B-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06B-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06B-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06B-03A": {
+    "groupName": "BATTLE_10-06B-03A",
+    "mobIndexString1": "MOB_MP_GigantesC_EV2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_AMG11AA_EV4",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_GigantesC_EV2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-06B-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06B-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06B-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06B-04A": {
+    "groupName": "BATTLE_10-06B-04A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_AMG11AA_EV4",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-06B-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06B-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06B-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-06B-05A": {
+    "groupName": "BATTLE_10-06B-05A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_IntercepterAR_TU",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_TU2",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-06B-05"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-06B-05"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-06B-05"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07B-01A": {
+    "groupName": "BATTLE_10-07B-01A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_GigantesC_EV2",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_RampartC_SA4",
+    "mobLevel4": 120,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_GigantesC_EV2",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-07B-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07B-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07B-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07B-02A": {
+    "groupName": "BATTLE_10-07B-02A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "",
+    "mobLevel5": 0,
+    "mobIndexString6": "MOB_MP_Drone_EV9",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-07B-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07B-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07B-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07B-03A": {
+    "groupName": "BATTLE_10-07B-03A",
+    "mobIndexString1": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_IntercepterAR_TU",
+    "mobLevel5": 120,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_IntercepterAR_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "BATTLE_10-07B-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07B-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07B-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07B-04A": {
+    "groupName": "BATTLE_10-07B-04A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_GigantesC_EV2",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_AMG11AA_EV4",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_IntercepterAR_TU",
+    "mobLevel6": 120,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-07B-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07B-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07B-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-07B-05A": {
+    "groupName": "BATTLE_10-07B-05A",
+    "mobIndexString1": "MOB_MP_IntercepterAR_TU2",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU2",
+    "mobLevel2": 110,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_IntercepterAR_TU2",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU2",
+    "mobLevel8": 110,
+    "mobIndexString9": "MOB_MP_IntercepterAR_TU2",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-07B-05"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-07B-05"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-07B-05"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-01Ex-01A": {
+    "groupName": "BATTLE_10-01Ex-01A",
+    "mobIndexString1": "MOB_MP_RocCGeneratorA_EV2",
+    "mobLevel1": 0,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "MOB_MP_RocCGeneratorA_EV2",
+    "mobLevel3": 115,
+    "mobIndexString4": "MOB_MP_RocCGeneratorA_EV1",
+    "mobLevel4": 115,
+    "mobIndexString5": "MOB_MP_Roc_10_TU",
+    "mobLevel5": 115,
+    "mobIndexString6": "MOB_MP_RocCGeneratorA_EV1",
+    "mobLevel6": 115,
+    "mobIndexString7": "MOB_MP_RocCGeneratorA_EV2",
+    "mobLevel7": 115,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "MOB_MP_RocCGeneratorA_EV2",
+    "mobLevel9": 115,
+    "Rank_B_Reward": [
+      "BATTLE_10-01Ex-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-01Ex-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-01Ex-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02Ex-01A": {
+    "groupName": "BATTLE_10-02Ex-01A",
+    "mobIndexString1": "MOB_MP_GigantesC_EV2",
+    "mobLevel1": 120,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_IntercepterAR_TU",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_GigantesC_EV2",
+    "mobLevel7": 120,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-02Ex-01"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02Ex-01"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02Ex-01"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02Ex-02A": {
+    "groupName": "BATTLE_10-02Ex-02A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "0",
+    "mobLevel5": 0,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-02Ex-02"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02Ex-02"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02Ex-02"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02Ex-03A": {
+    "groupName": "BATTLE_10-02Ex-03A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_FallenC_EV3",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_IntercepterAR_TU",
+    "mobLevel6": 120,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-02Ex-03"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02Ex-03"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02Ex-03"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-02Ex-04A": {
+    "groupName": "BATTLE_10-02Ex-04A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel1": 120,
+    "mobIndexString2": "MOB_MP_FallenC_EV3",
+    "mobLevel2": 120,
+    "mobIndexString3": "MOB_MP_MarionnetteDM_V2_TU",
+    "mobLevel3": 120,
+    "mobIndexString4": "MOB_MP_IntercepterAR_TU",
+    "mobLevel4": 120,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_V2_TU",
+    "mobLevel5": 120,
+    "mobIndexString6": "MOB_MP_IntercepterAR_TU",
+    "mobLevel6": 120,
+    "mobIndexString7": "MOB_MP_MarionnetteAR_V2_TU",
+    "mobLevel7": 120,
+    "mobIndexString8": "MOB_MP_FallenC_EV3",
+    "mobLevel8": 120,
+    "mobIndexString9": "MOB_MP_MarionnetteHW_V2_TU",
+    "mobLevel9": 120,
+    "Rank_B_Reward": [
+      "BATTLE_10-02Ex-04"
+    ],
+    "Rank_A_Reward": [
+      "BATTLE_10-02Ex-04"
+    ],
+    "Rank_S_Reward": [
+      "BATTLE_10-02Ex-04"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-03Ex-01A": {
+    "groupName": "BATTLE_10-03Ex-01A",
+    "mobIndexString1": "MOB_MP_MarionnetteAR_V2_TU2",
+    "mobLevel1": 130,
+    "mobIndexString2": "MOB_MP_MarionnetteDM_BOSS_TU",
+    "mobLevel2": 130,
+    "mobIndexString3": "MOB_MP_MarionnetteHW_V2_TU2",
+    "mobLevel3": 130,
+    "mobIndexString4": "MOB_MP_MarionnetteHA_BOSS_TU",
+    "mobLevel4": 130,
+    "mobIndexString5": "MOB_MP_MarionnetteHA_V2_TU2",
+    "mobLevel5": 130,
+    "mobIndexString6": "MOB_MP_MarionnetteHW_BOSS_TU",
+    "mobLevel6": 130,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "MOB_MP_MarionnetteAR_BOSS_TU",
+    "mobLevel8": 130,
+    "mobIndexString9": "MOB_MP_MarionnetteDM_V2_TU2",
+    "mobLevel9": 130,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
+  },
+  "BATTLE_10-04Ex-01A": {
+    "groupName": "BATTLE_10-04Ex-01A",
+    "mobIndexString1": "",
+    "mobLevel1": 0,
+    "mobIndexString2": "",
+    "mobLevel2": 0,
+    "mobIndexString3": "",
+    "mobLevel3": 0,
+    "mobIndexString4": "",
+    "mobLevel4": 0,
+    "mobIndexString5": "MOB_MP_Demolisher_BOSS_TU",
+    "mobLevel5": 150,
+    "mobIndexString6": "",
+    "mobLevel6": 0,
+    "mobIndexString7": "",
+    "mobLevel7": 0,
+    "mobIndexString8": "",
+    "mobLevel8": 0,
+    "mobIndexString9": "",
+    "mobLevel9": 0,
+    "Rank_B_Reward": [
+      "0"
+    ],
+    "Rank_A_Reward": [
+      "0"
+    ],
+    "Rank_S_Reward": [
+      "0"
+    ],
+    "mobGroupDifficulty": 0,
+    "mobGroupPattern": 0
   }
 }

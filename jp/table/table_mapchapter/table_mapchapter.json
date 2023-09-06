@@ -586,5 +586,17 @@
     "ChapterSearch_IDX": "Ev3",
     "Chapter_3DWorldMap": "3D_worldmap_2022_SummerAquaLand_E3",
     "Chapter_PrefabName": "Prefab_Event18_Chapter03"
+  },
+  "Chapter_10N": {
+    "ChapterName": "MapChaterName_Chapter_10N",
+    "GameModeType": 0,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_10N",
+    "ChapterString": "Chapter10",
+    "Event_Category": "",
+    "Chapter_IDX": 10,
+    "ChapterSearch_IDX": "10",
+    "Chapter_3DWorldMap": "3D_worldmap_A10_1",
+    "Chapter_PrefabName": ""
   }
 }

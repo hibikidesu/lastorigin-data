@@ -554,7 +554,8 @@
     "Squad_Desc": "1002900039",
     "Squad_Member": [
       "Char_PECS_Lumberjane_N",
-      "Char_PECS_Azaz_N"
+      "Char_PECS_Azaz_N",
+      "Char_PECS_TaylorClothcut_N"
     ],
     "Squad_CompleteReward": [],
     "Req_Squad_Member": 9

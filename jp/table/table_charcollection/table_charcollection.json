@@ -5425,5 +5425,32 @@
     "PCModelID": "Model_PECS_Hathor_N",
     "PCInvenIconID": "InvenIcon_PECS_Hathor_N",
     "Collection_Reward": "COLLECTION_Squad-01"
+  },
+  "Char_PECS_TaylorClothcut_N": {
+    "Char_BodyType": 0,
+    "Char_Number": 97,
+    "Char_Key": "Char_PECS_TaylorClothcut_N",
+    "Troop_Category": "Squad_GoldenWorkers_2",
+    "Char_Name": "CharName_Char_PECS_TaylorClothcut_N",
+    "Char_Name_EngDisp": "Taylor Clothcut",
+    "Char_Grade": 4,
+    "Char_Class": 0,
+    "Char_Role": 2,
+    "Char_Height": "155cm",
+    "Char_Weight": "39.999kg",
+    "Char_Voice": "TaylorClothcut",
+    "Char_WeaponDesc1": "CharWeaponDesc1_Char_PECS_TaylorClothcut_N",
+    "Char_WeaponDesc2": "CharWeaponDesc2_Char_PECS_TaylorClothcut_N",
+    "Char_AtkDisp": 3,
+    "Char_AtkRateDisp": 3,
+    "Char_SpeedDisp": 6,
+    "Char_HpDisp": 3,
+    "Char_DefDisp": 1,
+    "Char_AssistDisp": 7,
+    "Char_Desc": "CharDesc_Char_PECS_TaylorClothcut_N",
+    "PCFullbodyID": "FullbodyIMG_PECS_TaylorClothcut_N",
+    "PCModelID": "Model_PECS_TaylorClothcut_N",
+    "PCInvenIconID": "InvenIcon_PECS_TaylorClothcut_N",
+    "Collection_Reward": "COLLECTION_Squad-01"
   }
 }

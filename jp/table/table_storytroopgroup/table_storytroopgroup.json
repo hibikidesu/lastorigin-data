@@ -49,7 +49,8 @@
     "Story_Group": [
       "PCStory_CH_AGS_Rampart_1",
       "PCStory_CH_AGS_Rampart_2",
-      "PCStory_CH_PECS_Sonia_1"
+      "PCStory_CH_PECS_Sonia_1",
+      "PCStory_CH_PECS_Cerberus_1"
     ],
     "Squad_Icon": "UI_TroopIcon_CityGuard",
     "Squad_Name": "1002900006",

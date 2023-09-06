@@ -2658,5 +2658,25 @@
       150
     ],
     "CharSkin_Activate": "Skin_Char_DS_Johanna_G5"
+  },
+  "Promotion_Char_PECS_TaylorClothcut_N_4": {
+    "Promotion_CharIdx": "Char_PECS_TaylorClothcut_N",
+    "Req_CharGrade": 4,
+    "Promotion_CharLv": 90,
+    "Req_CharFavor": 10000,
+    "PromotionGrade": 5,
+    "Req_ConsumableItem": [
+      "Consumable_OriginDustAdv",
+      "Consumable_OriginDustSp",
+      "Special_Module",
+      "RobotParts_HDCalculationControl"
+    ],
+    "Req_ConsumableItemQty": [
+      450,
+      150,
+      100,
+      150
+    ],
+    "CharSkin_Activate": "Skin_Char_PECS_TaylorClothcut_G5"
   }
 }

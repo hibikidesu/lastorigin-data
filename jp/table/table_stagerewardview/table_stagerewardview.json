@@ -9189,36 +9189,6 @@
       "RobotParts_CalculationControl"
     ]
   },
-  "RewardView_Ch02Ev13Stage01Ex": {
-    "Stage_Key": "Ch02Ev13Stage01Ex",
-    "Reward_Char": [],
-    "Reward_Item": []
-  },
-  "RewardView_Ch02Ev13Stage02Ex": {
-    "Stage_Key": "Ch02Ev13Stage02Ex",
-    "Reward_Char": [],
-    "Reward_Item": []
-  },
-  "RewardView_Ch02Ev13Stage03Ex": {
-    "Stage_Key": "Ch02Ev13Stage03Ex",
-    "Reward_Char": [],
-    "Reward_Item": []
-  },
-  "RewardView_Ch02Ev13Stage04Ex": {
-    "Stage_Key": "Ch02Ev13Stage04Ex",
-    "Reward_Char": [],
-    "Reward_Item": []
-  },
-  "RewardView_Ch02Ev13Stage05Ex": {
-    "Stage_Key": "Ch02Ev13Stage05Ex",
-    "Reward_Char": [],
-    "Reward_Item": []
-  },
-  "RewardView_Ch02Ev13Stage01C": {
-    "Stage_Key": "Ch02Ev13Stage01C",
-    "Reward_Char": [],
-    "Reward_Item": []
-  },
   "RewardView_Ch09Stage01": {
     "Stage_Key": "Ch09Stage01",
     "Reward_Char": [
@@ -11983,5 +11953,229 @@
       "RobotParts_HDCalculationControl",
       "RobotParts_HighpowerBooster"
     ]
+  },
+  "RewardView_Ch10Stage03": {
+    "Stage_Key": "Ch10Stage03",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch10Stage04": {
+    "Stage_Key": "Ch10Stage04",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch10Stage06": {
+    "Stage_Key": "Ch10Stage06",
+    "Reward_Char": [
+      "Char_BR_JangHwa_N",
+      "Char_PECS_QueenMane_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_BR_Gremlin_N",
+      "Char_AGS_Fallen_N",
+      "Char_PECS_Drone_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Equip_System_Maneuver_T3",
+      "Equip_System_Maneuver_T2",
+      "Equip_System_Maneuver_T1",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch10Stage07": {
+    "Stage_Key": "Ch10Stage07",
+    "Reward_Char": [
+      "Char_BR_Cheona_N",
+      "Char_PECS_Triaina_N",
+      "Char_PECS_Cerberus_N",
+      "Char_PECS_MissSafety_N",
+      "Char_AGS_Rampart_N",
+      "Char_PECS_PuppHead_N",
+      "Char_PECS_Tiequan_N"
+    ],
+    "Reward_Item": [
+      "Equip_System_Defense_T3",
+      "Equip_System_Defense_T2",
+      "Equip_System_Defense_T1",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch10Stage08": {
+    "Stage_Key": "Ch10Stage08",
+    "Reward_Char": [
+      "Char_BR_Vargr_N",
+      "Char_PECS_Mery_N",
+      "Char_3P_ScissorsLise_N",
+      "Char_AGS_SpartanA_N",
+      "Char_AGS_SpartanB_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_SandMan_N"
+    ],
+    "Reward_Item": [
+      "Equip_System_Exp_T3",
+      "Equip_System_Exp_T2",
+      "Equip_System_Exp_T1",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch10Stage02B": {
+    "Stage_Key": "Ch10Stage02B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_SPACE_T4",
+      "Equip_Chip_Atk_T4",
+      "Equip_Chip_Atk_T2",
+      "Equip_Chip_Atk_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch10Stage03B": {
+    "Stage_Key": "Ch10Stage03B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_GoldenCage_T4",
+      "Equip_Chip_Def_T4",
+      "Equip_Chip_Def_T2",
+      "Equip_Chip_Def_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch10Stage04B": {
+    "Stage_Key": "Ch10Stage04B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_MagicalRPG_T4",
+      "Equip_Chip_Hp_T4",
+      "Equip_Chip_Hp_T2",
+      "Equip_Chip_Hp_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch10Stage05B": {
+    "Stage_Key": "Ch10Stage05B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_WaterPipe_T4",
+      "Equip_Chip_Acc_T4",
+      "Equip_Chip_Acc_T2",
+      "Equip_Chip_Acc_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch10Stage06B": {
+    "Stage_Key": "Ch10Stage06B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_System_CelestialGlobe_T4",
+      "Equip_Chip_KillExp_T4",
+      "Equip_Chip_KillExp_T2",
+      "Equip_Chip_KillExp_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch10Stage07B": {
+    "Stage_Key": "Ch10Stage07B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_ThreeAuthority_T4",
+      "Equip_Chip_Debuff_Res_T4",
+      "Equip_Chip_Debuff_Res_T2",
+      "Equip_Chip_Debuff_Res_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch10Stage01Ex": {
+    "Stage_Key": "Ch10Stage01Ex",
+    "Reward_Char": [
+      "Char_PECS_Rena_N",
+      "Char_PECS_Orangeade_N",
+      "Char_3P_Ajax_N",
+      "Char_PECS_LRL_N",
+      "Char_DS_Johanna_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_3P_Fotia_N"
+    ],
+    "Reward_Item": [
+      "Equip_Sub_LWLoader_T4",
+      "Equip_Sub_AWThruster_T4",
+      "Equip_Sub_ExamKit_T4",
+      "Equip_Sub_LWLoader_T3",
+      "Equip_Sub_AWThruster_T3",
+      "Equip_Sub_ExamKit_T3",
+      "Equip_Sub_LWLoader_T2",
+      "Equip_Sub_AWThruster_T2",
+      "Equip_Sub_ExamKit_T2",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch10Stage02Ex": {
+    "Stage_Key": "Ch10Stage02Ex",
+    "Reward_Char": [
+      "Char_PECS_Ella_N",
+      "Char_BR_Ellie_N",
+      "Char_BR_Habetrot_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Impet_N"
+    ],
+    "Reward_Item": [
+      "Equip_Sub_AntiFire_T4",
+      "Equip_Sub_AntiCold_T4",
+      "Equip_Sub_AntiLightning_T4",
+      "Equip_Sub_AntiFire_T3",
+      "Equip_Sub_AntiCold_T3",
+      "Equip_Sub_AntiLightning_T3",
+      "Equip_Sub_AntiFire_T2",
+      "Equip_Sub_AntiCold_T2",
+      "Equip_Sub_AntiLightning_T2",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch10Stage03Ex": {
+    "Stage_Key": "Ch10Stage03Ex",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch10Stage04Ex": {
+    "Stage_Key": "Ch10Stage04Ex",
+    "Reward_Char": [],
+    "Reward_Item": []
   }
 }

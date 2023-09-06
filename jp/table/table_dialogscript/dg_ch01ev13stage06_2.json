@@ -759,8 +759,8 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch01Ev13Stage06_2_18",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_01Ev13_06",
+    "Script_VoiceName": "Ev13Stage06_10",
     "Bgm_Sound": "",
     "Voice_Skip": 0
   },
@@ -804,8 +804,8 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch01Ev13Stage06_2_19",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_01Ev13_06",
+    "Script_VoiceName": "Ev13Stage06_11",
     "Bgm_Sound": "",
     "Voice_Skip": 0
   },

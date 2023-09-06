@@ -11710,5 +11710,109 @@
       "PECS_Hathor_N_Surprised",
       "PECS_Hathor_N_Temptation"
     ]
+  },
+  "CharFace_BR_Vargr_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500005",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025",
+      "1003500020"
+    ],
+    "FaceType": [
+      0,
+      8,
+      6,
+      3,
+      15,
+      11,
+      28,
+      7
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_Vargr_NS1_Smile",
+      "BR_Vargr_NS1_BigSmile",
+      "BR_Vargr_NS1_CloseEye",
+      "BR_Vargr_NS1_Shy",
+      "BR_Vargr_NS1_Anger",
+      "BR_Vargr_NS1_Sad",
+      "BR_Vargr_NS1_Surprised"
+    ]
+  },
+  "CharFace_BR_Ellie_NS1": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_PECS_Rena_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500005",
+      "1003500014",
+      "1003500021",
+      "1003500049",
+      "1003500011",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      6,
+      3,
+      15,
+      59,
+      11,
+      28,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "PECS_Rena_NS1_BigSmile",
+      "PECS_Rena_NS1_CloseEye",
+      "PECS_Rena_NS1_Shy",
+      "PECS_Rena_NS1_Shy2",
+      "PECS_Rena_NS1_Anger",
+      "PECS_Rena_NS1_Sad"
+    ]
+  },
+  "CharFace_PECS_TaylorClothcut_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      11,
+      28,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "PECS_TaylorClothcut_N_Smile",
+      "PECS_TaylorClothcut_N_CloseEye",
+      "PECS_TaylorClothcut_N_Shy",
+      "PECS_TaylorClothcut_N_Anger",
+      "PECS_TaylorClothcut_N_Sad"
+    ]
   }
 }
