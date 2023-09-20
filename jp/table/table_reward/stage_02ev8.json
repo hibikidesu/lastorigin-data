@@ -24,13 +24,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      2500,
+      5,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd"
+      "TestItem_5"
     ],
     "ItemRate": [
       "1"
@@ -101,13 +101,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      250,
+      5,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence2nd"
+      "TestItem_6"
     ],
     "ItemRate": [
       "1"
@@ -142,13 +142,13 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      25,
+      3,
       0,
       0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence1st"
+      "Favor_Cake"
     ],
     "ItemRate": [
       "1"

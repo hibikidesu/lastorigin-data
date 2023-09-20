@@ -165,7 +165,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_FallMuddyMemory",
     "Chapter_Key": "Chapter_01Ev8",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_15": {
     "Event_Category": "Open_Event08",
@@ -177,7 +177,7 @@
     "Event_CategoryIcon": "UI_EventIcon_2020_FallMuddyMemory",
     "Chapter_Key": "Chapter_02Ev8",
     "StartCutsceneIndex": "0",
-    "Event_OpenType": 0
+    "Event_OpenType": 2
   },
   "Event_Chapter_16": {
     "Event_Category": "Open_Event09",
@@ -454,5 +454,17 @@
     "Chapter_Key": "Chapter_03Ev18",
     "StartCutsceneIndex": "0",
     "Event_OpenType": 0
+  },
+  "Event_Chapter_47": {
+    "Event_Category": "Open_Event22",
+    "Event_CategoryName": "EventName_Open_Event22",
+    "Event_CategoryDesc": "EventDesc_Open_Event22",
+    "Event_CategoryPos": 22,
+    "Event_CategoryIndex": 22,
+    "Event_CategoryBanner": "UI_EventBanner_2023_JPEvent01",
+    "Event_CategoryIcon": "UI_EventIcon_2023_JPEvent01",
+    "Chapter_Key": "Chapter_01Ev22",
+    "StartCutsceneIndex": "0",
+    "Event_OpenType": 1
   }
 }

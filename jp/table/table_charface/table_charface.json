@@ -11814,5 +11814,131 @@
       "PECS_TaylorClothcut_N_Anger",
       "PECS_TaylorClothcut_N_Sad"
     ]
+  },
+  "CharFace_PECS_Olivia_N": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      11,
+      28,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "PECS_Olivia_N_Smile",
+      "PECS_Olivia_N_CloseEye",
+      "PECS_Olivia_N_Shy",
+      "PECS_Olivia_N_Anger",
+      "PECS_Olivia_N_Sad"
+    ]
+  },
+  "CharFace_3P_Aurora_NS3": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_WarWolf_NS2": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_Djinnia_NS1": {
+    "FaceName": [
+      "1003500009",
+      "1003500013",
+      "1003500014",
+      "1003500021",
+      "1003500011",
+      "1003500025"
+    ],
+    "FaceType": [
+      0,
+      8,
+      3,
+      15,
+      11,
+      28,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_Djinnia_NS1_Smile",
+      "BR_Djinnia_NS1_CloseEye",
+      "BR_Djinnia_NS1_Shy",
+      "BR_Djinnia_NS1_Anger",
+      "BR_Djinnia_NS1_Sad"
+    ]
+  },
+  "CharFace_BR_Vargr_NS0": {
+    "FaceName": [
+      "1003500009",
+      "1003500011",
+      "1003500026",
+      "1003500005",
+      "1003500014",
+      "1003500025",
+      "1003500021",
+      "1003500020",
+      "1003500023"
+    ],
+    "FaceType": [
+      0,
+      11,
+      44,
+      6,
+      3,
+      28,
+      15,
+      7,
+      43,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0",
+      "BR_Vargr_N_Anger",
+      "BR_Vargr_N_Anger2",
+      "BR_Vargr_N_BigSmile",
+      "BR_Vargr_N_CloseEye",
+      "BR_Vargr_N_Sad",
+      "BR_Vargr_N_Shy",
+      "BR_Vargr_N_Surprised",
+      "BR_Vargr_N_Anger1"
+    ]
   }
 }

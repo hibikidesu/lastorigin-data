@@ -9404,8 +9404,928 @@
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 1
   },
-  "Cut_Ch01Ev13Stage02_3": {
-    "FileName": "DG_Ch01Ev13Stage02_3",
+  "Cut_ChCS-52Stage01_1": {
+    "FileName": "DG_ChCS-52Stage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-52Stage02_1": {
+    "FileName": "DG_ChCS-52Stage02_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-52Stage03_1": {
+    "FileName": "DG_ChCS-52Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-52Stage04_1": {
+    "FileName": "DG_ChCS-52Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-52Stage05_1": {
+    "FileName": "DG_ChCS-52Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Valkyrie_NS4": {
+    "FileName": "DG_Marriage01Stage428_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_SandMan_NS2": {
+    "FileName": "DG_Marriage01Stage429_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_ChCS-53Stage01_1": {
+    "FileName": "DG_ChCS-53Stage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-53Stage02_1": {
+    "FileName": "DG_ChCS-53Stage02_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-53Stage03_1": {
+    "FileName": "DG_ChCS-53Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-53Stage04_1": {
+    "FileName": "DG_ChCS-53Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-53Stage05_1": {
+    "FileName": "DG_ChCS-53Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Arman_NS2": {
+    "FileName": "DG_Marriage01Stage430_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Merlin_NS1": {
+    "FileName": "DG_Marriage01Stage431_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Vargr_NS2": {
+    "FileName": "DG_Marriage01Stage432_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_ChCS-54Stage01_1": {
+    "FileName": "DG_ChCS-54Stage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-54Stage02_1": {
+    "FileName": "DG_ChCS-54Stage02_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-54Stage03_1": {
+    "FileName": "DG_ChCS-54Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-54Stage04_1": {
+    "FileName": "DG_ChCS-54Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-54Stage05_1": {
+    "FileName": "DG_ChCS-54Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_ChCS-54Stage06_1": {
+    "FileName": "DG_ChCS-54Stage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Mery_NS1": {
+    "FileName": "DG_Marriage01Stage433_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Echidna_NS3": {
+    "FileName": "DG_Marriage01Stage434_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Nashorn": {
+    "FileName": "DG_Marriage01Stage435_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Ch11Stage01_2": {
+    "FileName": "DG_Ch11Stage01_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage02_2": {
+    "FileName": "DG_Ch11Stage02_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage03_1": {
+    "FileName": "DG_Ch11Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage03_2": {
+    "FileName": "DG_Ch11Stage03_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage04_1": {
+    "FileName": "DG_Ch11Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage04_2": {
+    "FileName": "DG_Ch11Stage04_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage05_1": {
+    "FileName": "DG_Ch11Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage05_2": {
+    "FileName": "DG_Ch11Stage05_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage06_1": {
+    "FileName": "DG_Ch11Stage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage06_2": {
+    "FileName": "DG_Ch11Stage06_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage07_1": {
+    "FileName": "DG_Ch11Stage07_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage07_2": {
+    "FileName": "DG_Ch11Stage07_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage08_1": {
+    "FileName": "DG_Ch11Stage08_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage08_2": {
+    "FileName": "DG_Ch11Stage08_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage01b_1": {
+    "FileName": "DG_Ch11Stage01b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage01b_2": {
+    "FileName": "DG_Ch11Stage01b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage02b_1": {
+    "FileName": "DG_Ch11Stage02b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage03b_1": {
+    "FileName": "DG_Ch11Stage03b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage03b_2": {
+    "FileName": "DG_Ch11Stage03b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage04b_1": {
+    "FileName": "DG_Ch11Stage04b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage05b_2": {
+    "FileName": "DG_Ch11Stage05b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage01e_1": {
+    "FileName": "DG_Ch11Stage01e_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage01e_2": {
+    "FileName": "DG_Ch11Stage01e_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage02e_1": {
+    "FileName": "DG_Ch11Stage02e_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage03e_1": {
+    "FileName": "DG_Ch11Stage03e_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage03e_2": {
+    "FileName": "DG_Ch11Stage03e_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage04e_1": {
+    "FileName": "DG_Ch11Stage04e_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage04e_2": {
+    "FileName": "DG_Ch11Stage04e_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch11Stage05b_1": {
+    "FileName": "DG_Ch11Stage05b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Marie_NS3": {
+    "FileName": "DG_Marriage01Stage436_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Titania_NS3": {
+    "FileName": "DG_Marriage01Stage437_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Ch01Ev20Stage01_1": {
+    "FileName": "DG_Ch01Ev20Stage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage01_2": {
+    "FileName": "DG_Ch01Ev20Stage01_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage02_2": {
+    "FileName": "DG_Ch01Ev20Stage02_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage03_2": {
+    "FileName": "DG_Ch01Ev20Stage03_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage04_1": {
+    "FileName": "DG_Ch01Ev20Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage04_2": {
+    "FileName": "DG_Ch01Ev20Stage04_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage05_1": {
+    "FileName": "DG_Ch01Ev20Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage05_2": {
+    "FileName": "DG_Ch01Ev20Stage05_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage06_1": {
+    "FileName": "DG_Ch01Ev20Stage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage06_2": {
+    "FileName": "DG_Ch01Ev20Stage06_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage07_1": {
+    "FileName": "DG_Ch01Ev20Stage07_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage07_2": {
+    "FileName": "DG_Ch01Ev20Stage07_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage08_1": {
+    "FileName": "DG_Ch01Ev20Stage08_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage08_2": {
+    "FileName": "DG_Ch01Ev20Stage08_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage01b_1": {
+    "FileName": "DG_Ch01Ev20Stage01b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage02b_1": {
+    "FileName": "DG_Ch01Ev20Stage02b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage03b_1": {
+    "FileName": "DG_Ch01Ev20Stage03b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage04b_1": {
+    "FileName": "DG_Ch01Ev20Stage04b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev20Stage04b_2": {
+    "FileName": "DG_Ch01Ev20Stage04b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_TaylorClothcut_NS1": {
+    "FileName": "DG_Marriage01Stage438_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Olivia_NS1": {
+    "FileName": "DG_Marriage01Stage439_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_QueenMane_NS2": {
+    "FileName": "DG_Marriage01Stage440_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Nashorn_NS1": {
+    "FileName": "DG_Marriage01Stage441_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Ch02Ev20Stage01_1": {
+    "FileName": "DG_Ch02Ev20Stage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage01_2": {
+    "FileName": "DG_Ch02Ev20Stage01_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage02_1": {
+    "FileName": "DG_Ch02Ev20Stage02_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage02_2": {
+    "FileName": "DG_Ch02Ev20Stage02_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage03_1": {
+    "FileName": "DG_Ch02Ev20Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage03_2": {
+    "FileName": "DG_Ch02Ev20Stage03_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage04_1": {
+    "FileName": "DG_Ch02Ev20Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage04_2": {
+    "FileName": "DG_Ch02Ev20Stage04_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage05_1": {
+    "FileName": "DG_Ch02Ev20Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage05_2": {
+    "FileName": "DG_Ch02Ev20Stage05_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage06_1": {
+    "FileName": "DG_Ch02Ev20Stage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage06_2": {
+    "FileName": "DG_Ch02Ev20Stage06_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage07_2": {
+    "FileName": "DG_Ch02Ev20Stage07_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage08_2": {
+    "FileName": "DG_Ch02Ev20Stage08_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage01b_1": {
+    "FileName": "DG_Ch02Ev20Stage01b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage02b_1": {
+    "FileName": "DG_Ch02Ev20Stage02b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage03b_1": {
+    "FileName": "DG_Ch02Ev20Stage03b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch02Ev20Stage04b_1": {
+    "FileName": "DG_Ch02Ev20Stage04b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Alcyone": {
+    "FileName": "DG_Marriage01Stage442_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Amphitrite_NS1": {
+    "FileName": "DG_Marriage01Stage443_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Salacia_NS1": {
+    "FileName": "DG_Marriage01Stage444_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Ch03Ev20Stage01_2": {
+    "FileName": "DG_Ch03Ev20Stage01_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage02_2": {
+    "FileName": "DG_Ch03Ev20Stage02_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage03_2": {
+    "FileName": "DG_Ch03Ev20Stage03_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage04_2": {
+    "FileName": "DG_Ch03Ev20Stage04_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage01b_1": {
+    "FileName": "DG_Ch03Ev20Stage01b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage01b_2": {
+    "FileName": "DG_Ch03Ev20Stage01b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage02b_1": {
+    "FileName": "DG_Ch03Ev20Stage02b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage02b_2": {
+    "FileName": "DG_Ch03Ev20Stage02b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage03b_1": {
+    "FileName": "DG_Ch03Ev20Stage03b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage03b_2": {
+    "FileName": "DG_Ch03Ev20Stage03b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage04b_1": {
+    "FileName": "DG_Ch03Ev20Stage04b_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage04b_2": {
+    "FileName": "DG_Ch03Ev20Stage04b_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch03Ev20Stage01e_1": {
+    "FileName": "DG_Ch03Ev20Stage01e_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Leanne_NS3": {
+    "FileName": "DG_Marriage01Stage445_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Hela_NS1": {
+    "FileName": "DG_Marriage01Stage446_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_PoniesAnger_PS1": {
+    "FileName": "DG_Marriage01Stage447_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_TRStage_011": {
+    "FileName": "DG_TRStage_0_1_1",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_012": {
+    "FileName": "DG_TRStage_0_1_2",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_013": {
+    "FileName": "DG_TRStage_0_1_3",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_014": {
+    "FileName": "DG_TRStage_0_1_4",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_015": {
+    "FileName": "DG_TRStage_0_1_5",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_SysOPBattleTraining_01_1": {
+    "FileName": "DG_SysOPBattleTrainingStage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_0101": {
+    "FileName": "DG_ChBattleTrainingStage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Sadius_NS2": {
+    "FileName": "DG_Marriage01Stage448_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_RoyalArsenal_NS3": {
+    "FileName": "DG_Marriage01Stage449_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_TRStage_0201": {
+    "FileName": "DG_ChBattleTrainingStage02_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_021": {
+    "FileName": "DG_TRStage_0_2_1",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_022": {
+    "FileName": "DG_TRStage_0_2_2",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_023": {
+    "FileName": "DG_TRStage_0_2_3",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_024": {
+    "FileName": "DG_TRStage_0_2_4",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_0301": {
+    "FileName": "DG_ChBattleTrainingStage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_031": {
+    "FileName": "DG_TRStage_0_3_1",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_032": {
+    "FileName": "DG_TRStage_0_3_2",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_033": {
+    "FileName": "DG_TRStage_0_3_3",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_034": {
+    "FileName": "DG_TRStage_0_3_4",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_0401": {
+    "FileName": "DG_ChBattleTrainingStage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_041": {
+    "FileName": "DG_TRStage_0_4_1",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_042": {
+    "FileName": "DG_TRStage_0_4_2",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_043": {
+    "FileName": "DG_TRStage_0_4_3",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_044": {
+    "FileName": "DG_TRStage_0_4_4",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_0501": {
+    "FileName": "DG_ChBattleTrainingStage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_051": {
+    "FileName": "DG_TRStage_0_5_1",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_052": {
+    "FileName": "DG_TRStage_0_5_2",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_053": {
+    "FileName": "DG_TRStage_0_5_3",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_054": {
+    "FileName": "DG_TRStage_0_5_4",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_0601": {
+    "FileName": "DG_ChBattleTrainingStage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_TRStage_061": {
+    "FileName": "DG_TRStage_0_6_1",
+    "BGMFileName": "03 BGM_Battle_01",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Hathor_NS1": {
+    "FileName": "DG_Marriage01Stage450_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Leprechaun_NS1": {
+    "FileName": "DG_Marriage01Stage451_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Leprechaun_NS2": {
+    "FileName": "DG_Marriage01Stage452_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Ch01Ev21Stage01_1": {
+    "FileName": "DG_Ch01Ev21Stage01_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage01_2": {
+    "FileName": "DG_Ch01Ev21Stage01_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage02_1": {
+    "FileName": "DG_Ch01Ev21Stage02_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage02_2": {
+    "FileName": "DG_Ch01Ev21Stage02_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage03_1": {
+    "FileName": "DG_Ch01Ev21Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage03_2": {
+    "FileName": "DG_Ch01Ev21Stage03_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage04_1": {
+    "FileName": "DG_Ch01Ev21Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage04_2": {
+    "FileName": "DG_Ch01Ev21Stage04_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage05_1": {
+    "FileName": "DG_Ch01Ev21Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage05_2": {
+    "FileName": "DG_Ch01Ev21Stage05_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage06_1": {
+    "FileName": "DG_Ch01Ev21Stage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev21Stage06_2": {
+    "FileName": "DG_Ch01Ev21Stage06_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Lancer_NS2": {
+    "FileName": "DG_Marriage01Stage453_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_LRL_NS1": {
+    "FileName": "DG_Marriage01Stage454_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_LRL_NS4": {
+    "FileName": "DG_Marriage01Stage455_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_SubStory01Ev21StageSpartanA_1_1": {
+    "FileName": "DG_SubStory01Ev21StageSpartanA_1_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_SubStory01Ev21StageSpartanA_2_1": {
+    "FileName": "DG_SubStory01Ev21StageSpartanA_2_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_SubStory01Ev21StageSpartanA_1_2": {
+    "FileName": "DG_SubStory01Ev21StageSpartanA_1_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_SubStory01Ev21StageSpartanA_2_2": {
+    "FileName": "DG_SubStory01Ev21StageSpartanA_2_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_SubStory01Ev21StageRena_1_1": {
+    "FileName": "DG_SubStory01Ev21StageRena_1_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_SubStory01Ev21StageRena_2_1": {
+    "FileName": "DG_SubStory01Ev21StageRena_2_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_SubStory01Ev21StageSadius_1_1": {
+    "FileName": "DG_SubStory01Ev21StageSadius_1_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Marriage_Neodym_NS2": {
+    "FileName": "DG_Marriage01Stage456_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Neodym_NS3": {
+    "FileName": "DG_Marriage01Stage457_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Marriage_Hussar_NS2": {
+    "FileName": "DG_Marriage01Stage458_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 1
+  },
+  "Cut_Ch01Ev22Stage01_2": {
+    "FileName": "DG_Ch01Ev22Stage01_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage02_2": {
+    "FileName": "DG_Ch01Ev22Stage02_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage03_1": {
+    "FileName": "DG_Ch01Ev22Stage03_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage03_2": {
+    "FileName": "DG_Ch01Ev22Stage03_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage04_1": {
+    "FileName": "DG_Ch01Ev22Stage04_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage04_2": {
+    "FileName": "DG_Ch01Ev22Stage04_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage05_1": {
+    "FileName": "DG_Ch01Ev22Stage05_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage05_2": {
+    "FileName": "DG_Ch01Ev22Stage05_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage06_1": {
+    "FileName": "DG_Ch01Ev22Stage06_1",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage06_2": {
+    "FileName": "DG_Ch01Ev22Stage06_2",
+    "BGMFileName": "15 BGM_Empty",
+    "Marriage_Scene": 0
+  },
+  "Cut_Ch01Ev22Stage07_2": {
+    "FileName": "DG_Ch01Ev22Stage07_2",
     "BGMFileName": "15 BGM_Empty",
     "Marriage_Scene": 0
   }

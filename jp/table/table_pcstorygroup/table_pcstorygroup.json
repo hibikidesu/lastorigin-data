@@ -477,5 +477,21 @@
       "Story_Char_PECS_Mnemosyne_N_29_PECS_Mnemosyne_2",
       "Story_Char_PECS_Mnemosyne_N_29_PECS_Mnemosyne_3"
     ]
+  },
+  "PCStory_CH_PECS_Cerberus_1": {
+    "StoryType": 0,
+    "StoryName": "1002200441",
+    "PCInvenIcon": "InvenIcon_PECS_Cerberus_N",
+    "PCName": "1000200035",
+    "SquadStoryIcon": "UI_TroopIcon_CityGuard",
+    "SquadStoryString": "Squad_Story_Name_CityGuard",
+    "PCStoryNo": 31,
+    "PCStoryIndex": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_1",
+      "Story_Char_PECS_Cerberus_N_31_PECS_MightyR_2",
+      "Story_Char_PECS_Cerberus_N_31_PECS_Sadius_3",
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_4",
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_5"
+    ]
   }
 }

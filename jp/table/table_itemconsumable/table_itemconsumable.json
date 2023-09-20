@@ -3858,7 +3858,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "CharTicket_Char_PECS_MissSafety_N": {
     "ItemName": "1000200008",
@@ -4722,7 +4722,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "CharTicket_Char_BR_Leona_N": {
     "ItemName": "1000200038",
@@ -14199,7 +14199,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "CharTicket_Char_BR_Echidna_N": {
     "ItemName": "1000200111",
@@ -15981,7 +15981,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "Metal_100": {
     "ItemName": "1001101062",
@@ -21003,7 +21003,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "Skin_3P_BlackWyrm_1": {
     "ItemName": "1001101353",
@@ -21917,7 +21917,7 @@
     "DropDesc": "",
     "IsGiftItem": 0,
     "Usable_PC": "",
-    "Mail_Link_PC": "\uc0ac\uc6a9",
+    "Mail_Link_PC": "Char_BR_Lindwurm_N",
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
@@ -23190,7 +23190,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "CharTicket_Char_AGS_Goltarion_N": {
     "ItemName": "1001101495",
@@ -41172,7 +41172,7 @@
     "ProductType": 0,
     "Is_SkinItem": 0,
     "Is_RBReward": 0,
-    "Icon_Atlas": 0
+    "Icon_Atlas": 2
   },
   "Skin_3P_Titania_2": {
     "ItemName": "SkinName_Skin_3P_Titania_2",
@@ -48760,5 +48760,140 @@
     "Is_SkinItem": 1,
     "Is_RBReward": 0,
     "Icon_Atlas": 1
+  },
+  "Skin_BR_Vargr_0": {
+    "ItemName": "SkinName_Skin_BR_Vargr_0",
+    "ItemDesc": "SkinDesc_Skin_BR_Vargr_0",
+    "ItemType": 4,
+    "ItemSubType": 12,
+    "ItemGrade": 5,
+    "CountLimit": 9999999,
+    "ItemUseType": 1,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "Skin_BR_Vargr_0",
+    "ImgName": "UI_Icon_Skin_BR_Vargr_0",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 1,
+    "Usable_PC": "Char_BR_Vargr_N",
+    "Mail_Link_PC": "",
+    "ProductType": 0,
+    "Is_SkinItem": 1,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 3
+  },
+  "Skin_BR_Djinnia_1": {
+    "ItemName": "SkinName_Skin_BR_Djinnia_1",
+    "ItemDesc": "SkinDesc_Skin_BR_Djinnia_1",
+    "ItemType": 4,
+    "ItemSubType": 12,
+    "ItemGrade": 5,
+    "CountLimit": 9999999,
+    "ItemUseType": 1,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "Skin_BR_Djinnia_1",
+    "ImgName": "UI_Icon_Skin_BR_Djinnia_1",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 1,
+    "Usable_PC": "Char_BR_Djinnia_N",
+    "Mail_Link_PC": "",
+    "ProductType": 0,
+    "Is_SkinItem": 1,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 3
+  },
+  "Shop_Package_Skin_BR_Djinnia_1": {
+    "ItemName": "SkinPackName_Skin_BR_Djinnia_1",
+    "ItemDesc": "SkinPackDesc_Skin_BR_Djinnia_1",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 5,
+    "CountLimit": 9999999,
+    "ItemUseType": 0,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "Shop_Package_Skin_BR_Djinnia_1",
+    "ImgName": "UI_Icon_SkinPack_BR_Djinnia_1",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "",
+    "ProductType": 1,
+    "Is_SkinItem": 1,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 1
+  },
+  "Ev_Consumable_DS_Script": {
+    "ItemName": "ConsumableName_Ev_Consumable_DS_Script",
+    "ItemDesc": "ConsumableDesc_Ev_Consumable_DS_Script",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 4,
+    "CountLimit": 9999999,
+    "ItemUseType": 1,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "0",
+    "ImgName": "Ev_Consumable_DS_Script",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "",
+    "ProductType": 0,
+    "Is_SkinItem": 0,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 2
+  },
+  "CharTicket_Char_PECS_Olivia_N": {
+    "ItemName": "ConsumableName_CharTicket_Char_PECS_Olivia_N",
+    "ItemDesc": "ConsumableDesc_CharTicket_Char_PECS_Olivia_N",
+    "ItemType": 4,
+    "ItemSubType": 37,
+    "ItemGrade": 5,
+    "CountLimit": 9999999,
+    "ItemUseType": 0,
+    "IsExpire": 0,
+    "Price": 0,
+    "IsResell": 0,
+    "ResellCoin": 0,
+    "StackCount": 9999999,
+    "FunctionIndex": "CharTicket_Char_PECS_Olivia_N",
+    "ImgName": "InvenIcon_PECS_Olivia_N",
+    "DropImg": [
+      "0"
+    ],
+    "DropDesc": "0",
+    "IsGiftItem": 0,
+    "Usable_PC": "",
+    "Mail_Link_PC": "Char_PECS_Olivia_N",
+    "ProductType": 0,
+    "Is_SkinItem": 0,
+    "Is_RBReward": 0,
+    "Icon_Atlas": 0
   }
 }

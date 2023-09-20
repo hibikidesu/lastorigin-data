@@ -3148,10 +3148,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_71",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_01",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_71": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3193,10 +3193,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_72",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_02",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_72": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3238,10 +3238,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_73",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_03",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_73": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3283,10 +3283,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_74",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_04",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_74": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3328,10 +3328,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_75",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_05",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_75": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3373,10 +3373,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_76",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_06",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_76": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3418,10 +3418,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_77",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_07",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_77": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3463,10 +3463,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_78",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_08",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_78": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3508,10 +3508,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_79",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_09",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_79": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3598,10 +3598,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_81",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_10",
     "Bgm_Sound": "52 BGM_Funeral_For_Mom",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_81": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3643,10 +3643,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_82",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_11",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_82": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3688,10 +3688,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_83",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_12",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_83": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3733,10 +3733,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_84",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_13",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_84": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3778,10 +3778,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_85",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_14",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_85": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3823,10 +3823,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_86",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_15",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_86": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3868,10 +3868,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_87",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_16",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_87": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3913,10 +3913,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_88",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_17",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_88": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -3958,10 +3958,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_89",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_18",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_89": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4003,10 +4003,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_90",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_19",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_90": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4048,10 +4048,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_91",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_20",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_91": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4093,10 +4093,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_92",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_21",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_92": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4138,10 +4138,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_93",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_22",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_93": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4183,10 +4183,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_94",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_23",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_94": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4228,10 +4228,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_95",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_24",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_95": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4273,10 +4273,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_96",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_25",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_96": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4318,10 +4318,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_97",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_26",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_97": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4363,10 +4363,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_98",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_27",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_98": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4408,10 +4408,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_99",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_28",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_99": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4453,10 +4453,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_100",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_29",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_100": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4498,10 +4498,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_101",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_30",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_101": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4543,10 +4543,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_102",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_31",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_102": {
     "Dialog_Group": "DG_Ch10Stage01e_2",
@@ -4588,10 +4588,10 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage01e_2_103",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_32",
     "Bgm_Sound": "",
-    "Voice_Skip": 0
+    "Voice_Skip": 1
   },
   "DG_Ch10Stage01e_2_103": {
     "Dialog_Group": "DG_Ch10Stage01e_2",

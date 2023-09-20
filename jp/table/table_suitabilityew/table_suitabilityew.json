@@ -163,6 +163,24 @@
     "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_17",
     "BuffEffectLV": 1
   },
+  "18": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_Poseidon"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_18",
+    "BuffEffectLV": 1
+  },
+  "19": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_GuardianSeries"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_19",
+    "BuffEffectLV": 1
+  },
   "101": {
     "Squad_All": 0,
     "Squad_Key": [],
@@ -480,6 +498,731 @@
       "Char_AGS_Arachne_N"
     ],
     "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_126",
+    "BuffEffectLV": 1
+  },
+  "127": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_WatcherOfNature"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_127",
+    "BuffEffectLV": 1
+  },
+  "128": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_EmpressHound"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_128",
+    "BuffEffectLV": 1
+  },
+  "129": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Muse_N",
+      "Char_PECS_Carolina_N",
+      "Char_BR_Spriggan_N",
+      "Char_PECS_Orangeade_N",
+      "Char_PECS_Erato_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_129",
+    "BuffEffectLV": 1
+  },
+  "130": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Ran_N",
+      "Char_PECS_Tiequan_N",
+      "Char_DS_Cloverace_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_130",
+    "BuffEffectLV": 1
+  },
+  "131": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Triton_N",
+      "Char_AGS_Gigantes_N",
+      "Char_AGS_Tyrant_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_131",
+    "BuffEffectLV": 1
+  },
+  "132": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Titania_N",
+      "Char_3P_Melite_N",
+      "Char_DS_Faucre_N",
+      "Char_PECS_QueenMane_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_132",
+    "BuffEffectLV": 1
+  },
+  "133": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_DS_Johanna_N",
+      "Char_AGS_RheinRitter_N",
+      "Char_ST_Lancer_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_133",
+    "BuffEffectLV": 1
+  },
+  "134": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Maria_N",
+      "Char_BR_Andvari_N",
+      "Char_BR_Tomoe_N",
+      "Char_PECS_DarkElf_N",
+      "Char_3P_Alexandra_N",
+      "Char_PECS_MightyR_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_134",
+    "BuffEffectLV": 1
+  },
+  "135": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_DutchGirl_N",
+      "Char_PECS_TommyWalker_N",
+      "Char_PECS_Drone_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_PECS_Babariana_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_135",
+    "BuffEffectLV": 1
+  },
+  "136": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Sunny_N",
+      "Char_3P_SnowFeather_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_136",
+    "BuffEffectLV": 1
+  },
+  "137": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Draculina_N",
+      "Char_BR_WarWolf_N",
+      "Char_3P_Annie_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_137",
+    "BuffEffectLV": 1
+  },
+  "1001": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Scathy_N",
+      "Char_BR_Hraesvelgr_N",
+      "Char_AGS_Arachne_N",
+      "Char_AGS_Watcher_N",
+      "Char_PECS_BS_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1001",
+    "BuffEffectLV": 1
+  },
+  "1002": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_Walhalla_1",
+      "Squad_Walhalla_2"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1002",
+    "BuffEffectLV": 1
+  },
+  "1003": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_AGS_Shade_N",
+      "Char_BR_Phantom_N",
+      "Char_BR_Amy_N",
+      "Char_BR_Shirayuri_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1003",
+    "BuffEffectLV": 1
+  },
+  "1004": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_Mermaid"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1004",
+    "BuffEffectLV": 1
+  },
+  "1005": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_AACannonier_1"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1005",
+    "BuffEffectLV": 1
+  },
+  "1006": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_AGSRoboTech_1",
+      "Squad_AGSRoboTech_3",
+      "Squad_AGSRoboTech_4"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1006",
+    "BuffEffectLV": 1
+  },
+  "1007": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_SteelLine_1",
+      "Squad_SteelLine_2"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1007",
+    "BuffEffectLV": 1
+  },
+  "1008": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_AngerOfTheHorde_1",
+      "Squad_AngerOfTheHorde_2"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1008",
+    "BuffEffectLV": 1
+  },
+  "1009": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_ArmoredMaiden_1"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1009",
+    "BuffEffectLV": 1
+  },
+  "1010": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_Horizon_1"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1010",
+    "BuffEffectLV": 1
+  },
+  "1011": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_SkyKnight_1",
+      "Squad_SkyKnight_2"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1011",
+    "BuffEffectLV": 1
+  },
+  "1012": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_DoomBringer_1",
+      "Squad_DoomBringer_2"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1012",
+    "BuffEffectLV": 1
+  },
+  "1013": {
+    "Squad_All": 0,
+    "Squad_Key": [
+      "Squad_Kouhei"
+    ],
+    "CharIndexString": [],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1013",
+    "BuffEffectLV": 1
+  },
+  "1014": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_DS_Arman_N",
+      "Char_AGS_Aeda_N",
+      "Char_BR_InvDragon_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1014",
+    "BuffEffectLV": 1
+  },
+  "1015": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_RoyalArsenal_N",
+      "Char_BR_Khan_N",
+      "Char_BR_Marie_N",
+      "Char_BR_Leona_N",
+      "Char_3P_Labiata_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_1015",
+    "BuffEffectLV": 1
+  },
+  "9134": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Maria_N",
+      "Char_BR_Andvari_N",
+      "Char_BR_Tomoe_N",
+      "Char_PECS_DarkElf_N",
+      "Char_3P_Alexandra_N",
+      "Char_PECS_MightyR_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_9134",
+    "BuffEffectLV": 1
+  },
+  "138": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Ajax_N",
+      "Char_PECS_CyclopsePrincess_N",
+      "Char_PECS_BlindPrincess_N",
+      "Char_PECS_Leanne_N",
+      "Char_BR_Phantom_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_138",
+    "BuffEffectLV": 1
+  },
+  "139": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Audrey_N",
+      "Char_BR_Vargr_N",
+      "Char_PECS_Triton_N",
+      "Char_PECS_LemonadeAlpha_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_139",
+    "BuffEffectLV": 1
+  },
+  "140": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_AGS_Roc_N",
+      "Char_PECS_Machina_N",
+      "Char_DS_Azazel_N",
+      "Char_AGS_MrAlfred2_N",
+      "Char_AGS_Tyrant_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_140",
+    "BuffEffectLV": 1
+  },
+  "141": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Circe_N",
+      "Char_PECS_BS_N",
+      "Char_BR_WarWolf_N",
+      "Char_3P_Annie_N",
+      "Char_PECS_Sonia_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_141",
+    "BuffEffectLV": 1
+  },
+  "142": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Eternity_N",
+      "Char_3P_BlackLilith_N",
+      "Char_DS_Saraqael_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_142",
+    "BuffEffectLV": 1
+  },
+  "143": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Marie_N",
+      "Char_BR_Emily_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Lindwurm_N",
+      "Char_DS_Arman_N",
+      "Char_PECS_Babariana_N",
+      "Char_BR_Andvari_N",
+      "Char_BR_Shirayuri_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_143",
+    "BuffEffectLV": 1
+  },
+  "144": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Frigga_N",
+      "Char_PECS_Sekhmet_N",
+      "Char_PECS_HighElven_N",
+      "Char_DS_KunoichiEnrai_N",
+      "Char_3P_Maria_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_144",
+    "BuffEffectLV": 1
+  },
+  "145": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_DS_BunnySlayer_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_StratoAngel_N",
+      "Char_3P_Titania_N",
+      "Char_3P_Rhea_N",
+      "Char_PECS_Triaina_N",
+      "Char_PECS_Hussar_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_145",
+    "BuffEffectLV": 1
+  },
+  "146": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_Hachiko_N",
+      "Char_BR_Vargr_N",
+      "Char_BR_Shirayuri_N",
+      "Char_3P_Hirume_N",
+      "Char_3P_Fenrir_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_146",
+    "BuffEffectLV": 1
+  },
+  "147": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_BlackLilith_N",
+      "Char_3P_Alexandra_N",
+      "Char_3P_Alice_N",
+      "Char_PECS_Sonia_N",
+      "Char_PECS_Sadius_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_147",
+    "BuffEffectLV": 1
+  },
+  "148": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Andvari_N",
+      "Char_3P_Hirume_N",
+      "Char_BR_Alvis_N",
+      "Char_PECS_LRL_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_148",
+    "BuffEffectLV": 1
+  },
+  "149": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Impet_N",
+      "Char_BR_Scarabya_N",
+      "Char_BR_PXSilky_N",
+      "Char_BR_Kheshig_N",
+      "Char_BR_Andvari_N",
+      "Char_BR_RoyalArsenal_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_149",
+    "BuffEffectLV": 1
+  },
+  "150": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Brownie_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Salamander_N",
+      "Char_BR_Hyena_N",
+      "Char_PECS_PuppHead_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_150",
+    "BuffEffectLV": 1
+  },
+  "151": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_SandMan_N",
+      "Char_BR_RoyalArsenal_N",
+      "Char_BR_BloodyPanther_N",
+      "Char_BR_Calista_N",
+      "Char_BR_Sirene_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_151",
+    "BuffEffectLV": 1
+  },
+  "152": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_DS_KunoichiEnrai_N",
+      "Char_DS_KunoichiZero_N",
+      "Char_DS_KunoichiKaen_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_152",
+    "BuffEffectLV": 1
+  },
+  "153": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_3P_CSPerrault_N",
+      "Char_3P_Hachiko_N",
+      "Char_3P_Fenrir_N",
+      "Char_3P_Poi_N",
+      "Char_3P_Hirume_N",
+      "Char_BR_Vargr_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_153",
+    "BuffEffectLV": 1
+  },
+  "154": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Miho_N",
+      "Char_BR_Amy_N",
+      "Char_BR_Valkyrie_N",
+      "Char_BR_RoyalArsenal_N",
+      "Char_ST_Ullr_N",
+      "Char_BR_ALWraith_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_154",
+    "BuffEffectLV": 1
+  },
+  "155": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Vargr_N",
+      "Char_DS_Johanna_N",
+      "Char_3P_Labiata_N",
+      "Char_ST_Tiamat_N",
+      "Char_DS_Charlotte_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_155",
+    "BuffEffectLV": 1
+  },
+  "156": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Draculina_N",
+      "Char_PECS_CyclopsePrincess_N",
+      "Char_DS_Faucre_N",
+      "Char_PECS_Lumberjane_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_156",
+    "BuffEffectLV": 1
+  },
+  "157": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Vargr_N",
+      "Char_3P_Fenrir_N",
+      "Char_3P_Eternity_N",
+      "Char_PECS_Cerberus_N",
+      "Char_3P_Hachiko_N",
+      "Char_PECS_PuppHead_N",
+      "Char_AGS_Tyrant_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_157",
+    "BuffEffectLV": 1
+  },
+  "158": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Wraithy_N",
+      "Char_BR_Marie_N",
+      "Char_3P_Aurora_N",
+      "Char_BR_Neodym_N",
+      "Char_BR_Brunhild_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_158",
+    "BuffEffectLV": 1
+  },
+  "159": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Hela_N",
+      "Char_AGS_Goltarion_N",
+      "Char_PECS_TommyWalker_N",
+      "Char_PECS_Drone_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_159",
+    "BuffEffectLV": 1
+  },
+  "160": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Draculina_N",
+      "Char_PECS_Azaz_N",
+      "Char_PECS_Ignis_N",
+      "Char_PECS_MightyR_N",
+      "Char_PECS_CoCoWhiteShell_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_160",
+    "BuffEffectLV": 1
+  },
+  "161": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Draculina_N",
+      "Char_PECS_LRL_N",
+      "Char_BR_Amy_N",
+      "Char_PECS_Azaz_N",
+      "Char_PECS_Mery_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_PECS_Audrey_N",
+      "Char_PECS_TaylorClothcut_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_161",
+    "BuffEffectLV": 1
+  },
+  "162": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_AGS_Stronghold_N",
+      "Char_BR_Ellie_N",
+      "Char_BR_Marie_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_162",
+    "BuffEffectLV": 1
+  },
+  "163": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Peregrinus_N",
+      "Char_AGS_Goltarion_N",
+      "Char_AGS_MrAlfred2_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_163",
+    "BuffEffectLV": 1
+  },
+  "164": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_ST_Lancer_N",
+      "Char_DS_Johanna_N",
+      "Char_AGS_Albatross_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_164",
+    "BuffEffectLV": 1
+  },
+  "165": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Marie_N",
+      "Char_BR_Khan_N",
+      "Char_BR_Leona_N",
+      "Char_BR_RoyalArsenal_N",
+      "Char_BR_May_N",
+      "Char_AGS_Stronghold_N",
+      "Char_AGS_SpartanC_N",
+      "Char_AGS_Tyrant_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_165",
+    "BuffEffectLV": 1
+  },
+  "166": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Ella_N",
+      "Char_BR_Salamander_N",
+      "Char_DS_Charlotte_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Hyena_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_166",
+    "BuffEffectLV": 1
+  },
+  "167": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_AGS_Watcher_N",
+      "Char_ST_Mercury_N",
+      "Char_BR_DrM_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_167",
+    "BuffEffectLV": 1
+  },
+  "168": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_MissSafety_N",
+      "Char_PECS_Leanne_N",
+      "Char_BR_Amy_N",
+      "Char_BR_WarWolf_N",
+      "Char_3P_BlackLilith_N",
+      "Char_3P_Annie_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_168",
+    "BuffEffectLV": 1
+  },
+  "9159": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_BR_Hela_N",
+      "Char_AGS_Goltarion_N",
+      "Char_PECS_TommyWalker_N",
+      "Char_PECS_Drone_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_9159",
+    "BuffEffectLV": 1
+  },
+  "9161": {
+    "Squad_All": 0,
+    "Squad_Key": [],
+    "CharIndexString": [
+      "Char_PECS_Draculina_N",
+      "Char_PECS_LRL_N",
+      "Char_BR_Amy_N",
+      "Char_PECS_Azaz_N",
+      "Char_PECS_Mery_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_PECS_Audrey_N",
+      "Char_PECS_TaylorClothcut_N"
+    ],
+    "BuffEffectIndex": "Effect_BUFF_SuitabilityEW_N_9161",
     "BuffEffectLV": 1
   }
 }

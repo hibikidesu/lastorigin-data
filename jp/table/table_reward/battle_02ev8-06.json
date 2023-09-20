@@ -24,18 +24,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -43,8 +41,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -97,18 +93,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -116,8 +110,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -170,18 +162,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -189,8 +179,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -243,18 +231,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -262,8 +248,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -316,18 +300,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -335,8 +317,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -389,18 +369,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -408,8 +386,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -462,18 +438,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -481,8 +455,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -535,18 +507,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -554,8 +524,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -608,18 +576,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
+      0,
+      0,
       0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
       "RobotParts_CalculationControl",
@@ -627,8 +593,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.5",
       "0.5",
       "0.5",
@@ -681,18 +645,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
-      1
+      1,
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_AntiTrooperAir_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -701,8 +663,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.5",
       "0.5",
@@ -756,18 +716,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
-      1
+      1,
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_AntiTrooperAir_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -776,8 +734,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.5",
       "0.5",
@@ -831,18 +787,16 @@
     "PowerMax": 0,
     "PowerRate": "0",
     "ItemCount": [
-      43,
-      3,
       1,
       1,
       1,
       1,
       1,
-      1
+      1,
+      0,
+      0
     ],
     "ItemIndexString": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_AntiTrooperAir_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -851,8 +805,6 @@
       "RobotParts_MPParts"
     ],
     "ItemRate": [
-      "0.25",
-      "0.25",
       "0.005",
       "0.5",
       "0.5",

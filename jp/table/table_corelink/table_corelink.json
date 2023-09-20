@@ -3387,5 +3387,19 @@
     "FullLink_Bonus_Type3": "Core_Bonus_ACC_75",
     "FullLink_Bonus_Type4": "Core_Bonus_Buff_2",
     "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
+  },
+  "Char_PECS_Olivia_N": {
+    "PC_Key": "Char_PECS_Olivia_N",
+    "Link_Bonus": [
+      "Core_Bonus_HP_20",
+      "Core_Bonus_ATK_20",
+      "Core_Bonus_ACC_5",
+      "Core_Bonus_Exp_5"
+    ],
+    "FullLink_Bonus_Type1": "Core_Bonus_Cost_20",
+    "FullLink_Bonus_Type2": "Core_Bonus_Cri_20",
+    "FullLink_Bonus_Type3": "Core_Bonus_Range_1",
+    "FullLink_Bonus_Type4": "Core_Bonus_ACC_75",
+    "FullLink_Bonus_Type5": "Core_Bonus_SPD_10"
   }
 }

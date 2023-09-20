@@ -3872,5 +3872,145 @@
     "DgEndTriggerValue": "Cut_ChCS-33Stage03_1",
     "DgTriggerHide": 0,
     "DialogPCKeyString": "Char_PECS_Mnemosyne_N"
+  },
+  "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_1": {
+    "StoryNo": 132,
+    "StoryFileName": "1002200442",
+    "StoryDesc": "1002200447",
+    "StoryFileCharIcon": "InvenIcon_PECS_Cerberus_N",
+    "StoryFileNo": "1",
+    "StoryFile_Next": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_MightyR_2"
+    ],
+    "StartStoryDialog": "Cut_ChCS-35Stage01_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 8,
+    "DgStartTriggerValue1": [
+      "Char_PECS_Cerberus_N"
+    ],
+    "DgStartTriggerValueSub1": [
+      "80"
+    ],
+    "DgStartTriggerString1": "1002200452",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-35Stage01_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Cerberus_N"
+  },
+  "Story_Char_PECS_Cerberus_N_31_PECS_MightyR_2": {
+    "StoryNo": 133,
+    "StoryFileName": "1002200443",
+    "StoryDesc": "1002200448",
+    "StoryFileCharIcon": "InvenIcon_PECS_MightyR_PS1",
+    "StoryFileNo": "2",
+    "StoryFile_Next": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Sadius_3"
+    ],
+    "StartStoryDialog": "Cut_ChCS-35Stage02_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_1"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200453",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-35Stage02_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Cerberus_N"
+  },
+  "Story_Char_PECS_Cerberus_N_31_PECS_Sadius_3": {
+    "StoryNo": 134,
+    "StoryFileName": "1002200444",
+    "StoryDesc": "1002200449",
+    "StoryFileCharIcon": "InvenIcon_PECS_Sadius_N",
+    "StoryFileNo": "3",
+    "StoryFile_Next": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_4"
+    ],
+    "StartStoryDialog": "Cut_ChCS-35Stage03_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_MightyR_2"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200454",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-35Stage03_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Cerberus_N"
+  },
+  "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_4": {
+    "StoryNo": 135,
+    "StoryFileName": "1002200445",
+    "StoryDesc": "1002200450",
+    "StoryFileCharIcon": "InvenIcon_PECS_Cerberus_N",
+    "StoryFileNo": "4",
+    "StoryFile_Next": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_5"
+    ],
+    "StartStoryDialog": "Cut_ChCS-35Stage04_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Sadius_3"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200455",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-35Stage04_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Cerberus_N"
+  },
+  "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_5": {
+    "StoryNo": 136,
+    "StoryFileName": "1002200446",
+    "StoryDesc": "1002200451",
+    "StoryFileCharIcon": "InvenIcon_PECS_Cerberus_N",
+    "StoryFileNo": "5",
+    "StoryFile_Next": [],
+    "StartStoryDialog": "Cut_ChCS-35Stage05_1",
+    "EndStoryDialog": "",
+    "DgStageOpen": "",
+    "DgStartTriggerType1": 6,
+    "DgStartTriggerValue1": [
+      "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_4"
+    ],
+    "DgStartTriggerValueSub1": [],
+    "DgStartTriggerString1": "1002200456",
+    "DgStartTriggerType2": 12,
+    "DgStartTriggerValue2": [],
+    "DgStartTriggerValueSub2": [],
+    "DgStartTriggerString2": "1000635565",
+    "DGTRIGGERTYPE": 0,
+    "DgEndTriggerType": 0,
+    "DgEndTriggerValue": "Cut_ChCS-35Stage05_1",
+    "DgTriggerHide": 0,
+    "DialogPCKeyString": "Char_PECS_Cerberus_N"
   }
 }

@@ -2945,5 +2945,40 @@
     "Marriage_VoicePrefab": "",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
+  },
+  "Marriage_Olivia": {
+    "Marriage_CutScene": "Cut_Marriage_Olivia",
+    "Marriage_LobbyScript": "LobbyScript_PECS_Olivia_MR",
+    "Marriage_VoicePrefab": "Char_PECS_Olivia_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_WarWolf_NS2": {
+    "Marriage_CutScene": "Cut_Marriage_WarWolf_NS2",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Aurora_NS3": {
+    "Marriage_CutScene": "Cut_Marriage_Aurora_NS3",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Djinnia_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Djinnia_NS1",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Vargr_NS0": {
+    "Marriage_CutScene": "Cut_Marriage_Vargr_NS0",
+    "Marriage_LobbyScript": "LobbyScript_BR_Vargr_NS0_MR",
+    "Marriage_VoicePrefab": "Char_BR_Vargr_NS0_MR_Voice",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
   }
 }

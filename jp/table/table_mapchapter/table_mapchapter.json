@@ -598,5 +598,17 @@
     "ChapterSearch_IDX": "10",
     "Chapter_3DWorldMap": "3D_worldmap_A10_1",
     "Chapter_PrefabName": ""
+  },
+  "Chapter_01Ev22": {
+    "ChapterName": "MapChaterName_Chapter_01Ev22",
+    "GameModeType": 4,
+    "StartCutsceneIndex": "0",
+    "ChapterMapImg": "UI_Record_Chapter_01Ev22",
+    "ChapterString": "Event22_Chapter01",
+    "Event_Category": "Open_Event22",
+    "Chapter_IDX": 1,
+    "ChapterSearch_IDX": "Ev1",
+    "Chapter_3DWorldMap": "3D_worldmap_2023_JPEvent01_E1",
+    "Chapter_PrefabName": "Prefab_Event22_Chapter01"
   }
 }

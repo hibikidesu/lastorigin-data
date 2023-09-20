@@ -5452,5 +5452,32 @@
     "PCModelID": "Model_PECS_TaylorClothcut_N",
     "PCInvenIconID": "InvenIcon_PECS_TaylorClothcut_N",
     "Collection_Reward": "COLLECTION_Squad-01"
+  },
+  "Char_PECS_Olivia_N": {
+    "Char_BodyType": 0,
+    "Char_Number": 98,
+    "Char_Key": "Char_PECS_Olivia_N",
+    "Troop_Category": "Squad_GoldenWorkers_2",
+    "Char_Name": "CharName_Char_PECS_Olivia_N",
+    "Char_Name_EngDisp": "Olivia Starsewer",
+    "Char_Grade": 4,
+    "Char_Class": 0,
+    "Char_Role": 1,
+    "Char_Height": "182cm",
+    "Char_Weight": "0.00006 kt",
+    "Char_Voice": "Olivia",
+    "Char_WeaponDesc1": "CharWeaponDesc1_Char_PECS_Olivia_N",
+    "Char_WeaponDesc2": "CharWeaponDesc2_Char_PECS_Olivia_N",
+    "Char_AtkDisp": 7,
+    "Char_AtkRateDisp": 10,
+    "Char_SpeedDisp": 7,
+    "Char_HpDisp": 3,
+    "Char_DefDisp": 2,
+    "Char_AssistDisp": 4,
+    "Char_Desc": "CharDesc_Char_PECS_Olivia_N",
+    "PCFullbodyID": "FullbodyIMG_PECS_Olivia_N",
+    "PCModelID": "Model_PECS_Olivia_N",
+    "PCInvenIconID": "InvenIcon_PECS_Olivia_N",
+    "Collection_Reward": "COLLECTION_Squad-01"
   }
 }

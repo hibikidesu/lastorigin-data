@@ -16,5 +16,11 @@
     "ChapterDec": "ChapterEWDesc_Ch_EW03",
     "ChapterImg": "EW_Chapter_03",
     "ChapterOrder": 2
+  },
+  "Ch_EW04": {
+    "ChapterName": "ChapterEWName_Ch_EW04",
+    "ChapterDec": "ChapterEWDesc_Ch_EW04",
+    "ChapterImg": "EW_Chapter_04",
+    "ChapterOrder": 3
   }
 }

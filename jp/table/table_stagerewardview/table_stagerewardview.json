@@ -5853,8 +5853,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Atk_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5875,8 +5873,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Acc_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5897,8 +5893,6 @@
       "Char_BR_SandMan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Def_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5919,8 +5913,6 @@
       "Char_BR_Djinnia_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Ev_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5941,8 +5933,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Sub_Observer_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5963,8 +5953,6 @@
       "Char_BR_Gremlin_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_LTWT_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -5985,8 +5973,6 @@
       "Char_3P_Aqua_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_Highspd_T4",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -6008,8 +5994,6 @@
       "Char_BR_Leprechaun_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Sub_AntiBarrier_T4",
       "Equip_Chip_Spd_T4",
       "Equip_Chip_Spd_T3",
@@ -6031,8 +6015,6 @@
       "Char_3P_Aqua_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Debuff_Res_T4",
       "Equip_Sub_Stimulant_T4",
       "Equip_Sub_Stimulant_T3",
@@ -6065,8 +6047,6 @@
       "Char_PECS_MissSafety_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Hp_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -6088,8 +6068,6 @@
       "Char_BR_SandMan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Ev_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -6111,8 +6089,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_LTWT_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -6134,8 +6110,6 @@
       "Char_BR_Wraithy_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_Cri_T3",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -6161,8 +6135,6 @@
       "Char_BR_Brownie_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_Chip_SpAtk_T4",
       "Equip_Chip_Atk_T1",
       "Equip_Chip_Acc_T1",
@@ -6185,8 +6157,6 @@
       "Char_BR_SandMan_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_AntiTrooperAir_T4",
       "RobotParts_Weapon",
       "RobotParts_AlloyArmor",
@@ -6207,8 +6177,6 @@
       "Char_BR_WarWolf_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_AntiAirArmor_T4",
       "Equip_Chip_AtkCri_T4",
       "Equip_Chip_AtkCri_T3",
@@ -6231,8 +6199,6 @@
       "Char_PECS_DutchGirl_N"
     ],
     "Reward_Item": [
-      "Ev_Consumable_Evidence3rd",
-      "Ev_Consumable_Evidence2nd",
       "Equip_System_AntiArmorTrooper_T4",
       "Equip_Chip_AtkControl_T4",
       "Equip_Chip_AtkControl_T3",
@@ -12177,5 +12143,2075 @@
     "Stage_Key": "Ch10Stage04Ex",
     "Reward_Char": [],
     "Reward_Item": []
+  },
+  "RewardView_Ch01Ev19Stage03": {
+    "Stage_Key": "Ch01Ev19Stage03",
+    "Reward_Char": [
+      "Char_3P_Annie_N",
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_PECS_DarkElf_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Gnome_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_System_Normal_T3",
+      "Equip_System_Normal_T2",
+      "Equip_System_Normal_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage05": {
+    "Stage_Key": "Ch01Ev19Stage05",
+    "Reward_Char": [
+      "Char_PECS_Circe_N",
+      "Char_BR_Sylphid_N",
+      "Char_BR_Scathy_N",
+      "Char_PECS_LRL_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_DS_Johanna_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_System_Assault_T3",
+      "Equip_System_Assault_T2",
+      "Equip_System_Assault_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage06": {
+    "Stage_Key": "Ch01Ev19Stage06",
+    "Reward_Char": [
+      "Char_SJ_Orellia_N",
+      "Char_SJ_Tachi_N",
+      "Char_BR_Spriggan_N",
+      "Char_BR_Habetrot_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Wraithy_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_System_Defense_T3",
+      "Equip_System_Defense_T2",
+      "Equip_System_Defense_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage07": {
+    "Stage_Key": "Ch01Ev19Stage07",
+    "Reward_Char": [
+      "Char_3P_BlackLilith_N",
+      "Char_3P_Hachiko_N",
+      "Char_3P_SnowFeather_N",
+      "Char_3P_Maria_N",
+      "Char_BR_Io_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_WarWolf_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_System_Sniper_T3",
+      "Equip_System_Sniper_T2",
+      "Equip_System_Sniper_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage08": {
+    "Stage_Key": "Ch01Ev19Stage08",
+    "Reward_Char": [
+      "Char_BR_Leona_N",
+      "Char_BR_Valkyrie_N",
+      "Char_BR_StratoAngel_N",
+      "Char_BR_Alvis_N",
+      "Char_BR_Andvari_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Djinnia_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_System_Highspd_T3",
+      "Equip_System_Highspd_T2",
+      "Equip_System_Highspd_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage04B": {
+    "Stage_Key": "Ch01Ev19Stage04B",
+    "Reward_Char": [
+      "Char_BR_May_N",
+      "Char_BR_ALWraith_N",
+      "Char_BR_NightAngel_N",
+      "Char_BR_Daika_N",
+      "Char_BR_Banshee_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_Impet_N",
+      "Char_PECS_LRL_N",
+      "Char_AGS_Fallen_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_CM67SpaceBooster_T4",
+      "Equip_Sub_Recycler_T4",
+      "Equip_Sub_Recycler_T3",
+      "Equip_Sub_Recycler_T2",
+      "Equip_Sub_Recycler_T1"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage05B": {
+    "Stage_Key": "Ch01Ev19Stage05B",
+    "Reward_Char": [
+      "Char_BR_Khan_N",
+      "Char_BR_Kheshig_N",
+      "Char_BR_TalonFeather_N",
+      "Char_BR_Hyena_N",
+      "Char_BR_Bheur_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Leprechaun_N",
+      "Char_DS_Johanna_N",
+      "Char_AGS_SpartanA_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_FCS_T4",
+      "Equip_Sub_AdvRadar_T4",
+      "Equip_Sub_AdvRadar_T3",
+      "Equip_Sub_AdvRadar_T2",
+      "Equip_Sub_AdvRadar_T1"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage06B": {
+    "Stage_Key": "Ch01Ev19Stage06B",
+    "Reward_Char": [
+      "Char_BR_RoyalArsenal_N",
+      "Char_BR_BeastHunter_N",
+      "Char_BR_QuickCamel_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Gnome_N",
+      "Char_3P_Fotia_N",
+      "Char_AGS_SpartanB_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_GigantesArmor_T4",
+      "Equip_Sub_Barrier_T4",
+      "Equip_Sub_Barrier_T3",
+      "Equip_Sub_Barrier_T2",
+      "Equip_Sub_Barrier_T1"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage07B": {
+    "Stage_Key": "Ch01Ev19Stage07B",
+    "Reward_Char": [
+      "Char_3P_Rhea_N",
+      "Char_3P_Dryad_N",
+      "Char_BR_Salamander_N",
+      "Char_3P_ScissorsLise_N",
+      "Char_3P_Daphne_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_Drone_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_S42Adlib_T4",
+      "Equip_Sub_AntiBarrier_T4",
+      "Equip_Sub_AntiBarrier_T3",
+      "Equip_Sub_AntiBarrier_T2",
+      "Equip_Sub_AntiBarrier_T1"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage08B": {
+    "Stage_Key": "Ch01Ev19Stage08B",
+    "Reward_Char": [
+      "Char_PECS_Leanne_N",
+      "Char_BR_Phantom_N",
+      "Char_BR_Phoenix_N",
+      "Char_PECS_Serpent_N",
+      "Char_PECS_Cerberus_N",
+      "Char_PECS_MissSafety_N",
+      "Char_AGS_Rampart_N",
+      "Char_PECS_PuppHead_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_System_HQ1Commander_T4",
+      "Equip_Sub_Hologram_T4",
+      "Equip_Sub_Hologram_T3",
+      "Equip_Sub_Hologram_T2",
+      "Equip_Sub_Hologram_T1"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage01EX": {
+    "Stage_Key": "Ch01Ev19Stage01EX",
+    "Reward_Char": [
+      "Char_PECS_Rena_N",
+      "Char_PECS_Mnemosyne_N",
+      "Char_PECS_QueenMane_N",
+      "Char_PECS_Empress_N",
+      "Char_PECS_Saetti_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Djinnia_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage02EX": {
+    "Stage_Key": "Ch01Ev19Stage02EX",
+    "Reward_Char": [
+      "Char_BR_JangHwa_N",
+      "Char_BR_HongRyun_N",
+      "Char_BR_Bulgasari_N",
+      "Char_PECS_Mery_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_WarWolf_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch01Ev19Stage03EX": {
+    "Stage_Key": "Ch01Ev19Stage03EX",
+    "Reward_Char": [
+      "Char_BR_Cheona_N",
+      "Char_3P_Hirume_N",
+      "Char_3P_Ran_N",
+      "Char_PECS_Carolina_N",
+      "Char_3P_Vanilla_N",
+      "Char_3P_ConstantiaS2_N",
+      "Char_DS_Johanna_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage01": {
+    "Stage_Key": "Ch02Ev19Stage01",
+    "Reward_Char": [
+      "Char_BR_Calista_N",
+      "Char_BR_Spriggan_N",
+      "Char_3P_Maria_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Gnome_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_Atk_T3",
+      "Equip_Chip_Atk_T2",
+      "Equip_Chip_Atk_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage02": {
+    "Stage_Key": "Ch02Ev19Stage02",
+    "Reward_Char": [
+      "Char_3P_Aurora_N",
+      "Char_BR_Bheur_N",
+      "Char_BR_Alvis_N",
+      "Char_PECS_LRL_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_DS_Johanna_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_Acc_T3",
+      "Equip_Chip_Acc_T2",
+      "Equip_Chip_Acc_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage03": {
+    "Stage_Key": "Ch02Ev19Stage03",
+    "Reward_Char": [
+      "Char_DS_MoMo_N",
+      "Char_DS_Baekto_N",
+      "Char_PECS_MightyR_N",
+      "Char_3P_Ajax_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Wraithy_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_Def_T3",
+      "Equip_Chip_Def_T2",
+      "Equip_Chip_Def_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage06": {
+    "Stage_Key": "Ch02Ev19Stage06",
+    "Reward_Char": [
+      "Char_3P_Sowan_N",
+      "Char_3P_CSPerrault_N",
+      "Char_BR_Nereid_N",
+      "Char_ST_Lancer_N",
+      "Char_PECS_Cerberus_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_WarWolf_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_Hp_T3",
+      "Equip_Chip_Hp_T2",
+      "Equip_Chip_Hp_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage08": {
+    "Stage_Key": "Ch02Ev19Stage08",
+    "Reward_Char": [
+      "Char_BR_Emily_N",
+      "Char_DS_Atalanta_N",
+      "Char_PECS_Triaina_N",
+      "Char_BR_Raven_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Djinnia_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_Debuff_Res_T3",
+      "Equip_Chip_Debuff_Res_T2",
+      "Equip_Chip_Debuff_Res_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage01B": {
+    "Stage_Key": "Ch02Ev19Stage01B",
+    "Reward_Char": [
+      "Char_BR_Neodym_N",
+      "Char_BR_PXSilky_N",
+      "Char_BR_RedHood_N",
+      "Char_BR_Habetrot_N",
+      "Char_BR_Efreeti_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_Impet_N",
+      "Char_PECS_LRL_N",
+      "Char_AGS_Fallen_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_SunCream_T4",
+      "Equip_Chip_SpAtk_T4",
+      "Equip_Chip_SpAtk_T3",
+      "Equip_Chip_SpAtk_T2",
+      "Equip_Chip_SpAtk_T1"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage02B": {
+    "Stage_Key": "Ch02Ev19Stage02B",
+    "Reward_Char": [
+      "Char_BR_Echidna_N",
+      "Char_DS_Angel_N",
+      "Char_PECS_Spartoia_N",
+      "Char_PECS_Fortune_N",
+      "Char_BR_Scathy_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_Drone_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_Bombard_T4",
+      "Equip_Chip_LTWT_T4",
+      "Equip_Chip_LTWT_T3",
+      "Equip_Chip_LTWT_T2",
+      "Equip_Chip_LTWT_T1"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage04B": {
+    "Stage_Key": "Ch02Ev19Stage04B",
+    "Reward_Char": [
+      "Char_PECS_Sadius_N",
+      "Char_PECS_Veronica_N",
+      "Char_PECS_CoCoWhiteShell_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_PECS_Hussar_N",
+      "Char_PECS_MissSafety_N",
+      "Char_AGS_Rampart_N",
+      "Char_PECS_PuppHead_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_NitroEx3000_T4",
+      "Equip_Chip_AtkControl_T4",
+      "Equip_Chip_AtkControl_T3",
+      "Equip_Chip_AtkControl_T2",
+      "Equip_Chip_AtkControl_T1"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage01EX": {
+    "Stage_Key": "Ch02Ev19Stage01EX",
+    "Reward_Char": [
+      "Char_3P_Salacia_N",
+      "Char_3P_Amphitrite_N",
+      "Char_DS_KunoichiKaen_N",
+      "Char_PECS_Ignis_N",
+      "Char_PECS_Saetti_N",
+      "Char_BR_Scathy_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Djinnia_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage02EX": {
+    "Stage_Key": "Ch02Ev19Stage02EX",
+    "Reward_Char": [
+      "Char_DS_BunnySlayer_N",
+      "Char_ST_Ullr_N",
+      "Char_DS_KunoichiZero_N",
+      "Char_PECS_BS_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Miho_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_WarWolf_N",
+      "Char_PECS_Tiequan_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage03EX": {
+    "Stage_Key": "Ch02Ev19Stage03EX",
+    "Reward_Char": [
+      "Char_AGS_Stronghold_N",
+      "Char_AGS_Albatross_N",
+      "Char_AGS_Goltarion_N",
+      "Char_AGS_Arachne_N",
+      "Char_PECS_TommyWalker_N",
+      "Char_AGS_SpartanC_N",
+      "Char_PECS_Drone_N",
+      "Char_AGS_SpartanA_N",
+      "Char_AGS_SpartanB_N",
+      "Char_AGS_Fallen_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module"
+    ]
+  },
+  "RewardView_Ch02Ev19Stage01C": {
+    "Stage_Key": "Ch02Ev19Stage01C",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch03Ev19Stage04": {
+    "Stage_Key": "Ch03Ev19Stage04",
+    "Reward_Char": [
+      "Char_SJ_Orellia_N",
+      "Char_SJ_Tachi_N",
+      "Char_BR_Habetrot_N",
+      "Char_BR_Lindwurm_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Djinnia_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_SpaceArmor_T3",
+      "Equip_Sub_SpaceArmor_T2",
+      "Equip_Sub_SpaceArmor_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage05": {
+    "Stage_Key": "Ch03Ev19Stage05",
+    "Reward_Char": [
+      "Char_BR_QuickCamel_N",
+      "Char_BR_Kheshig_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_PECS_Serpent_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_WarWolf_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_SubBooster_T3",
+      "Equip_Sub_SubBooster_T2",
+      "Equip_Sub_SubBooster_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage06": {
+    "Stage_Key": "Ch03Ev19Stage06",
+    "Reward_Char": [
+      "Char_3P_BlackWyrm_N",
+      "Char_PECS_Boryeon_N",
+      "Char_PECS_Muse_N",
+      "Char_3P_Vanilla_N",
+      "Char_BR_Scathy_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Gnome_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_ExoSkeleton_T3",
+      "Equip_Sub_ExoSkeleton_T2",
+      "Equip_Sub_ExoSkeleton_T1",
+      "RobotParts_MPParts",
+      "RobotParts_AlloyArmor",
+      "RobotParts_Weapon",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage04B": {
+    "Stage_Key": "Ch03Ev19Stage04B",
+    "Reward_Char": [
+      "Char_BR_NickyTracy_N",
+      "Char_BR_Hraesvelgr_N",
+      "Char_PECS_Sunny_N",
+      "Char_BR_Amy_N",
+      "Char_BR_Nymph_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_Impet_N",
+      "Char_PECS_LRL_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_SEyepatch_T4",
+      "Equip_Sub_SpAlloyArmor_T4",
+      "Equip_Chip_SpdTypeB_T4",
+      "Equip_Chip_SpdTypeB_T3",
+      "Equip_Chip_SpdTypeB_T2",
+      "Equip_Chip_SpdTypeB_T1"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage05B": {
+    "Stage_Key": "Ch03Ev19Stage05B",
+    "Reward_Char": [
+      "Char_3P_Alice_N",
+      "Char_DS_Angel_N",
+      "Char_BR_Blackhound_N",
+      "Char_BR_Raven_N",
+      "Char_3P_ScissorsLise_N",
+      "Char_BR_Leprechaun_N",
+      "Char_DS_Johanna_N",
+      "Char_BR_Brownie_N",
+      "Char_3P_Fotia_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_QMObserver_T4",
+      "Equip_System_EyesOfBeholderD_T4",
+      "Equip_Chip_CriTypeB_T4",
+      "Equip_Chip_CriTypeB_T3",
+      "Equip_Chip_CriTypeB_T2",
+      "Equip_Chip_CriTypeB_T1"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage06B": {
+    "Stage_Key": "Ch03Ev19Stage06B",
+    "Reward_Char": [
+      "Char_BR_Shirayuri_N",
+      "Char_BR_Thetis_N",
+      "Char_PECS_Veronica_N",
+      "Char_ST_Lancer_N",
+      "Char_3P_Daphne_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Gremlin_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_PECS_Tiequan_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Sub_AngelLegs_T4",
+      "Equip_Sub_LRCannon_T4",
+      "Equip_Chip_DefTypeB_T4",
+      "Equip_Chip_DefTypeB_T3",
+      "Equip_Chip_DefTypeB_T2",
+      "Equip_Chip_DefTypeB_T1"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage07B": {
+    "Stage_Key": "Ch03Ev19Stage07B",
+    "Reward_Char": [
+      "Char_PECS_Ella_N",
+      "Char_BR_NightAngel_N",
+      "Char_BR_Undine_N",
+      "Char_PECS_Saetti_N",
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_BR_WarWolf_N",
+      "Char_PECS_MissSafety_N",
+      "Char_PECS_LRL_N",
+      "Char_BR_Impet_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "Equip_Chip_AtkTypeB_T4",
+      "Equip_Chip_AccTypeB_T4",
+      "Equip_Chip_EvTypeB_T4",
+      "Equip_Chip_EvTypeB_T3",
+      "Equip_Chip_EvTypeB_T2",
+      "Equip_Chip_EvTypeB_T1"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage01EX": {
+    "Stage_Key": "Ch03Ev19Stage01EX",
+    "Reward_Char": [
+      "Char_3P_Frigga_N",
+      "Char_PECS_Machina_N",
+      "Char_BR_Ellie_N",
+      "Char_PECS_Babariana_N",
+      "Char_3P_Ajax_N",
+      "Char_PECS_DarkElf_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Gnome_N",
+      "Char_DS_Johanna_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage02EX": {
+    "Stage_Key": "Ch03Ev19Stage02EX",
+    "Reward_Char": [
+      "Char_PECS_Sekhmet_N",
+      "Char_ST_Mercury_N",
+      "Char_PECS_Express76_N",
+      "Char_BR_RedHood_N",
+      "Char_PECS_Fortune_N",
+      "Char_PECS_MightyR_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_Impet_N",
+      "Char_PECS_LRL_N",
+      "Char_PECS_Tiequan_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ]
+  },
+  "RewardView_Ch03Ev19Stage03EX": {
+    "Stage_Key": "Ch03Ev19Stage03EX",
+    "Reward_Char": [
+      "Char_PECS_Peregrinus_N",
+      "Char_PECS_Glacias_N",
+      "Char_AGS_Gigantes_N",
+      "Char_AGS_Shade_N",
+      "Char_AGS_Seljuq_N",
+      "Char_PECS_Stinger_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gremlin_N",
+      "Char_BR_Impet_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_BpCan",
+      "RobotParts_ExParts",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster",
+      "Advanced_Module",
+      "Consumable_OriginDust"
+    ]
+  },
+  "RewardView_ChCS-15Stage01": {
+    "Stage_Key": "ChCS-15Stage01",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_ChCS-15Stage02": {
+    "Stage_Key": "ChCS-15Stage02",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch11Stage01": {
+    "Stage_Key": "Ch11Stage01",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch11Stage02": {
+    "Stage_Key": "Ch11Stage02",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch11Stage03": {
+    "Stage_Key": "Ch11Stage03",
+    "Reward_Char": [
+      "Char_BR_Hyena_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_SandMan_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch11Stage04": {
+    "Stage_Key": "Ch11Stage04",
+    "Reward_Char": [
+      "Char_BR_Habetrot_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage05": {
+    "Stage_Key": "Ch11Stage05",
+    "Reward_Char": [
+      "Char_BR_Calista_N",
+      "Char_BR_Io_N",
+      "Char_BR_Spriggan_N",
+      "Char_BR_Efreeti_N",
+      "Char_BR_Impet_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Equip_Chip_Debuff_Res_T4",
+      "Equip_Chip_Debuff_Res_T2",
+      "Equip_Chip_Debuff_Res_T1",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch11Stage06": {
+    "Stage_Key": "Ch11Stage06",
+    "Reward_Char": [
+      "Char_BR_RoyalArsenal_N",
+      "Char_BR_BeastHunter_N",
+      "Char_BR_Pani_N",
+      "Char_BR_Gnome_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Equip_Chip_LTWT_T4",
+      "Equip_Chip_LTWT_T2",
+      "Equip_Chip_LTWT_T1",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch11Stage07": {
+    "Stage_Key": "Ch11Stage07",
+    "Reward_Char": [
+      "Char_BR_Sleipnir_N",
+      "Char_BR_Hraesvelgr_N",
+      "Char_BR_PA00EL_N",
+      "Char_BR_Leprechaun_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Equip_Chip_Cri_T4",
+      "Equip_Chip_Cri_T2",
+      "Equip_Chip_Cri_T1",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch11Stage08": {
+    "Stage_Key": "Ch11Stage08",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch11Stage01B": {
+    "Stage_Key": "Ch11Stage01B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_SEyepatch_T4",
+      "Equip_System_Normal_T3",
+      "Equip_System_Normal_T2",
+      "Equip_System_Normal_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage02B": {
+    "Stage_Key": "Ch11Stage02B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Sub_EddyCurrent_T4",
+      "Equip_System_Assault_T3",
+      "Equip_System_Assault_T2",
+      "Equip_System_Assault_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage03B": {
+    "Stage_Key": "Ch11Stage03B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_System_Pursuit_T4",
+      "Equip_System_Sniper_T3",
+      "Equip_System_Sniper_T2",
+      "Equip_System_Sniper_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage04B": {
+    "Stage_Key": "Ch11Stage04B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Chip_Outback_T4",
+      "Equip_System_EXAM_T3",
+      "Equip_System_EXAM_T2",
+      "Equip_System_EXAM_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage05B": {
+    "Stage_Key": "Ch11Stage05B",
+    "Reward_Char": [],
+    "Reward_Item": [
+      "Equip_Chip_Heartless_T4",
+      "Equip_System_Maneuver_T3",
+      "Equip_System_Maneuver_T2",
+      "Equip_System_Maneuver_T1",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage01Ex": {
+    "Stage_Key": "Ch11Stage01Ex",
+    "Reward_Char": [
+      "Char_BR_Brunhild_N",
+      "Char_PECS_Ignis_N",
+      "Char_3P_Vanilla_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Gremlin_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Equip_System_AntiArmorTrooper_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage02Ex": {
+    "Stage_Key": "Ch11Stage02Ex",
+    "Reward_Char": [
+      "Char_3P_Rhea_N",
+      "Char_DS_KunoichiZero_N",
+      "Char_PECS_Hussar_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_Djinnia_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Equip_Sub_EnergyPack_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage03Ex": {
+    "Stage_Key": "Ch11Stage03Ex",
+    "Reward_Char": [
+      "Char_3P_Titania_N",
+      "Char_PECS_Empress_N",
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Gremlin_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Equip_Sub_AWThruster_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch11Stage04Ex": {
+    "Stage_Key": "Ch11Stage04Ex",
+    "Reward_Char": [
+      "Char_BR_Echidna_N",
+      "Char_PECS_CoCoWhiteShell_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_PECS_MissSafety_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_Djinnia_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Equip_System_Defense_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage01": {
+    "Stage_Key": "Ch01Ev20Stage01",
+    "Reward_Char": [
+      "Char_PECS_Lumberjane_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Leprechaun_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Djinnia_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage04": {
+    "Stage_Key": "Ch01Ev20Stage04",
+    "Reward_Char": [
+      "Char_BR_Banshee_N",
+      "Char_3P_ScissorsLise_N",
+      "Char_BR_Impet_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage05": {
+    "Stage_Key": "Ch01Ev20Stage05",
+    "Reward_Char": [
+      "Char_BR_Nereid_N",
+      "Char_PECS_Saetti_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage06": {
+    "Stage_Key": "Ch01Ev20Stage06",
+    "Reward_Char": [
+      "Char_PECS_TaylorClothcut_N",
+      "Char_BR_Amy_N",
+      "Char_PECS_Cerberus_N",
+      "Char_DS_Johanna_N",
+      "Char_3P_Fotia_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage07": {
+    "Stage_Key": "Ch01Ev20Stage07",
+    "Reward_Char": [
+      "Char_DS_Faucre_N",
+      "Char_PECS_Sunny_N",
+      "Char_BR_Alvis_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Leprechaun_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage08": {
+    "Stage_Key": "Ch01Ev20Stage08",
+    "Reward_Char": [
+      "Char_3P_BlackWyrm_N",
+      "Char_3P_CSPerrault_N",
+      "Char_PECS_MightyR_N",
+      "Char_BR_Andvari_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Wraithy_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage01B": {
+    "Stage_Key": "Ch01Ev20Stage01B",
+    "Reward_Char": [
+      "Char_BR_Habetrot_N",
+      "Char_BR_Sylphid_N",
+      "Char_BR_WarWolf_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage02B": {
+    "Stage_Key": "Ch01Ev20Stage02B",
+    "Reward_Char": [
+      "Char_PECS_Express76_N",
+      "Char_BR_Io_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_LRL_N",
+      "Char_PECS_Tiequan_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage03B": {
+    "Stage_Key": "Ch01Ev20Stage03B",
+    "Reward_Char": [
+      "Char_3P_Alice_N",
+      "Char_3P_Galatea_N",
+      "Char_3P_Ajax_N",
+      "Char_BR_Lindwurm_N",
+      "Char_BR_Tomoe_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage04B": {
+    "Stage_Key": "Ch01Ev20Stage04B",
+    "Reward_Char": [
+      "Char_PECS_Sonia_N",
+      "Char_PECS_Carolina_N",
+      "Char_BR_Nymph_N",
+      "Char_BR_Leprechaun_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage01EX": {
+    "Stage_Key": "Ch01Ev20Stage01EX",
+    "Reward_Char": [
+      "Char_DS_Saraqael_N",
+      "Char_3P_Annie_N",
+      "Char_3P_ConstantiaS2_N",
+      "Char_BR_Scathy_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage02EX": {
+    "Stage_Key": "Ch01Ev20Stage02EX",
+    "Reward_Char": [
+      "Char_BR_NickyTracy_N",
+      "Char_PECS_QueenMane_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Wraithy_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev20Stage03EX": {
+    "Stage_Key": "Ch01Ev20Stage03EX",
+    "Reward_Char": [
+      "Char_3P_Melite_N",
+      "Char_BR_TalonFeather_N",
+      "Char_BR_Raven_N",
+      "Char_ST_Lancer_N",
+      "Char_DS_Johanna_N",
+      "Char_BR_Impet_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage01": {
+    "Stage_Key": "Ch02Ev20Stage01",
+    "Reward_Char": [
+      "Char_BR_Miho_N",
+      "Char_BR_WarWolf_N",
+      "Char_PECS_MissSafety_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "Equip_Chip_Cri_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage02": {
+    "Stage_Key": "Ch02Ev20Stage02",
+    "Reward_Char": [
+      "Char_BR_Bheur_N",
+      "Char_3P_Vanilla_N",
+      "Char_BR_SandMan_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Djinnia_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "Equip_Chip_Spd_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage03": {
+    "Stage_Key": "Ch02Ev20Stage03",
+    "Reward_Char": [
+      "Char_BR_QuickCamel_N",
+      "Char_PECS_DarkElf_N",
+      "Char_PECS_Tiequan_N",
+      "Char_DS_Johanna_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "Equip_Chip_Atk_T4",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage04": {
+    "Stage_Key": "Ch02Ev20Stage04",
+    "Reward_Char": [
+      "Char_BR_Kheshig_N",
+      "Char_3P_ConstantiaS2_N",
+      "Char_BR_Banshee_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "Equip_Chip_Ev_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage05": {
+    "Stage_Key": "Ch02Ev20Stage05",
+    "Reward_Char": [
+      "Char_3P_Sowan_N",
+      "Char_3P_Dryad_N",
+      "Char_BR_Pani_N",
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_BR_Impet_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Djinnia_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "Equip_Chip_Acc_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage06": {
+    "Stage_Key": "Ch02Ev20Stage06",
+    "Reward_Char": [
+      "Char_PECS_CyclopsePrincess_N",
+      "Char_PECS_Triaina_N",
+      "Char_BR_RedHood_N",
+      "Char_BR_Daika_N",
+      "Char_BR_Efreeti_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "Equip_Sub_SEyepatch_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage01B": {
+    "Stage_Key": "Ch02Ev20Stage01B",
+    "Reward_Char": [
+      "Char_PECS_HighElven_N",
+      "Char_PECS_Boryeon_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_BR_Scathy_N",
+      "Char_BR_Leprechaun_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage02B": {
+    "Stage_Key": "Ch02Ev20Stage02B",
+    "Reward_Char": [
+      "Char_3P_Poi_N",
+      "Char_3P_SnowFeather_N",
+      "Char_PECS_Saetti_N",
+      "Char_BR_Hyena_N",
+      "Char_BR_Djinnia_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage03B": {
+    "Stage_Key": "Ch02Ev20Stage03B",
+    "Reward_Char": [
+      "Char_PECS_Draculina_N",
+      "Char_DS_KunoichiKaen_N",
+      "Char_PECS_Hussar_N",
+      "Char_BR_Io_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_Gnome_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage04B": {
+    "Stage_Key": "Ch02Ev20Stage04B",
+    "Reward_Char": [
+      "Char_BR_Scarabya_N",
+      "Char_BR_StratoAngel_N",
+      "Char_BR_Andvari_N",
+      "Char_PECS_MightyR_N",
+      "Char_DS_Johanna_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev20Stage01EX": {
+    "Stage_Key": "Ch02Ev20Stage01EX",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch02Ev20Stage02EX": {
+    "Stage_Key": "Ch02Ev20Stage02EX",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch02Ev20Stage03EX": {
+    "Stage_Key": "Ch02Ev20Stage03EX",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch03Ev20Stage01B": {
+    "Stage_Key": "Ch03Ev20Stage01B",
+    "Reward_Char": [
+      "Char_BR_Harpy_N",
+      "Char_3P_Aurora_N",
+      "Char_BR_Bheur_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_PECS_MissSafety_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch03Ev20Stage02B": {
+    "Stage_Key": "Ch03Ev20Stage02B",
+    "Reward_Char": [
+      "Char_PECS_Azaz_N",
+      "Char_DS_KunoichiZero_N",
+      "Char_PECS_Fortune_N",
+      "Char_BR_AS12TurtleDragon_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch03Ev20Stage03B": {
+    "Stage_Key": "Ch03Ev20Stage03B",
+    "Reward_Char": [
+      "Char_DS_Cloverace_N",
+      "Char_PECS_Babariana_N",
+      "Char_PECS_Serpent_N",
+      "Char_3P_Maria_N",
+      "Char_BR_Brownie_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_WarWolf_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch03Ev20Stage04B": {
+    "Stage_Key": "Ch03Ev20Stage04B",
+    "Reward_Char": [
+      "Char_DS_BunnySlayer_N",
+      "Char_BR_ALWraith_N",
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_BR_PA00EL_N",
+      "Char_DS_Johanna_N",
+      "Char_BR_Leprechaun_N",
+      "Char_BR_Gnome_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_3P_Token",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch03Ev20Stage01EX": {
+    "Stage_Key": "Ch03Ev20Stage01EX",
+    "Reward_Char": [],
+    "Reward_Item": []
+  },
+  "RewardView_Ch01Ev21Stage01": {
+    "Stage_Key": "Ch01Ev21Stage01",
+    "Reward_Char": [
+      "Char_BR_Hyena_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Leprechaun_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Djinnia_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage02": {
+    "Stage_Key": "Ch01Ev21Stage02",
+    "Reward_Char": [
+      "Char_BR_Banshee_N",
+      "Char_BR_PoniesAnger_N",
+      "Char_BR_Impet_N",
+      "Char_BR_SandMan_N",
+      "Char_BR_Wraithy_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage03": {
+    "Stage_Key": "Ch01Ev21Stage03",
+    "Reward_Char": [
+      "Char_PECS_TaylorClothcut_N",
+      "Char_ST_Lancer_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage04": {
+    "Stage_Key": "Ch01Ev21Stage04",
+    "Reward_Char": [
+      "Char_PECS_Muse_N",
+      "Char_3P_ScissorsLise_N",
+      "Char_PECS_Cerberus_N",
+      "Char_DS_Johanna_N",
+      "Char_3P_Fotia_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage05": {
+    "Stage_Key": "Ch01Ev21Stage05",
+    "Reward_Char": [
+      "Char_ST_Tiamat_N",
+      "Char_PECS_Sunny_N",
+      "Char_PECS_DarkElf_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Leprechaun_N",
+      "Char_PECS_LRL_N",
+      "Char_3P_Fotia_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage06": {
+    "Stage_Key": "Ch01Ev21Stage06",
+    "Reward_Char": [
+      "Char_PECS_Machina_N",
+      "Char_PECS_Babariana_N",
+      "Char_3P_Vanilla_N",
+      "Char_BR_Daika_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Gremlin_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage01EX": {
+    "Stage_Key": "Ch01Ev21Stage01EX",
+    "Reward_Char": [
+      "Char_PECS_Ella_N",
+      "Char_PECS_Mery_N",
+      "Char_3P_ConstantiaS2_N",
+      "Char_BR_Scathy_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_SandMan_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev21Stage02EX": {
+    "Stage_Key": "Ch01Ev21Stage02EX",
+    "Reward_Char": [
+      "Char_PECS_Sekhmet_N",
+      "Char_3P_Dryad_N",
+      "Char_BR_Lindwurm_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Wraithy_N",
+      "Char_3P_Aqua_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage01": {
+    "Stage_Key": "Ch02Ev21Stage01",
+    "Reward_Char": [
+      "Char_BR_PA00EL_N",
+      "Char_BR_WarWolf_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Brownie_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "Equip_Chip_AtkTypeB_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage02": {
+    "Stage_Key": "Ch02Ev21Stage02",
+    "Reward_Char": [
+      "Char_BR_Habetrot_N",
+      "Char_BR_Pani_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "Equip_Chip_AccTypeB_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage03": {
+    "Stage_Key": "Ch02Ev21Stage03",
+    "Reward_Char": [
+      "Char_BR_NightAngel_N",
+      "Char_PECS_Saetti_N",
+      "Char_BR_Gnome_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Djinnia_N",
+      "Char_DS_Johanna_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "Equip_Chip_DefTypeB_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage04": {
+    "Stage_Key": "Ch02Ev21Stage04",
+    "Reward_Char": [
+      "Char_BR_TalonFeather_N",
+      "Char_PECS_ElvenForestmaker_N",
+      "Char_PECS_Lumberjane_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Tomoe_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "Equip_Chip_EvTypeB_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage05": {
+    "Stage_Key": "Ch02Ev21Stage05",
+    "Reward_Char": [
+      "Char_3P_BlackWyrm_N",
+      "Char_3P_Annie_N",
+      "Char_BR_Alvis_N",
+      "Char_BR_WarWolf_N",
+      "Char_DS_Johanna_N",
+      "Char_PECS_LRL_N",
+      "Char_BR_Tomoe_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "Equip_Chip_HpTypeB_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage06": {
+    "Stage_Key": "Ch02Ev21Stage06",
+    "Reward_Char": [
+      "Char_BR_Cheona_N",
+      "Char_PECS_Ignis_N",
+      "Char_BR_Andvari_N",
+      "Char_3P_Maria_N",
+      "Char_BR_Wraithy_N",
+      "Char_3P_Aqua_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "Equip_Chip_SpdTypeB_T4",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage01EX": {
+    "Stage_Key": "Ch02Ev21Stage01EX",
+    "Reward_Char": [
+      "Char_PECS_HighElven_N",
+      "Char_PECS_Spartoia_N",
+      "Char_3P_Ajax_N",
+      "Char_BR_Amy_N",
+      "Char_PECS_Tiequan_N",
+      "Char_BR_Leprechaun_N",
+      "Char_3P_Aqua_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch02Ev21Stage02EX": {
+    "Stage_Key": "Ch02Ev21Stage02EX",
+    "Reward_Char": [
+      "Char_BR_Brunhild_N",
+      "Char_PECS_BS_N",
+      "Char_BR_Nymph_N",
+      "Char_BR_Miho_N",
+      "Char_BR_Impet_N",
+      "Char_3P_Aqua_N",
+      "Char_PECS_MissSafety_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_Film_Festival",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage03": {
+    "Stage_Key": "Ch01Ev22Stage03",
+    "Reward_Char": [
+      "Char_3P_Vanilla_N",
+      "Char_DS_Johanna_N",
+      "Char_PECS_LRL_N",
+      "Char_PECS_Tiequan_N",
+      "Char_PECS_DutchGirl_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage04": {
+    "Stage_Key": "Ch01Ev22Stage04",
+    "Reward_Char": [
+      "Char_ST_Lancer_N",
+      "Char_BR_Daika_N",
+      "Char_BR_Tomoe_N",
+      "Char_BR_WarWolf_N",
+      "Char_BR_Gremlin_N",
+      "Char_3P_Aqua_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage05": {
+    "Stage_Key": "Ch01Ev22Stage05",
+    "Reward_Char": [
+      "Char_DS_MoMo_N",
+      "Char_3P_Daphne_N",
+      "Char_DS_Johanna_N",
+      "Char_BR_Impet_N",
+      "Char_BR_Leprechaun_N",
+      "Char_PECS_LRL_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage06": {
+    "Stage_Key": "Ch01Ev22Stage06",
+    "Reward_Char": [
+      "Char_AGS_Goltarion_N",
+      "Char_BR_Raven_N",
+      "Char_PECS_Serpent_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Djinnia_N",
+      "Char_PECS_MissSafety_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage01EX": {
+    "Stage_Key": "Ch01Ev22Stage01EX",
+    "Reward_Char": [
+      "Char_PECS_Audrey_N",
+      "Char_DS_KunoichiKaen_N",
+      "Char_BR_Sylphid_N",
+      "Char_PECS_DutchGirl_N",
+      "Char_BR_Tomoe_N",
+      "Char_3P_Fotia_N",
+      "Char_BR_Gremlin_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_MPParts",
+      "RobotParts_Weapon",
+      "RobotParts_AlloyArmor",
+      "RobotParts_CalculationControl",
+      "RobotParts_Booster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage02EX": {
+    "Stage_Key": "Ch01Ev22Stage02EX",
+    "Reward_Char": [
+      "Char_DS_Arman_N",
+      "Char_BR_Hraesvelgr_N",
+      "Char_BR_Amy_N",
+      "Char_BR_Nymph_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Impet_N",
+      "Char_PECS_Tiequan_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
+  },
+  "RewardView_Ch01Ev22Stage03EX": {
+    "Stage_Key": "Ch01Ev22Stage03EX",
+    "Reward_Char": [
+      "Char_BR_Echidna_N",
+      "Char_BR_ALWraith_N",
+      "Char_PECS_Cerberus_N",
+      "Char_PECS_Fortune_N",
+      "Char_BR_SandMan_N",
+      "Char_3P_Aqua_N",
+      "Char_BR_Wraithy_N",
+      "Char_BR_Brownie_N"
+    ],
+    "Reward_Item": [
+      "Ev_Consumable_DS_Script",
+      "RobotParts_ExParts",
+      "RobotParts_HeavyWeapon",
+      "RobotParts_SuperAlloyArmor",
+      "RobotParts_HDCalculationControl",
+      "RobotParts_HighpowerBooster"
+    ]
   }
 }
