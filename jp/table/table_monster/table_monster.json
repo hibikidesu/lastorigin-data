@@ -22048,5 +22048,26 @@
     "AIKeyString": "AI_MP_MarionnetteDM_01",
     "Req_InfoAccLevel": 1,
     "Mob_Info": "Mon_Desc_MOB_MP_MarionnetteDM_BOSS_TU"
+  },
+  "MOB_MP_Stalker_EV_JP": {
+    "Name": "1002000003",
+    "IsUse": 1,
+    "MonsterType": 1,
+    "MonsterSubType": 1,
+    "IsHavingTurn": 1,
+    "Gender": 0,
+    "ActorBodyType": 1,
+    "ActorClassType": 0,
+    "RoleType": 1,
+    "SkillGroupIndex": "SkillGroup_MP_Stalker_TU2",
+    "DefaultLevel": 1,
+    "StartGrade": 5,
+    "MonsterModelID": "Model_MP_Stalker_EV_JP",
+    "MonsterFullbodyID": "FullbodyIMG_MP_Stalker_EV_JP",
+    "MonsterTbarIconID": "TbarIcon_MP_Stalker_EV_JP",
+    "MonsterETCIconID": "ETCIcon_MP_Stalker_EV_JP",
+    "AIKeyString": "AI_Boss_Stalker_01",
+    "Req_InfoAccLevel": 1,
+    "Mob_Info": "1002000157"
   }
 }

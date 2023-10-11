@@ -2980,5 +2980,19 @@
     "Marriage_VoicePrefab": "Char_BR_Vargr_NS0_MR_Voice",
     "Marriage_HandSize": 0,
     "Marriage_HandColor": 0
+  },
+  "Marriage_Raven_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Raven_NS1",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
+  },
+  "Marriage_Sylphid_NS1": {
+    "Marriage_CutScene": "Cut_Marriage_Sylphid_NS1",
+    "Marriage_LobbyScript": "",
+    "Marriage_VoicePrefab": "",
+    "Marriage_HandSize": 0,
+    "Marriage_HandColor": 0
   }
 }

@@ -68,7 +68,8 @@
   "Story_Troop_Group_Squad_Team080": {
     "Squad_Idx": 8,
     "Story_Group": [
-      "PCStory_CH_BR_Tomoe_1"
+      "PCStory_CH_BR_Tomoe_1",
+      "PCStory_SQ_BR_DrM_1"
     ],
     "Squad_Icon": "UI_TroopIcon_Team080",
     "Squad_Name": "1002900008",

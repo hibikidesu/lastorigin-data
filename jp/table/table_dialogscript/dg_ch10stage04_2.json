@@ -354,8 +354,8 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage04_2_9",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_55",
     "Bgm_Sound": "",
     "Voice_Skip": 0
   },
@@ -444,8 +444,8 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage04_2_11",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_56",
     "Bgm_Sound": "",
     "Voice_Skip": 0
   },
@@ -489,8 +489,8 @@
     "Add_Effect": "",
     "NextDialogScript": "DG_Ch10Stage04_2_12",
     "Dialog_Reward": "0",
-    "Voice_CharName": "",
-    "Script_VoiceName": "",
+    "Voice_CharName": "StoryVoice_10Stage01",
+    "Script_VoiceName": "10stage01_57",
     "Bgm_Sound": "",
     "Voice_Skip": 0
   },

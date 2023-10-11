@@ -110643,5 +110643,1717 @@
     "StageMissionReset": 0,
     "RecordOpenStagekey": "",
     "SearchNumber": 0
+  },
+  "Ch02Ev22Stage01": {
+    "StageName": "StageName_02Ev22_01",
+    "StageDesc": "StageDesc_02Ev22_01",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage01_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-01"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 1,
+    "NeedClearStageIndex": [
+      "Ch01Ev22Stage06"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-1",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-01_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_DS_Sarena_N",
+    "RecordTap": 0,
+    "RecordSortID": 1,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage02": {
+    "StageName": "StageName_02Ev22_02",
+    "StageDesc": "StageDesc_02Ev22_02",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "Cut_Ch02Ev22Stage02_1",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage02_2",
+    "GameModeType": 4,
+    "StageSubType": 0,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-02"
+    ],
+    "WaveMobGroup1": [
+      "BATTLE_02Ev22-02-01A"
+    ],
+    "WaveMobGroupRate1": [
+      "1"
+    ],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [
+      "BATTLE_02Ev22-02-02A"
+    ],
+    "WaveMobGroupRate2": [
+      "1"
+    ],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [
+      "BATTLE_02Ev22-02-03A"
+    ],
+    "WaveMobGroupRate3": [
+      "1"
+    ],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [
+      "BATTLE_02Ev22-02-04A"
+    ],
+    "WaveMobGroupRate4": [
+      "1"
+    ],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "STAGE_02Ev22_SEARCH_1",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 750,
+    "GetNutrient": 0,
+    "GetPower": 0,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 0,
+    "StageMission1": "Mission_StageClear",
+    "StageMission2": "Mission_StageClear_DeadLess2",
+    "StageMission3": "Mission_StageClear_Round4",
+    "StageMission4": "Mission_StageClear_Beatenless5",
+    "Stage_Pos": 2,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage01"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-2",
+    "StageBG": "Ch01Ev13Stage02",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-02_F",
+    "Stage_AllMissionClear_Reward": "STAGE_02Ev22-02_AM",
+    "Search_Enable": 1,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_DS_Baekto_N",
+    "RecordTap": 0,
+    "RecordSortID": 2,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 1
+  },
+  "Ch02Ev22Stage03": {
+    "StageName": "StageName_02Ev22_03",
+    "StageDesc": "StageDesc_02Ev22_03",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage03_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-03"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 3,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage02"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-3",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-03_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_AGS_Goltarion_N",
+    "RecordTap": 0,
+    "RecordSortID": 3,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage04": {
+    "StageName": "StageName_02Ev22_04",
+    "StageDesc": "StageDesc_02Ev22_04",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage04_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-04"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 4,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage03"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-4",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-04_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_DS_MoMo_N",
+    "RecordTap": 0,
+    "RecordSortID": 4,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage05": {
+    "StageName": "StageName_02Ev22_05",
+    "StageDesc": "StageDesc_02Ev22_05",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage05_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-05"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 5,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage04"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-5",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-05_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_DS_Sarena_N",
+    "RecordTap": 0,
+    "RecordSortID": 5,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage06": {
+    "StageName": "StageName_02Ev22_06",
+    "StageDesc": "StageDesc_02Ev22_06",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage06_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-06"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 6,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage05"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-6",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-06_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_BR_Marie_N",
+    "RecordTap": 0,
+    "RecordSortID": 6,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage07": {
+    "StageName": "StageName_02Ev22_07",
+    "StageDesc": "StageDesc_02Ev22_07",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "Cut_Ch02Ev22Stage07_1",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage07_2",
+    "GameModeType": 4,
+    "StageSubType": 0,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-07"
+    ],
+    "WaveMobGroup1": [
+      "BATTLE_02Ev22-07-01A"
+    ],
+    "WaveMobGroupRate1": [
+      "1"
+    ],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [
+      "BATTLE_02Ev22-07-02A"
+    ],
+    "WaveMobGroupRate2": [
+      "1"
+    ],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [
+      "BATTLE_02Ev22-07-03A"
+    ],
+    "WaveMobGroupRate3": [
+      "1"
+    ],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [
+      "BATTLE_02Ev22-07-04A"
+    ],
+    "WaveMobGroupRate4": [
+      "1"
+    ],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 0,
+    "StageMission1": "Mission_StageClear",
+    "StageMission2": "Mission_StageClear_DeadLess0",
+    "StageMission3": "Mission_StageClear_Round4",
+    "StageMission4": "Mission_StageClear_Beatenless5",
+    "Stage_Pos": 7,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage06"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-7",
+    "StageBG": "Ch03Stage08",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-07_F",
+    "Stage_AllMissionClear_Reward": "STAGE_02Ev22-07_AM",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_3_8_2",
+    "RecordeCharIcon": "InvenIcon_BR_Phantom_N",
+    "RecordTap": 0,
+    "RecordSortID": 7,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage08": {
+    "StageName": "StageName_02Ev22_08",
+    "StageDesc": "StageDesc_02Ev22_08",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "Cut_Ch02Ev22Stage08_1",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage08_2",
+    "GameModeType": 4,
+    "StageSubType": 0,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-08"
+    ],
+    "WaveMobGroup1": [
+      "BATTLE_02Ev22-08-01A"
+    ],
+    "WaveMobGroupRate1": [
+      "1"
+    ],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [
+      "BATTLE_02Ev22-08-02A"
+    ],
+    "WaveMobGroupRate2": [
+      "1"
+    ],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [
+      "BATTLE_02Ev22-08-03A"
+    ],
+    "WaveMobGroupRate3": [
+      "1"
+    ],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [
+      "BATTLE_02Ev22-08-04A"
+    ],
+    "WaveMobGroupRate4": [
+      "1"
+    ],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "STAGE_02Ev22_SEARCH_2",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 0,
+    "GetNutrient": 750,
+    "GetPower": 0,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 0,
+    "StageMission1": "Mission_StageClear",
+    "StageMission2": "Mission_StageClear_DeadLess0",
+    "StageMission3": "Mission_StageClear_Round4",
+    "StageMission4": "Mission_StageClear_Beatenless5",
+    "Stage_Pos": 8,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage07"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-8",
+    "StageBG": "Ch03Ev2Stage07",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-08_F",
+    "Stage_AllMissionClear_Reward": "STAGE_02Ev22-08_AM",
+    "Search_Enable": 1,
+    "MidCutsceneIndex": [
+      "Cut_Ch02Ev22Stage08_3"
+    ],
+    "MidCutsceneWave": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV2_01_07",
+    "RecordeCharIcon": "InvenIcon_DS_Sarena_N",
+    "RecordTap": 0,
+    "RecordSortID": 8,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 2
+  },
+  "Ch02Ev22Stage09": {
+    "StageName": "StageName_02Ev22_09",
+    "StageDesc": "StageDesc_02Ev22_09",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage09_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-09"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 200,
+    "GetNutrient": 200,
+    "GetPower": 200,
+    "GetTimeNeeds": 14400,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 9,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage08"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-9",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-09_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_DS_Sarena_N",
+    "RecordTap": 0,
+    "RecordSortID": 9,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage01B": {
+    "StageName": "StageName_02Ev22_01B",
+    "StageDesc": "StageDesc_02Ev22_01B",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "0",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage01b_2",
+    "GameModeType": 4,
+    "StageSubType": 3,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-01B"
+    ],
+    "WaveMobGroup1": [],
+    "WaveMobGroupRate1": [],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [],
+    "WaveMobGroupRate2": [],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [],
+    "WaveMobGroupRate3": [],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [],
+    "WaveMobGroupRate4": [],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "0",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 1350,
+    "GetNutrient": 0,
+    "GetPower": 0,
+    "GetTimeNeeds": 28800,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 1,
+    "StageMission1": "",
+    "StageMission2": "",
+    "StageMission3": "",
+    "StageMission4": "",
+    "Stage_Pos": 10,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage02"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-2B",
+    "StageBG": "0",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-01B_F",
+    "Stage_AllMissionClear_Reward": "0",
+    "Search_Enable": 0,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_BR_Gremlin_N",
+    "RecordTap": 1,
+    "RecordSortID": 1,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 0
+  },
+  "Ch02Ev22Stage02B": {
+    "StageName": "StageName_02Ev22_02B",
+    "StageDesc": "StageDesc_02Ev22_02B",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "Cut_Ch02Ev22Stage02b_1",
+    "EndCutsceneIndex": "Cut_Ch02Ev22Stage02b_2",
+    "GameModeType": 4,
+    "StageSubType": 1,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-02B"
+    ],
+    "WaveMobGroup1": [
+      "BATTLE_02Ev22-02B-01A"
+    ],
+    "WaveMobGroupRate1": [
+      "1"
+    ],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [
+      "BATTLE_02Ev22-02B-02A"
+    ],
+    "WaveMobGroupRate2": [
+      "1"
+    ],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [
+      "BATTLE_02Ev22-02B-03A"
+    ],
+    "WaveMobGroupRate3": [
+      "1"
+    ],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [
+      "BATTLE_02Ev22-02B-04A"
+    ],
+    "WaveMobGroupRate4": [
+      "1"
+    ],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "STAGE_02Ev22_SEARCH_3",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 0,
+    "GetNutrient": 0,
+    "GetPower": 750,
+    "GetTimeNeeds": 28800,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 0,
+    "StageMission1": "Mission_StageClear",
+    "StageMission2": "Mission_StageClear_DeadLess0",
+    "StageMission3": "Mission_StageClear_Round2",
+    "StageMission4": "Mission_StageClear_Beatenless4",
+    "Stage_Pos": 11,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage03"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-3B",
+    "StageBG": "Ch01Ev13Stage02",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-02B_F",
+    "Stage_AllMissionClear_Reward": "STAGE_02Ev22-02B_AM",
+    "Search_Enable": 1,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_BR_Phantom_N",
+    "RecordTap": 1,
+    "RecordSortID": 2,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 3
+  },
+  "Ch02Ev22Stage03B": {
+    "StageName": "StageName_02Ev22_03B",
+    "StageDesc": "StageDesc_02Ev22_03B",
+    "ChapterIndex": "Chapter_02Ev22",
+    "NextStageIndex": "",
+    "StartCutsceneIndex": "Cut_Ch02Ev22Stage03b_2",
+    "EndCutsceneIndex": "0",
+    "GameModeType": 4,
+    "StageSubType": 1,
+    "LoadingImgName": "0",
+    "RewardIndex": [
+      "STAGE_02Ev22-03B"
+    ],
+    "WaveMobGroup1": [
+      "BATTLE_02Ev22-03B-01A"
+    ],
+    "WaveMobGroupRate1": [
+      "1"
+    ],
+    "WaveEvent1": [
+      "0"
+    ],
+    "WaveMobGroup2": [
+      "BATTLE_02Ev22-03B-02A"
+    ],
+    "WaveMobGroupRate2": [
+      "1"
+    ],
+    "WaveEvent2": [
+      "0"
+    ],
+    "WaveMobGroup3": [
+      "BATTLE_02Ev22-03B-03A"
+    ],
+    "WaveMobGroupRate3": [
+      "1"
+    ],
+    "WaveEvent3": [
+      "0"
+    ],
+    "WaveMobGroup4": [
+      "BATTLE_02Ev22-03B-04A"
+    ],
+    "WaveMobGroupRate4": [
+      "1"
+    ],
+    "WaveEvent4": [
+      "0"
+    ],
+    "WaveMobGroup5": [],
+    "WaveMobGroupRate5": [],
+    "WaveEvent5": [
+      "0"
+    ],
+    "WaveMobGroup6": [],
+    "WaveMobGroupRate6": [],
+    "WaveEvent6": [
+      "0"
+    ],
+    "WaveMobGroup7": [],
+    "WaveMobGroupRate7": [],
+    "WaveEvent7": [
+      "0"
+    ],
+    "WaveMobGroup8": [],
+    "WaveMobGroupRate8": [],
+    "WaveEvent8": [
+      "0"
+    ],
+    "WaveMobGroup9": [],
+    "WaveMobGroupRate9": [],
+    "WaveEvent9": [
+      "0"
+    ],
+    "VictoryDesc1": "1001700481",
+    "VictoryDesc2": "0",
+    "VictoryDesc3": "0",
+    "DefeatDesc1": "1001700484",
+    "DefeatDesc2": "0",
+    "DefeatDesc3": "0",
+    "BossMobGroup": [],
+    "BossMobGroupRate": [],
+    "LeftPlayTime": 600,
+    "StageClearGradeCond1": 1,
+    "StageClearGradeValue1": 8,
+    "StageClearGradeCond2": 2,
+    "StageClearGradeValue2": 0,
+    "StageClearGradeCond3": 3,
+    "StageClearGradeValue3": 10,
+    "StageClearGradeCond4": 0,
+    "StageClearGradeValue4": 0,
+    "StageClearGradeCond5": 0,
+    "StageClearGradeValue5": 0,
+    "BattlePower": 0,
+    "StageUnlockCond": [
+      "0"
+    ],
+    "NumberOfSquad": 2,
+    "RequireSearchNo": 4,
+    "RequireSearchLv": 20,
+    "TicketReward1": "STAGE_02Ev22_SEARCH_4",
+    "TicketReward2": "0",
+    "TicketReward3": "0",
+    "GetMetal": 400,
+    "GetNutrient": 400,
+    "GetPower": 400,
+    "GetTimeNeeds": 28800,
+    "StageButtonImg": "0",
+    "StageNoImg": "0",
+    "SquadShiftLimit": 3,
+    "FriendSquadAllowed": 0,
+    "StageMission1": "Mission_StageClear",
+    "StageMission2": "Mission_StageClear_DeadLess0",
+    "StageMission3": "Mission_StageClear_Round2",
+    "StageMission4": "Mission_StageClear_Beatenless4",
+    "Stage_Pos": 12,
+    "NeedClearStageIndex": [
+      "Ch02Ev22Stage02B"
+    ],
+    "FixedSquadMember1": "0",
+    "FixedSquadMember2": "0",
+    "FixedSquadMember3": "0",
+    "FixedSquadMember4": "0",
+    "StageIdxString": "EV2-4B",
+    "StageBG": "Ch01Ev13Stage02",
+    "Stage_FirstClear_Reward": "STAGE_02Ev22-03B_F",
+    "Stage_AllMissionClear_Reward": "STAGE_02Ev22-03B_AM",
+    "Search_Enable": 1,
+    "MidCutsceneIndex": [
+      "0"
+    ],
+    "MidCutsceneWave": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "MidCutsceneTiming": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "RecordBG": "BG_EV_13_01",
+    "RecordeCharIcon": "InvenIcon_DS_Baekto_N",
+    "RecordTap": 1,
+    "RecordSortID": 3,
+    "BattleRest_Limited": 0,
+    "StageMissionReset": 0,
+    "RecordOpenStagekey": "",
+    "SearchNumber": 4
   }
 }

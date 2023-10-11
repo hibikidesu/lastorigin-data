@@ -493,5 +493,21 @@
       "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_4",
       "Story_Char_PECS_Cerberus_N_31_PECS_Cerberus_5"
     ]
+  },
+  "PCStory_SQ_BR_DrM_1": {
+    "StoryType": 1,
+    "StoryName": "1002200570",
+    "PCInvenIcon": "InvenIcon_BR_DrM_N",
+    "PCName": "1002200570",
+    "SquadStoryIcon": "UI_TroopIcon_Team080",
+    "SquadStoryString": "1002200570",
+    "PCStoryNo": 39,
+    "PCStoryIndex": [
+      "Story_Char_BR_DrM_N_39_BR_Ellie_1",
+      "Story_Char_BR_DrM_N_39_BR_NickyTracy_2",
+      "Story_Char_BR_DrM_N_39_BR_Amy_3",
+      "Story_Char_BR_DrM_N_39_BR_Tomoe_4",
+      "Story_Char_BR_DrM_N_39_BR_Shirayuri_5"
+    ]
   }
 }

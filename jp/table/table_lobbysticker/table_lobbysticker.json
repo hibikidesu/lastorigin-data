@@ -1438,5 +1438,11 @@
     "LobbySticker2DModelID": "2DModel_PROP_OrcaBroadCast_5_N",
     "LobbyStickerIcon": "UI_Icon_PROP_OrcaBroadCast_5",
     "LobbyStickerGroup": 1
+  },
+  "PROP_DS_Script_N": {
+    "ItemName": "LobbyStickerName_PROP_DS_Script_N",
+    "LobbySticker2DModelID": "2DModel_PROP_DS_Script_N",
+    "LobbyStickerIcon": "UI_Icon_PROP_DS_Script",
+    "LobbyStickerGroup": 1
   }
 }

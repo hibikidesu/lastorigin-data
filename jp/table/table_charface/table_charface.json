@@ -11940,5 +11940,33 @@
       "BR_Vargr_N_Surprised",
       "BR_Vargr_N_Anger1"
     ]
+  },
+  "CharFace_BR_Raven_NS1": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
+  },
+  "CharFace_BR_Sylphid_NS1": {
+    "FaceName": [
+      "1003500009"
+    ],
+    "FaceType": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "Face2dTexture": [
+      "0"
+    ]
   }
 }
